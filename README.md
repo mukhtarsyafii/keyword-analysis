@@ -7,7 +7,7 @@ Dashboard kinerja SEO per landing page pelatihan. Data GSC + rekomendasi aksi + 
 ```
 GSC API (langsung)     ──> fetch_gsc.py   ──> data/products.json  (sumber utama)
 Google Sheet tracker   ──> extract_sheet.py ─┘        │
-Ubersuggest export     ──> data/competitors.json ─────┤
+GSC queries + Ubersuggest MCP ──> fetch_competitors.py ──> data/competitors.json
                                                       v
                                            recommend.py (rule engine)
                                                       │
@@ -18,45 +18,62 @@ Ubersuggest export     ──> data/competitors.json ─────┤
                                            build_dashboard.py ──> dashboard.html
 ```
 
-Satu perintah untuk refresh penuh dari GSC:
+Satu perintah untuk refresh penuh (GSC + kompetitor + dashboard):
 ```bash
 python3 refresh.py --start 2026-01-01 --end $(date +%F)   # histori lengkap
 python3 refresh.py --weeks 12                              # refresh mingguan
+python3 refresh.py --skip-competitors                      # GSC saja
 ```
 
 ## Perintah
 
 ```bash
 python3 extract_sheet.py       # tarik Google Sheet tracker (public, tanpa auth)
+python3 fetch_competitors.py   # keyword kompetitor via Ubersuggest MCP + GSC
 python3 recommend.py           # generate Masalah/Solusi/Rekomendasi/Perbaikan
 python3 build_dashboard.py     # render dashboard.html
 python3 dashboard.py           # satu langkah: ketiganya berurutan
 ```
 
 ### Refresh mingguan otomatis (cron tiap Jumat 07:00)
-```bash
-hermes cron add --schedule "0 7 * * 5" --command "cd ~/Projects/keyword-analysis && python3 dashboard.py"
-```
+Job Hermes `7d41e50037fa` menjalankan `~/.hermes/scripts/refresh_keyword_dashboard.sh`
+→ `refresh.py --weeks 13` (GSC + kompetitor + dashboard), hasil dilaporkan ke chat.
 
 ## Sumber data
 
 | File | Sumber | Cara isi |
 |---|---|---|
-| `data/products.json` | Google Sheet LP Tracker | `extract_sheet.py` (otomatis) atau `fetch_gsc.py --merge` (GSC API) |
-| `data/competitors.json` | Ekspor Ubersuggest | manual, lihat skema di bawah |
+| `data/products.json` | Google Search Console API | `fetch_gsc.py --merge` (otomatis) |
+| `data/competitors.json` | GSC queries + Ubersuggest MCP | `fetch_competitors.py` (otomatis) |
+| `data/uber_cache.json` | cache respons Ubersuggest | otomatis, hemat kuota harian |
 | `data/brands.json` | Tab Dashboard lintas brand | manual |
 | `data/wp_config.json` | WordPress Application Password | manual, **gitignored** |
+
+## Ubersuggest via MCP
+
+Server MCP resmi: `https://ubersuggest-mcp.neilpatelapi.com/mcp` (OAuth, 58 tools).
+Terdaftar di Hermes sebagai `ubersuggest`; token di `~/.hermes/mcp-tokens/ubersuggest.json`.
+
+```bash
+hermes mcp test ubersuggest
+python3 uber_client.py --list                       # daftar tool
+python3 uber_client.py auth_status '{}'
+python3 uber_client.py competitors '{"domain":"grc-indonesia.com","language":"id","locId":2360}'
+```
+
+`uber_client.py` = klien MCP minimal (stdlib) yang memakai token OAuth Hermes, supaya
+script pipeline bisa memanggil Ubersuggest tanpa lewat agen.
+
+Catatan: `oauth.cimd: false` wajib di config server ini — server Ubersuggest menolak
+Client ID Metadata Document Hermes, jadi pakai dynamic client registration.
 
 ## GSC API langsung (pengganti Sheet)
 
 Butuh OAuth client + scope `webmasters.readonly`:
 ```bash
-GSETUP="python3 ~/.hermes/skills/productivity/google-workspace/scripts/setup.py"
-$GSETUP --client-secret ~/Downloads/client_secret_xxx.json
-$GSETUP --auth-url --services webmaster   # jika option belum ada, tambah scope manual
-$GSETUP --auth-code "URL_YANG_DI_PASTE"
+python3 oauth_loopback.py      # server callback lokal, sekali saja
 python3 fetch_gsc.py --check
-python3 fetch_gsc.py --site sc-domain:grc-indonesia.com --weeks 36 --merge
+python3 fetch_gsc.py --site https://grc-indonesia.com/ --weeks 36 --merge
 ```
 
 ## WordPress: perbaikan langsung
@@ -74,24 +91,24 @@ Hanya menulis `title` + Yoast meta. Tidak menyentuh isi halaman.
 
 ## Skema `data/competitors.json`
 
-Key = product id (string). Ekspor Ubersuggest → kolom `Keyword`, `Volume`, `Difficulty`,
-`Top URL/Site`, lalu petakan:
+Diisi otomatis oleh `fetch_competitors.py`. Key = product id (string).
 
 ```json
 {
   "13": {
-    "source": "Ubersuggest — Agu 2026",
-    "gap_summary": "3 kompetitor pegang keyword 'training icofr 2026' volume 720; kita belum ranking.",
+    "product_name": "Training ICOFR",
+    "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
     "competitor_keywords": [
       { "keyword": "training icofr bank", "volume": 720, "difficulty": 24,
-        "top_competitor": "ajkacademy.com", "we_rank": null },
+        "top_competitor": "ajkacademy.com", "top_position": 1, "we_rank": null },
       { "keyword": "icofr certification", "volume": 390, "difficulty": 18,
-        "top_competitor": "grc-indonesia.com", "we_rank": 9 }
+        "top_competitor": "metricstream.com", "top_position": 3, "we_rank": 9 }
     ]
   }
 }
 ```
-`we_rank: null` = celah (kita belum ranking) → masuk daftar Masalah di dashboard.
+`we_rank: null` = kita belum ranking; kalau `we_rank > top_position` = kalah posisi.
+Keduanya dihitung sebagai GAP di tab Kompetitor.
 
 ## Prioritas aksi
 

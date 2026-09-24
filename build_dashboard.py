@@ -457,8 +457,8 @@ function renderKompetitor(){
   const keys = Object.keys(COMPETITORS||{});
   if (!keys.length){
     el.innerHTML = `<div class="bg-slate-800 border border-slate-700 rounded-xl p-6 text-center text-sm text-slate-400">
-      Belum ada data kompetitor. Ekspor dari Ubersuggest (Keyword Ideas / Competitor Analysis) lalu simpan sebagai
-      <code class="text-blue-400">data/competitors.json</code> dan jalankan ulang <code class="text-blue-400">build_dashboard.py</code>.
+      Belum ada data kompetitor. Jalankan <code class="text-blue-400">python3 fetch_competitors.py</code>
+      (Ubersuggest MCP + GSC) lalu bangun ulang dashboard.
     </div>`;
     return;
   }
@@ -466,17 +466,17 @@ function renderKompetitor(){
     const c = COMPETITORS[k];
     const p = PRODUCTS.find(x=>String(x.id)===String(k)) || {name:c.product_name||k};
     const rows = (c.competitor_keywords||[]).map(kw=>{
-      const gap = kw.we_rank==null;
+      const gap = kw.we_rank==null || (kw.top_position!=null && kw.we_rank>kw.top_position);
       return `<tr class="hover:bg-slate-700/30">
         <td class="px-3 py-2 text-xs">${esc(kw.keyword)}</td>
         <td class="px-3 py-2 text-right font-mono text-xs">${fmt(kw.volume)}</td>
         <td class="px-3 py-2 text-right font-mono text-xs text-slate-400">${kw.difficulty!=null?kw.difficulty:'-'}</td>
-        <td class="px-3 py-2 text-xs text-slate-300">${esc(kw.top_competitor||'-')}</td>
+        <td class="px-3 py-2 text-xs text-slate-300">${esc(kw.top_competitor||'-')}${kw.top_position!=null?` <span class="text-slate-500">#${kw.top_position}</span>`:''}</td>
         <td class="px-3 py-2 text-right font-mono text-xs">${kw.we_rank!=null?`<span class="text-amber-300">#${kw.we_rank}</span>`:'<span class="text-rose-400 font-semibold">belum</span>'}</td>
-        <td class="px-3 py-2 text-center">${gap?'<span class="badge bg-rose-500/20 text-rose-300">GAP</span>':'<span class="badge bg-emerald-500/10 text-emerald-400">ada</span>'}</td>
+        <td class="px-3 py-2 text-center">${gap?'<span class="badge bg-rose-500/20 text-rose-300">GAP</span>':'<span class="badge bg-emerald-500/10 text-emerald-400">unggul</span>'}</td>
       </tr>`;
     }).join('');
-    const gaps = (c.competitor_keywords||[]).filter(x=>x.we_rank==null).length;
+    const gaps = (c.competitor_keywords||[]).filter(x=>x.we_rank==null || (x.top_position!=null && x.we_rank>x.top_position)).length;
     return `<div class="bg-slate-800 border border-slate-700 rounded-xl overflow-hidden">
       <div class="p-4 border-b border-slate-700 flex items-center justify-between flex-wrap gap-2">
         <div>

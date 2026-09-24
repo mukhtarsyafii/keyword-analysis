@@ -1,0 +1,99 @@
+{
+ "49": {
+  "product_name": "Training Risk Maturity Level (Level Pengukuran Maturitas Risiko)",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "skala kematangan dari terendah hingga tertinggi",
+    "volume": 40,
+    "difficulty": 5,
+    "top_competitor": "gauthmath.com",
+    "top_position": 1,
+    "we_rank": 2
+   },
+   {
+    "keyword": "risk maturity index adalah",
+    "volume": 140,
+    "difficulty": 8,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 4,
+    "we_rank": 3
+   },
+   {
+    "keyword": "maturity adalah",
+    "volume": 1900,
+    "difficulty": 11,
+    "top_competitor": "quora.com",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "risk maturity index",
+    "volume": 140,
+    "difficulty": 19,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 4
+   },
+   {
+    "keyword": "risk maturity",
+    "volume": 40,
+    "difficulty": 19,
+    "top_competitor": "irmapa.org",
+    "top_position": 2,
+    "we_rank": 11
+   }
+  ]
+ },
+ "7": {
+  "product_name": "Pelatihan dan Sertifikasi Manajemen Risiko Berbasis ISO 31000:2018",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": []
+ },
+ "12": {
+  "product_name": "Pelatihan BCMS berbasis ISO 22301:2019",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "mekanisme latihan bcms",
+    "volume": 10,
+    "difficulty": 13,
+    "top_competitor": "rwi.co.id",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "iso 22301 training",
+    "volume": 10,
+    "difficulty": 20,
+    "top_competitor": "phitagoras.co.id",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "business continuity management indonesia",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 1,
+    "we_rank": 44
+   },
+   {
+    "keyword": "metode latihan bcms",
+    "volume": 10,
+    "difficulty": 13,
+    "top_competitor": "slideshare.net",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "business continuity management awareness",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 18
+   }
+  ]
+ }
+}

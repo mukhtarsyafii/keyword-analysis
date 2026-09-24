@@ -29,6 +29,8 @@ def main():
     ap.add_argument("--start")
     ap.add_argument("--end")
     ap.add_argument("--site", default=SITE)
+    ap.add_argument("--skip-competitors", action="store_true",
+                    help="don't refresh Ubersuggest competitor intel")
     args = ap.parse_args()
 
     gsc = [os.path.join(HERE, "fetch_gsc.py"), "--site", args.site, "--merge"]
@@ -40,6 +42,12 @@ def main():
         gsc += ["--end", args.end]
 
     run(gsc)
+    if not args.skip_competitors:
+        # Non-fatal: Ubersuggest has a daily report quota and its OAuth token
+        # can expire; the dashboard still builds with the last cached intel.
+        r = subprocess.run([PY, os.path.join(HERE, "fetch_competitors.py")], cwd=HERE)
+        if r.returncode:
+            print("WARN: fetch_competitors failed; keeping previous competitors.json")
     run([os.path.join(HERE, "recommend.py")])
     run([os.path.join(HERE, "build_dashboard.py")])
     print("\nDone. dashboard.html refreshed.")
