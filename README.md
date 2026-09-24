@@ -5,17 +5,23 @@ Dashboard kinerja SEO per landing page pelatihan. Data GSC + rekomendasi aksi + 
 ## Alur
 
 ```
-Google Sheet tracker ──> extract_sheet.py ──> data/products.json
-GSC API (opsional)     ──> fetch_gsc.py   ──┘            │
-Ubersuggest export     ──> data/competitors.json ────────┤
-                                                         v
-                                              recommend.py (rule engine)
-                                                         │
-                                                         v
-                                              data/recommendations.json
-                                                         │
-                                                         v
-                                              build_dashboard.py ──> dashboard.html
+GSC API (langsung)     ──> fetch_gsc.py   ──> data/products.json  (sumber utama)
+Google Sheet tracker   ──> extract_sheet.py ─┘        │
+Ubersuggest export     ──> data/competitors.json ─────┤
+                                                      v
+                                           recommend.py (rule engine)
+                                                      │
+                                                      v
+                                           data/recommendations.json
+                                                      │
+                                                      v
+                                           build_dashboard.py ──> dashboard.html
+```
+
+Satu perintah untuk refresh penuh dari GSC:
+```bash
+python3 refresh.py --start 2026-01-01 --end $(date +%F)   # histori lengkap
+python3 refresh.py --weeks 12                              # refresh mingguan
 ```
 
 ## Perintah

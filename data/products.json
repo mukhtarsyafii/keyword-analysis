@@ -11,256 +11,214 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-fraud-management/",
   "status": "Aktif",
-  "total_impr": 516,
-  "total_clicks": 26,
-  "ctr": 5.04,
-  "avg_rank": 12.3,
-  "latest_rank": 12.0,
+  "total_impr": 623,
+  "total_clicks": 32,
+  "ctr": 5.14,
+  "avg_rank": 12.6,
+  "latest_rank": 13.5,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W7",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W8",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W9",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W10",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W11",
-    "impr": 9.0,
+    "impr": 9,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 6.7
    },
    {
     "w": "W12",
-    "impr": 12.0,
-    "clicks": 1.0,
+    "impr": 12,
+    "clicks": 1,
     "ctr": 8.33,
-    "rank": 17.0
+    "rank": 15.1
    },
    {
     "w": "W13",
-    "impr": 13.0,
+    "impr": 13,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
    },
    {
     "w": "W14",
-    "impr": 15.0,
-    "clicks": 4.0,
+    "impr": 15,
+    "clicks": 4,
     "ctr": 26.67,
-    "rank": 9.0
+    "rank": 8.1
    },
    {
     "w": "W15",
-    "impr": 6.0,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 6.1
    },
    {
     "w": "W16",
-    "impr": 7.0,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 10.0
    },
    {
     "w": "W17",
-    "impr": 10.0,
-    "clicks": 2.0,
+    "impr": 10,
+    "clicks": 2,
     "ctr": 20.0,
-    "rank": 13.0
+    "rank": 15.5
    },
    {
     "w": "W18",
-    "impr": 12.0,
-    "clicks": 1.0,
+    "impr": 12,
+    "clicks": 1,
     "ctr": 8.33,
-    "rank": 16.0
+    "rank": 19.7
    },
    {
     "w": "W19",
-    "impr": 16.0,
+    "impr": 16,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 14.0
+    "rank": 15.2
    },
    {
     "w": "W20",
-    "impr": 40.0,
-    "clicks": 3.0,
+    "impr": 40,
+    "clicks": 3,
     "ctr": 7.5,
-    "rank": 14.0
+    "rank": 16.0
    },
    {
     "w": "W21",
-    "impr": 18.0,
-    "clicks": 1.0,
+    "impr": 18,
+    "clicks": 1,
     "ctr": 5.56,
-    "rank": 11.0
+    "rank": 11.4
    },
    {
     "w": "W22",
-    "impr": 17.0,
+    "impr": 17,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.0
+    "rank": 11.1
    },
    {
     "w": "W23",
-    "impr": 19.0,
-    "clicks": 1.0,
+    "impr": 19,
+    "clicks": 1,
     "ctr": 5.26,
-    "rank": 26.0
+    "rank": 27.5
    },
    {
     "w": "W24",
-    "impr": 18.0,
+    "impr": 18,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.0
+    "rank": 11.0
    },
    {
     "w": "W25",
-    "impr": 28.0,
-    "clicks": 2.0,
+    "impr": 28,
+    "clicks": 2,
     "ctr": 7.14,
-    "rank": 11.0
+    "rank": 10.2
    },
    {
     "w": "W26",
-    "impr": 29.0,
-    "clicks": 2.0,
+    "impr": 29,
+    "clicks": 2,
     "ctr": 6.9,
-    "rank": 10.0
+    "rank": 10.6
    },
    {
     "w": "W27",
-    "impr": 16.0,
+    "impr": 16,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 10.6
    },
    {
     "w": "W28",
-    "impr": 33.0,
-    "clicks": 2.0,
+    "impr": 33,
+    "clicks": 2,
     "ctr": 6.06,
-    "rank": 10.8
+    "rank": 10.3
    },
    {
     "w": "W29",
-    "impr": 27.0,
+    "impr": 27,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.4
+    "rank": 15.3
    },
    {
     "w": "W30",
-    "impr": 23.0,
+    "impr": 23,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.9
+    "rank": 16.0
    },
    {
     "w": "W31",
-    "impr": 22.0,
-    "clicks": 1.0,
+    "impr": 22,
+    "clicks": 1,
     "ctr": 4.55,
-    "rank": 9.0
+    "rank": 10.2
    },
    {
     "w": "W32",
-    "impr": 23.0,
-    "clicks": 1.0,
+    "impr": 23,
+    "clicks": 1,
     "ctr": 4.35,
     "rank": 14.0
    },
    {
     "w": "W33",
-    "impr": 34.0,
-    "clicks": 2.0,
-    "ctr": 5.88,
-    "rank": 15.0
+    "impr": 36,
+    "clicks": 2,
+    "ctr": 5.56,
+    "rank": 15.5
    },
    {
     "w": "W34",
-    "impr": 36.0,
-    "clicks": 1.0,
-    "ctr": 2.78,
-    "rank": 16.0
+    "impr": 37,
+    "clicks": 1,
+    "ctr": 2.7,
+    "rank": 15.0
+   },
+   {
+    "w": "W35",
+    "impr": 19,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.3
    },
    {
     "w": "W36",
-    "impr": 33.0,
-    "clicks": 2.0,
-    "ctr": 6.06,
-    "rank": 12.0
+    "impr": 35,
+    "clicks": 2,
+    "ctr": 5.71,
+    "rank": 14.3
+   },
+   {
+    "w": "W37",
+    "impr": 37,
+    "clicks": 3,
+    "ctr": 8.11,
+    "rank": 10.3
+   },
+   {
+    "w": "W38",
+    "impr": 38,
+    "clicks": 3,
+    "ctr": 7.89,
+    "rank": 11.4
+   },
+   {
+    "w": "W39",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.5
    }
   ]
  },
@@ -276,256 +234,242 @@
   "vol_info": "250",
   "url": "https://grc-indonesia.com/training-ai-governance/",
   "status": "Aktif",
-  "total_impr": 975,
-  "total_clicks": 66,
-  "ctr": 6.77,
-  "avg_rank": 10.3,
-  "latest_rank": 17.0,
+  "total_impr": 1180,
+  "total_clicks": 79,
+  "ctr": 6.69,
+  "avg_rank": 10.5,
+  "latest_rank": 16.0,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W7",
-    "impr": 19.0,
+    "impr": 19,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.0
+    "rank": 5.3
    },
    {
     "w": "W8",
-    "impr": 38.0,
-    "clicks": 3.0,
+    "impr": 38,
+    "clicks": 3,
     "ctr": 7.89,
-    "rank": 10.0
+    "rank": 9.4
    },
    {
     "w": "W9",
-    "impr": 47.0,
-    "clicks": 2.0,
+    "impr": 47,
+    "clicks": 2,
     "ctr": 4.26,
-    "rank": 4.0
+    "rank": 4.2
    },
    {
     "w": "W10",
-    "impr": 7.0,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 7.1
    },
    {
     "w": "W11",
-    "impr": 5.0,
-    "clicks": 1.0,
+    "impr": 5,
+    "clicks": 1,
     "ctr": 20.0,
     "rank": 3.0
    },
    {
     "w": "W12",
-    "impr": 3.0,
-    "clicks": 1.0,
+    "impr": 3,
+    "clicks": 1,
     "ctr": 33.33,
     "rank": 6.0
    },
    {
     "w": "W13",
-    "impr": 10.0,
+    "impr": 10,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.0
+    "rank": 5.1
    },
    {
     "w": "W14",
-    "impr": 25.0,
-    "clicks": 2.0,
+    "impr": 25,
+    "clicks": 2,
     "ctr": 8.0,
-    "rank": 12.0
+    "rank": 10.1
    },
    {
     "w": "W15",
-    "impr": 28.0,
+    "impr": 28,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 11.6
    },
    {
     "w": "W16",
-    "impr": 25.0,
-    "clicks": 1.0,
+    "impr": 25,
+    "clicks": 1,
     "ctr": 4.0,
-    "rank": 7.0
+    "rank": 6.3
    },
    {
     "w": "W17",
-    "impr": 9.0,
-    "clicks": 1.0,
-    "ctr": 11.11,
-    "rank": 6.0
-   },
-   {
-    "w": "W18",
-    "impr": 32.0,
-    "clicks": 2.0,
-    "ctr": 6.25,
-    "rank": 8.0
-   },
-   {
-    "w": "W19",
-    "impr": 24.0,
-    "clicks": 2.0,
-    "ctr": 8.33,
-    "rank": 11.0
-   },
-   {
-    "w": "W20",
-    "impr": 16.0,
-    "clicks": 2.0,
-    "ctr": 12.5,
-    "rank": 10.0
-   },
-   {
-    "w": "W21",
-    "impr": 16.0,
-    "clicks": 2.0,
-    "ctr": 12.5,
-    "rank": 9.0
-   },
-   {
-    "w": "W22",
-    "impr": 27.0,
-    "clicks": 3.0,
+    "impr": 9,
+    "clicks": 1,
     "ctr": 11.11,
     "rank": 7.0
    },
    {
+    "w": "W18",
+    "impr": 32,
+    "clicks": 2,
+    "ctr": 6.25,
+    "rank": 9.5
+   },
+   {
+    "w": "W19",
+    "impr": 24,
+    "clicks": 2,
+    "ctr": 8.33,
+    "rank": 11.2
+   },
+   {
+    "w": "W20",
+    "impr": 16,
+    "clicks": 2,
+    "ctr": 12.5,
+    "rank": 9.3
+   },
+   {
+    "w": "W21",
+    "impr": 16,
+    "clicks": 2,
+    "ctr": 12.5,
+    "rank": 9.8
+   },
+   {
+    "w": "W22",
+    "impr": 27,
+    "clicks": 3,
+    "ctr": 11.11,
+    "rank": 6.7
+   },
+   {
     "w": "W23",
-    "impr": 49.0,
-    "clicks": 5.0,
+    "impr": 49,
+    "clicks": 5,
     "ctr": 10.2,
-    "rank": 10.0
+    "rank": 9.7
    },
    {
     "w": "W24",
-    "impr": 38.0,
-    "clicks": 6.0,
+    "impr": 38,
+    "clicks": 6,
     "ctr": 15.79,
-    "rank": 8.0
+    "rank": 9.7
    },
    {
     "w": "W25",
-    "impr": 14.0,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.0
+    "rank": 10.3
    },
    {
     "w": "W26",
-    "impr": 33.0,
-    "clicks": 2.0,
+    "impr": 33,
+    "clicks": 2,
     "ctr": 6.06,
-    "rank": 13.0
+    "rank": 13.1
    },
    {
     "w": "W27",
-    "impr": 79.0,
-    "clicks": 5.0,
+    "impr": 79,
+    "clicks": 5,
     "ctr": 6.33,
-    "rank": 13.0
+    "rank": 14.0
    },
    {
     "w": "W28",
-    "impr": 78.0,
-    "clicks": 4.0,
+    "impr": 78,
+    "clicks": 4,
     "ctr": 5.13,
-    "rank": 11.9
+    "rank": 10.8
    },
    {
     "w": "W29",
-    "impr": 32.0,
-    "clicks": 1.0,
+    "impr": 32,
+    "clicks": 1,
     "ctr": 3.12,
-    "rank": 15.2
+    "rank": 11.9
    },
    {
     "w": "W30",
-    "impr": 39.0,
-    "clicks": 3.0,
+    "impr": 39,
+    "clicks": 3,
     "ctr": 7.69,
-    "rank": 12.5
+    "rank": 10.2
    },
    {
     "w": "W31",
-    "impr": 58.0,
-    "clicks": 7.0,
+    "impr": 58,
+    "clicks": 7,
     "ctr": 12.07,
-    "rank": 16.0
+    "rank": 14.7
    },
    {
     "w": "W32",
-    "impr": 59.0,
-    "clicks": 2.0,
+    "impr": 59,
+    "clicks": 2,
     "ctr": 3.39,
-    "rank": 17.7
+    "rank": 16.6
    },
    {
     "w": "W33",
-    "impr": 66.0,
-    "clicks": 3.0,
-    "ctr": 4.55,
-    "rank": 16.0
-   },
-   {
-    "w": "W34",
-    "impr": 52.0,
-    "clicks": 4.0,
-    "ctr": 7.69,
+    "impr": 73,
+    "clicks": 3,
+    "ctr": 4.11,
     "rank": 15.0
    },
    {
+    "w": "W34",
+    "impr": 64,
+    "clicks": 4,
+    "ctr": 6.25,
+    "rank": 13.7
+   },
+   {
+    "w": "W35",
+    "impr": 64,
+    "clicks": 3,
+    "ctr": 4.69,
+    "rank": 19.3
+   },
+   {
     "w": "W36",
-    "impr": 47.0,
-    "clicks": 2.0,
-    "ctr": 4.26,
-    "rank": 17.0
+    "impr": 55,
+    "clicks": 3,
+    "ctr": 5.45,
+    "rank": 15.7
+   },
+   {
+    "w": "W37",
+    "impr": 58,
+    "clicks": 4,
+    "ctr": 6.9,
+    "rank": 13.0
+   },
+   {
+    "w": "W38",
+    "impr": 52,
+    "clicks": 4,
+    "ctr": 7.69,
+    "rank": 10.9
+   },
+   {
+    "w": "W39",
+    "impr": 4,
+    "clicks": 1,
+    "ctr": 25.0,
+    "rank": 16.0
    }
   ]
  },
@@ -541,256 +485,88 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/training-pemalsuan-dokumen/",
   "status": "Aktif",
-  "total_impr": 124,
-  "total_clicks": 7,
-  "ctr": 5.65,
-  "avg_rank": 4.1,
-  "latest_rank": 5.0,
+  "total_impr": 84,
+  "total_clicks": 4,
+  "ctr": 4.76,
+  "avg_rank": 5.0,
+  "latest_rank": 1.0,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W7",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 8,
+    "clicks": 1,
+    "ctr": 12.5,
+    "rank": 3.5
    },
    {
     "w": "W8",
-    "impr": 0,
+    "impr": 12,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 8.7
    },
    {
     "w": "W9",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 16,
+    "clicks": 1,
+    "ctr": 6.25,
+    "rank": 8.1
    },
    {
     "w": "W10",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W11",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W12",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W13",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W14",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W15",
-    "impr": 8.0,
-    "clicks": 1.0,
-    "ctr": 12.5,
-    "rank": 4.0
-   },
-   {
-    "w": "W16",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W17",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W18",
-    "impr": 5.0,
-    "clicks": 1.0,
-    "ctr": 20.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W19",
-    "impr": 9.0,
-    "clicks": 2.0,
-    "ctr": 22.22,
-    "rank": 3.0
-   },
-   {
-    "w": "W20",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W21",
-    "impr": 7.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 2.0
    },
    {
-    "w": "W22",
-    "impr": 7.0,
+    "w": "W11",
+    "impr": 4,
+    "clicks": 1,
+    "ctr": 25.0,
+    "rank": 5.2
+   },
+   {
+    "w": "W12",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "W15",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "W16",
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
    },
    {
-    "w": "W23",
-    "impr": 5.0,
+    "w": "W37",
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
    },
    {
-    "w": "W24",
-    "impr": 9.0,
-    "clicks": 1.0,
-    "ctr": 11.11,
-    "rank": 6.0
-   },
-   {
-    "w": "W25",
-    "impr": 3.0,
+    "w": "W38",
+    "impr": 37,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.0
+    "rank": 6.6
    },
    {
-    "w": "W26",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W27",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W28",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.6
-   },
-   {
-    "w": "W29",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W30",
-    "impr": 2.0,
-    "clicks": 1.0,
-    "ctr": 50.0,
-    "rank": 1.5
-   },
-   {
-    "w": "W31",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W32",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 2.2
-   },
-   {
-    "w": "W33",
-    "impr": 9.0,
-    "clicks": 1.0,
-    "ctr": 11.11,
-    "rank": 5.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W36",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "w": "W39",
+    "impr": 1,
+    "clicks": 1,
+    "ctr": 100.0,
+    "rank": 1.0
    }
   ]
  },
@@ -806,256 +582,32 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/",
   "status": "Aktif",
-  "total_impr": 16,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 6.7,
-  "latest_rank": 7.0,
+  "total_impr": 41,
+  "total_clicks": 1,
+  "ctr": 2.44,
+  "avg_rank": 11.2,
+  "latest_rank": 10.2,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
+    "w": "W35",
+    "impr": 20,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W7",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W8",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W9",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W10",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W11",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W12",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W13",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W14",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W15",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W16",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W17",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W18",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W19",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W20",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W21",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W22",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W23",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W24",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W25",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W26",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W27",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W28",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W29",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W30",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.5
-   },
-   {
-    "w": "W31",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W32",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W33",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "rank": 16.9
    },
    {
     "w": "W36",
-    "impr": 9.0,
+    "impr": 13,
+    "clicks": 1,
+    "ctr": 7.69,
+    "rank": 6.4
+   },
+   {
+    "w": "W37",
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 10.2
    }
   ]
  },
@@ -1071,256 +623,172 @@
   "vol_info": "450",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 189,
+  "total_impr": 284,
   "total_clicks": 13,
-  "ctr": 6.88,
-  "avg_rank": 6.6,
-  "latest_rank": 9.0,
+  "ctr": 4.58,
+  "avg_rank": 6.8,
+  "latest_rank": 7.2,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W7",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W8",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W9",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W10",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W11",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W12",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W13",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W14",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W15",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W16",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W17",
-    "impr": 2.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
    },
    {
     "w": "W18",
-    "impr": 2.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.0
    },
    {
     "w": "W19",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.0
    },
    {
     "w": "W20",
-    "impr": 5.0,
-    "clicks": 1.0,
+    "impr": 5,
+    "clicks": 1,
     "ctr": 20.0,
-    "rank": 5.0
+    "rank": 4.1
    },
    {
     "w": "W21",
-    "impr": 11.0,
-    "clicks": 1.0,
+    "impr": 11,
+    "clicks": 1,
     "ctr": 9.09,
-    "rank": 3.0
+    "rank": 3.5
    },
    {
     "w": "W22",
-    "impr": 5.0,
-    "clicks": 1.0,
+    "impr": 5,
+    "clicks": 1,
     "ctr": 20.0,
-    "rank": 6.0
+    "rank": 6.3
    },
    {
     "w": "W23",
-    "impr": 4.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
    },
    {
     "w": "W24",
-    "impr": 4.0,
-    "clicks": 1.0,
+    "impr": 4,
+    "clicks": 1,
     "ctr": 25.0,
-    "rank": 4.0
+    "rank": 5.3
    },
    {
     "w": "W25",
-    "impr": 4.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
    },
    {
     "w": "W26",
-    "impr": 7.0,
-    "clicks": 1.0,
+    "impr": 7,
+    "clicks": 1,
     "ctr": 14.29,
-    "rank": 5.0
+    "rank": 4.5
    },
    {
     "w": "W27",
-    "impr": 8.0,
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.0
+    "rank": 8.2
    },
    {
     "w": "W28",
-    "impr": 9.0,
-    "clicks": 1.0,
+    "impr": 9,
+    "clicks": 1,
     "ctr": 11.11,
-    "rank": 5.7
+    "rank": 6.3
    },
    {
     "w": "W29",
-    "impr": 11.0,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.3
+    "rank": 6.2
    },
    {
     "w": "W30",
-    "impr": 11.0,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.7
+    "rank": 6.1
    },
    {
     "w": "W31",
-    "impr": 18.0,
+    "impr": 18,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 7.1
    },
    {
     "w": "W32",
-    "impr": 22.0,
-    "clicks": 2.0,
+    "impr": 22,
+    "clicks": 2,
     "ctr": 9.09,
-    "rank": 6.4
+    "rank": 6.3
    },
    {
     "w": "W33",
-    "impr": 28.0,
-    "clicks": 2.0,
+    "impr": 28,
+    "clicks": 2,
     "ctr": 7.14,
-    "rank": 8.0
+    "rank": 8.5
    },
    {
     "w": "W34",
-    "impr": 20.0,
-    "clicks": 2.0,
-    "ctr": 10.0,
-    "rank": 11.0
+    "impr": 23,
+    "clicks": 2,
+    "ctr": 8.7,
+    "rank": 10.6
+   },
+   {
+    "w": "W35",
+    "impr": 23,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.8
    },
    {
     "w": "W36",
-    "impr": 17.0,
-    "clicks": 1.0,
-    "ctr": 5.88,
-    "rank": 9.0
+    "impr": 24,
+    "clicks": 1,
+    "ctr": 4.17,
+    "rank": 7.6
+   },
+   {
+    "w": "W37",
+    "impr": 30,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.4
+   },
+   {
+    "w": "W38",
+    "impr": 28,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.5
+   },
+   {
+    "w": "W39",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.2
    }
   ]
  },
@@ -1336,256 +804,242 @@
   "vol_info": "4,500",
   "url": "https://grc-indonesia.com/training-grafonomi-grafologi-dan-deteksi-uang-palsu/",
   "status": "Aktif",
-  "total_impr": 896,
-  "total_clicks": 24,
-  "ctr": 2.68,
-  "avg_rank": 6.5,
-  "latest_rank": 8.0,
+  "total_impr": 1036,
+  "total_clicks": 28,
+  "ctr": 2.7,
+  "avg_rank": 6.8,
+  "latest_rank": 7.3,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W7",
-    "impr": 28.0,
-    "clicks": 2.0,
+    "impr": 28,
+    "clicks": 2,
     "ctr": 7.14,
-    "rank": 8.0
+    "rank": 7.3
    },
    {
     "w": "W8",
-    "impr": 19.0,
+    "impr": 19,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.0
+    "rank": 7.1
    },
    {
     "w": "W9",
-    "impr": 38.0,
-    "clicks": 3.0,
+    "impr": 38,
+    "clicks": 3,
     "ctr": 7.89,
-    "rank": 6.0
+    "rank": 5.2
    },
    {
     "w": "W10",
-    "impr": 5.0,
-    "clicks": 1.0,
+    "impr": 5,
+    "clicks": 1,
     "ctr": 20.0,
-    "rank": 3.0
+    "rank": 5.2
    },
    {
     "w": "W11",
-    "impr": 4.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 6.2
    },
    {
     "w": "W12",
-    "impr": 2.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.0
+    "rank": 4.5
    },
    {
     "w": "W13",
-    "impr": 6.0,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.8
    },
    {
     "w": "W14",
-    "impr": 6.0,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.8
    },
    {
     "w": "W15",
-    "impr": 38.0,
+    "impr": 38,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.0
+    "rank": 6.9
    },
    {
     "w": "W16",
-    "impr": 59.0,
-    "clicks": 4.0,
+    "impr": 59,
+    "clicks": 4,
     "ctr": 6.78,
-    "rank": 6.0
+    "rank": 6.3
    },
    {
     "w": "W17",
-    "impr": 59.0,
-    "clicks": 1.0,
+    "impr": 59,
+    "clicks": 1,
     "ctr": 1.69,
-    "rank": 6.0
+    "rank": 6.8
    },
    {
     "w": "W18",
-    "impr": 54.0,
-    "clicks": 1.0,
+    "impr": 54,
+    "clicks": 1,
     "ctr": 1.85,
-    "rank": 6.0
+    "rank": 6.6
    },
    {
     "w": "W19",
-    "impr": 42.0,
+    "impr": 42,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 6.5
    },
    {
     "w": "W20",
-    "impr": 51.0,
-    "clicks": 2.0,
+    "impr": 51,
+    "clicks": 2,
     "ctr": 3.92,
-    "rank": 7.0
+    "rank": 8.3
    },
    {
     "w": "W21",
-    "impr": 54.0,
+    "impr": 54,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 6.1
    },
    {
     "w": "W22",
-    "impr": 27.0,
-    "clicks": 1.0,
+    "impr": 27,
+    "clicks": 1,
     "ctr": 3.7,
-    "rank": 6.0
+    "rank": 5.3
    },
    {
     "w": "W23",
-    "impr": 47.0,
-    "clicks": 2.0,
+    "impr": 47,
+    "clicks": 2,
     "ctr": 4.26,
-    "rank": 5.0
+    "rank": 4.6
    },
    {
     "w": "W24",
-    "impr": 36.0,
-    "clicks": 2.0,
+    "impr": 36,
+    "clicks": 2,
     "ctr": 5.56,
-    "rank": 5.0
+    "rank": 4.5
    },
    {
     "w": "W25",
-    "impr": 49.0,
+    "impr": 49,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.9
    },
    {
     "w": "W26",
-    "impr": 27.0,
+    "impr": 27,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.7
    },
    {
     "w": "W27",
-    "impr": 38.0,
+    "impr": 38,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 6.1
    },
    {
     "w": "W28",
-    "impr": 39.0,
+    "impr": 39,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.4
+   },
+   {
+    "w": "W29",
+    "impr": 26,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.7
    },
    {
-    "w": "W29",
-    "impr": 26.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.5
-   },
-   {
     "w": "W30",
-    "impr": 26.0,
-    "clicks": 1.0,
+    "impr": 26,
+    "clicks": 1,
     "ctr": 3.85,
-    "rank": 6.9
+    "rank": 6.5
    },
    {
     "w": "W31",
-    "impr": 21.0,
+    "impr": 21,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 17.3
    },
    {
     "w": "W32",
-    "impr": 26.0,
-    "clicks": 2.0,
+    "impr": 26,
+    "clicks": 2,
     "ctr": 7.69,
-    "rank": 7.0
+    "rank": 7.7
    },
    {
     "w": "W33",
-    "impr": 30.0,
-    "clicks": 1.0,
-    "ctr": 3.33,
-    "rank": 8.0
+    "impr": 33,
+    "clicks": 1,
+    "ctr": 3.03,
+    "rank": 6.6
    },
    {
     "w": "W34",
-    "impr": 8.0,
+    "impr": 12,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 7.2
+   },
+   {
+    "w": "W35",
+    "impr": 37,
+    "clicks": 1,
+    "ctr": 2.7,
+    "rank": 6.0
    },
    {
     "w": "W36",
-    "impr": 31.0,
-    "clicks": 1.0,
-    "ctr": 3.23,
-    "rank": 8.0
+    "impr": 40,
+    "clicks": 1,
+    "ctr": 2.5,
+    "rank": 8.9
+   },
+   {
+    "w": "W37",
+    "impr": 37,
+    "clicks": 2,
+    "ctr": 5.41,
+    "rank": 8.7
+   },
+   {
+    "w": "W38",
+    "impr": 47,
+    "clicks": 1,
+    "ctr": 2.13,
+    "rank": 5.8
+   },
+   {
+    "w": "W39",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
    }
   ]
  },
@@ -1601,256 +1055,193 @@
   "vol_info": "2,500",
   "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko/",
   "status": "Aktif",
-  "total_impr": 3332,
+  "total_impr": 3264,
   "total_clicks": 26,
-  "ctr": 0.78,
-  "avg_rank": 12.4,
-  "latest_rank": 10.0,
+  "ctr": 0.8,
+  "avg_rank": 12.7,
+  "latest_rank": 7.3,
   "weeks": [
    {
     "w": "W1",
-    "impr": 120.0,
+    "impr": 52,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.0
    },
    {
     "w": "W2",
-    "impr": 71.0,
-    "clicks": 3.0,
+    "impr": 71,
+    "clicks": 3,
     "ctr": 4.23,
-    "rank": 17.0
+    "rank": 14.3
    },
    {
     "w": "W3",
-    "impr": 95.0,
-    "clicks": 1.0,
+    "impr": 95,
+    "clicks": 1,
     "ctr": 1.05,
-    "rank": 18.0
+    "rank": 17.1
    },
    {
     "w": "W4",
-    "impr": 143.0,
+    "impr": 143,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.0
+    "rank": 14.3
    },
    {
     "w": "W5",
-    "impr": 194.0,
-    "clicks": 3.0,
+    "impr": 194,
+    "clicks": 3,
     "ctr": 1.55,
-    "rank": 11.0
+    "rank": 10.3
    },
    {
     "w": "W6",
-    "impr": 181.0,
-    "clicks": 3.0,
+    "impr": 181,
+    "clicks": 3,
     "ctr": 1.66,
-    "rank": 13.0
+    "rank": 12.6
    },
    {
     "w": "W7",
-    "impr": 103.0,
-    "clicks": 1.0,
+    "impr": 103,
+    "clicks": 1,
     "ctr": 0.97,
     "rank": 11.0
    },
    {
     "w": "W8",
-    "impr": 86.0,
+    "impr": 86,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 16.0
+    "rank": 14.4
    },
    {
     "w": "W9",
-    "impr": 142.0,
+    "impr": 142,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.0
+    "rank": 12.5
    },
    {
     "w": "W10",
-    "impr": 204.0,
-    "clicks": 1.0,
+    "impr": 204,
+    "clicks": 1,
     "ctr": 0.49,
     "rank": 10.0
    },
    {
     "w": "W11",
-    "impr": 183.0,
+    "impr": 183,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.0
+    "rank": 14.1
    },
    {
     "w": "W12",
-    "impr": 62.0,
+    "impr": 62,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 18.0
+    "rank": 17.8
    },
    {
     "w": "W13",
-    "impr": 79.0,
-    "clicks": 1.0,
+    "impr": 79,
+    "clicks": 1,
     "ctr": 1.27,
-    "rank": 19.0
+    "rank": 18.0
    },
    {
     "w": "W14",
-    "impr": 143.0,
-    "clicks": 1.0,
+    "impr": 143,
+    "clicks": 1,
     "ctr": 0.7,
-    "rank": 10.0
+    "rank": 11.9
    },
    {
     "w": "W15",
-    "impr": 133.0,
-    "clicks": 1.0,
+    "impr": 133,
+    "clicks": 1,
     "ctr": 0.75,
-    "rank": 10.0
+    "rank": 10.6
    },
    {
     "w": "W16",
-    "impr": 197.0,
-    "clicks": 2.0,
+    "impr": 197,
+    "clicks": 2,
     "ctr": 1.02,
-    "rank": 11.0
+    "rank": 10.7
    },
    {
     "w": "W17",
-    "impr": 200.0,
-    "clicks": 1.0,
+    "impr": 200,
+    "clicks": 1,
     "ctr": 0.5,
-    "rank": 10.0
+    "rank": 10.6
    },
    {
     "w": "W18",
-    "impr": 207.0,
+    "impr": 207,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.0
+    "rank": 9.3
    },
    {
     "w": "W19",
-    "impr": 210.0,
-    "clicks": 2.0,
+    "impr": 210,
+    "clicks": 2,
     "ctr": 0.95,
-    "rank": 11.0
+    "rank": 10.4
    },
    {
     "w": "W20",
-    "impr": 55.0,
-    "clicks": 1.0,
+    "impr": 55,
+    "clicks": 1,
     "ctr": 1.82,
-    "rank": 10.0
+    "rank": 21.1
    },
    {
     "w": "W21",
-    "impr": 81.0,
+    "impr": 81,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 16.3
    },
    {
     "w": "W22",
-    "impr": 59.0,
-    "clicks": 2.0,
+    "impr": 59,
+    "clicks": 2,
     "ctr": 3.39,
-    "rank": 12.0
+    "rank": 10.3
    },
    {
     "w": "W23",
-    "impr": 140.0,
-    "clicks": 1.0,
+    "impr": 140,
+    "clicks": 1,
     "ctr": 0.71,
-    "rank": 11.0
+    "rank": 11.2
    },
    {
     "w": "W24",
-    "impr": 123.0,
+    "impr": 123,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 8.7
    },
    {
     "w": "W25",
-    "impr": 108.0,
-    "clicks": 2.0,
+    "impr": 108,
+    "clicks": 2,
     "ctr": 1.85,
-    "rank": 11.0
+    "rank": 11.3
    },
    {
     "w": "W26",
-    "impr": 13.0,
+    "impr": 13,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W27",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W28",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W29",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W30",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W31",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W32",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W33",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W36",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "rank": 7.3
    }
   ]
  },
@@ -1866,256 +1257,242 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/pelatihan-risk-based-audit/",
   "status": "Aktif",
-  "total_impr": 168,
-  "total_clicks": 7,
-  "ctr": 4.17,
+  "total_impr": 296,
+  "total_clicks": 11,
+  "ctr": 3.72,
   "avg_rank": 15.4,
-  "latest_rank": 9.0,
+  "latest_rank": 16.5,
   "weeks": [
    {
     "w": "W1",
-    "impr": 5.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.0
+    "rank": 11.0
    },
    {
     "w": "W2",
-    "impr": 4.0,
-    "clicks": 1.0,
+    "impr": 4,
+    "clicks": 1,
     "ctr": 25.0,
-    "rank": 5.0
+    "rank": 4.7
    },
    {
     "w": "W3",
-    "impr": 8.0,
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.0
+    "rank": 10.2
    },
    {
     "w": "W4",
-    "impr": 4.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.8
    },
    {
     "w": "W5",
-    "impr": 5.0,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 7.8
    },
    {
     "w": "W6",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
    },
    {
     "w": "W7",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
    },
    {
     "w": "W8",
-    "impr": 4.0,
-    "clicks": 1.0,
+    "impr": 4,
+    "clicks": 1,
     "ctr": 25.0,
-    "rank": 7.0
+    "rank": 6.2
    },
    {
     "w": "W9",
-    "impr": 7.0,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.0
+    "rank": 11.0
    },
    {
     "w": "W10",
-    "impr": 4.0,
-    "clicks": 2.0,
+    "impr": 4,
+    "clicks": 2,
     "ctr": 50.0,
-    "rank": 26.0
+    "rank": 25.5
    },
    {
     "w": "W11",
-    "impr": 5.0,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 7.5
    },
    {
     "w": "W12",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
    },
    {
     "w": "W13",
-    "impr": 2.0,
-    "clicks": 1.0,
+    "impr": 2,
+    "clicks": 1,
     "ctr": 50.0,
-    "rank": 15.0
-   },
-   {
-    "w": "W14",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "rank": 14.5
    },
    {
     "w": "W15",
-    "impr": 3.0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.0
    },
    {
     "w": "W16",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.0
    },
    {
     "w": "W17",
-    "impr": 3.0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.0
+    "rank": 3.2
    },
    {
     "w": "W18",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 30.0
    },
    {
     "w": "W19",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 98.0
    },
    {
     "w": "W20",
-    "impr": 7.0,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.0
+    "rank": 26.6
    },
    {
     "w": "W21",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.0
    },
    {
     "w": "W22",
-    "impr": 8.0,
-    "clicks": 1.0,
+    "impr": 8,
+    "clicks": 1,
     "ctr": 12.5,
-    "rank": 36.0
+    "rank": 31.8
    },
    {
     "w": "W23",
-    "impr": 2.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 45.0
    },
    {
     "w": "W24",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
    },
    {
-    "w": "W25",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W26",
-    "impr": 4.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 8.7
    },
    {
     "w": "W27",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
-   },
-   {
-    "w": "W28",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W29",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
    },
    {
     "w": "W30",
-    "impr": 3.0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W31",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "rank": 5.8
    },
    {
     "w": "W32",
-    "impr": 5.0,
-    "clicks": 1.0,
+    "impr": 5,
+    "clicks": 1,
     "ctr": 20.0,
-    "rank": 15.0
+    "rank": 16.8
    },
    {
     "w": "W33",
-    "impr": 2.0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 9.8
    },
    {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "w": "W35",
+    "impr": 32,
+    "clicks": 1,
+    "ctr": 3.12,
+    "rank": 11.6
    },
    {
     "w": "W36",
-    "impr": 74.0,
+    "impr": 85,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 9.2
+   },
+   {
+    "w": "W37",
+    "impr": 42,
+    "clicks": 1,
+    "ctr": 2.38,
+    "rank": 11.6
+   },
+   {
+    "w": "W38",
+    "impr": 38,
+    "clicks": 2,
+    "ctr": 5.26,
+    "rank": 15.3
+   },
+   {
+    "w": "W39",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.5
    }
   ]
  },
@@ -2131,256 +1508,32 @@
   "vol_info": "900",
   "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 79,
-  "total_clicks": 10,
-  "ctr": 12.66,
-  "avg_rank": 9.3,
-  "latest_rank": 7.0,
+  "total_impr": 53,
+  "total_clicks": 2,
+  "ctr": 3.77,
+  "avg_rank": 10.1,
+  "latest_rank": 10.8,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W2",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W3",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W4",
-    "impr": 4.0,
-    "clicks": 1.0,
-    "ctr": 25.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W5",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 15.0
-   },
-   {
-    "w": "W6",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W7",
-    "impr": 4.0,
-    "clicks": 1.0,
-    "ctr": 25.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W8",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W9",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W10",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W11",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W12",
-    "impr": 4.0,
-    "clicks": 2.0,
-    "ctr": 50.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W13",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W14",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W15",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 18.0
-   },
-   {
-    "w": "W16",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W17",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W18",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W19",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W20",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W21",
-    "impr": 4.0,
-    "clicks": 1.0,
-    "ctr": 25.0,
-    "rank": 18.0
-   },
-   {
-    "w": "W22",
-    "impr": 7.0,
-    "clicks": 2.0,
-    "ctr": 28.57,
-    "rank": 18.0
-   },
-   {
-    "w": "W23",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W24",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W25",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 2.0
-   },
-   {
-    "w": "W26",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W27",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W28",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W29",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.5
-   },
-   {
-    "w": "W30",
-    "impr": 2.0,
-    "clicks": 2.0,
-    "ctr": 100.0,
-    "rank": 1.5
-   },
-   {
-    "w": "W31",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W32",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.7
-   },
-   {
-    "w": "W33",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W34",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 58.0
-   },
-   {
     "w": "W36",
-    "impr": 14.0,
-    "clicks": 1.0,
-    "ctr": 7.14,
-    "rank": 7.0
+    "impr": 17,
+    "clicks": 1,
+    "ctr": 5.88,
+    "rank": 5.8
+   },
+   {
+    "w": "W37",
+    "impr": 14,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.6
+   },
+   {
+    "w": "W38",
+    "impr": 22,
+    "clicks": 1,
+    "ctr": 4.55,
+    "rank": 10.8
    }
   ]
  },
@@ -2396,256 +1549,263 @@
   "vol_info": "3,000",
   "url": "https://grc-indonesia.com/pelatihan-risk-management-iso-31000/",
   "status": "Aktif",
-  "total_impr": 1679,
-  "total_clicks": 100,
-  "ctr": 5.96,
-  "avg_rank": 11.7,
-  "latest_rank": 10.0,
+  "total_impr": 1728,
+  "total_clicks": 102,
+  "ctr": 5.9,
+  "avg_rank": 11.1,
+  "latest_rank": 10.4,
   "weeks": [
    {
     "w": "W1",
-    "impr": 62.0,
-    "clicks": 5.0,
-    "ctr": 8.06,
-    "rank": 4.0
+    "impr": 29,
+    "clicks": 3,
+    "ctr": 10.34,
+    "rank": 3.2
    },
    {
     "w": "W2",
-    "impr": 35.0,
-    "clicks": 3.0,
+    "impr": 35,
+    "clicks": 3,
     "ctr": 8.57,
-    "rank": 7.0
+    "rank": 8.8
    },
    {
     "w": "W3",
-    "impr": 61.0,
-    "clicks": 7.0,
+    "impr": 61,
+    "clicks": 7,
     "ctr": 11.48,
-    "rank": 7.0
+    "rank": 8.8
    },
    {
     "w": "W4",
-    "impr": 64.0,
-    "clicks": 10.0,
+    "impr": 64,
+    "clicks": 10,
     "ctr": 15.62,
-    "rank": 7.0
+    "rank": 7.1
    },
    {
     "w": "W5",
-    "impr": 84.0,
-    "clicks": 8.0,
+    "impr": 84,
+    "clicks": 8,
     "ctr": 9.52,
-    "rank": 9.0
+    "rank": 8.6
    },
    {
     "w": "W6",
-    "impr": 84.0,
-    "clicks": 6.0,
+    "impr": 84,
+    "clicks": 6,
     "ctr": 7.14,
-    "rank": 9.0
+    "rank": 9.1
    },
    {
     "w": "W7",
-    "impr": 69.0,
-    "clicks": 4.0,
+    "impr": 69,
+    "clicks": 4,
     "ctr": 5.8,
-    "rank": 8.0
+    "rank": 9.3
    },
    {
     "w": "W8",
-    "impr": 78.0,
-    "clicks": 3.0,
+    "impr": 78,
+    "clicks": 3,
     "ctr": 3.85,
-    "rank": 10.0
+    "rank": 10.8
    },
    {
     "w": "W9",
-    "impr": 79.0,
-    "clicks": 3.0,
+    "impr": 79,
+    "clicks": 3,
     "ctr": 3.8,
-    "rank": 11.0
+    "rank": 9.8
    },
    {
     "w": "W10",
-    "impr": 54.0,
-    "clicks": 3.0,
+    "impr": 54,
+    "clicks": 3,
     "ctr": 5.56,
-    "rank": 9.0
+    "rank": 8.7
    },
    {
     "w": "W11",
-    "impr": 113.0,
-    "clicks": 6.0,
+    "impr": 113,
+    "clicks": 6,
     "ctr": 5.31,
-    "rank": 9.0
+    "rank": 7.4
    },
    {
     "w": "W12",
-    "impr": 14.0,
-    "clicks": 1.0,
+    "impr": 14,
+    "clicks": 1,
     "ctr": 7.14,
-    "rank": 15.0
+    "rank": 18.4
    },
    {
     "w": "W13",
-    "impr": 30.0,
+    "impr": 30,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.0
+    "rank": 22.9
    },
    {
     "w": "W14",
-    "impr": 50.0,
-    "clicks": 5.0,
+    "impr": 50,
+    "clicks": 5,
     "ctr": 10.0,
-    "rank": 7.0
+    "rank": 6.0
    },
    {
     "w": "W15",
-    "impr": 25.0,
+    "impr": 25,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.0
+    "rank": 12.1
    },
    {
     "w": "W16",
-    "impr": 22.0,
-    "clicks": 2.0,
+    "impr": 22,
+    "clicks": 2,
     "ctr": 9.09,
-    "rank": 10.0
+    "rank": 9.3
    },
    {
     "w": "W17",
-    "impr": 19.0,
+    "impr": 19,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 8.0
    },
    {
     "w": "W18",
-    "impr": 27.0,
-    "clicks": 1.0,
+    "impr": 27,
+    "clicks": 1,
     "ctr": 3.7,
-    "rank": 9.0
+    "rank": 8.6
    },
    {
     "w": "W19",
-    "impr": 34.0,
-    "clicks": 1.0,
+    "impr": 34,
+    "clicks": 1,
     "ctr": 2.94,
-    "rank": 11.0
+    "rank": 9.6
    },
    {
     "w": "W20",
-    "impr": 15.0,
-    "clicks": 1.0,
+    "impr": 15,
+    "clicks": 1,
     "ctr": 6.67,
-    "rank": 15.0
+    "rank": 15.3
    },
    {
     "w": "W21",
-    "impr": 38.0,
-    "clicks": 3.0,
+    "impr": 38,
+    "clicks": 3,
     "ctr": 7.89,
-    "rank": 13.0
+    "rank": 10.4
    },
    {
     "w": "W22",
-    "impr": 51.0,
-    "clicks": 4.0,
+    "impr": 51,
+    "clicks": 4,
     "ctr": 7.84,
-    "rank": 22.0
+    "rank": 19.5
    },
    {
     "w": "W23",
-    "impr": 45.0,
-    "clicks": 2.0,
+    "impr": 45,
+    "clicks": 2,
     "ctr": 4.44,
-    "rank": 13.0
+    "rank": 10.2
    },
    {
     "w": "W24",
-    "impr": 50.0,
-    "clicks": 1.0,
+    "impr": 50,
+    "clicks": 1,
     "ctr": 2.0,
-    "rank": 19.0
+    "rank": 16.7
    },
    {
     "w": "W25",
-    "impr": 63.0,
-    "clicks": 4.0,
+    "impr": 63,
+    "clicks": 4,
     "ctr": 6.35,
-    "rank": 12.0
+    "rank": 11.4
    },
    {
     "w": "W26",
-    "impr": 58.0,
-    "clicks": 3.0,
+    "impr": 58,
+    "clicks": 3,
     "ctr": 5.17,
-    "rank": 17.0
-   },
-   {
-    "w": "W27",
-    "impr": 50.0,
-    "clicks": 2.0,
-    "ctr": 4.0,
-    "rank": 14.0
-   },
-   {
-    "w": "W28",
-    "impr": 53.0,
-    "clicks": 4.0,
-    "ctr": 7.55,
-    "rank": 8.9
-   },
-   {
-    "w": "W29",
-    "impr": 27.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 13.8
-   },
-   {
-    "w": "W30",
-    "impr": 32.0,
-    "clicks": 1.0,
-    "ctr": 3.12,
-    "rank": 13.0
-   },
-   {
-    "w": "W31",
-    "impr": 23.0,
-    "clicks": 1.0,
-    "ctr": 4.35,
-    "rank": 18.0
-   },
-   {
-    "w": "W32",
-    "impr": 29.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.6
-   },
-   {
-    "w": "W33",
-    "impr": 24.0,
-    "clicks": 0,
-    "ctr": 0.0,
     "rank": 16.0
    },
    {
+    "w": "W27",
+    "impr": 50,
+    "clicks": 2,
+    "ctr": 4.0,
+    "rank": 12.5
+   },
+   {
+    "w": "W28",
+    "impr": 53,
+    "clicks": 4,
+    "ctr": 7.55,
+    "rank": 9.5
+   },
+   {
+    "w": "W29",
+    "impr": 27,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.7
+   },
+   {
+    "w": "W30",
+    "impr": 32,
+    "clicks": 1,
+    "ctr": 3.12,
+    "rank": 10.9
+   },
+   {
+    "w": "W31",
+    "impr": 23,
+    "clicks": 1,
+    "ctr": 4.35,
+    "rank": 13.3
+   },
+   {
+    "w": "W32",
+    "impr": 29,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.4
+   },
+   {
+    "w": "W33",
+    "impr": 29,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.9
+   },
+   {
     "w": "W34",
-    "impr": 37.0,
-    "clicks": 3.0,
-    "ctr": 8.11,
-    "rank": 14.0
+    "impr": 48,
+    "clicks": 5,
+    "ctr": 10.42,
+    "rank": 11.1
+   },
+   {
+    "w": "W35",
+    "impr": 63,
+    "clicks": 2,
+    "ctr": 3.17,
+    "rank": 9.9
    },
    {
     "w": "W36",
-    "impr": 80.0,
-    "clicks": 3.0,
-    "ctr": 3.75,
-    "rank": 10.0
+    "impr": 83,
+    "clicks": 3,
+    "ctr": 3.61,
+    "rank": 10.4
    }
   ]
  },
@@ -2661,256 +1821,39 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 933,
-  "total_clicks": 35,
-  "ctr": 3.75,
-  "avg_rank": 15.2,
-  "latest_rank": 15.0,
+  "total_impr": 442,
+  "total_clicks": 5,
+  "ctr": 1.13,
+  "avg_rank": 12.5,
+  "latest_rank": 9.6,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W2",
-    "impr": 42.0,
-    "clicks": 4.0,
-    "ctr": 9.52,
-    "rank": 7.0
-   },
-   {
-    "w": "W3",
-    "impr": 32.0,
-    "clicks": 2.0,
-    "ctr": 6.25,
-    "rank": 8.0
-   },
-   {
-    "w": "W4",
-    "impr": 39.0,
-    "clicks": 2.0,
-    "ctr": 5.13,
-    "rank": 8.0
-   },
-   {
-    "w": "W5",
-    "impr": 55.0,
-    "clicks": 1.0,
-    "ctr": 1.82,
-    "rank": 9.0
-   },
-   {
-    "w": "W6",
-    "impr": 71.0,
-    "clicks": 2.0,
-    "ctr": 2.82,
-    "rank": 9.0
-   },
-   {
-    "w": "W7",
-    "impr": 64.0,
-    "clicks": 1.0,
-    "ctr": 1.56,
-    "rank": 10.0
-   },
-   {
-    "w": "W8",
-    "impr": 13.0,
-    "clicks": 1.0,
-    "ctr": 7.69,
-    "rank": 12.0
-   },
-   {
-    "w": "W9",
-    "impr": 30.0,
-    "clicks": 1.0,
-    "ctr": 3.33,
-    "rank": 16.0
-   },
-   {
-    "w": "W10",
-    "impr": 48.0,
-    "clicks": 5.0,
-    "ctr": 10.42,
-    "rank": 15.0
-   },
-   {
-    "w": "W11",
-    "impr": 32.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 32.0
-   },
-   {
-    "w": "W12",
-    "impr": 3.0,
-    "clicks": 1.0,
-    "ctr": 33.33,
-    "rank": 52.0
-   },
-   {
-    "w": "W13",
-    "impr": 14.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 19.0
-   },
-   {
-    "w": "W14",
-    "impr": 17.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W15",
-    "impr": 27.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 16.0
-   },
-   {
-    "w": "W16",
-    "impr": 19.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 29.0
-   },
-   {
-    "w": "W17",
-    "impr": 24.0,
-    "clicks": 1.0,
-    "ctr": 4.17,
-    "rank": 15.0
-   },
-   {
-    "w": "W18",
-    "impr": 15.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W19",
-    "impr": 22.0,
-    "clicks": 2.0,
-    "ctr": 9.09,
-    "rank": 15.0
-   },
-   {
-    "w": "W20",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W21",
-    "impr": 15.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W22",
-    "impr": 11.0,
-    "clicks": 1.0,
-    "ctr": 9.09,
-    "rank": 12.0
-   },
-   {
-    "w": "W23",
-    "impr": 23.0,
-    "clicks": 1.0,
-    "ctr": 4.35,
-    "rank": 9.0
-   },
-   {
-    "w": "W24",
-    "impr": 18.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W25",
-    "impr": 15.0,
-    "clicks": 1.0,
-    "ctr": 6.67,
-    "rank": 15.0
-   },
-   {
-    "w": "W26",
-    "impr": 16.0,
-    "clicks": 1.0,
-    "ctr": 6.25,
-    "rank": 9.0
-   },
-   {
-    "w": "W27",
-    "impr": 44.0,
-    "clicks": 3.0,
-    "ctr": 6.82,
-    "rank": 10.0
-   },
-   {
-    "w": "W28",
-    "impr": 26.0,
-    "clicks": 2.0,
-    "ctr": 7.69,
-    "rank": 10.2
-   },
-   {
-    "w": "W29",
-    "impr": 31.0,
-    "clicks": 1.0,
-    "ctr": 3.23,
-    "rank": 16.0
-   },
-   {
-    "w": "W30",
-    "impr": 34.0,
-    "clicks": 2.0,
-    "ctr": 5.88,
-    "rank": 12.1
-   },
-   {
-    "w": "W31",
-    "impr": 37.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 18.0
-   },
-   {
-    "w": "W32",
-    "impr": 29.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 26.9
-   },
-   {
-    "w": "W33",
-    "impr": 33.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 36.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W36",
-    "impr": 22.0,
+    "impr": 34,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.0
+    "rank": 20.6
+   },
+   {
+    "w": "W37",
+    "impr": 157,
+    "clicks": 1,
+    "ctr": 0.64,
+    "rank": 10.4
+   },
+   {
+    "w": "W38",
+    "impr": 222,
+    "clicks": 4,
+    "ctr": 1.8,
+    "rank": 9.2
+   },
+   {
+    "w": "W39",
+    "impr": 29,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
    }
   ]
  },
@@ -2926,253 +1869,260 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 103,
-  "total_clicks": 4,
-  "ctr": 3.88,
-  "avg_rank": 12.7,
+  "total_impr": 2881,
+  "total_clicks": 114,
+  "ctr": 3.96,
+  "avg_rank": 11.8,
   "latest_rank": 11.0,
   "weeks": [
    {
     "w": "W1",
-    "impr": 1.0,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 1.0
+    "rank": 5.7
    },
    {
     "w": "W2",
-    "impr": 0,
+    "impr": 58,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 15.9
    },
    {
     "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 67,
+    "clicks": 1,
+    "ctr": 1.49,
+    "rank": 15.0
    },
    {
     "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 106,
+    "clicks": 2,
+    "ctr": 1.89,
+    "rank": 21.5
    },
    {
     "w": "W5",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
+    "impr": 116,
+    "clicks": 3,
+    "ctr": 2.59,
+    "rank": 17.4
    },
    {
     "w": "W6",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
+    "impr": 99,
+    "clicks": 4,
+    "ctr": 4.04,
+    "rank": 11.1
    },
    {
     "w": "W7",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
+    "impr": 48,
+    "clicks": 1,
+    "ctr": 2.08,
+    "rank": 11.5
    },
    {
     "w": "W8",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
+    "impr": 66,
+    "clicks": 1,
+    "ctr": 1.52,
+    "rank": 15.1
    },
    {
     "w": "W9",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
+    "impr": 89,
+    "clicks": 6,
+    "ctr": 6.74,
+    "rank": 9.5
    },
    {
     "w": "W10",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
+    "impr": 120,
+    "clicks": 5,
+    "ctr": 4.17,
+    "rank": 10.4
    },
    {
     "w": "W11",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 115,
+    "clicks": 3,
+    "ctr": 2.61,
+    "rank": 10.1
    },
    {
     "w": "W12",
-    "impr": 0,
+    "impr": 37,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 17.7
    },
    {
     "w": "W13",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 77,
+    "clicks": 3,
+    "ctr": 3.9,
+    "rank": 13.2
    },
    {
     "w": "W14",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 86,
+    "clicks": 1,
+    "ctr": 1.16,
+    "rank": 16.9
    },
    {
     "w": "W15",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 67,
+    "clicks": 3,
+    "ctr": 4.48,
+    "rank": 9.3
    },
    {
     "w": "W16",
-    "impr": 0,
+    "impr": 33,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 13.3
    },
    {
     "w": "W17",
-    "impr": 2.0,
+    "impr": 20,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.0
+    "rank": 14.2
    },
    {
     "w": "W18",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 2.0
+    "impr": 39,
+    "clicks": 5,
+    "ctr": 12.82,
+    "rank": 18.7
    },
    {
     "w": "W19",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 34,
+    "clicks": 1,
+    "ctr": 2.94,
+    "rank": 8.7
    },
    {
     "w": "W20",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 57,
+    "clicks": 3,
+    "ctr": 5.26,
+    "rank": 10.8
    },
    {
     "w": "W21",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
+    "impr": 98,
+    "clicks": 4,
+    "ctr": 4.08,
+    "rank": 9.6
    },
    {
     "w": "W22",
-    "impr": 5.0,
-    "clicks": 2.0,
-    "ctr": 40.0,
-    "rank": 52.0
+    "impr": 87,
+    "clicks": 5,
+    "ctr": 5.75,
+    "rank": 14.0
    },
    {
     "w": "W23",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 97,
+    "clicks": 7,
+    "ctr": 7.22,
+    "rank": 16.3
    },
    {
     "w": "W24",
-    "impr": 2.0,
-    "clicks": 1.0,
-    "ctr": 50.0,
-    "rank": 42.0
+    "impr": 177,
+    "clicks": 6,
+    "ctr": 3.39,
+    "rank": 8.5
    },
    {
     "w": "W25",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 98,
+    "clicks": 2,
+    "ctr": 2.04,
+    "rank": 9.6
    },
    {
     "w": "W26",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 184,
+    "clicks": 3,
+    "ctr": 1.63,
+    "rank": 7.0
    },
    {
     "w": "W27",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 96,
+    "clicks": 9,
+    "ctr": 9.38,
+    "rank": 8.4
    },
    {
     "w": "W28",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
+    "impr": 76,
+    "clicks": 2,
+    "ctr": 2.63,
+    "rank": 11.0
    },
    {
     "w": "W29",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 105,
+    "clicks": 7,
+    "ctr": 6.67,
+    "rank": 7.5
    },
    {
     "w": "W30",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 85,
+    "clicks": 7,
+    "ctr": 8.24,
+    "rank": 8.8
    },
    {
     "w": "W31",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "impr": 96,
+    "clicks": 5,
+    "ctr": 5.21,
+    "rank": 11.6
    },
    {
     "w": "W32",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 27.0
+    "impr": 86,
+    "clicks": 9,
+    "ctr": 10.47,
+    "rank": 8.5
    },
    {
     "w": "W33",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
+    "impr": 98,
+    "clicks": 2,
+    "ctr": 2.04,
+    "rank": 7.6
    },
    {
     "w": "W34",
-    "impr": 72.0,
-    "clicks": 1.0,
-    "ctr": 1.39,
-    "rank": 7.0
+    "impr": 82,
+    "clicks": 1,
+    "ctr": 1.22,
+    "rank": 6.1
+   },
+   {
+    "w": "W35",
+    "impr": 70,
+    "clicks": 3,
+    "ctr": 4.29,
+    "rank": 13.0
    },
    {
     "w": "W36",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
@@ -3191,256 +2141,284 @@
   "vol_info": "700",
   "url": "https://grc-indonesia.com/icofr-intensive-training/",
   "status": "Aktif",
-  "total_impr": 2418,
-  "total_clicks": 233,
-  "ctr": 9.64,
-  "avg_rank": 8.8,
-  "latest_rank": 9.0,
+  "total_impr": 2622,
+  "total_clicks": 251,
+  "ctr": 9.57,
+  "avg_rank": 9.3,
+  "latest_rank": 7.4,
   "weeks": [
    {
     "w": "W1",
-    "impr": 35.0,
-    "clicks": 4.0,
-    "ctr": 11.43,
-    "rank": 6.0
+    "impr": 21,
+    "clicks": 3,
+    "ctr": 14.29,
+    "rank": 3.6
    },
    {
     "w": "W2",
-    "impr": 65.0,
-    "clicks": 7.0,
+    "impr": 65,
+    "clicks": 7,
     "ctr": 10.77,
-    "rank": 5.0
+    "rank": 4.6
    },
    {
     "w": "W3",
-    "impr": 87.0,
-    "clicks": 13.0,
+    "impr": 87,
+    "clicks": 13,
     "ctr": 14.94,
-    "rank": 5.0
+    "rank": 5.3
    },
    {
     "w": "W4",
-    "impr": 74.0,
-    "clicks": 10.0,
+    "impr": 74,
+    "clicks": 10,
     "ctr": 13.51,
-    "rank": 7.0
+    "rank": 7.1
    },
    {
     "w": "W5",
-    "impr": 90.0,
-    "clicks": 10.0,
+    "impr": 90,
+    "clicks": 10,
     "ctr": 11.11,
-    "rank": 7.0
+    "rank": 10.3
    },
    {
     "w": "W6",
-    "impr": 116.0,
-    "clicks": 10.0,
+    "impr": 116,
+    "clicks": 10,
     "ctr": 8.62,
     "rank": 6.0
    },
    {
     "w": "W7",
-    "impr": 166.0,
-    "clicks": 9.0,
+    "impr": 166,
+    "clicks": 9,
     "ctr": 5.42,
-    "rank": 4.0
+    "rank": 4.1
    },
    {
     "w": "W8",
-    "impr": 64.0,
-    "clicks": 4.0,
+    "impr": 64,
+    "clicks": 4,
     "ctr": 6.25,
-    "rank": 9.0
-   },
-   {
-    "w": "W9",
-    "impr": 116.0,
-    "clicks": 9.0,
-    "ctr": 7.76,
-    "rank": 7.0
-   },
-   {
-    "w": "W10",
-    "impr": 64.0,
-    "clicks": 8.0,
-    "ctr": 12.5,
-    "rank": 5.0
-   },
-   {
-    "w": "W11",
-    "impr": 75.0,
-    "clicks": 6.0,
-    "ctr": 8.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W12",
-    "impr": 19.0,
-    "clicks": 1.0,
-    "ctr": 5.26,
-    "rank": 15.0
-   },
-   {
-    "w": "W13",
-    "impr": 32.0,
-    "clicks": 1.0,
-    "ctr": 3.12,
-    "rank": 8.0
-   },
-   {
-    "w": "W14",
-    "impr": 61.0,
-    "clicks": 4.0,
-    "ctr": 6.56,
-    "rank": 12.0
-   },
-   {
-    "w": "W15",
-    "impr": 44.0,
-    "clicks": 4.0,
-    "ctr": 9.09,
-    "rank": 6.0
-   },
-   {
-    "w": "W16",
-    "impr": 72.0,
-    "clicks": 8.0,
-    "ctr": 11.11,
-    "rank": 13.0
-   },
-   {
-    "w": "W17",
-    "impr": 78.0,
-    "clicks": 12.0,
-    "ctr": 15.38,
-    "rank": 7.0
-   },
-   {
-    "w": "W18",
-    "impr": 66.0,
-    "clicks": 5.0,
-    "ctr": 7.58,
-    "rank": 9.0
-   },
-   {
-    "w": "W19",
-    "impr": 77.0,
-    "clicks": 7.0,
-    "ctr": 9.09,
-    "rank": 9.0
-   },
-   {
-    "w": "W20",
-    "impr": 58.0,
-    "clicks": 9.0,
-    "ctr": 15.52,
-    "rank": 11.0
-   },
-   {
-    "w": "W21",
-    "impr": 85.0,
-    "clicks": 9.0,
-    "ctr": 10.59,
-    "rank": 8.0
-   },
-   {
-    "w": "W22",
-    "impr": 47.0,
-    "clicks": 8.0,
-    "ctr": 17.02,
-    "rank": 7.0
-   },
-   {
-    "w": "W23",
-    "impr": 86.0,
-    "clicks": 10.0,
-    "ctr": 11.63,
-    "rank": 7.0
-   },
-   {
-    "w": "W24",
-    "impr": 67.0,
-    "clicks": 5.0,
-    "ctr": 7.46,
-    "rank": 11.0
-   },
-   {
-    "w": "W25",
-    "impr": 75.0,
-    "clicks": 5.0,
-    "ctr": 6.67,
-    "rank": 8.0
-   },
-   {
-    "w": "W26",
-    "impr": 85.0,
-    "clicks": 10.0,
-    "ctr": 11.76,
-    "rank": 10.0
-   },
-   {
-    "w": "W27",
-    "impr": 64.0,
-    "clicks": 7.0,
-    "ctr": 10.94,
-    "rank": 12.0
-   },
-   {
-    "w": "W28",
-    "impr": 64.0,
-    "clicks": 5.0,
-    "ctr": 7.81,
     "rank": 11.3
    },
    {
-    "w": "W29",
-    "impr": 56.0,
-    "clicks": 3.0,
-    "ctr": 5.36,
-    "rank": 10.2
+    "w": "W9",
+    "impr": 116,
+    "clicks": 9,
+    "ctr": 7.76,
+    "rank": 5.4
    },
    {
-    "w": "W30",
-    "impr": 62.0,
-    "clicks": 7.0,
-    "ctr": 11.29,
-    "rank": 13.0
+    "w": "W10",
+    "impr": 64,
+    "clicks": 8,
+    "ctr": 12.5,
+    "rank": 4.4
    },
    {
-    "w": "W31",
-    "impr": 48.0,
-    "clicks": 5.0,
-    "ctr": 10.42,
-    "rank": 8.0
+    "w": "W11",
+    "impr": 75,
+    "clicks": 6,
+    "ctr": 8.0,
+    "rank": 7.6
    },
    {
-    "w": "W32",
-    "impr": 33.0,
-    "clicks": 1.0,
-    "ctr": 3.03,
+    "w": "W12",
+    "impr": 19,
+    "clicks": 1,
+    "ctr": 5.26,
+    "rank": 7.7
+   },
+   {
+    "w": "W13",
+    "impr": 32,
+    "clicks": 1,
+    "ctr": 3.12,
+    "rank": 7.5
+   },
+   {
+    "w": "W14",
+    "impr": 61,
+    "clicks": 4,
+    "ctr": 6.56,
+    "rank": 11.3
+   },
+   {
+    "w": "W15",
+    "impr": 44,
+    "clicks": 4,
+    "ctr": 9.09,
+    "rank": 7.1
+   },
+   {
+    "w": "W16",
+    "impr": 72,
+    "clicks": 8,
+    "ctr": 11.11,
+    "rank": 12.4
+   },
+   {
+    "w": "W17",
+    "impr": 78,
+    "clicks": 12,
+    "ctr": 15.38,
+    "rank": 6.9
+   },
+   {
+    "w": "W18",
+    "impr": 66,
+    "clicks": 5,
+    "ctr": 7.58,
+    "rank": 11.2
+   },
+   {
+    "w": "W19",
+    "impr": 77,
+    "clicks": 7,
+    "ctr": 9.09,
+    "rank": 9.1
+   },
+   {
+    "w": "W20",
+    "impr": 58,
+    "clicks": 9,
+    "ctr": 15.52,
+    "rank": 13.2
+   },
+   {
+    "w": "W21",
+    "impr": 85,
+    "clicks": 9,
+    "ctr": 10.59,
+    "rank": 8.2
+   },
+   {
+    "w": "W22",
+    "impr": 47,
+    "clicks": 8,
+    "ctr": 17.02,
+    "rank": 9.2
+   },
+   {
+    "w": "W23",
+    "impr": 86,
+    "clicks": 10,
+    "ctr": 11.63,
+    "rank": 7.4
+   },
+   {
+    "w": "W24",
+    "impr": 67,
+    "clicks": 5,
+    "ctr": 7.46,
+    "rank": 12.8
+   },
+   {
+    "w": "W25",
+    "impr": 75,
+    "clicks": 5,
+    "ctr": 6.67,
+    "rank": 9.2
+   },
+   {
+    "w": "W26",
+    "impr": 85,
+    "clicks": 10,
+    "ctr": 11.76,
     "rank": 10.9
    },
    {
+    "w": "W27",
+    "impr": 64,
+    "clicks": 7,
+    "ctr": 10.94,
+    "rank": 12.6
+   },
+   {
+    "w": "W28",
+    "impr": 64,
+    "clicks": 5,
+    "ctr": 7.81,
+    "rank": 16.7
+   },
+   {
+    "w": "W29",
+    "impr": 56,
+    "clicks": 3,
+    "ctr": 5.36,
+    "rank": 14.6
+   },
+   {
+    "w": "W30",
+    "impr": 62,
+    "clicks": 7,
+    "ctr": 11.29,
+    "rank": 13.5
+   },
+   {
+    "w": "W31",
+    "impr": 48,
+    "clicks": 5,
+    "ctr": 10.42,
+    "rank": 9.3
+   },
+   {
+    "w": "W32",
+    "impr": 33,
+    "clicks": 1,
+    "ctr": 3.03,
+    "rank": 12.5
+   },
+   {
     "w": "W33",
-    "impr": 56.0,
-    "clicks": 7.0,
+    "impr": 56,
+    "clicks": 7,
     "ctr": 12.5,
-    "rank": 12.0
+    "rank": 12.2
    },
    {
     "w": "W34",
-    "impr": 49.0,
-    "clicks": 3.0,
-    "ctr": 6.12,
-    "rank": 12.0
+    "impr": 58,
+    "clicks": 4,
+    "ctr": 6.9,
+    "rank": 10.5
+   },
+   {
+    "w": "W35",
+    "impr": 86,
+    "clicks": 8,
+    "ctr": 9.3,
+    "rank": 9.1
    },
    {
     "w": "W36",
-    "impr": 82.0,
-    "clicks": 7.0,
-    "ctr": 8.54,
-    "rank": 9.0
+    "impr": 88,
+    "clicks": 8,
+    "ctr": 9.09,
+    "rank": 8.4
+   },
+   {
+    "w": "W37",
+    "impr": 59,
+    "clicks": 4,
+    "ctr": 6.78,
+    "rank": 9.2
+   },
+   {
+    "w": "W38",
+    "impr": 45,
+    "clicks": 2,
+    "ctr": 4.44,
+    "rank": 12.0
+   },
+   {
+    "w": "W39",
+    "impr": 13,
+    "clicks": 3,
+    "ctr": 23.08,
+    "rank": 7.4
    }
   ]
  },
@@ -3456,256 +2434,32 @@
   "vol_info": "1,800",
   "url": "https://grc-indonesia.com/pelatihan-key-risk-indicator-kri/",
   "status": "Aktif",
-  "total_impr": 1260,
-  "total_clicks": 8,
-  "ctr": 0.63,
-  "avg_rank": 14.1,
-  "latest_rank": 12.0,
+  "total_impr": 93,
+  "total_clicks": 2,
+  "ctr": 2.15,
+  "avg_rank": 8.3,
+  "latest_rank": 5.8,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 39.0,
-    "clicks": 1.0,
-    "ctr": 2.56,
-    "rank": 11.0
-   },
-   {
-    "w": "W2",
-    "impr": 49.0,
+    "w": "W37",
+    "impr": 31,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 11.6
    },
    {
-    "w": "W3",
-    "impr": 57.0,
+    "w": "W38",
+    "impr": 42,
+    "clicks": 2,
+    "ctr": 4.76,
+    "rank": 7.5
+   },
+   {
+    "w": "W39",
+    "impr": 20,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W4",
-    "impr": 61.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W5",
-    "impr": 47.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W6",
-    "impr": 71.0,
-    "clicks": 1.0,
-    "ctr": 1.41,
-    "rank": 11.0
-   },
-   {
-    "w": "W7",
-    "impr": 58.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W8",
-    "impr": 37.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W9",
-    "impr": 40.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 13.0
-   },
-   {
-    "w": "W10",
-    "impr": 41.0,
-    "clicks": 1.0,
-    "ctr": 2.44,
-    "rank": 11.0
-   },
-   {
-    "w": "W11",
-    "impr": 26.0,
-    "clicks": 1.0,
-    "ctr": 3.85,
-    "rank": 15.0
-   },
-   {
-    "w": "W12",
-    "impr": 14.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 28.0
-   },
-   {
-    "w": "W13",
-    "impr": 14.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 14.0
-   },
-   {
-    "w": "W14",
-    "impr": 38.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 14.0
-   },
-   {
-    "w": "W15",
-    "impr": 47.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 15.0
-   },
-   {
-    "w": "W16",
-    "impr": 41.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W17",
-    "impr": 45.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 13.0
-   },
-   {
-    "w": "W18",
-    "impr": 29.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 16.0
-   },
-   {
-    "w": "W19",
-    "impr": 27.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 16.0
-   },
-   {
-    "w": "W20",
-    "impr": 31.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W21",
-    "impr": 35.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 16.0
-   },
-   {
-    "w": "W22",
-    "impr": 30.0,
-    "clicks": 1.0,
-    "ctr": 3.33,
-    "rank": 13.0
-   },
-   {
-    "w": "W23",
-    "impr": 50.0,
-    "clicks": 1.0,
-    "ctr": 2.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W24",
-    "impr": 42.0,
-    "clicks": 1.0,
-    "ctr": 2.38,
-    "rank": 15.0
-   },
-   {
-    "w": "W25",
-    "impr": 34.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W26",
-    "impr": 41.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W27",
-    "impr": 41.0,
-    "clicks": 1.0,
-    "ctr": 2.44,
-    "rank": 15.0
-   },
-   {
-    "w": "W28",
-    "impr": 40.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 15.8
-   },
-   {
-    "w": "W29",
-    "impr": 13.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 31.2
-   },
-   {
-    "w": "W30",
-    "impr": 31.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 14.7
-   },
-   {
-    "w": "W31",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W32",
-    "impr": 18.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 17.2
-   },
-   {
-    "w": "W33",
-    "impr": 36.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 24.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W36",
-    "impr": 31.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
+    "rank": 5.8
    }
   ]
  },
@@ -3721,256 +2475,32 @@
   "vol_info": "2,200",
   "url": "https://grc-indonesia.com/pelatihan-legal-and-compliance-management/",
   "status": "Aktif",
-  "total_impr": 1958,
-  "total_clicks": 22,
-  "ctr": 1.12,
-  "avg_rank": 36.4,
-  "latest_rank": 29.0,
+  "total_impr": 102,
+  "total_clicks": 8,
+  "ctr": 7.84,
+  "avg_rank": 21.0,
+  "latest_rank": 8.6,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 32.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 15.0
+    "w": "W37",
+    "impr": 21,
+    "clicks": 1,
+    "ctr": 4.76,
+    "rank": 25.0
    },
    {
-    "w": "W2",
-    "impr": 59.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
+    "w": "W38",
+    "impr": 70,
+    "clicks": 6,
+    "ctr": 8.57,
+    "rank": 29.4
    },
    {
-    "w": "W3",
-    "impr": 69.0,
-    "clicks": 3.0,
-    "ctr": 4.35,
-    "rank": 8.0
-   },
-   {
-    "w": "W4",
-    "impr": 82.0,
-    "clicks": 1.0,
-    "ctr": 1.22,
-    "rank": 16.0
-   },
-   {
-    "w": "W5",
-    "impr": 36.0,
-    "clicks": 2.0,
-    "ctr": 5.56,
-    "rank": 11.0
-   },
-   {
-    "w": "W6",
-    "impr": 56.0,
-    "clicks": 1.0,
-    "ctr": 1.79,
-    "rank": 16.0
-   },
-   {
-    "w": "W7",
-    "impr": 34.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 23.0
-   },
-   {
-    "w": "W8",
-    "impr": 43.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 23.0
-   },
-   {
-    "w": "W9",
-    "impr": 54.0,
-    "clicks": 1.0,
-    "ctr": 1.85,
-    "rank": 21.0
-   },
-   {
-    "w": "W10",
-    "impr": 69.0,
-    "clicks": 2.0,
-    "ctr": 2.9,
-    "rank": 37.0
-   },
-   {
-    "w": "W11",
-    "impr": 79.0,
-    "clicks": 3.0,
-    "ctr": 3.8,
-    "rank": 32.0
-   },
-   {
-    "w": "W12",
-    "impr": 57.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 41.0
-   },
-   {
-    "w": "W13",
-    "impr": 66.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 35.0
-   },
-   {
-    "w": "W14",
-    "impr": 64.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 37.0
-   },
-   {
-    "w": "W15",
-    "impr": 62.0,
-    "clicks": 1.0,
-    "ctr": 1.61,
-    "rank": 36.0
-   },
-   {
-    "w": "W16",
-    "impr": 37.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 54.0
-   },
-   {
-    "w": "W17",
-    "impr": 40.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 45.0
-   },
-   {
-    "w": "W18",
-    "impr": 44.0,
-    "clicks": 1.0,
-    "ctr": 2.27,
-    "rank": 46.0
-   },
-   {
-    "w": "W19",
-    "impr": 36.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 37.0
-   },
-   {
-    "w": "W20",
-    "impr": 49.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 47.0
-   },
-   {
-    "w": "W21",
-    "impr": 51.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 39.0
-   },
-   {
-    "w": "W22",
-    "impr": 58.0,
-    "clicks": 1.0,
-    "ctr": 1.72,
-    "rank": 59.0
-   },
-   {
-    "w": "W23",
-    "impr": 56.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 53.0
-   },
-   {
-    "w": "W24",
-    "impr": 53.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 50.0
-   },
-   {
-    "w": "W25",
-    "impr": 58.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 52.0
-   },
-   {
-    "w": "W26",
-    "impr": 68.0,
-    "clicks": 1.0,
-    "ctr": 1.47,
-    "rank": 47.0
-   },
-   {
-    "w": "W27",
-    "impr": 76.0,
-    "clicks": 1.0,
-    "ctr": 1.32,
-    "rank": 44.0
-   },
-   {
-    "w": "W28",
-    "impr": 69.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 45.8
-   },
-   {
-    "w": "W29",
-    "impr": 63.0,
-    "clicks": 1.0,
-    "ctr": 1.59,
-    "rank": 43.8
-   },
-   {
-    "w": "W30",
-    "impr": 59.0,
-    "clicks": 1.0,
-    "ctr": 1.69,
-    "rank": 36.2
-   },
-   {
-    "w": "W31",
-    "impr": 56.0,
-    "clicks": 1.0,
-    "ctr": 1.79,
-    "rank": 49.0
-   },
-   {
-    "w": "W32",
-    "impr": 64.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 48.4
-   },
-   {
-    "w": "W33",
-    "impr": 65.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 55.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W36",
-    "impr": 94.0,
-    "clicks": 1.0,
-    "ctr": 1.06,
-    "rank": 29.0
+    "w": "W39",
+    "impr": 11,
+    "clicks": 1,
+    "ctr": 9.09,
+    "rank": 8.6
    }
   ]
  },
@@ -3986,256 +2516,46 @@
   "vol_info": "450",
   "url": "https://grc-indonesia.com/sertifikasi/qrmo-qualified-risk-management-officer/",
   "status": "Aktif",
-  "total_impr": 4809,
-  "total_clicks": 36,
-  "ctr": 0.75,
-  "avg_rank": 8.9,
-  "latest_rank": 12.0,
+  "total_impr": 436,
+  "total_clicks": 4,
+  "ctr": 0.92,
+  "avg_rank": 11.1,
+  "latest_rank": 7.0,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 163.0,
-    "clicks": 1.0,
-    "ctr": 0.61,
-    "rank": 7.0
-   },
-   {
-    "w": "W2",
-    "impr": 254.0,
-    "clicks": 3.0,
-    "ctr": 1.18,
-    "rank": 8.0
-   },
-   {
-    "w": "W3",
-    "impr": 238.0,
-    "clicks": 2.0,
-    "ctr": 0.84,
-    "rank": 9.0
-   },
-   {
-    "w": "W4",
-    "impr": 250.0,
-    "clicks": 2.0,
-    "ctr": 0.8,
-    "rank": 9.0
-   },
-   {
-    "w": "W5",
-    "impr": 313.0,
-    "clicks": 5.0,
-    "ctr": 1.6,
-    "rank": 7.0
-   },
-   {
-    "w": "W6",
-    "impr": 414.0,
-    "clicks": 3.0,
-    "ctr": 0.72,
-    "rank": 7.0
-   },
-   {
-    "w": "W7",
-    "impr": 292.0,
-    "clicks": 3.0,
-    "ctr": 1.03,
-    "rank": 7.0
-   },
-   {
-    "w": "W8",
-    "impr": 421.0,
-    "clicks": 4.0,
-    "ctr": 0.95,
-    "rank": 6.0
-   },
-   {
-    "w": "W9",
-    "impr": 335.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W10",
-    "impr": 296.0,
-    "clicks": 1.0,
-    "ctr": 0.34,
-    "rank": 10.0
-   },
-   {
-    "w": "W11",
-    "impr": 202.0,
-    "clicks": 2.0,
-    "ctr": 0.99,
-    "rank": 10.0
-   },
-   {
-    "w": "W12",
-    "impr": 143.0,
-    "clicks": 1.0,
-    "ctr": 0.7,
-    "rank": 13.0
-   },
-   {
-    "w": "W13",
-    "impr": 214.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W14",
-    "impr": 194.0,
-    "clicks": 1.0,
-    "ctr": 0.52,
-    "rank": 9.0
-   },
-   {
-    "w": "W15",
-    "impr": 189.0,
-    "clicks": 1.0,
-    "ctr": 0.53,
-    "rank": 10.0
-   },
-   {
-    "w": "W16",
-    "impr": 257.0,
-    "clicks": 3.0,
-    "ctr": 1.17,
-    "rank": 7.0
-   },
-   {
-    "w": "W17",
-    "impr": 325.0,
-    "clicks": 2.0,
-    "ctr": 0.62,
-    "rank": 7.0
-   },
-   {
-    "w": "W18",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W19",
-    "impr": 21.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W20",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W21",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W22",
-    "impr": 13.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W23",
-    "impr": 31.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W24",
-    "impr": 18.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W25",
-    "impr": 16.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W26",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W27",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W28",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.2
-   },
-   {
-    "w": "W29",
-    "impr": 15.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.7
-   },
-   {
-    "w": "W30",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.2
-   },
-   {
-    "w": "W31",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W32",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W33",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
     "w": "W34",
-    "impr": 2.0,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 7.9
+   },
+   {
+    "w": "W35",
+    "impr": 138,
+    "clicks": 1,
+    "ctr": 0.72,
+    "rank": 15.4
    },
    {
     "w": "W36",
-    "impr": 119.0,
-    "clicks": 2.0,
-    "ctr": 1.68,
-    "rank": 12.0
+    "impr": 136,
+    "clicks": 3,
+    "ctr": 2.21,
+    "rank": 10.8
+   },
+   {
+    "w": "W37",
+    "impr": 137,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.4
+   },
+   {
+    "w": "W38",
+    "impr": 14,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
    }
   ]
  },
@@ -4251,256 +2571,25 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp/",
   "status": "Aktif",
-  "total_impr": 2366,
-  "total_clicks": 32,
-  "ctr": 1.35,
-  "avg_rank": 7.9,
-  "latest_rank": 10.0,
+  "total_impr": 53,
+  "total_clicks": 1,
+  "ctr": 1.89,
+  "avg_rank": 7.0,
+  "latest_rank": 7.3,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 69.0,
-    "clicks": 1.0,
-    "ctr": 1.45,
-    "rank": 6.0
+    "w": "W38",
+    "impr": 22,
+    "clicks": 1,
+    "ctr": 4.55,
+    "rank": 6.7
    },
    {
-    "w": "W2",
-    "impr": 108.0,
-    "clicks": 2.0,
-    "ctr": 1.85,
-    "rank": 6.0
-   },
-   {
-    "w": "W3",
-    "impr": 121.0,
-    "clicks": 2.0,
-    "ctr": 1.65,
-    "rank": 7.0
-   },
-   {
-    "w": "W4",
-    "impr": 147.0,
-    "clicks": 1.0,
-    "ctr": 0.68,
-    "rank": 6.0
-   },
-   {
-    "w": "W5",
-    "impr": 145.0,
-    "clicks": 5.0,
-    "ctr": 3.45,
-    "rank": 5.0
-   },
-   {
-    "w": "W6",
-    "impr": 157.0,
-    "clicks": 1.0,
-    "ctr": 0.64,
-    "rank": 5.0
-   },
-   {
-    "w": "W7",
-    "impr": 148.0,
+    "w": "W39",
+    "impr": 31,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W8",
-    "impr": 152.0,
-    "clicks": 5.0,
-    "ctr": 3.29,
-    "rank": 6.0
-   },
-   {
-    "w": "W9",
-    "impr": 167.0,
-    "clicks": 2.0,
-    "ctr": 1.2,
-    "rank": 7.0
-   },
-   {
-    "w": "W10",
-    "impr": 145.0,
-    "clicks": 3.0,
-    "ctr": 2.07,
-    "rank": 6.0
-   },
-   {
-    "w": "W11",
-    "impr": 90.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W12",
-    "impr": 67.0,
-    "clicks": 4.0,
-    "ctr": 5.97,
-    "rank": 12.0
-   },
-   {
-    "w": "W13",
-    "impr": 135.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W14",
-    "impr": 99.0,
-    "clicks": 1.0,
-    "ctr": 1.01,
-    "rank": 8.0
-   },
-   {
-    "w": "W15",
-    "impr": 95.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W16",
-    "impr": 102.0,
-    "clicks": 4.0,
-    "ctr": 3.92,
-    "rank": 6.0
-   },
-   {
-    "w": "W17",
-    "impr": 128.0,
-    "clicks": 1.0,
-    "ctr": 0.78,
-    "rank": 7.0
-   },
-   {
-    "w": "W18",
-    "impr": 20.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W19",
-    "impr": 53.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W20",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W21",
-    "impr": 43.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W22",
-    "impr": 15.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W23",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W24",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W25",
-    "impr": 5.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W26",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W27",
-    "impr": 13.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W28",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W29",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.7
-   },
-   {
-    "w": "W30",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.8
-   },
-   {
-    "w": "W31",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W32",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W33",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W34",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W36",
-    "impr": 77.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
+    "rank": 7.3
    }
   ]
  },
@@ -4516,256 +2605,25 @@
   "vol_info": "500",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-qcro-bnsp/",
   "status": "Aktif",
-  "total_impr": 3275,
-  "total_clicks": 19,
-  "ctr": 0.58,
-  "avg_rank": 9.0,
-  "latest_rank": 10.0,
+  "total_impr": 31,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 5.7,
+  "latest_rank": 6.9,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 78.0,
+    "w": "W38",
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 4.4
    },
    {
-    "w": "W2",
-    "impr": 159.0,
-    "clicks": 1.0,
-    "ctr": 0.63,
-    "rank": 9.0
-   },
-   {
-    "w": "W3",
-    "impr": 161.0,
+    "w": "W39",
+    "impr": 23,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W4",
-    "impr": 132.0,
-    "clicks": 1.0,
-    "ctr": 0.76,
-    "rank": 5.0
-   },
-   {
-    "w": "W5",
-    "impr": 176.0,
-    "clicks": 2.0,
-    "ctr": 1.14,
-    "rank": 5.0
-   },
-   {
-    "w": "W6",
-    "impr": 176.0,
-    "clicks": 2.0,
-    "ctr": 1.14,
-    "rank": 6.0
-   },
-   {
-    "w": "W7",
-    "impr": 137.0,
-    "clicks": 1.0,
-    "ctr": 0.73,
-    "rank": 5.0
-   },
-   {
-    "w": "W8",
-    "impr": 180.0,
-    "clicks": 3.0,
-    "ctr": 1.67,
-    "rank": 6.0
-   },
-   {
-    "w": "W9",
-    "impr": 116.0,
-    "clicks": 1.0,
-    "ctr": 0.86,
-    "rank": 6.0
-   },
-   {
-    "w": "W10",
-    "impr": 155.0,
-    "clicks": 2.0,
-    "ctr": 1.29,
-    "rank": 9.0
-   },
-   {
-    "w": "W11",
-    "impr": 156.0,
-    "clicks": 1.0,
-    "ctr": 0.64,
-    "rank": 10.0
-   },
-   {
-    "w": "W12",
-    "impr": 94.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W13",
-    "impr": 83.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W14",
-    "impr": 127.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W15",
-    "impr": 185.0,
-    "clicks": 3.0,
-    "ctr": 1.62,
-    "rank": 10.0
-   },
-   {
-    "w": "W16",
-    "impr": 197.0,
-    "clicks": 2.0,
-    "ctr": 1.02,
-    "rank": 11.0
-   },
-   {
-    "w": "W17",
-    "impr": 174.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W18",
-    "impr": 22.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W19",
-    "impr": 39.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W20",
-    "impr": 29.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W21",
-    "impr": 47.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W22",
-    "impr": 31.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W23",
-    "impr": 224.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W24",
-    "impr": 91.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W25",
-    "impr": 45.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W26",
-    "impr": 46.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W27",
-    "impr": 28.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W28",
-    "impr": 36.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.1
-   },
-   {
-    "w": "W29",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.1
-   },
-   {
-    "w": "W30",
-    "impr": 20.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.7
-   },
-   {
-    "w": "W31",
-    "impr": 36.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W32",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W33",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W34",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W36",
-    "impr": 74.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
+    "rank": 6.9
    }
   ]
  },
@@ -4781,256 +2639,25 @@
   "vol_info": "350",
   "url": "https://grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp/",
   "status": "Aktif",
-  "total_impr": 3436,
-  "total_clicks": 10,
-  "ctr": 0.29,
-  "avg_rank": 8.7,
-  "latest_rank": 12.0,
+  "total_impr": 31,
+  "total_clicks": 1,
+  "ctr": 3.23,
+  "avg_rank": 7.8,
+  "latest_rank": 6.1,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 145.0,
+    "w": "W38",
+    "impr": 17,
+    "clicks": 1,
+    "ctr": 5.88,
+    "rank": 9.6
+   },
+   {
+    "w": "W39",
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W2",
-    "impr": 208.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W3",
-    "impr": 194.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W4",
-    "impr": 177.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W5",
-    "impr": 150.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W6",
-    "impr": 223.0,
-    "clicks": 1.0,
-    "ctr": 0.45,
-    "rank": 6.0
-   },
-   {
-    "w": "W7",
-    "impr": 237.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W8",
-    "impr": 182.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W9",
-    "impr": 103.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W10",
-    "impr": 87.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W11",
-    "impr": 78.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W12",
-    "impr": 54.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W13",
-    "impr": 60.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W14",
-    "impr": 74.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W15",
-    "impr": 84.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W16",
-    "impr": 95.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W17",
-    "impr": 114.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W18",
-    "impr": 105.0,
-    "clicks": 1.0,
-    "ctr": 0.95,
-    "rank": 11.0
-   },
-   {
-    "w": "W19",
-    "impr": 85.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W20",
-    "impr": 69.0,
-    "clicks": 1.0,
-    "ctr": 1.45,
-    "rank": 10.0
-   },
-   {
-    "w": "W21",
-    "impr": 62.0,
-    "clicks": 1.0,
-    "ctr": 1.61,
-    "rank": 10.0
-   },
-   {
-    "w": "W22",
-    "impr": 69.0,
-    "clicks": 1.0,
-    "ctr": 1.45,
-    "rank": 12.0
-   },
-   {
-    "w": "W23",
-    "impr": 84.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W24",
-    "impr": 61.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W25",
-    "impr": 62.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W26",
-    "impr": 86.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W27",
-    "impr": 65.0,
-    "clicks": 1.0,
-    "ctr": 1.54,
-    "rank": 5.0
-   },
-   {
-    "w": "W28",
-    "impr": 64.0,
-    "clicks": 1.0,
-    "ctr": 1.56,
-    "rank": 9.0
-   },
-   {
-    "w": "W29",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W30",
-    "impr": 60.0,
-    "clicks": 1.0,
-    "ctr": 1.67,
-    "rank": 8.0
-   },
-   {
-    "w": "W31",
-    "impr": 105.0,
-    "clicks": 1.0,
-    "ctr": 0.95,
-    "rank": 8.0
-   },
-   {
-    "w": "W32",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.7
-   },
-   {
-    "w": "W33",
-    "impr": 110.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W34",
-    "impr": 80.0,
-    "clicks": 1.0,
-    "ctr": 1.25,
-    "rank": 12.0
-   },
-   {
-    "w": "W36",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
+    "rank": 6.1
    }
   ]
  },
@@ -5046,256 +2673,39 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 4266,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 4.3,
-  "latest_rank": 13.0,
+  "total_impr": 442,
+  "total_clicks": 5,
+  "ctr": 1.13,
+  "avg_rank": 12.5,
+  "latest_rank": 9.6,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 73.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W2",
-    "impr": 144.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W3",
-    "impr": 140.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W4",
-    "impr": 141.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W5",
-    "impr": 215.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W6",
-    "impr": 148.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W7",
-    "impr": 138.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W8",
-    "impr": 138.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W9",
-    "impr": 196.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W10",
-    "impr": 47.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W11",
-    "impr": 109.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W12",
-    "impr": 15.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W13",
-    "impr": 124.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W14",
-    "impr": 180.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W15",
-    "impr": 139.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W16",
-    "impr": 131.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W17",
-    "impr": 220.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W18",
-    "impr": 189.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W19",
-    "impr": 173.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W20",
-    "impr": 158.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W21",
-    "impr": 171.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W22",
-    "impr": 110.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W23",
-    "impr": 188.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W24",
-    "impr": 177.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W25",
-    "impr": 31.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W26",
-    "impr": 138.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W27",
-    "impr": 160.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W28",
-    "impr": 115.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.4
-   },
-   {
-    "w": "W29",
-    "impr": 120.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.9
-   },
-   {
-    "w": "W30",
-    "impr": 87.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.8
-   },
-   {
-    "w": "W31",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 1.0
-   },
-   {
-    "w": "W32",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W33",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W34",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
     "w": "W36",
-    "impr": 142.0,
+    "impr": 34,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.0
+    "rank": 20.6
+   },
+   {
+    "w": "W37",
+    "impr": 157,
+    "clicks": 1,
+    "ctr": 0.64,
+    "rank": 10.4
+   },
+   {
+    "w": "W38",
+    "impr": 222,
+    "clicks": 4,
+    "ctr": 1.8,
+    "rank": 9.2
+   },
+   {
+    "w": "W39",
+    "impr": 29,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
    }
   ]
  },
@@ -5311,256 +2721,18 @@
   "vol_info": "3,500",
   "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/",
   "status": "Aktif",
-  "total_impr": 387,
-  "total_clicks": 1,
-  "ctr": 0.26,
-  "avg_rank": 8.8,
-  "latest_rank": 7.0,
+  "total_impr": 4,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 1.0,
+  "latest_rank": 1.0,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 8.0,
+    "w": "W38",
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W2",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W3",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W4",
-    "impr": 16.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W5",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W6",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W7",
-    "impr": 5.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W8",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W9",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W10",
-    "impr": 5.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W11",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W12",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W13",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W14",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W15",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W16",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W17",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W18",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W19",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W20",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W21",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W22",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W23",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W24",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W25",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W26",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W27",
-    "impr": 105.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W28",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.5
-   },
-   {
-    "w": "W29",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W30",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W31",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.7
-   },
-   {
-    "w": "W32",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.0
-   },
-   {
-    "w": "W33",
-    "impr": 39.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 22.0
-   },
-   {
-    "w": "W34",
-    "impr": 66.0,
-    "clicks": 1.0,
-    "ctr": 1.52,
-    "rank": 10.0
-   },
-   {
-    "w": "W36",
-    "impr": 21.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
+    "rank": 1.0
    }
   ]
  },
@@ -5576,256 +2748,263 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/integrasi-iso-31000-dengan-iso-9001/",
   "status": "Aktif",
-  "total_impr": 2115,
-  "total_clicks": 123,
-  "ctr": 5.82,
-  "avg_rank": 12.8,
-  "latest_rank": 6.0,
+  "total_impr": 407,
+  "total_clicks": 3,
+  "ctr": 0.74,
+  "avg_rank": 8.2,
+  "latest_rank": 4.5,
   "weeks": [
    {
     "w": "W1",
-    "impr": 64.0,
-    "clicks": 4.0,
-    "ctr": 6.25,
-    "rank": 8.0
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.8
    },
    {
     "w": "W2",
-    "impr": 143.0,
-    "clicks": 7.0,
-    "ctr": 4.9,
-    "rank": 10.0
-   },
-   {
-    "w": "W3",
-    "impr": 163.0,
-    "clicks": 8.0,
-    "ctr": 4.91,
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
     "rank": 7.0
    },
    {
+    "w": "W3",
+    "impr": 27,
+    "clicks": 2,
+    "ctr": 7.41,
+    "rank": 9.7
+   },
+   {
     "w": "W4",
-    "impr": 134.0,
-    "clicks": 7.0,
-    "ctr": 5.22,
-    "rank": 8.0
+    "impr": 19,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.5
    },
    {
     "w": "W5",
-    "impr": 133.0,
-    "clicks": 15.0,
-    "ctr": 11.28,
-    "rank": 9.0
+    "impr": 16,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.9
    },
    {
     "w": "W6",
-    "impr": 115.0,
-    "clicks": 6.0,
-    "ctr": 5.22,
-    "rank": 9.0
+    "impr": 15,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.8
    },
    {
     "w": "W7",
-    "impr": 49.0,
-    "clicks": 3.0,
-    "ctr": 6.12,
-    "rank": 12.0
+    "impr": 17,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.9
    },
    {
     "w": "W8",
-    "impr": 47.0,
+    "impr": 23,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 3.5
    },
    {
     "w": "W9",
-    "impr": 89.0,
-    "clicks": 2.0,
-    "ctr": 2.25,
-    "rank": 12.0
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.2
    },
    {
     "w": "W10",
-    "impr": 45.0,
-    "clicks": 1.0,
-    "ctr": 2.22,
-    "rank": 8.0
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.5
    },
    {
     "w": "W11",
-    "impr": 45.0,
-    "clicks": 3.0,
-    "ctr": 6.67,
-    "rank": 10.0
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.4
    },
    {
     "w": "W12",
-    "impr": 35.0,
-    "clicks": 1.0,
-    "ctr": 2.86,
-    "rank": 14.0
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.8
    },
    {
     "w": "W13",
-    "impr": 33.0,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 17.0
+    "rank": 3.6
    },
    {
     "w": "W14",
-    "impr": 46.0,
-    "clicks": 5.0,
-    "ctr": 10.87,
-    "rank": 13.0
+    "impr": 14,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.2
    },
    {
     "w": "W15",
-    "impr": 44.0,
-    "clicks": 7.0,
-    "ctr": 15.91,
-    "rank": 14.0
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.6
    },
    {
     "w": "W16",
-    "impr": 39.0,
-    "clicks": 2.0,
-    "ctr": 5.13,
-    "rank": 14.0
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.2
    },
    {
     "w": "W17",
-    "impr": 51.0,
-    "clicks": 2.0,
-    "ctr": 3.92,
-    "rank": 9.0
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.8
    },
    {
     "w": "W18",
-    "impr": 45.0,
-    "clicks": 3.0,
-    "ctr": 6.67,
-    "rank": 9.0
+    "impr": 27,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.6
    },
    {
     "w": "W19",
-    "impr": 57.0,
-    "clicks": 2.0,
-    "ctr": 3.51,
-    "rank": 9.0
+    "impr": 26,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.2
    },
    {
     "w": "W20",
-    "impr": 35.0,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.0
+    "rank": 8.0
    },
    {
     "w": "W21",
-    "impr": 43.0,
-    "clicks": 3.0,
-    "ctr": 6.98,
-    "rank": 15.0
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.5
    },
    {
     "w": "W22",
-    "impr": 43.0,
-    "clicks": 3.0,
-    "ctr": 6.98,
-    "rank": 16.0
+    "impr": 4,
+    "clicks": 1,
+    "ctr": 25.0,
+    "rank": 69.2
    },
    {
     "w": "W23",
-    "impr": 45.0,
-    "clicks": 3.0,
-    "ctr": 6.67,
-    "rank": 17.0
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.4
    },
    {
     "w": "W24",
-    "impr": 46.0,
-    "clicks": 6.0,
-    "ctr": 13.04,
-    "rank": 13.0
+    "impr": 16,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.9
    },
    {
     "w": "W25",
-    "impr": 59.0,
-    "clicks": 3.0,
-    "ctr": 5.08,
-    "rank": 14.0
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.1
    },
    {
     "w": "W26",
-    "impr": 61.0,
-    "clicks": 6.0,
-    "ctr": 9.84,
-    "rank": 13.0
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.5
    },
    {
     "w": "W27",
-    "impr": 41.0,
-    "clicks": 2.0,
-    "ctr": 4.88,
-    "rank": 18.0
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.7
    },
    {
     "w": "W28",
-    "impr": 40.0,
-    "clicks": 2.0,
-    "ctr": 5.0,
-    "rank": 12.5
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.1
    },
    {
     "w": "W29",
-    "impr": 76.0,
-    "clicks": 2.0,
-    "ctr": 2.63,
-    "rank": 8.3
-   },
-   {
-    "w": "W30",
-    "impr": 40.0,
-    "clicks": 3.0,
-    "ctr": 7.5,
-    "rank": 16.8
-   },
-   {
-    "w": "W31",
-    "impr": 59.0,
-    "clicks": 4.0,
-    "ctr": 6.78,
-    "rank": 21.0
-   },
-   {
-    "w": "W32",
-    "impr": 49.0,
-    "clicks": 2.0,
-    "ctr": 4.08,
-    "rank": 8.9
-   },
-   {
-    "w": "W33",
-    "impr": 49.0,
-    "clicks": 5.0,
-    "ctr": 10.2,
-    "rank": 29.0
-   },
-   {
-    "w": "W34",
-    "impr": 48.0,
-    "clicks": 1.0,
-    "ctr": 2.08,
-    "rank": 20.0
-   },
-   {
-    "w": "W36",
-    "impr": 4.0,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "W30",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.1
+   },
+   {
+    "w": "W31",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.1
+   },
+   {
+    "w": "W32",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.6
+   },
+   {
+    "w": "W33",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.9
+   },
+   {
+    "w": "W34",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.8
+   },
+   {
+    "w": "W35",
+    "impr": 14,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.9
+   },
+   {
+    "w": "W36",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.5
    }
   ]
  },
@@ -5841,256 +3020,32 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/pelatihan/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 460,
-  "total_clicks": 7,
-  "ctr": 1.52,
-  "avg_rank": 8.1,
-  "latest_rank": 9.0,
+  "total_impr": 84,
+  "total_clicks": 6,
+  "ctr": 7.14,
+  "avg_rank": 5.3,
+  "latest_rank": 2.9,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W2",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W3",
-    "impr": 27.0,
-    "clicks": 2.0,
-    "ctr": 7.41,
-    "rank": 7.0
-   },
-   {
-    "w": "W4",
-    "impr": 19.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W5",
-    "impr": 16.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W6",
-    "impr": 15.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W7",
-    "impr": 17.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 2.0
-   },
-   {
-    "w": "W8",
-    "impr": 23.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W9",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W10",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W11",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W12",
-    "impr": 5.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W13",
-    "impr": 14.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W14",
-    "impr": 14.0,
+    "w": "W35",
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
-   },
-   {
-    "w": "W15",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W16",
-    "impr": 13.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W17",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W18",
-    "impr": 27.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W19",
-    "impr": 26.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W20",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W21",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W22",
-    "impr": 4.0,
-    "clicks": 1.0,
-    "ctr": 25.0,
-    "rank": 69.0
-   },
-   {
-    "w": "W23",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W24",
-    "impr": 16.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W25",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W26",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W27",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W28",
-    "impr": 13.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.1
-   },
-   {
-    "w": "W29",
-    "impr": 5.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W30",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.4
-   },
-   {
-    "w": "W31",
-    "impr": 5.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.4
-   },
-   {
-    "w": "W32",
-    "impr": 9.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.3
-   },
-   {
-    "w": "W33",
-    "impr": 6.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W34",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
    },
    {
     "w": "W36",
-    "impr": 64.0,
-    "clicks": 4.0,
-    "ctr": 6.25,
-    "rank": 9.0
+    "impr": 72,
+    "clicks": 4,
+    "ctr": 5.56,
+    "rank": 10.1
+   },
+   {
+    "w": "W37",
+    "impr": 10,
+    "clicks": 2,
+    "ctr": 20.0,
+    "rank": 2.9
    }
   ]
  },
@@ -6106,256 +3061,172 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 1002,
-  "total_clicks": 14,
-  "ctr": 1.4,
-  "avg_rank": 7.9,
-  "latest_rank": 9.0,
+  "total_impr": 284,
+  "total_clicks": 13,
+  "ctr": 4.58,
+  "avg_rank": 6.8,
+  "latest_rank": 7.2,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 26.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 11.0
-   },
-   {
-    "w": "W2",
-    "impr": 58.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 19.0
-   },
-   {
-    "w": "W3",
-    "impr": 67.0,
-    "clicks": 1.0,
-    "ctr": 1.49,
-    "rank": 15.0
-   },
-   {
-    "w": "W4",
-    "impr": 106.0,
-    "clicks": 2.0,
-    "ctr": 1.89,
-    "rank": 24.0
-   },
-   {
-    "w": "W5",
-    "impr": 116.0,
-    "clicks": 3.0,
-    "ctr": 2.59,
-    "rank": 17.0
-   },
-   {
-    "w": "W6",
-    "impr": 99.0,
-    "clicks": 4.0,
-    "ctr": 4.04,
-    "rank": 13.0
-   },
-   {
-    "w": "W7",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W8",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W9",
-    "impr": 18.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W10",
-    "impr": 13.0,
+    "w": "W17",
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
    },
    {
-    "w": "W11",
-    "impr": 12.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W12",
-    "impr": 3.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W13",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W14",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W15",
-    "impr": 13.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
-    "w": "W16",
-    "impr": 33.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 15.0
-   },
-   {
-    "w": "W17",
-    "impr": 1.0,
+    "w": "W18",
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.0
    },
    {
-    "w": "W18",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
-   },
-   {
     "w": "W19",
-    "impr": 9.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 4.0
    },
    {
     "w": "W20",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
+    "impr": 5,
+    "clicks": 1,
+    "ctr": 20.0,
+    "rank": 4.1
    },
    {
     "w": "W21",
-    "impr": 19.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
+    "impr": 11,
+    "clicks": 1,
+    "ctr": 9.09,
+    "rank": 3.5
    },
    {
     "w": "W22",
-    "impr": 19.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
+    "impr": 5,
+    "clicks": 1,
+    "ctr": 20.0,
+    "rank": 6.3
    },
    {
     "w": "W23",
-    "impr": 15.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.0
+    "rank": 8.0
    },
    {
     "w": "W24",
-    "impr": 29.0,
+    "impr": 4,
+    "clicks": 1,
+    "ctr": 25.0,
+    "rank": 5.3
+   },
+   {
+    "w": "W25",
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
    },
    {
-    "w": "W25",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
     "w": "W26",
-    "impr": 26.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W27",
-    "impr": 17.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 3.0
-   },
-   {
-    "w": "W28",
-    "impr": 7.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.9
-   },
-   {
-    "w": "W29",
-    "impr": 10.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.3
-   },
-   {
-    "w": "W30",
-    "impr": 20.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.7
-   },
-   {
-    "w": "W31",
-    "impr": 16.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.6
-   },
-   {
-    "w": "W32",
-    "impr": 18.0,
-    "clicks": 0,
-    "ctr": 0.0,
+    "impr": 7,
+    "clicks": 1,
+    "ctr": 14.29,
     "rank": 4.5
    },
    {
+    "w": "W27",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.2
+   },
+   {
+    "w": "W28",
+    "impr": 9,
+    "clicks": 1,
+    "ctr": 11.11,
+    "rank": 6.3
+   },
+   {
+    "w": "W29",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.2
+   },
+   {
+    "w": "W30",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.1
+   },
+   {
+    "w": "W31",
+    "impr": 18,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.1
+   },
+   {
+    "w": "W32",
+    "impr": 22,
+    "clicks": 2,
+    "ctr": 9.09,
+    "rank": 6.3
+   },
+   {
     "w": "W33",
-    "impr": 92.0,
-    "clicks": 2.0,
-    "ctr": 2.17,
-    "rank": 8.0
+    "impr": 28,
+    "clicks": 2,
+    "ctr": 7.14,
+    "rank": 8.5
    },
    {
     "w": "W34",
-    "impr": 72.0,
-    "clicks": 1.0,
-    "ctr": 1.39,
-    "rank": 7.0
+    "impr": 23,
+    "clicks": 2,
+    "ctr": 8.7,
+    "rank": 10.6
+   },
+   {
+    "w": "W35",
+    "impr": 23,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.8
    },
    {
     "w": "W36",
-    "impr": 17.0,
-    "clicks": 1.0,
-    "ctr": 5.88,
-    "rank": 9.0
+    "impr": 24,
+    "clicks": 1,
+    "ctr": 4.17,
+    "rank": 7.6
+   },
+   {
+    "w": "W37",
+    "impr": 30,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.4
+   },
+   {
+    "w": "W38",
+    "impr": 28,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.5
+   },
+   {
+    "w": "W39",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.2
    }
   ]
  },
@@ -6371,253 +3242,36 @@
   "vol_info": "50 - 200",
   "url": "https://grc-indonesia.com/pelatihan-managing-legal-risk-based-on-iso-31022/",
   "status": "Aktif",
-  "total_impr": 190,
-  "total_clicks": 12,
-  "ctr": 6.32,
-  "avg_rank": 6.6,
+  "total_impr": 49,
+  "total_clicks": 1,
+  "ctr": 2.04,
+  "avg_rank": 7.9,
   "latest_rank": 8.0,
   "weeks": [
    {
-    "w": "W1",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W2",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W3",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W4",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W5",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W6",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W7",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W8",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W9",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W10",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W11",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W12",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W13",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W14",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W15",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W16",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "W17",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W18",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 12.0
-   },
-   {
-    "w": "W19",
-    "impr": 1.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W20",
-    "impr": 5.0,
-    "clicks": 1.0,
-    "ctr": 20.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W21",
-    "impr": 11.0,
-    "clicks": 1.0,
-    "ctr": 9.09,
-    "rank": 3.0
-   },
-   {
-    "w": "W22",
-    "impr": 5.0,
-    "clicks": 1.0,
-    "ctr": 20.0,
-    "rank": 6.0
-   },
-   {
-    "w": "W23",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 8.0
-   },
-   {
-    "w": "W24",
-    "impr": 4.0,
-    "clicks": 1.0,
-    "ctr": 25.0,
-    "rank": 4.0
-   },
-   {
-    "w": "W25",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.0
-   },
-   {
-    "w": "W26",
-    "impr": 7.0,
-    "clicks": 1.0,
-    "ctr": 14.29,
-    "rank": 5.0
-   },
-   {
-    "w": "W27",
-    "impr": 8.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 10.0
-   },
-   {
-    "w": "W28",
-    "impr": 9.0,
-    "clicks": 1.0,
-    "ctr": 11.11,
-    "rank": 5.7
-   },
-   {
-    "w": "W29",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.3
-   },
-   {
-    "w": "W30",
-    "impr": 11.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.7
-   },
-   {
-    "w": "W31",
-    "impr": 18.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.1
-   },
-   {
-    "w": "W32",
-    "impr": 22.0,
-    "clicks": 2.0,
-    "ctr": 9.09,
-    "rank": 6.4
-   },
-   {
-    "w": "W33",
-    "impr": 28.0,
-    "clicks": 2.0,
-    "ctr": 7.14,
-    "rank": 8.0
-   },
-   {
-    "w": "W34",
-    "impr": 20.0,
-    "clicks": 2.0,
-    "ctr": 10.0,
-    "rank": 11.0
-   },
-   {
     "w": "W36",
-    "impr": 18.0,
+    "impr": 20,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "W37",
+    "impr": 18,
+    "clicks": 1,
+    "ctr": 5.56,
+    "rank": 6.6
+   },
+   {
+    "w": "W38",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.9
+   },
+   {
+    "w": "W39",
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
@@ -6636,12 +3290,34 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/pelatihan-integrated-anti-fraud-management-system/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 42,
+  "total_clicks": 1,
+  "ctr": 2.38,
+  "avg_rank": 11.0,
+  "latest_rank": 8.1,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 4,
+    "clicks": 1,
+    "ctr": 25.0,
+    "rank": 19.2
+   },
+   {
+    "w": "W38",
+    "impr": 31,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.7
+   },
+   {
+    "w": "W39",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.1
+   }
+  ]
  },
  {
   "id": 27,
@@ -6655,12 +3331,20 @@
   "vol_info": "200",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 1,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 1.0,
+  "latest_rank": 1.0,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   }
+  ]
  },
  {
   "id": 28,
@@ -6674,12 +3358,34 @@
   "vol_info": "100- 250",
   "url": "https://grc-indonesia.com/pelatihan-internal-control-testing/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 80,
+  "total_clicks": 1,
+  "ctr": 1.25,
+  "avg_rank": 8.4,
+  "latest_rank": 4.6,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 21,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.4
+   },
+   {
+    "w": "W38",
+    "impr": 51,
+    "clicks": 1,
+    "ctr": 1.96,
+    "rank": 13.1
+   },
+   {
+    "w": "W39",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.6
+   }
+  ]
  },
  {
   "id": 29,
@@ -6693,12 +3399,34 @@
   "vol_info": "150 -300",
   "url": "https://grc-indonesia.com/training-integrated-governance-risk-management-compliance-grc/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 31,
+  "total_clicks": 2,
+  "ctr": 6.45,
+  "avg_rank": 6.3,
+  "latest_rank": 6.0,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 8,
+    "clicks": 1,
+    "ctr": 12.5,
+    "rank": 7.9
+   },
+   {
+    "w": "W38",
+    "impr": 22,
+    "clicks": 1,
+    "ctr": 4.55,
+    "rank": 4.9
+   },
+   {
+    "w": "W39",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   }
+  ]
  },
  {
   "id": 30,
@@ -6712,12 +3440,34 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-penyusunan-anggaran-berbasis-risiko/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 26,
+  "total_clicks": 1,
+  "ctr": 3.85,
+  "avg_rank": 5.7,
+  "latest_rank": 9.3,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "W38",
+    "impr": 21,
+    "clicks": 1,
+    "ctr": 4.76,
+    "rank": 4.8
+   },
+   {
+    "w": "W39",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.3
+   }
+  ]
  },
  {
   "id": 31,
@@ -6731,12 +3481,27 @@
   "vol_info": "100 – 300",
   "url": "https://grc-indonesia.com/pelatihan-implementasi-manajemen-risiko-bumn-per2-mbu-03-2023/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 24,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 4.9,
+  "latest_rank": 2.5,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 22,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
+   },
+   {
+    "w": "W39",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.5
+   }
+  ]
  },
  {
   "id": 32,
@@ -6750,12 +3515,34 @@
   "vol_info": "200 - 450",
   "url": "https://grc-indonesia.com/pelatihan-rkap-berbasis-risiko/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 60,
+  "total_clicks": 2,
+  "ctr": 3.33,
+  "avg_rank": 8.3,
+  "latest_rank": 10.1,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.8
+   },
+   {
+    "w": "W38",
+    "impr": 46,
+    "clicks": 2,
+    "ctr": 4.35,
+    "rank": 6.1
+   },
+   {
+    "w": "W39",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.1
+   }
+  ]
  },
  {
   "id": 33,
@@ -6769,12 +3556,27 @@
   "vol_info": "800-2.000",
   "url": "https://grc-indonesia.com/pelatihan-risk-control-self-assessment/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 77,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 8.7,
+  "latest_rank": 5.9,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 48,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.4
+   },
+   {
+    "w": "W39",
+    "impr": 29,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.9
+   }
+  ]
  },
  {
   "id": 34,
@@ -6788,12 +3590,34 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-good-corporate-governance-gcg-terbaik/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 79,
+  "total_clicks": 7,
+  "ctr": 8.86,
+  "avg_rank": 5.0,
+  "latest_rank": 4.1,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 15,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.7
+   },
+   {
+    "w": "W38",
+    "impr": 54,
+    "clicks": 5,
+    "ctr": 9.26,
+    "rank": 6.2
+   },
+   {
+    "w": "W39",
+    "impr": 10,
+    "clicks": 2,
+    "ctr": 20.0,
+    "rank": 4.1
+   }
+  ]
  },
  {
   "id": 35,
@@ -6807,12 +3631,27 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko-berbasis-data/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 21,
+  "total_clicks": 1,
+  "ctr": 4.76,
+  "avg_rank": 16.1,
+  "latest_rank": 14.8,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 13,
+    "clicks": 1,
+    "ctr": 7.69,
+    "rank": 17.5
+   },
+   {
+    "w": "W38",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.8
+   }
+  ]
  },
  {
   "id": 36,
@@ -6826,12 +3665,34 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-kepatuhan-apu-dan-ppt-untuk-perusahaan/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 68,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 7.7,
+  "latest_rank": 8.6,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 15,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.9
+   },
+   {
+    "w": "W38",
+    "impr": 46,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.6
+   },
+   {
+    "w": "W39",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.6
+   }
+  ]
  },
  {
   "id": 37,
@@ -6845,12 +3706,27 @@
   "vol_info": "450-800",
   "url": "https://grc-indonesia.com/pelatihan-risiko-proyek-konstruksi/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 3,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 21.5,
+  "latest_rank": 37.0,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "W39",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 37.0
+   }
+  ]
  },
  {
   "id": 38,
@@ -6864,12 +3740,34 @@
   "vol_info": "100 - 250",
   "url": "https://grc-indonesia.com/sertifikasi-certified-governance-professional-cgp/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 1378,
+  "total_clicks": 11,
+  "ctr": 0.8,
+  "avg_rank": 6.9,
+  "latest_rank": 6.2,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 431,
+    "clicks": 2,
+    "ctr": 0.46,
+    "rank": 7.1
+   },
+   {
+    "w": "W38",
+    "impr": 817,
+    "clicks": 8,
+    "ctr": 0.98,
+    "rank": 7.3
+   },
+   {
+    "w": "W39",
+    "impr": 130,
+    "clicks": 1,
+    "ctr": 0.77,
+    "rank": 6.2
+   }
+  ]
  },
  {
   "id": 39,
@@ -6883,12 +3781,34 @@
   "vol_info": "300-600",
   "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 25,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 7.3,
+  "latest_rank": 8.0,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.2
+   },
+   {
+    "w": "W38",
+    "impr": 18,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
+   },
+   {
+    "w": "W39",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   }
+  ]
  },
  {
   "id": 40,
@@ -6902,12 +3822,34 @@
   "vol_info": "1,000",
   "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 25,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 7.3,
+  "latest_rank": 8.0,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.2
+   },
+   {
+    "w": "W38",
+    "impr": 18,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
+   },
+   {
+    "w": "W39",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   }
+  ]
  },
  {
   "id": 41,
@@ -6921,12 +3863,34 @@
   "vol_info": "150 - 300",
   "url": "https://grc-indonesia.com/pelatihan-ccgo-cgop-lsp-mks-indonesia/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 79,
+  "total_clicks": 2,
+  "ctr": 2.53,
+  "avg_rank": 7.3,
+  "latest_rank": 3.6,
+  "weeks": [
+   {
+    "w": "W37",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.6
+   },
+   {
+    "w": "W38",
+    "impr": 58,
+    "clicks": 2,
+    "ctr": 3.45,
+    "rank": 11.6
+   },
+   {
+    "w": "W39",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.6
+   }
+  ]
  },
  {
   "id": 42,
@@ -6940,12 +3904,27 @@
   "vol_info": "100 – 250",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-data-analytics-risk-management/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 32,
+  "total_clicks": 3,
+  "ctr": 9.38,
+  "avg_rank": 11.3,
+  "latest_rank": 8.5,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 26,
+    "clicks": 2,
+    "ctr": 7.69,
+    "rank": 14.1
+   },
+   {
+    "w": "W39",
+    "impr": 6,
+    "clicks": 1,
+    "ctr": 16.67,
+    "rank": 8.5
+   }
+  ]
  },
  {
   "id": 43,
@@ -6959,12 +3938,27 @@
   "vol_info": "500 - 1.200",
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 64,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 6.8,
+  "latest_rank": 7.6,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 59,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.1
+   },
+   {
+    "w": "W39",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.6
+   }
+  ]
  },
  {
   "id": 44,
@@ -6978,12 +3972,27 @@
   "vol_info": "1100",
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 64,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 6.8,
+  "latest_rank": 7.6,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 59,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.1
+   },
+   {
+    "w": "W39",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.6
+   }
+  ]
  },
  {
   "id": 45,
@@ -6997,12 +4006,27 @@
   "vol_info": "950",
   "url": "https://grc-indonesia.com/pelatihan-internal-control-testing-bumn/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 22,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 7.3,
+  "latest_rank": 7.7,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 15,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "W39",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.7
+   }
+  ]
  },
  {
   "id": 46,
@@ -7016,12 +4040,27 @@
   "vol_info": "350 - 700",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-managing-legal-risk-iso-31022/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 16,
+  "total_clicks": 2,
+  "ctr": 12.5,
+  "avg_rank": 4.8,
+  "latest_rank": 3.0,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 12,
+    "clicks": 1,
+    "ctr": 8.33,
+    "rank": 6.7
+   },
+   {
+    "w": "W39",
+    "impr": 4,
+    "clicks": 1,
+    "ctr": 25.0,
+    "rank": 3.0
+   }
+  ]
  },
  {
   "id": 47,
@@ -7035,12 +4074,27 @@
   "vol_info": "300 - 700",
   "url": "https://grc-indonesia.com/sertifikasi/master-class-enterprise-risk-governance-qcro-qrgp-cerg/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 16,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 6.8,
+  "latest_rank": 6.2,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
+   },
+   {
+    "w": "W39",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.2
+   }
+  ]
  },
  {
   "id": 48,
@@ -7054,12 +4108,20 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-pengambilan-keputusan-direksi-debiasing/",
   "status": "Aktif",
-  "total_impr": 0,
+  "total_impr": 9,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "avg_rank": 21.0,
+  "latest_rank": 21.0,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 21.0
+   }
+  ]
  },
  {
   "id": 49,
@@ -7073,12 +4135,286 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/risk-maturity-level/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 7599,
+  "total_clicks": 61,
+  "ctr": 0.8,
+  "avg_rank": 10.7,
+  "latest_rank": 8.3,
+  "weeks": [
+   {
+    "w": "W1",
+    "impr": 161,
+    "clicks": 4,
+    "ctr": 2.48,
+    "rank": 8.2
+   },
+   {
+    "w": "W2",
+    "impr": 376,
+    "clicks": 3,
+    "ctr": 0.8,
+    "rank": 9.4
+   },
+   {
+    "w": "W3",
+    "impr": 298,
+    "clicks": 1,
+    "ctr": 0.34,
+    "rank": 8.5
+   },
+   {
+    "w": "W4",
+    "impr": 301,
+    "clicks": 1,
+    "ctr": 0.33,
+    "rank": 7.4
+   },
+   {
+    "w": "W5",
+    "impr": 308,
+    "clicks": 3,
+    "ctr": 0.97,
+    "rank": 7.9
+   },
+   {
+    "w": "W6",
+    "impr": 222,
+    "clicks": 3,
+    "ctr": 1.35,
+    "rank": 8.1
+   },
+   {
+    "w": "W7",
+    "impr": 392,
+    "clicks": 5,
+    "ctr": 1.28,
+    "rank": 8.5
+   },
+   {
+    "w": "W8",
+    "impr": 189,
+    "clicks": 2,
+    "ctr": 1.06,
+    "rank": 10.8
+   },
+   {
+    "w": "W9",
+    "impr": 365,
+    "clicks": 1,
+    "ctr": 0.27,
+    "rank": 7.8
+   },
+   {
+    "w": "W10",
+    "impr": 240,
+    "clicks": 6,
+    "ctr": 2.5,
+    "rank": 8.4
+   },
+   {
+    "w": "W11",
+    "impr": 159,
+    "clicks": 2,
+    "ctr": 1.26,
+    "rank": 9.7
+   },
+   {
+    "w": "W12",
+    "impr": 55,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.7
+   },
+   {
+    "w": "W13",
+    "impr": 117,
+    "clicks": 1,
+    "ctr": 0.85,
+    "rank": 12.8
+   },
+   {
+    "w": "W14",
+    "impr": 148,
+    "clicks": 2,
+    "ctr": 1.35,
+    "rank": 11.9
+   },
+   {
+    "w": "W15",
+    "impr": 213,
+    "clicks": 4,
+    "ctr": 1.88,
+    "rank": 11.2
+   },
+   {
+    "w": "W16",
+    "impr": 213,
+    "clicks": 1,
+    "ctr": 0.47,
+    "rank": 8.7
+   },
+   {
+    "w": "W17",
+    "impr": 155,
+    "clicks": 3,
+    "ctr": 1.94,
+    "rank": 9.2
+   },
+   {
+    "w": "W18",
+    "impr": 103,
+    "clicks": 4,
+    "ctr": 3.88,
+    "rank": 14.9
+   },
+   {
+    "w": "W19",
+    "impr": 82,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.5
+   },
+   {
+    "w": "W20",
+    "impr": 76,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.3
+   },
+   {
+    "w": "W21",
+    "impr": 97,
+    "clicks": 2,
+    "ctr": 2.06,
+    "rank": 9.1
+   },
+   {
+    "w": "W22",
+    "impr": 62,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.5
+   },
+   {
+    "w": "W23",
+    "impr": 199,
+    "clicks": 1,
+    "ctr": 0.5,
+    "rank": 10.0
+   },
+   {
+    "w": "W24",
+    "impr": 192,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.5
+   },
+   {
+    "w": "W25",
+    "impr": 283,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.8
+   },
+   {
+    "w": "W26",
+    "impr": 235,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.4
+   },
+   {
+    "w": "W27",
+    "impr": 235,
+    "clicks": 1,
+    "ctr": 0.43,
+    "rank": 7.6
+   },
+   {
+    "w": "W28",
+    "impr": 186,
+    "clicks": 1,
+    "ctr": 0.54,
+    "rank": 9.0
+   },
+   {
+    "w": "W29",
+    "impr": 458,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.8
+   },
+   {
+    "w": "W30",
+    "impr": 363,
+    "clicks": 1,
+    "ctr": 0.28,
+    "rank": 8.5
+   },
+   {
+    "w": "W31",
+    "impr": 369,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
+   },
+   {
+    "w": "W32",
+    "impr": 195,
+    "clicks": 1,
+    "ctr": 0.51,
+    "rank": 5.9
+   },
+   {
+    "w": "W33",
+    "impr": 153,
+    "clicks": 1,
+    "ctr": 0.65,
+    "rank": 10.2
+   },
+   {
+    "w": "W34",
+    "impr": 79,
+    "clicks": 1,
+    "ctr": 1.27,
+    "rank": 14.5
+   },
+   {
+    "w": "W35",
+    "impr": 57,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 23.5
+   },
+   {
+    "w": "W36",
+    "impr": 61,
+    "clicks": 2,
+    "ctr": 3.28,
+    "rank": 11.5
+   },
+   {
+    "w": "W37",
+    "impr": 109,
+    "clicks": 3,
+    "ctr": 2.75,
+    "rank": 11.7
+   },
+   {
+    "w": "W38",
+    "impr": 77,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.2
+   },
+   {
+    "w": "W39",
+    "impr": 16,
+    "clicks": 1,
+    "ctr": 6.25,
+    "rank": 8.3
+   }
+  ]
  },
  {
   "id": 50,
@@ -7092,12 +4428,27 @@
   "vol_info": "320 - 590",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-perbankan/",
   "status": "Aktif",
-  "total_impr": 0,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 0,
-  "latest_rank": 0,
-  "weeks": []
+  "total_impr": 82,
+  "total_clicks": 2,
+  "ctr": 2.44,
+  "avg_rank": 7.8,
+  "latest_rank": 7.3,
+  "weeks": [
+   {
+    "w": "W38",
+    "impr": 60,
+    "clicks": 2,
+    "ctr": 3.33,
+    "rank": 8.3
+   },
+   {
+    "w": "W39",
+    "impr": 22,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
+   }
+  ]
  },
  {
   "id": 51,

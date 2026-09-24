@@ -78,6 +78,8 @@ def main():
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--site")
     ap.add_argument("--weeks", type=int, default=36)
+    ap.add_argument("--start", help="YYYY-MM-DD (overrides --weeks)")
+    ap.add_argument("--end", help="YYYY-MM-DD (default: today)")
     ap.add_argument("--merge", action="store_true")
     args = ap.parse_args()
 
@@ -93,18 +95,33 @@ def main():
     if not args.site:
         sys.exit("--site required (e.g. sc-domain:grc-indonesia.com)")
 
-    end = datetime.date.today()
-    start = end - datetime.timedelta(weeks=args.weeks)
-    body = {
-        "startDate": start.isoformat(),
-        "endDate": end.isoformat(),
-        "dimensions": ["page", "date"],
-        "rowLimit": 25000,
-    }
-    res = api(f"webmasters/v3/sites/{urllib.parse.quote(args.site, safe='')}"
-              "/searchAnalytics/query", token, "POST", body)
+    end = datetime.date.fromisoformat(args.end) if args.end else datetime.date.today()
+    if args.start:
+        start = datetime.date.fromisoformat(args.start)
+    else:
+        start = end - datetime.timedelta(weeks=args.weeks)
 
-    rows = res.get("rows", [])
+    site_q = urllib.parse.quote(args.site, safe="")
+
+    # GSC caps a query at 25k rows. 36 weeks x ~600 pages x 7 days blows past that,
+    # so fetch one week at a time (max ~4k rows/week, safely under the cap).
+    rows = []
+    cur = start
+    while cur <= end:
+        w_end = min(cur + datetime.timedelta(days=6), end)
+        body = {
+            "startDate": cur.isoformat(),
+            "endDate": w_end.isoformat(),
+            "dimensions": ["page", "date"],
+            "rowLimit": 25000,
+        }
+        res = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
+                  token, "POST", body)
+        got = res.get("rows", [])
+        rows.extend(got)
+        print(f"  {cur} .. {w_end}: {len(got)} rows")
+        cur = w_end + datetime.timedelta(days=1)
+
     print(f"fetched {len(rows)} page/date rows {start} .. {end}")
 
     # aggregate per page per ISO week
@@ -140,24 +157,35 @@ def main():
     if args.merge:
         ppath = os.path.join(DATA, "products.json")
         products = json.load(open(ppath))
-        by_url = {p["url"].rstrip("/"): p for p in products if p["url"]}
+        # A URL can be shared by several catalog rows (draft vs live duplicates).
+        # Group first so each shared row gets the same page data instead of
+        # only the last one winning.
+        groups = {}
+        for p in products:
+            if p["url"]:
+                groups.setdefault(p["url"].rstrip("/"), []).append(p)
         merged = 0
+        shared = 0
         for page, series in out.items():
-            p = by_url.get(page.rstrip("/"))
-            if not p:
+            grp = groups.get(page.rstrip("/"))
+            if not grp:
                 continue
-            p["weeks"] = series
-            live = [s for s in series if s["impr"] or s["clicks"]]
-            p["total_impr"] = sum(s["impr"] for s in live)
-            p["total_clicks"] = sum(s["clicks"] for s in live)
-            p["ctr"] = round(p["total_clicks"] / p["total_impr"] * 100, 2) if p["total_impr"] else 0.0
-            ranks = [s["rank"] for s in live if s["rank"]]
-            p["avg_rank"] = round(sum(ranks) / len(ranks), 1) if ranks else 0
-            p["latest_rank"] = live[-1]["rank"] if live and live[-1]["rank"] else 0
-            merged += 1
+            if len(grp) > 1:
+                shared += 1
+            for p in grp:
+                p["weeks"] = series
+                live = [s for s in series if s["impr"] or s["clicks"]]
+                p["total_impr"] = sum(s["impr"] for s in live)
+                p["total_clicks"] = sum(s["clicks"] for s in live)
+                p["ctr"] = round(p["total_clicks"] / p["total_impr"] * 100, 2) if p["total_impr"] else 0.0
+                ranks = [s["rank"] for s in live if s["rank"]]
+                p["avg_rank"] = round(sum(ranks) / len(ranks), 1) if ranks else 0
+                p["latest_rank"] = live[-1]["rank"] if live and live[-1]["rank"] else 0
+                merged += 1
         with open(ppath, "w") as f:
             json.dump(products, f, indent=1, ensure_ascii=False)
-        print(f"merged GSC data into {merged} products")
+        print(f"merged GSC data into {merged} products "
+              f"({len(groups)} unique URLs, {shared} shared by duplicate rows)")
 
 
 if __name__ == "__main__":
