@@ -11,10 +11,10 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-fraud-management/",
   "status": "Aktif",
-  "total_impr": 623,
-  "total_clicks": 32,
-  "ctr": 5.14,
-  "avg_rank": 12.6,
+  "total_impr": 607,
+  "total_clicks": 31,
+  "ctr": 5.11,
+  "avg_rank": 12.7,
   "latest_rank": 13.5,
   "weeks": [
    {
@@ -124,10 +124,10 @@
    },
    {
     "w": "W26",
-    "impr": 29,
-    "clicks": 2,
-    "ctr": 6.9,
-    "rank": 10.6
+    "impr": 13,
+    "clicks": 1,
+    "ctr": 7.69,
+    "rank": 13.0
    },
    {
     "w": "W27",
@@ -234,9 +234,9 @@
   "vol_info": "250",
   "url": "https://grc-indonesia.com/training-ai-governance/",
   "status": "Aktif",
-  "total_impr": 1180,
+  "total_impr": 1169,
   "total_clicks": 79,
-  "ctr": 6.69,
+  "ctr": 6.76,
   "avg_rank": 10.5,
   "latest_rank": 16.0,
   "weeks": [
@@ -375,10 +375,10 @@
    },
    {
     "w": "W26",
-    "impr": 33,
+    "impr": 22,
     "clicks": 2,
-    "ctr": 6.06,
-    "rank": 13.1
+    "ctr": 9.09,
+    "rank": 14.5
    },
    {
     "w": "W27",
@@ -804,10 +804,10 @@
   "vol_info": "4,500",
   "url": "https://grc-indonesia.com/training-grafonomi-grafologi-dan-deteksi-uang-palsu/",
   "status": "Aktif",
-  "total_impr": 1036,
+  "total_impr": 1023,
   "total_clicks": 28,
-  "ctr": 2.7,
-  "avg_rank": 6.8,
+  "ctr": 2.74,
+  "avg_rank": 6.7,
   "latest_rank": 7.3,
   "weeks": [
    {
@@ -945,10 +945,10 @@
    },
    {
     "w": "W26",
-    "impr": 27,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.7
+    "rank": 5.0
    },
    {
     "w": "W27",
@@ -1055,11 +1055,11 @@
   "vol_info": "2,500",
   "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko/",
   "status": "Aktif",
-  "total_impr": 3264,
+  "total_impr": 3257,
   "total_clicks": 26,
   "ctr": 0.8,
-  "avg_rank": 12.7,
-  "latest_rank": 7.3,
+  "avg_rank": 12.8,
+  "latest_rank": 9.8,
   "weeks": [
    {
     "w": "W1",
@@ -1238,10 +1238,10 @@
    },
    {
     "w": "W26",
-    "impr": 13,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.3
+    "rank": 9.8
    }
   ]
  },
@@ -1257,9 +1257,9 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/pelatihan-risk-based-audit/",
   "status": "Aktif",
-  "total_impr": 296,
+  "total_impr": 295,
   "total_clicks": 11,
-  "ctr": 3.72,
+  "ctr": 3.73,
   "avg_rank": 15.4,
   "latest_rank": 16.5,
   "weeks": [
@@ -1426,10 +1426,10 @@
    },
    {
     "w": "W26",
-    "impr": 4,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.7
+    "rank": 7.5
    },
    {
     "w": "W27",
@@ -1549,10 +1549,10 @@
   "vol_info": "3,000",
   "url": "https://grc-indonesia.com/pelatihan-risk-management-iso-31000/",
   "status": "Aktif",
-  "total_impr": 1728,
-  "total_clicks": 102,
-  "ctr": 5.9,
-  "avg_rank": 11.1,
+  "total_impr": 1697,
+  "total_clicks": 101,
+  "ctr": 5.95,
+  "avg_rank": 11.2,
   "latest_rank": 10.4,
   "weeks": [
    {
@@ -1732,10 +1732,10 @@
    },
    {
     "w": "W26",
-    "impr": 58,
-    "clicks": 3,
-    "ctr": 5.17,
-    "rank": 16.0
+    "impr": 27,
+    "clicks": 2,
+    "ctr": 7.41,
+    "rank": 20.8
    },
    {
     "w": "W27",
@@ -1869,9 +1869,9 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 2881,
-  "total_clicks": 114,
-  "ctr": 3.96,
+  "total_impr": 2789,
+  "total_clicks": 112,
+  "ctr": 4.02,
   "avg_rank": 11.8,
   "latest_rank": 11.0,
   "weeks": [
@@ -2052,10 +2052,10 @@
    },
    {
     "w": "W26",
-    "impr": 184,
-    "clicks": 3,
-    "ctr": 1.63,
-    "rank": 7.0
+    "impr": 92,
+    "clicks": 1,
+    "ctr": 1.09,
+    "rank": 7.2
    },
    {
     "w": "W27",
@@ -2141,10 +2141,10 @@
   "vol_info": "700",
   "url": "https://grc-indonesia.com/icofr-intensive-training/",
   "status": "Aktif",
-  "total_impr": 2622,
-  "total_clicks": 251,
-  "ctr": 9.57,
-  "avg_rank": 9.3,
+  "total_impr": 2572,
+  "total_clicks": 242,
+  "ctr": 9.41,
+  "avg_rank": 9.4,
   "latest_rank": 7.4,
   "weeks": [
    {
@@ -2324,10 +2324,10 @@
    },
    {
     "w": "W26",
-    "impr": 85,
-    "clicks": 10,
-    "ctr": 11.76,
-    "rank": 10.9
+    "impr": 35,
+    "clicks": 1,
+    "ctr": 2.86,
+    "rank": 14.2
    },
    {
     "w": "W27",
@@ -2721,18 +2721,32 @@
   "vol_info": "3,500",
   "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/",
   "status": "Aktif",
-  "total_impr": 4,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 1.0,
-  "latest_rank": 1.0,
+  "total_impr": 134,
+  "total_clicks": 4,
+  "ctr": 2.99,
+  "avg_rank": 7.3,
+  "latest_rank": 12.2,
   "weeks": [
+   {
+    "w": "W37",
+    "impr": 109,
+    "clicks": 3,
+    "ctr": 2.75,
+    "rank": 8.7
+   },
    {
     "w": "W38",
     "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "W39",
+    "impr": 21,
+    "clicks": 1,
+    "ctr": 4.76,
+    "rank": 12.2
    }
   ]
  },
@@ -2748,7 +2762,7 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/integrasi-iso-31000-dengan-iso-9001/",
   "status": "Aktif",
-  "total_impr": 407,
+  "total_impr": 403,
   "total_clicks": 3,
   "ctr": 0.74,
   "avg_rank": 8.2,
@@ -2931,10 +2945,10 @@
    },
    {
     "w": "W26",
-    "impr": 8,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.5
+    "rank": 5.8
    },
    {
     "w": "W27",
@@ -3331,18 +3345,39 @@
   "vol_info": "200",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019/",
   "status": "Aktif",
-  "total_impr": 1,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 1.0,
-  "latest_rank": 1.0,
+  "total_impr": 113,
+  "total_clicks": 7,
+  "ctr": 6.19,
+  "avg_rank": 6.1,
+  "latest_rank": 5.8,
   "weeks": [
+   {
+    "w": "W36",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.4
+   },
+   {
+    "w": "W37",
+    "impr": 85,
+    "clicks": 7,
+    "ctr": 8.24,
+    "rank": 7.1
+   },
    {
     "w": "W38",
     "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "W39",
+    "impr": 19,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.8
    }
   ]
  },
@@ -4135,9 +4170,9 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/risk-maturity-level/",
   "status": "Aktif",
-  "total_impr": 7599,
+  "total_impr": 7465,
   "total_clicks": 61,
-  "ctr": 0.8,
+  "ctr": 0.82,
   "avg_rank": 10.7,
   "latest_rank": 8.3,
   "weeks": [
@@ -4318,10 +4353,10 @@
    },
    {
     "w": "W26",
-    "impr": 235,
+    "impr": 101,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.4
+    "rank": 12.1
    },
    {
     "w": "W27",

@@ -166,7 +166,7 @@
  },
  "7": {
   "masalah": [
-   "Impresi tinggi (3,264) tetapi CTR hanya 0.8% — 3,238 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,257) tetapi CTR hanya 0.8% — 3,231 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -546,12 +546,14 @@
  },
  "21": {
   "masalah": [
-   "Peringkat #1.0 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "Posisi rata-rata #12.2 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Perkuat internal linking dari artikel informasional \"Klausul ISO 37001 anti penyuapan\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan ISO 37001 - GRC Indonesia",
    "meta_description": "Training sistem manajemen anti penyuapan (SMAP) di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
@@ -568,7 +570,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 3
  },
  "22": {
   "masalah": [
@@ -702,10 +704,10 @@
  },
  "27": {
   "masalah": [
-   "Peringkat #1.0 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Lanjutkan pemantauan mingguan."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -724,7 +726,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "28": {
   "masalah": [
@@ -1285,7 +1287,7 @@
  },
  "49": {
   "masalah": [
-   "Impresi tinggi (7,599) tetapi CTR hanya 0.8% — 7,538 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (7,465) tetapi CTR hanya 0.82% — 7,404 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."

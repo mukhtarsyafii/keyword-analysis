@@ -173,8 +173,12 @@ def main():
             if len(grp) > 1:
                 shared += 1
             for p in grp:
-                p["weeks"] = series
-                live = [s for s in series if s["impr"] or s["clicks"]]
+                # Merge by week key so a short refresh keeps older weeks.
+                # A week re-fetched later is replaced (GSC revises recent data).
+                by_wk = {s["w"]: s for s in p.get("weeks", [])}
+                by_wk.update({s["w"]: s for s in series})
+                p["weeks"] = sorted(by_wk.values(), key=lambda s: int(s["w"][1:]))
+                live = [s for s in p["weeks"] if s["impr"] or s["clicks"]]
                 p["total_impr"] = sum(s["impr"] for s in live)
                 p["total_clicks"] = sum(s["clicks"] for s in live)
                 p["ctr"] = round(p["total_clicks"] / p["total_impr"] * 100, 2) if p["total_impr"] else 0.0
