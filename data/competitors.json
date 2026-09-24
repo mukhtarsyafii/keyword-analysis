@@ -95,5 +95,419 @@
     "we_rank": 18
    }
   ]
+ },
+ "13": {
+  "product_name": "ICoFR Intensive Training",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "pelatihan icofr",
+    "volume": null,
+    "difficulty": 17,
+    "top_competitor": "aeec.unair.ac.id",
+    "top_position": 2,
+    "we_rank": 6
+   },
+   {
+    "keyword": "sertifikasi icofr",
+    "volume": 30,
+    "difficulty": 18,
+    "top_competitor": "aeec.unair.ac.id",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "training icofr",
+    "volume": 20,
+    "difficulty": 23,
+    "top_competitor": "aeec.unair.ac.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "icofr",
+    "volume": 1600,
+    "difficulty": 13,
+    "top_competitor": "pwc.com",
+    "top_position": 2,
+    "we_rank": 3
+   },
+   {
+    "keyword": "icofr adalah",
+    "volume": 1000,
+    "difficulty": 11,
+    "top_competitor": "rmguard.co.id",
+    "top_position": 4,
+    "we_rank": 2
+   }
+  ]
+ },
+ "10": {
+  "product_name": "Sertifikasi Risk Management ISO 31000",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "risk management iso 31000",
+    "volume": 90,
+    "difficulty": 7,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "iso 31000 risk management",
+    "volume": 590,
+    "difficulty": 13,
+    "top_competitor": "iso.org",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "risk management iso",
+    "volume": 140,
+    "difficulty": 17,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "pelatihan iso 31000",
+    "volume": 20,
+    "difficulty": 9,
+    "top_competitor": "diotraining.com",
+    "top_position": 2,
+    "we_rank": 28
+   },
+   {
+    "keyword": "sertifikasi iso 31000",
+    "volume": 40,
+    "difficulty": 26,
+    "top_competitor": "ias-indonesia.org",
+    "top_position": 2,
+    "we_rank": 16
+   }
+  ]
+ },
+ "38": {
+  "product_name": "Pelatihan dan Sertifikasi Certified Governance Professional (CGP) Indonesia",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "cgp adalah",
+    "volume": 170,
+    "difficulty": 12,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "apa itu cgp",
+    "volume": 20,
+    "difficulty": 13,
+    "top_competitor": "sites.google.com",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
+    "keyword": "certified governance professional (cgp)",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "cgop",
+    "volume": 20,
+    "difficulty": 31,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "sertifikasi cgp",
+    "volume": 20,
+    "difficulty": 18,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 1,
+    "we_rank": 4
+   }
+  ]
+ },
+ "2": {
+  "product_name": "Training AI Governance",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "ai governance",
+    "volume": 210,
+    "difficulty": 30,
+    "top_competitor": "ojk.go.id",
+    "top_position": 2,
+    "we_rank": 15
+   },
+   {
+    "keyword": "ai governance adalah",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "sis.binus.ac.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "training ai governance",
+    "volume": null,
+    "difficulty": 34,
+    "top_competitor": "trainingeltasa.com",
+    "top_position": 3,
+    "we_rank": 2
+   },
+   {
+    "keyword": "ai governance indonesia",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "ojk.go.id",
+    "top_position": 2,
+    "we_rank": 11
+   },
+   {
+    "keyword": "site:grc-indonesia.com",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   }
+  ]
+ },
+ "6": {
+  "product_name": "Training Grafonomi, Grafologi, & Deteksi Uang Palsu",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "grafonomi",
+    "volume": 140,
+    "difficulty": 9,
+    "top_competitor": "grafonomi.id",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "pelatihan grafonomi",
+    "volume": 10,
+    "difficulty": 21,
+    "top_competitor": "grafonomi.id",
+    "top_position": 2,
+    "we_rank": 4
+   },
+   {
+    "keyword": "grafonomi indonesia",
+    "volume": 480,
+    "difficulty": 20,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
+    "keyword": "grafonomi adalah",
+    "volume": 140,
+    "difficulty": 19,
+    "top_competitor": "grafonomi.id",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "ahli grafologi",
+    "volume": 40,
+    "difficulty": 18,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 1
+   }
+  ]
+ },
+ "1": {
+  "product_name": "Training Fraud Management",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "fraud management",
+    "volume": 40,
+    "difficulty": 24,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 1,
+    "we_rank": 14
+   },
+   {
+    "keyword": "pelatihan anti fraud",
+    "volume": 30,
+    "difficulty": 20,
+    "top_competitor": "grc-management.co.id",
+    "top_position": 1,
+    "we_rank": 29
+   },
+   {
+    "keyword": "site:grc-indonesia.com",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "fraud risk management course",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "acfe-indonesia.or.id",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "fraud control system",
+    "volume": 10,
+    "difficulty": 26,
+    "top_competitor": "gcg.pupuk-indonesia.com",
+    "top_position": 1,
+    "we_rank": 40
+   }
+  ]
+ },
+ "11": {
+  "product_name": "Pelatihan Compliance System Management ISO 37301",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "compliance management system",
+    "volume": 50,
+    "difficulty": 25,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "iso 37301",
+    "volume": 320,
+    "difficulty": 12,
+    "top_competitor": "iso.org",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "compliance management",
+    "volume": 40,
+    "difficulty": 32,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 26
+   },
+   {
+    "keyword": "sertifikasi iso 37301",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 1,
+    "we_rank": 3
+   },
+   {
+    "keyword": "iso 37301 adalah",
+    "volume": 110,
+    "difficulty": 14,
+    "top_competitor": "iso.org",
+    "top_position": 4,
+    "we_rank": 2
+   }
+  ]
+ },
+ "20": {
+  "product_name": "Training Sistem Manajemen Kepatuhan",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "compliance management system",
+    "volume": 50,
+    "difficulty": 25,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "iso 37301",
+    "volume": 320,
+    "difficulty": 12,
+    "top_competitor": "iso.org",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "compliance management",
+    "volume": 40,
+    "difficulty": 32,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 26
+   },
+   {
+    "keyword": "sertifikasi iso 37301",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 1,
+    "we_rank": 3
+   },
+   {
+    "keyword": "iso 37301 adalah",
+    "volume": 110,
+    "difficulty": 14,
+    "top_competitor": "iso.org",
+    "top_position": 4,
+    "we_rank": 2
+   }
+  ]
+ },
+ "16": {
+  "product_name": "Pelatihan Qualified Risk Management Officer (QRMO)",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "qrmo gelar apa",
+    "volume": 210,
+    "difficulty": 15,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "gelar qrmo",
+    "volume": 70,
+    "difficulty": 18,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
+    "keyword": "qrmo sertifikasi",
+    "volume": 40,
+    "difficulty": 21,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "gelar qrmo adalah",
+    "volume": 50,
+    "difficulty": 13,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "qrmo adalah",
+    "volume": 140,
+    "difficulty": 13,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 9
+   }
+  ]
  }
 }
