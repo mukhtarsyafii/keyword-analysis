@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Kinerja Keyword & Produk — GRC Indonesia (Proxsis)</title>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <style>
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: rgba(150, 150, 150, 0.3); border-radius: 9999px; }
+    ::-webkit-scrollbar-thumb:hover { background: rgba(150, 150, 150, 0.5); }
+    
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.125rem 0.5rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+    .tab-btn.active {
+      background-color: var(--primary, #3b82f6);
+      color: var(--primary-foreground, #ffffff);
+      border-color: transparent;
+    }
+    .pill-btn.active {
+      background-color: var(--primary, #3b82f6);
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body class="bg-[var(--background,#0f172a)] text-[var(--foreground,#f8fafc)] antialiased p-4 sm:p-6 min-h-screen">
+
+  <div class="max-w-7xl mx-auto space-y-6">
+    
+    <!-- Top Header -->
+    <header class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-2xl p-5 shadow-sm">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+        <div>
+          <div class="flex items-center gap-2 mb-1">
+            <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+              Live Intel GSC Tracker
+            </span>
+            <span class="text-xs text-[var(--muted-foreground,#94a3b8)]">Tahun 2026 • Periode W1 – W36 (Agustus 2026)</span>
+          </div>
+          <h1 class="text-2xl sm:text-3xl font-bold tracking-tight text-[var(--foreground,#f8fafc)]">
+            Dashboard Kinerja Keyword & Produk Layanan
+          </h1>
+          <p class="text-sm text-[var(--muted-foreground,#94a3b8)] mt-1">
+            GRC Indonesia • Proxsis Academy • Pemantauan Posisi Organik & Evaluasi Landing Page
+          </p>
+        </div>
+        
+        <div class="flex items-center gap-3">
+          <div class="text-right hidden sm:block">
+            <div class="text-xs text-[var(--muted-foreground,#94a3b8)]">Total Portofolio</div>
+            <div class="text-lg font-bold text-[var(--foreground,#f8fafc)]">54 Program Pelatihan</div>
+          </div>
+          <button onclick="resetFilters()" class="px-3 py-2 text-xs font-medium rounded-lg border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)] transition-colors">
+            Reset Filter
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- KPI Summary Stats -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+      
+      <!-- KPI 1 -->
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-4 shadow-sm relative overflow-hidden">
+        <div class="text-xs font-medium text-[var(--muted-foreground,#94a3b8)] mb-1">Total Impresi Organik</div>
+        <div class="text-2xl sm:text-3xl font-extrabold text-[var(--foreground,#f8fafc)]">36.952</div>
+        <div class="flex items-center gap-1.5 mt-2 text-xs text-emerald-400">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
+          <span>Puncak di W6 (1.937/mgg)</span>
+        </div>
+        <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-0.5">Google Search Console W1–W36</div>
+      </div>
+
+      <!-- KPI 2 -->
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-4 shadow-sm relative overflow-hidden">
+        <div class="text-xs font-medium text-[var(--muted-foreground,#94a3b8)] mb-1">Total Klik Organik</div>
+        <div class="text-2xl sm:text-3xl font-extrabold text-blue-400">835 <span class="text-sm font-medium text-[var(--muted-foreground,#94a3b8)]">Klik</span></div>
+        <div class="flex items-center gap-1.5 mt-2 text-xs text-[var(--muted-foreground,#94a3b8)]">
+          <span class="font-semibold text-emerald-400">CTR Rata-rata 2.26%</span>
+        </div>
+        <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-0.5">Rasio kunjungan nyata dari SERP</div>
+      </div>
+
+      <!-- KPI 3 -->
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-4 shadow-sm relative overflow-hidden">
+        <div class="text-xs font-medium text-[var(--muted-foreground,#94a3b8)] mb-1">Status Landing Page</div>
+        <div class="text-2xl sm:text-3xl font-extrabold text-[var(--foreground,#f8fafc)]">25 <span class="text-sm font-normal text-emerald-400">Aktif</span> / <span class="text-sm font-normal text-amber-400">29 Draft</span></div>
+        <div class="flex items-center gap-1.5 mt-2 text-xs text-[var(--muted-foreground,#94a3b8)]">
+          <span>Target: Min 2 LP Baru / Minggu</span>
+        </div>
+        <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-0.5">54 Total silabus terpetakan</div>
+      </div>
+
+      <!-- KPI 4 -->
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-4 shadow-sm relative overflow-hidden">
+        <div class="text-xs font-medium text-[var(--muted-foreground,#94a3b8)] mb-1">Top Star Performer</div>
+        <div class="text-base sm:text-lg font-bold text-emerald-400 truncate" title="ICoFR Intensive Training">ICoFR Intensive Training</div>
+        <div class="text-xs font-semibold text-[var(--foreground,#f8fafc)] mt-1">
+          233 Klik • CTR 9.64%
+        </div>
+        <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-1">Peringkat ~9 Google • BUMN & Korporat</div>
+      </div>
+
+    </div>
+
+    <!-- Navigation Tabs -->
+    <div class="flex flex-wrap items-center gap-2 border-b border-[var(--border,#334155)] pb-3">
+      <button onclick="switchTab('tracker')" id="btn-tab-tracker" class="tab-btn active px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-[var(--border,#334155)] transition-all">
+        📊 Katalog & Keyword Tracker
+      </button>
+      <button onclick="switchTab('trends')" id="btn-tab-trends" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-[var(--border,#334155)] transition-all text-[var(--muted-foreground,#94a3b8)] hover:text-[var(--foreground,#f8fafc)]">
+        📈 Tren Performa Mingguan
+      </button>
+      <button onclick="switchTab('opportunities')" id="btn-tab-opportunities" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-[var(--border,#334155)] transition-all text-[var(--muted-foreground,#94a3b8)] hover:text-[var(--foreground,#f8fafc)]">
+        ⚡ Peluang Cepat (High Imp, Low CTR)
+      </button>
+      <button onclick="switchTab('audit')" id="btn-tab-audit" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-[var(--border,#334155)] transition-all text-[var(--muted-foreground,#94a3b8)] hover:text-[var(--foreground,#f8fafc)]">
+        ⚠️ Audit Kesesuaian Konten
+      </button>
+      <button onclick="switchTab('brands')" id="btn-tab-brands" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-[var(--border,#334155)] transition-all text-[var(--muted-foreground,#94a3b8)] hover:text-[var(--foreground,#f8fafc)]">
+        🌐 Komparasi Lintas Brand Proxsis
+      </button>
+    </div>
+
+    <!-- VIEW 1: KATALOG & KEYWORD TRACKER -->
+    <div id="view-tracker" class="space-y-4">
+      
+      <!-- Filters and Controls -->
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-4 shadow-sm space-y-4">
+        <div class="flex flex-col md:flex-row gap-3 items-stretch md:items-center justify-between">
+          
+          <!-- Search input -->
+          <div class="relative flex-1">
+            <svg class="w-4 h-4 absolute left-3 top-3 text-[var(--muted-foreground,#94a3b8)]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <input type="text" id="searchInput" oninput="renderTable()" placeholder="Cari nama program, keyword utama, target keyword..." class="w-full pl-9 pr-4 py-2 rounded-lg bg-[var(--background,#0f172a)] border border-[var(--border,#334155)] text-xs sm:text-sm text-[var(--foreground,#f8fafc)] placeholder-[var(--muted-foreground,#94a3b8)] focus:outline-none focus:ring-2 focus:ring-blue-500">
+          </div>
+
+          <!-- Sort dropdown -->
+          <div class="flex items-center gap-2">
+            <span class="text-xs text-[var(--muted-foreground,#94a3b8)] whitespace-nowrap">Urutkan:</span>
+            <select id="sortSelect" onchange="renderTable()" class="px-3 py-2 rounded-lg bg-[var(--background,#0f172a)] border border-[var(--border,#334155)] text-xs text-[var(--foreground,#f8fafc)] focus:outline-none">
+              <option value="clicks-desc">Klik Organik (Tertinggi)</option>
+              <option value="impr-desc">Impresi (Tertinggi)</option>
+              <option value="ctr-desc">CTR (Tertinggi)</option>
+              <option value="rank-asc">Ranking Terbaik (Google SERP)</option>
+              <option value="name-asc">Nama Program (A-Z)</option>
+            </select>
+          </div>
+
+        </div>
+
+        <!-- Filter Pills -->
+        <div class="flex flex-wrap items-center justify-between gap-3 pt-2 border-t border-[var(--border,#334155)]">
+          <!-- Categories -->
+          <div class="flex flex-wrap items-center gap-1.5 text-xs">
+            <span class="text-[var(--muted-foreground,#94a3b8)] mr-1">Kategori:</span>
+            <button onclick="setCategoryFilter('all')" class="pill-btn active cat-btn px-2.5 py-1 rounded-md border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)]" data-cat="all">Semua</button>
+            <button onclick="setCategoryFilter('Sertifikasi BNSP / Profesi')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-cat="Sertifikasi BNSP / Profesi">Sertifikasi BNSP</button>
+            <button onclick="setCategoryFilter('Standar ISO & Kepatuhan')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-cat="Standar ISO & Kepatuhan">Standar ISO</button>
+            <button onclick="setCategoryFilter('Audit, Fraud & Forensik')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-cat="Audit, Fraud & Forensik">Audit & Fraud</button>
+            <button onclick="setCategoryFilter('Tata Kelola & BUMN')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-cat="Tata Kelola & BUMN">Tata Kelola & BUMN</button>
+            <button onclick="setCategoryFilter('AI & Data Governance')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-[var(--border,#334155)] hover:bg-[var(--secondary,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-cat="AI & Data Governance">AI & Data</button>
+          </div>
+
+          <!-- Status -->
+          <div class="flex items-center gap-1.5 text-xs">
+            <span class="text-[var(--muted-foreground,#94a3b8)] mr-1">Status:</span>
+            <button onclick="setStatusFilter('all')" class="status-btn px-2 py-1 rounded border border-[var(--border,#334155)] bg-blue-600 text-white" data-status="all">Semua</button>
+            <button onclick="setStatusFilter('Aktif')" class="status-btn px-2 py-1 rounded border border-[var(--border,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-status="Aktif">Aktif (25)</button>
+            <button onclick="setStatusFilter('Draft')" class="status-btn px-2 py-1 rounded border border-[var(--border,#334155)] text-[var(--muted-foreground,#94a3b8)]" data-status="Draft">Draft (29)</button>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Products Table -->
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl shadow-sm overflow-hidden">
+        <div class="overflow-x-auto">
+          <table class="w-full text-left text-xs sm:text-sm">
+            <thead class="bg-[var(--background,#0f172a)]/70 text-[var(--muted-foreground,#94a3b8)] border-b border-[var(--border,#334155)]">
+              <tr>
+                <th class="px-4 py-3 font-semibold w-12">#</th>
+                <th class="px-4 py-3 font-semibold min-w-[240px]">Program Layanan Pelatihan</th>
+                <th class="px-4 py-3 font-semibold min-w-[160px]">Kategori & Status</th>
+                <th class="px-4 py-3 font-semibold min-w-[200px]">Keyword Utama (Est. Vol)</th>
+                <th class="px-4 py-3 font-semibold min-w-[180px]">Target Keyword</th>
+                <th class="px-4 py-3 font-semibold text-right">Impresi</th>
+                <th class="px-4 py-3 font-semibold text-right">Klik</th>
+                <th class="px-4 py-3 font-semibold text-right">CTR</th>
+                <th class="px-4 py-3 font-semibold text-right">Rank</th>
+                <th class="px-4 py-3 font-semibold text-center w-24">Aksi</th>
+              </tr>
+            </thead>
+            <tbody id="productsTableBody" class="divide-y divide-[var(--border,#334155)]">
+              <!-- Rendered via JS -->
+            </tbody>
+          </table>
+        </div>
+        <div id="tableEmptyState" class="hidden p-8 text-center text-sm text-[var(--muted-foreground,#94a3b8)]">
+          Tidak ditemukan produk yang cocok dengan pencarian atau filter Anda.
+        </div>
+        <div class="px-4 py-3 border-t border-[var(--border,#334155)] bg-[var(--background,#0f172a)]/40 flex items-center justify-between text-xs text-[var(--muted-foreground,#94a3b8)]">
+          <span id="rowCountLabel">Menampilkan 54 program</span>
+          <span>Klik tombol "Detail" untuk membuka breakdown & rekomendasi SEO</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- VIEW 2: TREN KINERJA MINGGUAN -->
+    <div id="view-trends" class="hidden space-y-6">
+      
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-5 shadow-sm space-y-4">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+          <div>
+            <h2 class="text-lg font-bold text-[var(--foreground,#f8fafc)]">Tren Trafik Organik Mingguan (W1 – W36)</h2>
+            <p class="text-xs text-[var(--muted-foreground,#94a3b8)]">Pergerakan total Impresi dan Klik organik dari seluruh Landing Page GRC Indonesia</p>
+          </div>
+          <div class="flex items-center gap-4 text-xs">
+            <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-blue-500"></span> Impresi</span>
+            <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-emerald-400"></span> Klik</span>
+          </div>
+        </div>
+
+        <!-- SVG Interactive Chart Container -->
+        <div class="w-full overflow-x-auto pt-4">
+          <div class="min-w-[700px] h-72 relative" id="chartContainer">
+            <!-- Chart rendered via JS -->
+          </div>
+        </div>
+        <div class="text-[11px] text-[var(--muted-foreground,#94a3b8)] text-center">
+          💡 Catatan: Lonjakan impresi tertinggi terjadi pada W5 – W9 (hingga 1.937 impresi/minggu), kemudian mengalami penyesuaian seiring rotasi indeks Google.
+        </div>
+      </div>
+
+      <!-- Category Performance Summary -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        
+        <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-5 shadow-sm space-y-3">
+          <h3 class="text-sm font-bold text-[var(--foreground,#f8fafc)]">Distribusi Klik per Kategori Program</h3>
+          <div class="space-y-3 pt-2" id="categoryDistributionBars">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+
+        <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-5 shadow-sm space-y-3">
+          <h3 class="text-sm font-bold text-[var(--foreground,#f8fafc)]">Top 5 Keyword dengan Konversi Klik Tertinggi</h3>
+          <div class="divide-y divide-[var(--border,#334155)] text-xs" id="topKeywordsList">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- VIEW 3: PELUANG CEPAT / QUICK WINS -->
+    <div id="view-opportunities" class="hidden space-y-4">
+      
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-5 shadow-sm">
+        <h2 class="text-lg font-bold text-amber-400 flex items-center gap-2">
+          <span>⚡</span> Peluang Cepat: Halaman Tinggi Impresi Namun Rendah CTR
+        </h2>
+        <p class="text-xs text-[var(--muted-foreground,#94a3b8)] mt-1">
+          Halaman-halaman berikut telah memiliki visibilitas sangat tinggi di Google (SERP rank bagus), namun rasio kliknya masih rendah. Mengoptimasi <strong>Meta Title</strong> dan <strong>Meta Description</strong> pada halaman ini akan memberikan lonjakan klik tercepat tanpa perlu backlink baru.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="opportunityCards">
+        <!-- Rendered by JS -->
+      </div>
+
+    </div>
+
+    <!-- VIEW 4: AUDIT KESESUAIAN KONTEN -->
+    <div id="view-audit" class="hidden space-y-4">
+      
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-5 shadow-sm">
+        <div class="flex items-center justify-between">
+          <div>
+            <h2 class="text-lg font-bold text-rose-400 flex items-center gap-2">
+              <span>⚠️</span> Temuan Audit Kesesuaian Konten (Content Mismatch)
+            </h2>
+            <p class="text-xs text-[var(--muted-foreground,#94a3b8)] mt-1">
+              Catatan anomali dari tab <em>Content Mismatch Audit</em> yang membutuhkan perbaikan segera dari PIC Web & SEO.
+            </p>
+          </div>
+          <span class="px-3 py-1 rounded-full text-xs font-semibold bg-rose-500/10 text-rose-400 border border-rose-500/20">
+            Perlu Tindakan
+          </span>
+        </div>
+      </div>
+
+      <div class="space-y-3" id="auditListContainer">
+        <!-- Rendered by JS -->
+      </div>
+
+    </div>
+
+    <!-- VIEW 5: KOMPARASI LINTAS BRAND PROXSIS -->
+    <div id="view-brands" class="hidden space-y-4">
+      
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-5 shadow-sm">
+        <h2 class="text-lg font-bold text-[var(--foreground,#f8fafc)] flex items-center gap-2">
+          <span>🌐</span> Snapshot Kinerja Unit Bisnis Proxsis Academy (Minggu W33)
+        </h2>
+        <p class="text-xs text-[var(--muted-foreground,#94a3b8)] mt-1">
+          Perbandingan performa organik mingguan antar brand di lingkungan Proxsis Academy berdasarkan tab Dashboard utama.
+        </p>
+      </div>
+
+      <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl shadow-sm overflow-hidden">
+        <table class="w-full text-left text-xs sm:text-sm">
+          <thead class="bg-[var(--background,#0f172a)]/70 text-[var(--muted-foreground,#94a3b8)] border-b border-[var(--border,#334155)]">
+            <tr>
+              <th class="px-4 py-3 font-semibold">Nama Brand / Unit Bisnis</th>
+              <th class="px-4 py-3 font-semibold">Fokus Pelatihan & Layanan</th>
+              <th class="px-4 py-3 font-semibold text-center">LP Aktif</th>
+              <th class="px-4 py-3 font-semibold text-right">Impresi / Mgg</th>
+              <th class="px-4 py-3 font-semibold text-right">Klik / Mgg</th>
+              <th class="px-4 py-3 font-semibold text-right">Avg CTR</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-[var(--border,#334155)]" id="brandsTableBody">
+            <!-- Rendered by JS -->
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- Detail Modal Drawer -->
+  <div id="detailModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+    <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto p-6 shadow-2xl space-y-5">
+      
+      <div class="flex items-start justify-between gap-4 border-b border-[var(--border,#334155)] pb-4">
+        <div>
+          <div class="flex items-center gap-2 mb-1" id="modalBadges"></div>
+          <h3 class="text-xl font-bold text-[var(--foreground,#f8fafc)]" id="modalTitle"></h3>
+          <a id="modalUrl" href="#" target="_blank" class="text-xs text-blue-400 hover:underline flex items-center gap-1 mt-1 break-all">
+            <svg class="w-3.5 h-3.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+            <span id="modalUrlText"></span>
+          </a>
+        </div>
+        <button onclick="closeModal()" class="p-1.5 rounded-lg border border-[var(--border,#334155)] text-[var(--muted-foreground,#94a3b8)] hover:text-white hover:bg-[var(--secondary,#334155)]">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+        </button>
+      </div>
+
+      <!-- Performance Stats inside Modal -->
+      <div class="grid grid-cols-4 gap-3 bg-[var(--background,#0f172a)]/60 rounded-xl p-3 border border-[var(--border,#334155)]">
+        <div class="text-center">
+          <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">Total Impresi</div>
+          <div class="text-lg font-bold text-[var(--foreground,#f8fafc)]" id="modalImpr">-</div>
+        </div>
+        <div class="text-center">
+          <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">Total Klik</div>
+          <div class="text-lg font-bold text-blue-400" id="modalClicks">-</div>
+        </div>
+        <div class="text-center">
+          <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">CTR Kumulatif</div>
+          <div class="text-lg font-bold text-emerald-400" id="modalCtr">-</div>
+        </div>
+        <div class="text-center">
+          <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">Posisi Rank SERP</div>
+          <div class="text-lg font-bold text-amber-400" id="modalRank">-</div>
+        </div>
+      </div>
+
+      <!-- Keyword Architecture -->
+      <div class="space-y-2">
+        <h4 class="text-xs font-semibold uppercase tracking-wider text-[var(--muted-foreground,#94a3b8)]">Arsitektur Kata Kunci & Search Volume</h4>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-2 text-xs">
+          <div class="p-3 rounded-lg bg-[var(--background,#0f172a)] border border-[var(--border,#334155)]">
+            <span class="text-[10px] font-semibold text-blue-400">KEYWORD UTAMA</span>
+            <div class="font-medium text-[var(--foreground,#f8fafc)] mt-0.5" id="modalKwUtama">-</div>
+            <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-1">Est. Volume: <span class="font-semibold text-white" id="modalVolUtama">-</span> / bln</div>
+          </div>
+          <div class="p-3 rounded-lg bg-[var(--background,#0f172a)] border border-[var(--border,#334155)]">
+            <span class="text-[10px] font-semibold text-emerald-400">TARGET TRANSAKSIONAL</span>
+            <div class="font-medium text-[var(--foreground,#f8fafc)] mt-0.5" id="modalKwTarget">-</div>
+            <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-1">Est. Volume: <span class="font-semibold text-white" id="modalVolTarget">-</span> / bln</div>
+          </div>
+          <div class="p-3 rounded-lg bg-[var(--background,#0f172a)] border border-[var(--border,#334155)]">
+            <span class="text-[10px] font-semibold text-amber-400">INFORMASIONAL (TOP FUNNEL)</span>
+            <div class="font-medium text-[var(--foreground,#f8fafc)] mt-0.5" id="modalKwInfo">-</div>
+            <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)] mt-1">Est. Volume: <span class="font-semibold text-white" id="modalVolInfo">-</span> / bln</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Actionable Advice -->
+      <div class="bg-blue-500/10 border border-blue-500/20 rounded-xl p-4 space-y-1.5">
+        <h5 class="text-xs font-bold text-blue-400 flex items-center gap-1.5">
+          <span>🎯</span> Rekomendasi Optimasi SEO & Lead Conversion
+        </h5>
+        <p class="text-xs text-[var(--foreground,#f8fafc)]" id="modalAdvice">
+          -
+        </p>
+      </div>
+
+      <!-- Close Button -->
+      <div class="text-right pt-2 border-t border-[var(--border,#334155)]">
+        <button onclick="closeModal()" class="px-4 py-2 text-xs font-semibold rounded-lg bg-[var(--secondary,#334155)] text-white hover:bg-slate-600 transition-colors">
+          Tutup Rincian
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Raw Data Injection -->
+  <script>
+    const productsData = [{"id": 1, "name": "Training Fraud Management", "category": "Audit, Fraud & Forensik", "kw_utama": "Training fraud management", "vol_utama": "150", "kw_target": "Pelatihan fraud management perbankan", "vol_target": "40", "kw_info": "Apa itu fraud management", "vol_info": "800", "url": "https://grc-indonesia.com/training-fraud-management/", "status": "Aktif", "total_impr": 516, "total_clicks": 26, "ctr": 5.04, "avg_rank": 12.3, "latest_rank": 12.0}, {"id": 2, "name": "Training AI Governance", "category": "AI & Data Governance", "kw_utama": "Training AI governance", "vol_utama": "90", "kw_target": "Pelatihan tata kelola AI perusahaan", "vol_target": "20", "kw_info": "Panduan implementasi AI governance", "vol_info": "250", "url": "https://grc-indonesia.com/training-ai-governance/", "status": "Aktif", "total_impr": 975, "total_clicks": 66, "ctr": 6.77, "avg_rank": 10.3, "latest_rank": 17.0}, {"id": 3, "name": "Training Deteksi Dokumen Palsu", "category": "Audit, Fraud & Forensik", "kw_utama": "Pelatihan deteksi dokumen palsu", "vol_utama": "100", "kw_target": "Training verifikasi dokumen dan anti fraud", "vol_target": "30", "kw_info": "Cara membedakan dokumen asli dan palsu", "vol_info": "1,200", "url": "https://grc-indonesia.com/training-pemalsuan-dokumen/", "status": "Aktif", "total_impr": 124, "total_clicks": 7, "ctr": 5.65, "avg_rank": 4.1, "latest_rank": 5.0}, {"id": 4, "name": "Training High Impact Report Audit Writing", "category": "Audit, Fraud & Forensik", "kw_utama": "Training audit report writing", "vol_utama": "150", "kw_target": "Pelatihan penulisan laporan audit internal", "vol_target": "50", "kw_info": "Contoh laporan audit internal yang baik", "vol_info": "1,500", "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/", "status": "Aktif", "total_impr": 16, "total_clicks": 0, "ctr": 0.0, "avg_rank": 6.7, "latest_rank": 7.0}, {"id": 5, "name": "Training Teknik Investigasi & Interogasi Corporate", "category": "Audit, Fraud & Forensik", "kw_utama": "Training investigasi corporate", "vol_utama": "150", "kw_target": "Pelatihan teknik interogasi fraud perusahaan", "vol_target": "40", "kw_info": "Teknik investigasi fraud di tempat kerja", "vol_info": "450", "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/", "status": "Aktif", "total_impr": 189, "total_clicks": 13, "ctr": 6.88, "avg_rank": 6.6, "latest_rank": 9.0}, {"id": 6, "name": "Training Grafonomi, Grafologi, & Deteksi Uang Palsu", "category": "Audit, Fraud & Forensik", "kw_utama": "Pelatihan grafologi perusahaan", "vol_utama": "200", "kw_target": "Training grafonomi dan deteksi uang palsu", "vol_target": "50", "kw_info": "Cara membaca karakter dari tulisan tangan", "vol_info": "4,500", "url": "https://grc-indonesia.com/training-grafonomi-grafologi-dan-deteksi-uang-palsu/", "status": "Aktif", "total_impr": 896, "total_clicks": 24, "ctr": 2.68, "avg_rank": 6.5, "latest_rank": 8.0}, {"id": 7, "name": "Pelatihan dan Sertifikasi Manajemen Risiko Berbasis ISO 31000:2018", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Pelatihan manajemen risiko ISO 31000", "vol_utama": "450", "kw_target": "Training risk management ISO 31000 Jakarta", "vol_target": "100", "kw_info": "Apa itu ISO 31000 manajemen risiko", "vol_info": "2,500", "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko/", "status": "Aktif", "total_impr": 3332, "total_clicks": 26, "ctr": 0.78, "avg_rank": 12.4, "latest_rank": 10.0}, {"id": 8, "name": "Risk Based Audit", "category": "Audit, Fraud & Forensik", "kw_utama": "Training risk based audit", "vol_utama": "350", "kw_target": "Pelatihan risk based internal audit (RBIA)", "vol_target": "150", "kw_info": "Langkah-langkah risk based audit", "vol_info": "1,200", "url": "https://grc-indonesia.com/pelatihan-risk-based-audit/", "status": "Aktif", "total_impr": 168, "total_clicks": 7, "ctr": 4.17, "avg_rank": 15.4, "latest_rank": 9.0}, {"id": 9, "name": "Pelatihan Integrasi ES-GRC", "category": "AI & Data Governance", "kw_utama": "Pelatihan GRC perusahaan", "vol_utama": "100", "kw_target": "Training enterprise security GRC terintegrasi", "vol_target": "30", "kw_info": "Framework GRC (Governance Risk Compliance)", "vol_info": "900", "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/", "status": "Aktif", "total_impr": 79, "total_clicks": 10, "ctr": 12.66, "avg_rank": 9.3, "latest_rank": 7.0}, {"id": 10, "name": "Sertifikasi Risk Management ISO 31000", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Sertifikasi ISO 31000", "vol_utama": "500", "kw_target": "Sertifikasi risk management ISO 31000", "vol_target": "150", "kw_info": "Prinsip manajemen risiko ISO 31000", "vol_info": "3,000", "url": "https://grc-indonesia.com/pelatihan-risk-management-iso-31000/", "status": "Aktif", "total_impr": 1679, "total_clicks": 100, "ctr": 5.96, "avg_rank": 11.7, "latest_rank": 10.0}, {"id": 11, "name": "Pelatihan Compliance System Management ISO 37301", "category": "Standar ISO & Kepatuhan", "kw_utama": "Pelatihan ISO 37301", "vol_utama": "150", "kw_target": "Training compliance management system ISO 37301", "vol_target": "40", "kw_info": "Persyaratan standar ISO 37301", "vol_info": "600", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/", "status": "Aktif", "total_impr": 933, "total_clicks": 35, "ctr": 3.75, "avg_rank": 15.2, "latest_rank": 15.0}, {"id": 12, "name": "Pelatihan BCMS berbasis ISO 22301:2019", "category": "Standar ISO & Kepatuhan", "kw_utama": "Pelatihan ISO 22301", "vol_utama": "250", "kw_target": "Training business continuity management system", "vol_target": "100", "kw_info": "Apa itu BCMS (Business Continuity Management)", "vol_info": "1,500", "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-awareness-based-on-iso-22301/", "status": "Aktif", "total_impr": 103, "total_clicks": 4, "ctr": 3.88, "avg_rank": 12.7, "latest_rank": 11.0}, {"id": 13, "name": "ICoFR Intensive Training", "category": "Audit, Fraud & Forensik", "kw_utama": "Training ICoFR", "vol_utama": "150", "kw_target": "Pelatihan internal control over financial reporting", "vol_target": "50", "kw_info": "Komponen ICoFR dan fungsinya", "vol_info": "700", "url": "https://grc-indonesia.com/icofr-intensive-training/", "status": "Aktif", "total_impr": 2418, "total_clicks": 233, "ctr": 9.64, "avg_rank": 8.8, "latest_rank": 9.0}, {"id": 14, "name": "Pelatihan Key Risk Indicator (KRI)", "category": "AI & Data Governance", "kw_utama": "Pelatihan KRI", "vol_utama": "90", "kw_target": "Training penyusunan key risk indicators", "vol_target": "30", "kw_info": "Perbedaan KPI dan KRI", "vol_info": "1,800", "url": "https://grc-indonesia.com/pelatihan-key-risk-indicator-kri/", "status": "Aktif", "total_impr": 1260, "total_clicks": 8, "ctr": 0.63, "avg_rank": 14.1, "latest_rank": 12.0}, {"id": 15, "name": "Legal and Compliance Management Training", "category": "AI & Data Governance", "kw_utama": "Pelatihan Legal and Compliance Management", "vol_utama": "250", "kw_target": "Pelatihan legal and corporate compliance", "vol_target": "80", "kw_info": "Tugas compliance officer di perusahaan", "vol_info": "2,200", "url": "https://grc-indonesia.com/pelatihan-legal-and-compliance-management/", "status": "Aktif", "total_impr": 1958, "total_clicks": 22, "ctr": 1.12, "avg_rank": 36.4, "latest_rank": 29.0}, {"id": 16, "name": "Pelatihan Qualified Risk Management Officer (QRMO)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Pelatihan QRMO", "vol_utama": "200", "kw_target": "Sertifikasi qualified risk management officer", "vol_target": "100", "kw_info": "Syarat sertifikasi QRMO", "vol_info": "450", "url": "https://grc-indonesia.com/sertifikasi/qrmo-qualified-risk-management-officer/", "status": "Aktif", "total_impr": 4809, "total_clicks": 36, "ctr": 0.75, "avg_rank": 8.9, "latest_rank": 12.0}, {"id": 17, "name": "Pelatihan Qualified Risk Management Analyst (QRMA)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Pelatihan QRMA", "vol_utama": "300", "kw_target": "Sertifikasi qualified risk management analyst", "vol_target": "150", "kw_info": "Perbedaan QRMO dan QRMA", "vol_info": "600", "url": "https://grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp/", "status": "Aktif", "total_impr": 2366, "total_clicks": 32, "ctr": 1.35, "avg_rank": 7.9, "latest_rank": 10.0}, {"id": 18, "name": "Sertifikasi Qualified Chief Risk Officer (QCRO)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Pelatihan QCRO", "vol_utama": "150", "kw_target": "Sertifikasi qualified chief risk officer BNSP", "vol_target": "80", "kw_info": "Tugas Chief Risk Officer (CRO)", "vol_info": "500", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-qcro-bnsp/", "status": "Aktif", "total_impr": 3275, "total_clicks": 19, "ctr": 0.58, "avg_rank": 9.0, "latest_rank": 10.0}, {"id": 19, "name": "Sertifikasi Qualified Risk Governance Professional (QRGP)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Pelatihan QRGP", "vol_utama": "150", "kw_target": "Sertifikasi qualified risk governance professional", "vol_target": "50", "kw_info": "Gelar QRGP adalah", "vol_info": "350", "url": "https://grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp/", "status": "Aktif", "total_impr": 3436, "total_clicks": 10, "ctr": 0.29, "avg_rank": 8.7, "latest_rank": 12.0}, {"id": 20, "name": "Training Sistem Manajemen Kepatuhan", "category": "AI & Data Governance", "kw_utama": "Training sistem manajemen kepatuhan", "vol_utama": "150", "kw_target": "Pelatihan kepatuhan hukum perusahaan", "vol_target": "50", "kw_info": "Apa itu manajemen kepatuhan (compliance)", "vol_info": "-", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/", "status": "Aktif", "total_impr": 4266, "total_clicks": 0, "ctr": 0.0, "avg_rank": 4.3, "latest_rank": 13.0}, {"id": 21, "name": "Pelatihan Manajemen Anti Penyuapan (ISO 37001)", "category": "Standar ISO & Kepatuhan", "kw_utama": "Pelatihan ISO 37001", "vol_utama": "450", "kw_target": "Training sistem manajemen anti penyuapan (SMAP)", "vol_target": "200", "kw_info": "Klausul ISO 37001 anti penyuapan", "vol_info": "3,500", "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/", "status": "Aktif", "total_impr": 387, "total_clicks": 1, "ctr": 0.26, "avg_rank": 8.8, "latest_rank": 7.0}, {"id": 22, "name": "Integrasi ISO 31000 dengan ISO 9001", "category": "Standar ISO & Kepatuhan", "kw_utama": "Integrasi ISO 31000 dan ISO 9001", "vol_utama": "80", "kw_target": "Training integrasi manajemen risiko dan mutu", "vol_target": "30", "kw_info": "Perbedaan ISO 31000 dan ISO 9001", "vol_info": "850", "url": "https://grc-indonesia.com/integrasi-iso-31000-dengan-iso-9001/", "status": "Aktif", "total_impr": 2115, "total_clicks": 123, "ctr": 5.82, "avg_rank": 12.8, "latest_rank": 6.0}, {"id": 23, "name": "Training Business Continuity Management Systems", "category": "Standar ISO & Kepatuhan", "kw_utama": "Training BCMS", "vol_utama": "250", "kw_target": "Pelatihan business continuity management system ISO 22301", "vol_target": "80", "kw_info": "Tahapan membuat business continuity plan", "vol_info": "1,200", "url": "https://grc-indonesia.com/pelatihan/pelatihan-business-continuity-management-awareness-based-on-iso-22301/", "status": "Aktif", "total_impr": 460, "total_clicks": 7, "ctr": 1.52, "avg_rank": 8.1, "latest_rank": 9.0}, {"id": 24, "name": "Training Teknik Investigasi dan Interogasi untuk Corporate", "category": "Audit, Fraud & Forensik", "kw_utama": "Training investigasi fraud corporate", "vol_utama": "150", "kw_target": "Pelatihan teknik interogasi untuk internal audit", "vol_target": "50", "kw_info": "Cara melakukan investigasi fraud di perusahaan", "vol_info": "800", "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/", "status": "Aktif", "total_impr": 1002, "total_clicks": 14, "ctr": 1.4, "avg_rank": 7.9, "latest_rank": 9.0}, {"id": 25, "name": "Pelatihan Managing Legal Risk Based on ISO 31022", "category": "Standar ISO & Kepatuhan", "kw_utama": "Pelatihan ISO 31022", "vol_utama": "100 - 500", "kw_target": "Manajemen Risiko Hukum", "vol_target": "500 - 1.000", "kw_info": "Apa itu ISO 31022?", "vol_info": "50 - 200", "url": "https://grc-indonesia.com/pelatihan-managing-legal-risk-based-on-iso-31022/", "status": "Aktif", "total_impr": 190, "total_clicks": 12, "ctr": 6.32, "avg_rank": 6.6, "latest_rank": 8.0}, {"id": 26, "name": "Pelatihan Integrated Anti Fraud Management System", "category": "Audit, Fraud & Forensik", "kw_utama": "Training anti fraud management", "vol_utama": "200", "kw_target": "Pelatihan integrated anti fraud management system perusahaan", "vol_target": "50", "kw_info": "Strategi penerapan anti fraud management system", "vol_info": "850", "url": "https://grc-indonesia.com/pelatihan-integrated-anti-fraud-management-system/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 27, "name": "Pelatihan Business Continuity Management (BCM) System Based on ISO 22301:20191.", "category": "Standar ISO & Kepatuhan", "kw_utama": "Training BCM ISO 22301", "vol_utama": "250", "kw_target": "Pelatihan business continuity management BCM ISO 22301", "vol_target": "80", "kw_info": "Syarat sertifikasi ISO 22301 BCM", "vol_info": "200", "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 28, "name": "Pelatihan Internal Control Testing", "category": "Tata Kelola & BUMN", "kw_utama": "pelatihan internal control testing", "vol_utama": "50-150", "kw_target": "pelatihan internal control", "vol_target": "150-350", "kw_info": "apa itu internal control testing", "vol_info": "100- 250", "url": "https://grc-indonesia.com/pelatihan-internal-control-testing/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 29, "name": "Training Integrated Governance, Risk Management, & Compliance (GRC)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "training integrated grc", "vol_utama": "70-150", "kw_target": "sertifikasi grc indonesia", "vol_target": "90 -200", "kw_info": "apa itu integrated grc", "vol_info": "150 -300", "url": "https://grc-indonesia.com/training-integrated-governance-risk-management-compliance-grc/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 30, "name": "Pelatihan Risk Based Budgeting", "category": "Tata Kelola & BUMN", "kw_utama": "Pelatihan Penyusunan Anggaran Berbasis Risiko", "vol_utama": "200-400", "kw_target": "Pelatihan Risk Based Budgeting", "vol_target": "-", "kw_info": "Cara Mengintegrasikan Risk Appetite dalam Budgeting", "vol_info": "-", "url": "https://grc-indonesia.com/pelatihan-penyusunan-anggaran-berbasis-risiko/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 31, "name": "Pelatihan Implementasi Manajemen Risiko BUMN Sesuai PER-2/MBU/03/2023", "category": "AI & Data Governance", "kw_utama": "Pelatihan Manajemen Risiko BUMN", "vol_utama": "500 – 1.000", "kw_target": "Pelatihan Implementasi PER-2/MBU/03/2023", "vol_target": "200 – 500", "kw_info": "Panduan penilaian Risk Maturity Index BUMN", "vol_info": "100 – 300", "url": "https://grc-indonesia.com/pelatihan-implementasi-manajemen-risiko-bumn-per2-mbu-03-2023/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 32, "name": "Pelatihan Rencana Kerja Anggaran Perusahaan (RKAP) Berbasis Risiko", "category": "AI & Data Governance", "kw_utama": "pelatihan rkap berbasis risiko", "vol_utama": "150 - 350", "kw_target": "training rkap berbasis risiko", "vol_target": "100 - 250", "kw_info": "apa itu rkap berbasis risiko", "vol_info": "200 - 450", "url": "https://grc-indonesia.com/pelatihan-rkap-berbasis-risiko/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 33, "name": "Pelatihan Risk Control Self Assessment (RCSA)", "category": "Tata Kelola & BUMN", "kw_utama": "pelatihan RCSA", "vol_utama": "100-300", "kw_target": "pelatihan RCSA Jakarta", "vol_target": "50-150", "kw_info": "RCSA adalah", "vol_info": "800-2.000", "url": "https://grc-indonesia.com/pelatihan-risk-control-self-assessment/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 34, "name": "Pelatihan Good Corporate Governance (GCG)", "category": "Tata Kelola & BUMN", "kw_utama": "-", "vol_utama": "-", "kw_target": "-", "vol_target": "-", "kw_info": "-", "vol_info": "-", "url": "https://grc-indonesia.com/pelatihan-good-corporate-governance-gcg-terbaik/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 35, "name": "Pelatihan Manajemen Risiko Berbasis Data (Data Analytics for Risk Management)", "category": "AI & Data Governance", "kw_utama": "-", "vol_utama": "-", "kw_target": "-", "vol_target": "-", "kw_info": "-", "vol_info": "-", "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko-berbasis-data/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 36, "name": "Pelatihan Kepatuhan APU dan PPT untuk Perusahaan", "category": "Tata Kelola & BUMN", "kw_utama": "-", "vol_utama": "-", "kw_target": "-", "vol_target": "-", "kw_info": "-", "vol_info": "-", "url": "https://grc-indonesia.com/pelatihan-kepatuhan-apu-dan-ppt-untuk-perusahaan/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 37, "name": "Pelatihan Project Risk Management", "category": "AI & Data Governance", "kw_utama": "pelatihan project risk management", "vol_utama": "350-600", "kw_target": "training project risk management indonesia", "vol_target": "200-350", "kw_info": "contoh manajemen risiko proyek konstruksi", "vol_info": "450-800", "url": "https://grc-indonesia.com/pelatihan-risiko-proyek-konstruksi/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 38, "name": "Pelatihan dan Sertifikasi Certified Governance Professional (CGP) Indonesia", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "Sertifikasi Certified Governance Professional (CGP)", "vol_utama": "350 - 600", "kw_target": "Pelatihan tata kelola perusahaan GCG bersertifikat", "vol_target": "400 - 800", "kw_info": "Perbedaan sertifikasi CGP CCGO dan CGOP", "vol_info": "100 - 250", "url": "https://grc-indonesia.com/sertifikasi-certified-governance-professional-cgp/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 39, "name": "Future-Ready Leadership & Boardroom Governance", "category": "Tata Kelola & BUMN", "kw_utama": "pelatihan boardrooms governance bumn", "vol_utama": "150-350", "kw_target": "pelatihan dewan komisaris dan direksi bumn", "vol_target": "250 - 500", "kw_info": "tanggung jawab fidusia direksi bumn", "vol_info": "300-600", "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 40, "name": "Executive Masterclass: Future-Ready Leadership and Boardroom Governance", "category": "Tata Kelola & BUMN", "kw_utama": "pelatihan direksi dan komisaris", "vol_utama": "590", "kw_target": "pelatihan boardrooms governance bumn", "vol_target": "260", "kw_info": "peran dewan komisaris dalam tata kelola perusahaan", "vol_info": "1,000", "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 41, "name": "Master Class Corporate Governance dan Pelatihan CCGO CGOP LSP MKS Indonesia (Sertifikasi Ganda BNSP)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "sertifikasi ccgo cgop bnsp", "vol_utama": "200 - 450", "kw_target": "pelatihan corporate governance lsp mks", "vol_target": "90 - 200", "kw_info": "apa itu certified chief governance officer", "vol_info": "150 - 300", "url": "https://grc-indonesia.com/pelatihan-ccgo-cgop-lsp-mks-indonesia/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 42, "name": "Pelatihan dan Sertifikasi Data Analytics Risk Management", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "pelatihan data analytics risk management", "vol_utama": "150 – 350", "kw_target": "pelatihan dan sertifikasi data analytics risk management", "vol_target": "70 – 150", "kw_info": "penerapan data analytics dalam manajemen risiko", "vol_info": "100 – 250", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-data-analytics-risk-management/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 43, "name": "Pelatihan ERM Fundamentals dan Sertifikasi Risk Officer BNSP (QRMO/QRMA)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "sertifikasi risk officer bnsp", "vol_utama": "70 - 150", "kw_target": "pelatihan manajemen risiko bersertifikat", "vol_target": "200 - 450", "kw_info": "cara membuat risk register", "vol_info": "500 - 1.200", "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 44, "name": "Pelatihan ERM Implementation &amp; Sertifikasi QRMP - ERMAP - ERMCP (BNSP)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "sertifikasi qrmp bnsp", "vol_utama": "520", "kw_target": "pelatihan erm implementation qrmp ermcp", "vol_target": "210", "kw_info": "syarat sertifikasi qrmp dan ermcp", "vol_info": "1100", "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 45, "name": "Masterclass Internal Control Testing &amp; Klasifikasi Temuan Audit Korporasi (BUMN)", "category": "Audit, Fraud & Forensik", "kw_utama": "pelatihan audit internal bumn", "vol_utama": "620", "kw_target": "in house training internal control perusahaan", "vol_target": "280", "kw_info": "perbedaan design deficiency dan operating deficiency", "vol_info": "950", "url": "https://grc-indonesia.com/pelatihan-internal-control-testing-bumn/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 46, "name": "Pelatihan dan Sertifikasi Managing Legal Risk (ISO 31022) Legal & Compliance Officer", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "pelatihan manajemen risiko hukum", "vol_utama": "250 - 500", "kw_target": "sertifikasi legal risk management", "vol_target": "150 - 300", "kw_info": "sumber risiko hukum dalam organisasi", "vol_info": "350 - 700", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-managing-legal-risk-iso-31022/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 47, "name": "Master Class Enterprise Risk Governance: Sertifikasi QCRO, QRGP, dan CERG untuk Direksi dan Komisaris", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "sertifikasi manajemen risiko", "vol_utama": "400 - 800", "kw_target": "sertifikasi QRGP", "vol_target": "70 - 150", "kw_info": "three lines of defense adalah", "vol_info": "300 - 700", "url": "https://grc-indonesia.com/sertifikasi/master-class-enterprise-risk-governance-qcro-qrgp-cerg/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 48, "name": "Masterclass Direksi & Eksekutif: Pelatihan Pengambilan Keputusan Direksi dan Debiasing Risiko Strategis", "category": "Tata Kelola & BUMN", "kw_utama": "-", "vol_utama": "-", "kw_target": "-", "vol_target": "-", "kw_info": "-", "vol_info": "-", "url": "https://grc-indonesia.com/pelatihan-pengambilan-keputusan-direksi-debiasing/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 49, "name": "Training Risk Maturity Level (Level Pengukuran Maturitas Risiko)", "category": "AI & Data Governance", "kw_utama": "-", "vol_utama": "-", "kw_target": "-", "vol_target": "-", "kw_info": "-", "vol_info": "-", "url": "https://grc-indonesia.com/risk-maturity-level/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 50, "name": "Program Persiapan Sertifikasi Manajemen Risiko Perbankan (BSMR & LSPP)", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "sertifikasi manajemen risiko perbankan", "vol_utama": "800 - 1.300", "kw_target": "pelatihan sertifikasi manajemen risiko perbankan", "vol_target": "170 - 320", "kw_info": "8 jenis risiko perbankan", "vol_info": "320 - 590", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-perbankan/", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 51, "name": "Pelatihan Risk Appetite Statement: Establishment, Implementation &amp; Evaluation", "category": "Tata Kelola & BUMN", "kw_utama": "pelatihan risk appetite bersertifikat", "vol_utama": "520", "kw_target": "pelatihan risk appetite statement proxsis", "vol_target": "190", "kw_info": "komponen kunci risk appetite statement", "vol_info": "1.4", "url": "", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 52, "name": "Pelatihan Asesmen Risiko (ISO 31010) dan Business Impact Analysis (BIA)", "category": "Standar ISO & Kepatuhan", "kw_utama": "pelatihan risk assessment iso 31010", "vol_utama": "150 - 300", "kw_target": "training risk assessment iso 31010 indonesia", "vol_target": "70 - 150", "kw_info": "apa itu iso 31010 risk assessment techniques", "vol_info": "200 - 450", "url": "", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 53, "name": "Pelatihan Risk-Based Decision Making", "category": "Tata Kelola & BUMN", "kw_utama": "pelatihan risk based decision making", "vol_utama": "540", "kw_target": "pelatihan risk based decision making proxsis", "vol_target": "190", "kw_info": "cara mengatasi bias kognitif dalam keputusan", "vol_info": "123", "url": "", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}, {"id": 54, "name": "Pelatihan Risk Management Maturity Assessment for BUMN dan Non-BUMN", "category": "Sertifikasi BNSP / Profesi", "kw_utama": "sertifikasi risk management maturity assessment", "vol_utama": "450", "kw_target": "pelatihan risk management maturity assessment", "vol_target": "590", "kw_info": "template maturity assessment tool manajemen risiko", "vol_info": "212", "url": "", "status": "Draft", "total_impr": 0, "total_clicks": 0, "ctr": 0.0, "avg_rank": 0, "latest_rank": 0}];
+    const brandsData = [{"brand": "GRC Indonesia", "active_lp": 25, "impr": 713, "clicks": 25, "ctr": "3.51%", "focus": "Governance, Risk, Compliance, Fraud & ISO"}, {"brand": "ISO Center", "active_lp": 24, "impr": 3324, "clicks": 96, "ctr": "2.89%", "focus": "Sistem Manajemen Mutu ISO (9001, 14001, 45001)"}, {"brand": "Proxsis Academy", "active_lp": 21, "impr": 1202, "clicks": 13, "ctr": "1.08%", "focus": "Vokasi, Manajemen Bisnis & Leadership"}, {"brand": "IPQI", "active_lp": 34, "impr": 518, "clicks": 8, "ctr": "1.54%", "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi"}, {"brand": "FS Institute", "active_lp": 8, "impr": 21, "clicks": 0, "ctr": "0.00%", "focus": "Food Safety, Keuangan Perbankan & Treasury"}, {"brand": "ITGID", "active_lp": 12, "impr": 450, "clicks": 12, "ctr": "2.67%", "focus": "IT Governance, COBIT, Cybersecurity"}, {"brand": "IMII", "active_lp": 6, "impr": 180, "clicks": 4, "ctr": "2.22%", "focus": "Maintenance, Asset Reliability & Plant Integrity"}];
+    const auditsData = [{"status": "MISMATCH", "severity": "HIGH", "brand": "GRC Indonesia", "row": 16, "name": "Training High Impact Report Audit Writing", "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/", "issue": "Judul & slug membahas audit writing, namun isi halaman web dan H2 berisi materi Training ISO 45001 (SMK3). Terjadi mismatch konten berat.", "action": "Segera ganti body konten dengan materi silabus Audit Writing, atau buat redirect 301 ke halaman yang benar."}, {"status": "OPPORTUNITY", "severity": "HIGH", "brand": "GRC Indonesia", "row": 20, "name": "Training Sistem Manajemen Kepatuhan (ISO 37301)", "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/", "issue": "Mendapatkan 4.266 impresi dengan ranking rata-rata 3-5 di Google, namun menghasilkan 0 klik (CTR 0.00%).", "action": "Optimasi ulang Meta Title & Meta Description agar lebih click-worthy, cantumkan USP sertifikasi & tahun 2026."}, {"status": "OPPORTUNITY", "severity": "MEDIUM", "brand": "GRC Indonesia", "row": 16, "name": "Sertifikasi QRMO BNSP", "url": "https://grc-indonesia.com/sertifikasi/qrmo-qualified-risk-management-officer/", "issue": "Impresi sangat besar (4.809) namun CTR hanya 0.75% (36 klik).", "action": "Tambahkan FAQ Schema, update jadwal kelas bulanan, dan perkuat snippet rich snippet di SERP."}, {"status": "BROKEN", "severity": "HIGH", "brand": "GRC Indonesia", "row": 21, "name": "Pelatihan Integrasi ES-GRC", "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/", "issue": "URL sempat merespons HTTP 404 pada slug lama sebelum diperbarui.", "action": "Pastikan redirect 301 dari slug lama ke slug bersertifikat sudah permanen aktif."}];
+    const weeklyData = [{"week": "W1", "impr": 936, "clicks": 16}, {"week": "W2", "impr": 1415, "clicks": 31}, {"week": "W3", "impr": 1529, "clicks": 41}, {"week": "W4", "impr": 1593, "clicks": 37}, {"week": "W5", "impr": 1794, "clicks": 54}, {"week": "W6", "impr": 1937, "clicks": 40}, {"week": "W7", "impr": 1572, "clicks": 25}, {"week": "W8", "impr": 1535, "clicks": 24}, {"week": "W9", "impr": 1590, "clicks": 24}, {"week": "W10", "impr": 1298, "clicks": 30}, {"week": "W11", "impr": 1240, "clicks": 23}, {"week": "W12", "impr": 616, "clicks": 13}, {"week": "W13", "impr": 946, "clicks": 3}, {"week": "W14", "impr": 1174, "clicks": 23}, {"week": "W15", "impr": 1190, "clicks": 18}, {"week": "W16", "impr": 1368, "clicks": 28}, {"week": "W17", "impr": 1515, "clicks": 23}, {"week": "W18", "impr": 928, "clicks": 16}, {"week": "W19", "impr": 972, "clicks": 18}, {"week": "W20", "impr": 676, "clicks": 21}, {"week": "W21", "impr": 843, "clicks": 22}, {"week": "W22", "impr": 673, "clicks": 33}, {"week": "W23", "impr": 1144, "clicks": 26}, {"week": "W24", "impr": 916, "clicks": 25}, {"week": "W25", "impr": 695, "clicks": 17}, {"week": "W26", "impr": 781, "clicks": 27}, {"week": "W27", "impr": 881, "clicks": 22}, {"week": "W28", "impr": 723, "clicks": 22}, {"week": "W29", "impr": 552, "clicks": 8}, {"week": "W30", "impr": 592, "clicks": 22}, {"week": "W31", "impr": 540, "clicks": 20}, {"week": "W32", "impr": 421, "clicks": 13}, {"week": "W33", "impr": 713, "clicks": 25}, {"week": "W34", "impr": 583, "clicks": 20}];
+
+    let currentCategory = 'all';
+    let currentStatus = 'all';
+
+    function init() {
+      renderTable();
+      renderTrends();
+      renderOpportunities();
+      renderAudits();
+      renderBrands();
+    }
+
+    function switchTab(tabId) {
+      const tabs = ['tracker', 'trends', 'opportunities', 'audit', 'brands'];
+      tabs.forEach(t => {
+        const el = document.getElementById('view-' + t);
+        const btn = document.getElementById('btn-tab-' + t);
+        if (t === tabId) {
+          el.classList.remove('hidden');
+          btn.classList.add('active');
+          btn.classList.remove('text-[var(--muted-foreground,#94a3b8)]');
+        } else {
+          el.classList.add('hidden');
+          btn.classList.remove('active');
+          btn.classList.add('text-[var(--muted-foreground,#94a3b8)]');
+        }
+      });
+    }
+
+    function setCategoryFilter(cat) {
+      currentCategory = cat;
+      document.querySelectorAll('.cat-btn').forEach(btn => {
+        if (btn.dataset.cat === cat) {
+          btn.classList.add('active');
+          btn.classList.remove('text-[var(--muted-foreground,#94a3b8)]');
+        } else {
+          btn.classList.remove('active');
+          btn.classList.add('text-[var(--muted-foreground,#94a3b8)]');
+        }
+      });
+      renderTable();
+    }
+
+    function setStatusFilter(status) {
+      currentStatus = status;
+      document.querySelectorAll('.status-btn').forEach(btn => {
+        if (btn.dataset.status === status) {
+          btn.classList.add('bg-blue-600', 'text-white');
+          btn.classList.remove('text-[var(--muted-foreground,#94a3b8)]');
+        } else {
+          btn.classList.remove('bg-blue-600', 'text-white');
+          btn.classList.add('text-[var(--muted-foreground,#94a3b8)]');
+        }
+      });
+      renderTable();
+    }
+
+    function resetFilters() {
+      document.getElementById('searchInput').value = '';
+      document.getElementById('sortSelect').value = 'clicks-desc';
+      setCategoryFilter('all');
+      setStatusFilter('all');
+    }
+
+    function renderTable() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      const sortVal = document.getElementById('sortSelect').value;
+      const tbody = document.getElementById('productsTableBody');
+      const emptyState = document.getElementById('tableEmptyState');
+      const rowCountLabel = document.getElementById('rowCountLabel');
+
+      let filtered = productsData.filter(p => {
+        const matchCat = currentCategory === 'all' || p.category === currentCategory;
+        const matchStatus = currentStatus === 'all' || p.status.toLowerCase() === currentStatus.toLowerCase();
+        const matchQuery = !query || 
+          p.name.toLowerCase().includes(query) ||
+          p.kw_utama.toLowerCase().includes(query) ||
+          p.kw_target.toLowerCase().includes(query) ||
+          p.kw_info.toLowerCase().includes(query);
+        return matchCat && matchStatus && matchQuery;
+      });
+
+      // Sorting
+      filtered.sort((a, b) => {
+        if (sortVal === 'clicks-desc') return b.total_clicks - a.total_clicks;
+        if (sortVal === 'impr-desc') return b.total_impr - a.total_impr;
+        if (sortVal === 'ctr-desc') return b.ctr - a.ctr;
+        if (sortVal === 'rank-asc') {
+          const rA = a.latest_rank || 999;
+          const rB = b.latest_rank || 999;
+          return rA - rB;
+        }
+        if (sortVal === 'name-asc') return a.name.localeCompare(b.name);
+        return 0;
+      });
+
+      if (filtered.length === 0) {
+        tbody.innerHTML = '';
+        emptyState.classList.remove('hidden');
+        rowCountLabel.innerText = 'Menampilkan 0 program';
+        return;
+      }
+
+      emptyState.classList.add('hidden');
+      rowCountLabel.innerText = `Menampilkan ${filtered.length} dari ${productsData.length} program`;
+
+      tbody.innerHTML = filtered.map(p => {
+        const isLive = p.status.toLowerCase() === 'aktif';
+        const statusBadge = isLive 
+          ? `<span class="badge bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Aktif</span>`
+          : `<span class="badge bg-amber-500/10 text-amber-400 border border-amber-500/20">Draft</span>`;
+
+        let ctrColor = 'text-[var(--muted-foreground,#94a3b8)]';
+        if (p.ctr >= 5.0) ctrColor = 'text-emerald-400 font-bold';
+        else if (p.ctr >= 2.0) ctrColor = 'text-blue-400 font-semibold';
+        else if (p.total_impr > 1000 && p.ctr < 1.0) ctrColor = 'text-rose-400 font-semibold';
+
+        const rankDisplay = p.latest_rank > 0 
+          ? `<span class="font-medium text-amber-300">#${p.latest_rank}</span>`
+          : `<span class="text-[var(--muted-foreground,#94a3b8)]">-</span>`;
+
+        return `
+          <tr class="hover:bg-[var(--secondary,#1e293b)]/30 transition-colors">
+            <td class="px-4 py-3 text-[var(--muted-foreground,#94a3b8)] font-mono text-xs">${p.id}</td>
+            <td class="px-4 py-3">
+              <div class="font-medium text-[var(--foreground,#f8fafc)]">${p.name}</div>
+              ${p.url ? `<a href="${p.url}" target="_blank" class="text-[11px] text-blue-400/80 hover:text-blue-300 truncate block max-w-xs">${p.url}</a>` : '<span class="text-[10px] text-amber-400/70 italic">Belum ada URL live</span>'}
+            </td>
+            <td class="px-4 py-3">
+              <div class="text-xs text-[var(--muted-foreground,#94a3b8)]">${p.category}</div>
+              <div class="mt-1">${statusBadge}</div>
+            </td>
+            <td class="px-4 py-3">
+              <div class="font-medium text-[var(--foreground,#f8fafc)]">${p.kw_utama}</div>
+              <div class="text-[11px] text-[var(--muted-foreground,#94a3b8)]">Vol: <span class="font-medium text-white">${p.vol_utama}</span></div>
+            </td>
+            <td class="px-4 py-3">
+              <div class="text-xs text-[var(--muted-foreground,#94a3b8)]">${p.kw_target}</div>
+              <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">Vol: ${p.vol_target}</div>
+            </td>
+            <td class="px-4 py-3 text-right font-mono text-xs text-[var(--foreground,#f8fafc)]">${p.total_impr.toLocaleString('id-ID')}</td>
+            <td class="px-4 py-3 text-right font-mono text-xs font-semibold text-blue-400">${p.total_clicks}</td>
+            <td class="px-4 py-3 text-right font-mono text-xs ${ctrColor}">${p.ctr}%</td>
+            <td class="px-4 py-3 text-right font-mono text-xs">${rankDisplay}</td>
+            <td class="px-4 py-3 text-center">
+              <button onclick="openModal(${p.id})" class="px-2.5 py-1 text-xs font-medium rounded border border-blue-500/40 text-blue-400 hover:bg-blue-500/10 transition-colors">
+                Detail
+              </button>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderTrends() {
+      const container = document.getElementById('chartContainer');
+      const maxImpr = Math.max(...weeklyData.map(w => w.impr));
+      const maxClicks = Math.max(...weeklyData.map(w => w.clicks));
+      
+      const width = 800;
+      const height = 240;
+      const padding = 40;
+      const chartW = width - padding * 2;
+      const chartH = height - padding * 2;
+
+      const ptsImpr = weeklyData.map((d, i) => {
+        const x = padding + (i / (weeklyData.length - 1)) * chartW;
+        const y = padding + chartH - (d.impr / maxImpr) * chartH;
+        return `${x},${y}`;
+      }).join(' ');
+
+      const ptsClicks = weeklyData.map((d, i) => {
+        const x = padding + (i / (weeklyData.length - 1)) * chartW;
+        const y = padding + chartH - (d.clicks / maxClicks) * chartH;
+        return `${x},${y}`;
+      }).join(' ');
+
+      const svgHtml = `
+        <svg viewBox="0 0 ${width} ${height}" class="w-full h-full">
+          <!-- Grid lines -->
+          <line x1="${padding}" y1="${padding}" x2="${width - padding}" y2="${padding}" stroke="currentColor" stroke-opacity="0.1" stroke-dasharray="3,3" />
+          <line x1="${padding}" y1="${padding + chartH/2}" x2="${width - padding}" y2="${padding + chartH/2}" stroke="currentColor" stroke-opacity="0.1" stroke-dasharray="3,3" />
+          <line x1="${padding}" y1="${padding + chartH}" x2="${width - padding}" y2="${padding + chartH}" stroke="currentColor" stroke-opacity="0.2" />
+
+          <!-- Impression line (Blue) -->
+          <polyline fill="none" stroke="#3b82f6" stroke-width="2.5" points="${ptsImpr}" />
+
+          <!-- Clicks line (Emerald) -->
+          <polyline fill="none" stroke="#34d399" stroke-width="2.5" stroke-dasharray="4,2" points="${ptsClicks}" />
+
+          <!-- Dots for impressions -->
+          ${weeklyData.map((d, i) => {
+            const x = padding + (i / (weeklyData.length - 1)) * chartW;
+            const y = padding + chartH - (d.impr / maxImpr) * chartH;
+            return `<circle cx="${x}" cy="${y}" r="3" fill="#3b82f6"><title>${d.week}: ${d.impr} Impresi, ${d.clicks} Klik</title></circle>`;
+          }).join('')}
+
+          <!-- X axis labels (sampled) -->
+          ${weeklyData.filter((_, i) => i % 4 === 0 || i === weeklyData.length - 1).map((d, idx, arr) => {
+            const origIndex = weeklyData.indexOf(d);
+            const x = padding + (origIndex / (weeklyData.length - 1)) * chartW;
+            return `<text x="${x}" y="${height - 10}" fill="currentColor" opacity="0.6" font-size="10" text-anchor="middle">${d.week}</text>`;
+          }).join('')}
+        </svg>
+      `;
+      container.innerHTML = svgHtml;
+
+      // Category breakdown
+      const catCounts = {};
+      productsData.forEach(p => {
+        if (!catCounts[p.category]) catCounts[p.category] = { count: 0, clicks: 0, impr: 0 };
+        catCounts[p.category].count++;
+        catCounts[p.category].clicks += p.total_clicks;
+        catCounts[p.category].impr += p.total_impr;
+      });
+
+      const catBars = document.getElementById('categoryDistributionBars');
+      catBars.innerHTML = Object.entries(catCounts).map(([cat, val]) => {
+        const pct = Math.round((val.clicks / 835) * 100);
+        return `
+          <div>
+            <div class="flex justify-between text-xs mb-1">
+              <span class="font-medium text-[var(--foreground,#f8fafc)]">${cat} (${val.count} program)</span>
+              <span class="text-blue-400 font-semibold">${val.clicks} klik (${pct}%)</span>
+            </div>
+            <div class="w-full bg-[var(--background,#0f172a)] rounded-full h-2 overflow-hidden border border-[var(--border,#334155)]">
+              <div class="bg-blue-500 h-2 rounded-full" style="width: ${pct}%"></div>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      // Top 5 keywords
+      const topKws = [...productsData].sort((a,b) => b.total_clicks - a.total_clicks).slice(0, 5);
+      const topKwList = document.getElementById('topKeywordsList');
+      topKwList.innerHTML = topKws.map((p, idx) => `
+        <div class="py-2.5 flex items-center justify-between">
+          <div>
+            <div class="font-semibold text-[var(--foreground,#f8fafc)]">${idx+1}. ${p.kw_utama}</div>
+            <div class="text-[11px] text-[var(--muted-foreground,#94a3b8)]">${p.name}</div>
+          </div>
+          <div class="text-right">
+            <div class="font-bold text-emerald-400">${p.total_clicks} Klik</div>
+            <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">CTR ${p.ctr}% • Posisi ${p.latest_rank || '-'}</div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function renderOpportunities() {
+      const opps = productsData
+        .filter(p => p.total_impr >= 800 && p.ctr < 2.0 && p.status.toLowerCase() === 'aktif')
+        .sort((a,b) => b.total_impr - a.total_impr);
+
+      const container = document.getElementById('opportunityCards');
+      container.innerHTML = opps.map(p => `
+        <div class="bg-[var(--card,#1e293b)] border border-amber-500/30 rounded-xl p-4 shadow-sm flex flex-col justify-between">
+          <div class="space-y-2">
+            <div class="flex items-center justify-between">
+              <span class="badge bg-amber-500/10 text-amber-400 border border-amber-500/30 font-mono">Peringkat #${p.latest_rank || 'Top 10'}</span>
+              <span class="text-xs text-rose-400 font-bold">CTR Rendah: ${p.ctr}%</span>
+            </div>
+            <h4 class="font-bold text-[var(--foreground,#f8fafc)]">${p.name}</h4>
+            <div class="text-xs text-[var(--muted-foreground,#94a3b8)]">
+              Keyword: <span class="text-white font-medium">"${p.kw_utama}"</span> (Vol: ${p.vol_utama})
+            </div>
+            <div class="grid grid-cols-2 gap-2 p-2 bg-[var(--background,#0f172a)] rounded-lg text-center text-xs mt-2">
+              <div>
+                <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">Impresi Terbuang</div>
+                <div class="font-bold text-amber-400 text-sm">${p.total_impr.toLocaleString('id-ID')}</div>
+              </div>
+              <div>
+                <div class="text-[10px] text-[var(--muted-foreground,#94a3b8)]">Klik Terkumpul</div>
+                <div class="font-bold text-white text-sm">${p.total_clicks}</div>
+              </div>
+            </div>
+          </div>
+          <div class="mt-4 pt-3 border-t border-[var(--border,#334155)] flex items-center justify-between text-xs">
+            <span class="text-[11px] text-[var(--muted-foreground,#94a3b8)]">Solusi: Rombak Meta Title & CTA</span>
+            <button onclick="openModal(${p.id})" class="text-blue-400 hover:underline font-semibold">Buka Rencana</button>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function renderAudits() {
+      const container = document.getElementById('auditListContainer');
+      container.innerHTML = auditsData.map(a => `
+        <div class="bg-[var(--card,#1e293b)] border border-[var(--border,#334155)] rounded-xl p-4 shadow-sm space-y-3">
+          <div class="flex items-center justify-between">
+            <div class="flex items-center gap-2">
+              <span class="badge ${a.status === 'MISMATCH' ? 'bg-rose-500/20 text-rose-400 border border-rose-500/40' : 'bg-amber-500/20 text-amber-400 border border-amber-500/40'}">${a.status}</span>
+              <span class="text-xs text-[var(--muted-foreground,#94a3b8)]">Tingkat Urgensi: <strong class="text-rose-400">${a.severity}</strong></span>
+            </div>
+            <span class="text-xs text-[var(--muted-foreground,#94a3b8)] font-mono">${a.brand} • Row #${a.row}</span>
+          </div>
+          <div>
+            <h4 class="font-bold text-[var(--foreground,#f8fafc)]">${a.name}</h4>
+            <a href="${a.url}" target="_blank" class="text-xs text-blue-400 hover:underline break-all block mt-0.5">${a.url}</a>
+          </div>
+          <div class="bg-[var(--background,#0f172a)]/80 rounded-lg p-3 text-xs space-y-1">
+            <div class="text-rose-300 font-medium">Masalah: ${a.issue}</div>
+            <div class="text-emerald-400 font-medium mt-1">Solusi Direkomendasikan: ${a.action}</div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function renderBrands() {
+      const tbody = document.getElementById('brandsTableBody');
+      tbody.innerHTML = brandsData.map(b => `
+        <tr class="hover:bg-[var(--secondary,#1e293b)]/30 transition-colors">
+          <td class="px-4 py-3 font-semibold text-[var(--foreground,#f8fafc)]">${b.brand}</td>
+          <td class="px-4 py-3 text-xs text-[var(--muted-foreground,#94a3b8)]">${b.focus}</td>
+          <td class="px-4 py-3 text-center font-mono font-medium">${b.active_lp}</td>
+          <td class="px-4 py-3 text-right font-mono font-medium text-[var(--foreground,#f8fafc)]">${b.impr.toLocaleString('id-ID')}</td>
+          <td class="px-4 py-3 text-right font-mono font-semibold text-blue-400">${b.clicks}</td>
+          <td class="px-4 py-3 text-right font-mono font-semibold text-emerald-400">${b.ctr}</td>
+        </tr>
+      `).join('');
+    }
+
+    function openModal(id) {
+      const p = productsData.find(item => item.id === id);
+      if (!p) return;
+
+      document.getElementById('modalTitle').innerText = p.name;
+      document.getElementById('modalUrlText').innerText = p.url || 'Belum memiliki tautan landing page live';
+      document.getElementById('modalUrl').href = p.url || '#';
+      document.getElementById('modalImpr').innerText = p.total_impr.toLocaleString('id-ID');
+      document.getElementById('modalClicks').innerText = p.total_clicks;
+      document.getElementById('modalCtr').innerText = p.ctr + '%';
+      document.getElementById('modalRank').innerText = p.latest_rank > 0 ? '#' + p.latest_rank : '-';
+
+      document.getElementById('modalKwUtama').innerText = p.kw_utama;
+      document.getElementById('modalVolUtama').innerText = p.vol_utama;
+      document.getElementById('modalKwTarget').innerText = p.kw_target;
+      document.getElementById('modalVolTarget').innerText = p.vol_target;
+      document.getElementById('modalKwInfo').innerText = p.kw_info;
+      document.getElementById('modalVolInfo').innerText = p.vol_info;
+
+      const isLive = p.status.toLowerCase() === 'aktif';
+      document.getElementById('modalBadges').innerHTML = `
+        <span class="badge ${isLive ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' : 'bg-amber-500/10 text-amber-400 border border-amber-500/20'}">${p.status}</span>
+        <span class="badge bg-blue-500/10 text-blue-400 border border-blue-500/20">${p.category}</span>
+      `;
+
+      let advice = '';
+      if (!isLive) {
+        advice = 'Halaman ini masih dalam tahap DRAFT / PIPELINE. Prioritaskan penerbitan konten sesuai silabus dan daftarkan ke Google Search Console untuk mulai menangkap volume pencarian bulanan sebesar ' + p.vol_utama + '.';
+      } else if (p.total_clicks >= 50 && p.ctr >= 5.0) {
+        advice = '🌟 Halaman Bintang (Top Performer). Pertahankan posisi ranking SERP dengan memperbarui jadwal training terkini, menambah testimoni alumni korporat, dan pastikan form registrasi / CTA WhatsApp berkonversi optimal.';
+      } else if (p.total_impr >= 800 && p.ctr < 2.0) {
+        advice = '⚡ Peluang Quick Win. Impresi tinggi namun CTR rendah. Segera ganti Meta Title dengan format: "[Nama Pelatihan] 2026 Bersertifikat BNSP / ISO - GRC Indonesia" dan perjelas manfaat utama di meta description untuk memicu klik.';
+      } else {
+        advice = 'Halaman memiliki potensi stabil. Tingkatkan internal linking dari artikel blog informasional terkait topik "' + p.kw_info + '" menuju landing page transaksional ini.';
+      }
+      document.getElementById('modalAdvice').innerText = advice;
+
+      document.getElementById('detailModal').classList.remove('hidden');
+    }
+
+    function closeModal() {
+      document.getElementById('detailModal').classList.add('hidden');
+    }
+
+    document.getElementById('detailModal').addEventListener('click', function(e) {
+      if (e.target === this) closeModal();
+    });
+
+    window.onload = init;
+  </script>
+</body>
+</html>
