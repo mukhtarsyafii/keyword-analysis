@@ -1,7 +1,7 @@
 {
  "1": {
   "masalah": [
-   "Posisi rata-rata #13.5 — masih di halaman 2+ Google."
+   "Posisi rata-rata #12.0 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Apa itu fraud management\" ke halaman transaksional ini."
@@ -29,7 +29,7 @@
  },
  "2": {
   "masalah": [
-   "Posisi rata-rata #16.0 — masih di halaman 2+ Google.",
+   "Posisi rata-rata #14.9 — masih di halaman 2+ Google.",
    "Tidak ada masalah kritis — halaman ini top performer."
   ],
   "solusi": [
@@ -166,10 +166,12 @@
  },
  "7": {
   "masalah": [
-   "Impresi tinggi (3,257) tetapi CTR hanya 0.8% — 3,231 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,252) tetapi CTR hanya 0.8% — 3,226 tayangan tidak menghasilkan klik.",
+   "Peringkat #1.0 (halaman 1 teratas) tetapi CTR 0.8% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
+   "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA.",
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
@@ -195,7 +197,7 @@
  },
  "8": {
   "masalah": [
-   "Posisi rata-rata #16.5 — masih di halaman 2+ Google."
+   "Posisi rata-rata #11.0 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Langkah-langkah risk based audit\" ke halaman transaksional ini."
@@ -223,7 +225,7 @@
  },
  "9": {
   "masalah": [
-   "Posisi rata-rata #10.8 — masih di halaman 2+ Google."
+   "Posisi rata-rata #14.6 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Framework GRC (Governance Risk Compliance)\" ke halaman transaksional ini."
@@ -390,12 +392,14 @@
  },
  "15": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #10.9 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"Tugas compliance officer di perusahaan\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Legal and Compliance Management - GRC Indonesia",
    "meta_description": "Pelatihan legal and corporate compliance di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -412,7 +416,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "16": {
   "masalah": [
@@ -546,14 +550,12 @@
  },
  "21": {
   "masalah": [
-   "Posisi rata-rata #12.2 — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Klausul ISO 37001 anti penyuapan\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan ISO 37001 - GRC Indonesia",
    "meta_description": "Training sistem manajemen anti penyuapan (SMAP) di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
@@ -570,7 +572,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "22": {
   "masalah": [
@@ -678,12 +680,14 @@
  },
  "26": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #15.2 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"Strategi penerapan anti fraud management system\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Training anti fraud management - GRC Indonesia",
    "meta_description": "Pelatihan integrated anti fraud management system perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan ",
@@ -700,7 +704,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "27": {
   "masalah": [
@@ -782,12 +786,14 @@
  },
  "30": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #15.9 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"Cara Mengintegrasikan Risk Appetite dalam Budgeting\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Penyusunan Anggaran Berbasis Risi… - GRC Indonesia",
    "meta_description": "Pelatihan Risk Based Budgeting di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -804,11 +810,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "31": {
   "masalah": [
-   "Peringkat #2.5 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1.8 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -834,14 +840,12 @@
  },
  "32": {
   "masalah": [
-   "Posisi rata-rata #10.1 — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"apa itu rkap berbasis risiko\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan rkap berbasis risiko - GRC Indonesia",
    "meta_description": "training rkap berbasis risiko di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -858,7 +862,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "33": {
   "masalah": [
@@ -888,12 +892,14 @@
  },
  "34": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #11.1 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Good Corporate Governance (GCG) - GRC Indonesia",
    "meta_description": "Pelatihan Good Corporate Governance (GCG) di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -910,11 +916,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "35": {
   "masalah": [
-   "Posisi rata-rata #14.8 — masih di halaman 2+ Google."
+   "Posisi rata-rata #18.0 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -968,7 +974,7 @@
  },
  "37": {
   "masalah": [
-   "Posisi rata-rata #37.0 — masih di halaman 2+ Google."
+   "Posisi rata-rata #23.7 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"contoh manajemen risiko proyek konstruksi\" ke halaman transaksional ini."
@@ -996,7 +1002,7 @@
  },
  "38": {
   "masalah": [
-   "Impresi tinggi (1,378) tetapi CTR hanya 0.8% — 1,367 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,542) tetapi CTR hanya 0.71% — 1,531 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -1077,12 +1083,14 @@
  },
  "41": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #11.1 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"apa itu certified chief governance officer\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi ccgo cgop bnsp - GRC Indonesia",
    "meta_description": "pelatihan corporate governance lsp mks di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -1099,16 +1107,18 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "42": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #16.4 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"penerapan data analytics dalam manajemen risiko\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan data analytics risk management - GRC Indonesia",
    "meta_description": "pelatihan dan sertifikasi data analytics risk management di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-h",
@@ -1125,7 +1135,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "43": {
   "masalah": [
@@ -1181,12 +1191,14 @@
  },
  "45": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi rata-rata #13.1 — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"perbedaan design deficiency dan operating deficiency\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan audit internal bumn - GRC Indonesia",
    "meta_description": "in house training internal control perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekara",
@@ -1203,7 +1215,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "46": {
   "masalah": [
@@ -1259,7 +1271,7 @@
  },
  "48": {
   "masalah": [
-   "Posisi rata-rata #21.0 — masih di halaman 2+ Google."
+   "Posisi rata-rata #13.3 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -1287,7 +1299,7 @@
  },
  "49": {
   "masalah": [
-   "Impresi tinggi (7,465) tetapi CTR hanya 0.82% — 7,404 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (7,417) tetapi CTR hanya 0.82% — 7,356 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."

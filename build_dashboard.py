@@ -3,7 +3,7 @@
 
 Run: python3 build_dashboard.py
 """
-import json, os, datetime
+import argparse, json, os, datetime, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
@@ -657,7 +657,31 @@ window.onload = init;
 """
 
 
+TW_CDN = '<script src="https://cdn.tailwindcss.com"></script>'
+TW_URL = "https://cdn.tailwindcss.com"
+
+
+def tailwind_inline():
+    """Tailwind source cached in data/ so the client copy works offline.
+    Returns None when it can't be fetched (build falls back to the CDN tag)."""
+    cache = os.path.join(DATA, "vendor-tailwind.js")
+    if not os.path.exists(cache):
+        try:
+            with urllib.request.urlopen(TW_URL, timeout=60) as r:
+                open(cache, "wb").write(r.read())
+        except Exception as e:
+            print(f"WARN: cannot fetch Tailwind for offline build ({e})")
+            return None
+    src = open(cache, encoding="utf-8").read()
+    return None if len(src) < 100000 else src
+
+
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--standalone", action="store_true",
+                    help="also write a single-file copy for sending to a client")
+    args = ap.parse_args()
+
     products = load("products.json", [])
     recs = load("recommendations.json", {})
     comps = load("competitors.json", {})
@@ -677,6 +701,17 @@ def main():
         f.write(html)
     print(f"wrote {OUT} ({len(html):,} bytes)")
     print(f"products={len(products)} recs={len(recs)} competitors={len(comps)} brands={len(brands)}")
+
+    if args.standalone:
+        tw = tailwind_inline()
+        if tw:
+            html = html.replace(TW_CDN, "<script>\n" + tw + "\n</script>")
+        else:
+            print("WARN: standalone copy still needs the Tailwind CDN")
+        out = os.path.join(HERE, "dashboard-standalone.html")
+        with open(out, "w") as f:
+            f.write(html)
+        print(f"wrote {out} ({len(html):,} bytes) — kirim file ini ke klien")
 
 
 if __name__ == "__main__":
