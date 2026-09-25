@@ -12,7 +12,7 @@ Usage:
 Writes data/gsc_raw.json (per page per week) and optionally merges into
 products.json so build_dashboard.py picks it up.
 """
-import argparse, json, os, sys, datetime, urllib.request, urllib.parse
+import argparse, json, os, re, sys, datetime, urllib.request, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
@@ -124,22 +124,32 @@ def main():
 
     print(f"fetched {len(rows)} page/date rows {start} .. {end}")
 
-    # aggregate per page per ISO week
+    # aggregate per page per ISO week, and keep the daily rows too so the
+    # dashboard can bucket by day / week / month without a re-fetch.
     per_page = {}
+    per_day = {}
     for r in rows:
         page = r["keys"][0]
         d = datetime.date.fromisoformat(r["keys"][1])
-        wk = f"W{d.isocalendar()[1]}"
+        iso = d.isocalendar()
+        # Year-qualified key: plain "W<n>" wraps at the ISO year boundary and
+        # sorts wrong once the series spans two years. "2025W01" sorts as a string.
+        wk = f"{iso[0]}W{iso[1]:02d}"
         e = per_page.setdefault(page, {}).setdefault(wk, {"impr": 0, "clicks": 0, "pos": []})
         e["impr"] += r.get("impressions", 0)
         e["clicks"] += r.get("clicks", 0)
         if r.get("position"):
             e["pos"].append(r["position"])
+        per_day.setdefault(page, {})[d.isoformat()] = {
+            "impr": int(r.get("impressions", 0)),
+            "clicks": int(r.get("clicks", 0)),
+            "rank": round(r["position"], 1) if r.get("position") else None,
+        }
 
     out = {}
     for page, weeks in per_page.items():
         out[page] = []
-        for wk in sorted(weeks, key=lambda w: int(w[1:])):
+        for wk in sorted(weeks):
             v = weeks[wk]
             out[page].append({
                 "w": wk,
@@ -148,11 +158,16 @@ def main():
                 "ctr": round(v["clicks"] / v["impr"] * 100, 2) if v["impr"] else 0.0,
                 "rank": round(sum(v["pos"]) / len(v["pos"]), 1) if v["pos"] else None,
             })
+    # daily series written separately (data/gsc_daily.json) -> bucketed
+    # client-side into day / week / month in the dashboard.
 
     os.makedirs(DATA, exist_ok=True)
     with open(os.path.join(DATA, "gsc_raw.json"), "w") as f:
         json.dump(out, f, indent=1, ensure_ascii=False)
     print(f"wrote data/gsc_raw.json ({len(out)} pages)")
+    with open(os.path.join(DATA, "gsc_daily.json"), "w") as f:
+        json.dump(per_day, f, indent=1, ensure_ascii=False)
+    print(f"wrote data/gsc_daily.json ({len(per_day)} pages, daily rows)")
 
     if args.merge:
         ppath = os.path.join(DATA, "products.json")
@@ -172,12 +187,18 @@ def main():
                 continue
             if len(grp) > 1:
                 shared += 1
+            daily = [{"d": k, **v} for k, v in sorted(per_day.get(page, {}).items())]
             for p in grp:
                 # Merge by week key so a short refresh keeps older weeks.
                 # A week re-fetched later is replaced (GSC revises recent data).
-                by_wk = {s["w"]: s for s in p.get("weeks", [])}
+                by_wk = {s["w"]: s for s in p.get("weeks", [])
+                         if re.match(r"^\d{4}W\d{2}$", s.get("w", ""))}
                 by_wk.update({s["w"]: s for s in series})
-                p["weeks"] = sorted(by_wk.values(), key=lambda s: int(s["w"][1:]))
+                p["weeks"] = sorted(by_wk.values(), key=lambda s: s["w"])
+                if daily:
+                    by_d = {s["d"]: s for s in p.get("daily", [])}
+                    by_d.update({s["d"]: s for s in daily})
+                    p["daily"] = [by_d[k] for k in sorted(by_d)]
                 live = [s for s in p["weeks"] if s["impr"] or s["clicks"]]
                 p["total_impr"] = sum(s["impr"] for s in live)
                 p["total_clicks"] = sum(s["clicks"] for s in live)

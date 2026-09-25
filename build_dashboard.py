@@ -64,7 +64,7 @@ HTML = r"""<!DOCTYPE html>
     <button onclick="switchTab('matrix')" id="btn-tab-matrix" class="tab-btn active px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-slate-700">📊 Matriks Kinerja</button>
     <button onclick="switchTab('aksi')" id="btn-tab-aksi" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-slate-700 text-slate-400">🛠️ Aksi &amp; Perbaikan</button>
     <button onclick="switchTab('kompetitor')" id="btn-tab-kompetitor" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-slate-700 text-slate-400">🥊 Keyword Kompetitor</button>
-    <button onclick="switchTab('tren')" id="btn-tab-tren" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-slate-700 text-slate-400">📈 Tren Mingguan</button>
+    <button onclick="switchTab('tren')" id="btn-tab-tren" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-slate-700 text-slate-400">📈 Tren Harian/Mingguan/Bulanan</button>
     <button onclick="switchTab('brands')" id="btn-tab-brands" class="tab-btn px-4 py-2 text-xs sm:text-sm font-medium rounded-lg border border-slate-700 text-slate-400">🌐 Lintas Brand</button>
   </div>
 
@@ -157,16 +157,52 @@ HTML = r"""<!DOCTYPE html>
     <div class="bg-slate-800 border border-slate-700 rounded-xl p-5 space-y-4">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
         <div>
-          <h2 class="text-lg font-bold">Tren Trafik Organik Mingguan</h2>
-          <p class="text-xs text-slate-400">Total impresi &amp; klik seluruh landing page GRC Indonesia</p>
+          <h2 class="text-lg font-bold">Tren Trafik &amp; Posisi Keyword</h2>
+          <p class="text-xs text-slate-400">Total impresi, klik &amp; rata-rata posisi seluruh landing page GRC Indonesia</p>
         </div>
         <div class="flex items-center gap-4 text-xs">
           <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-blue-500"></span> Impresi</span>
           <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-emerald-400"></span> Klik</span>
+          <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-amber-400"></span> Posisi (skala terbalik)</span>
         </div>
+      </div>
+      <div class="flex flex-wrap items-center gap-1.5 text-xs pt-1 border-t border-slate-700">
+        <span class="text-slate-400 mr-1">Periode:</span>
+        <button onclick="setPeriod('daily')" class="pill-btn period-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-period="daily">Harian</button>
+        <button onclick="setPeriod('weekly')" class="pill-btn period-btn active px-2.5 py-1 rounded-md border border-slate-700" data-period="weekly">Mingguan</button>
+        <button onclick="setPeriod('monthly')" class="pill-btn period-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-period="monthly">Bulanan</button>
+        <span class="text-slate-500 ml-auto" id="periodLabel">—</span>
       </div>
       <div class="w-full overflow-x-auto pt-4"><div class="min-w-[700px] h-72" id="chartContainer"></div></div>
     </div>
+
+    <div class="bg-slate-800 border border-slate-700 rounded-xl overflow-hidden">
+      <div class="p-4 border-b border-slate-700 flex items-center justify-between flex-wrap gap-2">
+        <div>
+          <h3 class="text-sm font-bold">Pergerakan Posisi Keyword per Program</h3>
+          <p class="text-xs text-slate-400 mt-0.5">Posisi awal vs akhir pada periode terpilih. <span class="text-emerald-400">Naik</span> = angka posisi mengecil (makin dekat #1).</p>
+        </div>
+        <span class="text-xs text-slate-500" id="rankPeriodLabel">—</span>
+      </div>
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs sm:text-sm">
+          <thead class="bg-slate-900/70 text-slate-400 border-b border-slate-700">
+            <tr>
+              <th class="px-3 py-3 font-semibold min-w-[220px]">Program</th>
+              <th class="px-3 py-3 font-semibold text-right">Posisi Awal</th>
+              <th class="px-3 py-3 font-semibold text-right">Posisi Akhir</th>
+              <th class="px-3 py-3 font-semibold text-right">Δ Posisi</th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi</th>
+              <th class="px-3 py-3 font-semibold text-right">Klik</th>
+              <th class="px-3 py-3 font-semibold text-center">Tren</th>
+            </tr>
+          </thead>
+          <tbody id="rankMoveBody" class="divide-y divide-slate-700"></tbody>
+        </table>
+      </div>
+      <div class="px-4 py-3 border-t border-slate-700 bg-slate-900/40 text-xs text-slate-400" id="rankMoveFoot">—</div>
+    </div>
+
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       <div class="bg-slate-800 border border-slate-700 rounded-xl p-5 space-y-3">
         <h3 class="text-sm font-bold">Distribusi Klik per Kategori</h3>
@@ -301,6 +337,7 @@ const BRANDS = __BRANDS__;
 const META = __META__;
 
 let currentCategory = 'all', currentStatus = 'all', currentId = null;
+let currentPeriod = 'weekly';   // daily | weekly | monthly
 
 const fmt = n => (n||0).toLocaleString('id-ID');
 const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -504,36 +541,173 @@ function renderKompetitor(){
   }).join('');
 }
 
-function renderTrends(){
-  const totals = {};
-  PRODUCTS.forEach(p=>p.weeks.forEach(w=>{
-    if (!totals[w.w]) totals[w.w] = {w:w.w, impr:0, clicks:0};
-    totals[w.w].impr += w.impr; totals[w.w].clicks += w.clicks;
+const MONTHS = ['Jan','Feb','Mar','Apr','Mei','Jun','Jul','Agu','Sep','Okt','Nov','Des'];
+
+// Bucket one product's rows into the selected period.
+// daily rows (p.daily) drive daily + monthly; p.weeks drives weekly.
+// Each bucket carries `ord`: a numeric index for weekly (p.weeks is already
+// chronological, so ISO-week numbers that wrap at year end stay in order) and
+// the ISO key itself for daily/monthly (string-sortable).
+// Chronological order of the week keys present in the data. Keys are
+// year-qualified ("2026W39"), so a plain string sort is chronological even
+// when the series spans an ISO year boundary.
+const WEEK_ORDER = (()=>{
+  const seen = new Set();
+  PRODUCTS.forEach(p=>(p.weeks||[]).forEach(w=>seen.add(w.w)));
+  return new Map([...seen].sort().map((w,i)=>[w,i]));
+})();
+
+function bucketProduct(p, period){
+  const out = new Map();
+  const add = (key,label,short,ord,impr,clicks,rank)=>{
+    const e = out.get(key) || {key,label,short,ord,impr:0,clicks:0,_r:[],rank:null};
+    e.impr += impr; e.clicks += clicks;
+    if (rank!=null) e._r.push(rank);
+    out.set(key,e);
+  };
+  if (period==='weekly'){
+    (p.weeks||[]).forEach(w=>{
+      const lbl = w.w.slice(4);   // "2026W39" -> "W39"
+      add(w.w, lbl, lbl, WEEK_ORDER.get(w.w), w.impr, w.clicks, w.rank);
+    });
+  } else {
+    const rows = (p.daily&&p.daily.length) ? p.daily
+      : (p.weeks||[]).map(w=>({d:null,w:w.w,impr:w.impr,clicks:w.clicks,rank:w.rank}));
+    rows.forEach(r=>{
+      if (period==='daily'){
+        const d = r.d || r.w;
+        add(d, d, d.slice(5).replace('-','/'), d, r.impr, r.clicks, r.rank);
+      } else { // monthly
+        const d = r.d || r.w;
+        const key = r.d ? r.d.slice(0,7) : 'W'+d;
+        const label = r.d ? MONTHS[+r.d.slice(5,7)-1]+' '+r.d.slice(0,4) : d;
+        add(key, label, r.d?MONTHS[+r.d.slice(5,7)-1]:d, key, r.impr, r.clicks, r.rank);
+      }
+    });
+  }
+  return [...out.values()].map(e=>{
+    e.rank = e._r.length ? Math.round(e._r.reduce((a,b)=>a+b,0)/e._r.length*10)/10 : null;
+    delete e._r; return e;
+  }).sort((a,b)=>a.ord<b.ord?-1:a.ord>b.ord?1:0);
+}
+
+// Portfolio-wide series for the chart.
+function bucketSeries(period){
+  const totals = new Map();
+  PRODUCTS.forEach(p=>bucketProduct(p,period).forEach(b=>{
+    const e = totals.get(b.key) || {key:b.key,label:b.label,short:b.short,ord:b.ord,impr:0,clicks:0,_r:[]};
+    e.impr += b.impr; e.clicks += b.clicks;
+    if (b.rank!=null) e._r.push(b.rank);
+    totals.set(b.key,e);
   }));
-  const data = Object.values(totals).sort((a,b)=>parseInt(a.w.slice(1))-parseInt(b.w.slice(1)));
-  if (data.length<2){ document.getElementById('chartContainer').innerHTML='<div class="text-slate-500 text-sm">Data mingguan belum cukup.</div>'; return; }
+  return [...totals.values()].map(e=>{
+    e.rank = e._r.length ? Math.round(e._r.reduce((a,b)=>a+b,0)/e._r.length*10)/10 : null;
+    delete e._r; return e;
+  }).sort((a,b)=>a.ord<b.ord?-1:a.ord>b.ord?1:0);
+}
+
+function setPeriod(p){
+  currentPeriod = p;
+  document.querySelectorAll('.period-btn').forEach(b=>{
+    const on = b.dataset.period===p;
+    b.classList.toggle('active', on);
+    b.classList.toggle('text-slate-400', !on);
+  });
+  renderTrends();
+}
+
+// Per-program rank movement (first vs last bucket of the selected period).
+function renderRankMove(series){
+  const body = document.getElementById('rankMoveBody');
+  const foot = document.getElementById('rankMoveFoot');
+  const rows = PRODUCTS.map(p=>{
+    const b = bucketProduct(p,currentPeriod).filter(x=>x.rank!=null);
+    if (b.length<2) return null;
+    const first=b[0], last=b[b.length-1];
+    const delta = Math.round((first.rank-last.rank)*10)/10;   // + = naik (posisi mengecil)
+    const impr = b.reduce((a,x)=>a+x.impr,0), clicks = b.reduce((a,x)=>a+x.clicks,0);
+    return {p,first,last,delta,impr,clicks,series:b};
+  }).filter(Boolean).sort((a,b)=>b.delta-a.delta);
+
+  if (!rows.length){
+    body.innerHTML = `<tr><td colspan="7" class="px-3 py-6 text-center text-slate-400">Belum ada data posisi untuk periode ini.</td></tr>`;
+    foot.textContent = '—';
+    return;
+  }
+  const up = rows.filter(r=>r.delta>0).length, down = rows.filter(r=>r.delta<0).length;
+  foot.textContent = `${rows.length} program punya data posisi • ${up} naik, ${down} turun, ${rows.length-up-down} stabil`;
+  document.getElementById('rankPeriodLabel').textContent =
+    series.length ? `${series[0].label} → ${series[series.length-1].label}` : '—';
+
+  body.innerHTML = rows.map(r=>{
+    const d = r.delta;
+    const dTxt = d>0?`<span class="text-emerald-400 font-semibold">▲ ${d}</span>`
+              : d<0?`<span class="text-rose-400 font-semibold">▼ ${Math.abs(d)}</span>`
+              : '<span class="text-slate-400">—</span>';
+    const spark = r.series.map(x=>x.rank);
+    const W=80,H=22,pad=2;
+    const maxR=Math.max(...spark,2), minR=1;
+    const pts = spark.map((v,i)=>{
+      const x=pad+i/(spark.length-1)*(W-pad*2);
+      const y=pad+(v-minR)/(maxR-minR)*(H-pad*2);   // #1 di atas
+      return x.toFixed(1)+','+y.toFixed(1);
+    }).join(' ');
+    const col = d>0?'#34d399':d<0?'#fb7185':'#94a3b8';
+    return `<tr class="hover:bg-slate-700/30">
+      <td class="px-3 py-3">
+        <div class="font-medium">${esc(r.p.name)}</div>
+        <div class="text-[11px] text-slate-500">${esc(r.p.kw_utama||'')}</div>
+      </td>
+      <td class="px-3 py-3 text-right font-mono text-xs text-slate-400">#${r.first.rank}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs text-amber-300">#${r.last.rank}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${dTxt}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(r.impr)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${r.clicks}</td>
+      <td class="px-3 py-3 text-center"><svg width="${W}" height="${H}" class="inline-block"><polyline fill="none" stroke="${col}" stroke-width="1.5" points="${pts}"/></svg></td>
+    </tr>`;
+  }).join('');
+}
+
+function renderTrends(){
+  const series = bucketSeries(currentPeriod);
+  const el = document.getElementById('chartContainer');
+  if (series.length<2){ el.innerHTML='<div class="text-slate-500 text-sm">Data periode ini belum cukup (&lt;2 titik). Coba periode Mingguan/Bulanan.</div>'; renderRankMove(series); return; }
+  document.getElementById('periodLabel').textContent =
+    `${series.length} titik: ${series[0].label} — ${series[series.length-1].label}`;
   const W=800,H=240,pad=40,cw=W-pad*2,ch=H-pad*2;
-  const maxI=Math.max(...data.map(d=>d.impr),1), maxC=Math.max(...data.map(d=>d.clicks),1);
-  const line=(key,max)=>data.map((d,i)=>{
-    const x=pad+i/(data.length-1)*cw, y=pad+ch-(d[key]/max)*ch;
+  const maxI=Math.max(...series.map(d=>d.impr),1), maxC=Math.max(...series.map(d=>d.clicks),1);
+  const ranks = series.map(d=>d.rank).filter(r=>r!=null);
+  const maxR=Math.max(...ranks,2), minR=1;
+  const line=(key,max)=>series.map((d,i)=>{
+    const x=pad+i/(series.length-1)*cw, y=pad+ch-(d[key]/max)*ch;
     return x.toFixed(1)+','+y.toFixed(1);
   }).join(' ');
-  document.getElementById('chartContainer').innerHTML = `
+  // rank axis inverted: #1 at top, worst at bottom
+  const rankLine = series.map((d,i)=>{
+    if (d.rank==null) return null;
+    const x=pad+i/(series.length-1)*cw;
+    const y=pad+ch-((d.rank-minR)/(maxR-minR))*ch;
+    return x.toFixed(1)+','+y.toFixed(1);
+  }).filter(Boolean).join(' ');
+  const step = Math.max(1, Math.ceil(series.length/10));
+  el.innerHTML = `
     <svg viewBox="0 0 ${W} ${H}" class="w-full h-full">
       <line x1="${pad}" y1="${pad}" x2="${W-pad}" y2="${pad}" stroke="currentColor" stroke-opacity="0.1" stroke-dasharray="3,3"/>
       <line x1="${pad}" y1="${pad+ch/2}" x2="${W-pad}" y2="${pad+ch/2}" stroke="currentColor" stroke-opacity="0.1" stroke-dasharray="3,3"/>
       <line x1="${pad}" y1="${pad+ch}" x2="${W-pad}" y2="${pad+ch}" stroke="currentColor" stroke-opacity="0.2"/>
       <polyline fill="none" stroke="#3b82f6" stroke-width="2.5" points="${line('impr',maxI)}"/>
       <polyline fill="none" stroke="#34d399" stroke-width="2.5" stroke-dasharray="4,2" points="${line('clicks',maxC)}"/>
-      ${data.map((d,i)=>{
-        const x=pad+i/(data.length-1)*cw, y=pad+ch-(d.impr/maxI)*ch;
-        return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3" fill="#3b82f6"><title>${d.w}: ${fmt(d.impr)} impresi, ${d.clicks} klik</title></circle>`;
+      <polyline fill="none" stroke="#fbbf24" stroke-width="2" points="${rankLine}"/>
+      ${series.map((d,i)=>{
+        const x=pad+i/(series.length-1)*cw, y=pad+ch-(d.impr/maxI)*ch;
+        return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3" fill="#3b82f6"><title>${d.label}: ${fmt(d.impr)} impresi, ${d.clicks} klik${d.rank!=null?', posisi #'+d.rank:''}</title></circle>`;
       }).join('')}
-      ${data.filter((_,i)=>i%4===0||i===data.length-1).map(d=>{
-        const i=data.indexOf(d), x=pad+i/(data.length-1)*cw;
-        return `<text x="${x.toFixed(1)}" y="${H-10}" fill="currentColor" opacity="0.6" font-size="10" text-anchor="middle">${d.w}</text>`;
+      ${series.filter((_,i)=>i%step===0||i===series.length-1).map(d=>{
+        const i=series.indexOf(d), x=pad+i/(series.length-1)*cw;
+        return `<text x="${x.toFixed(1)}" y="${H-10}" fill="currentColor" opacity="0.6" font-size="10" text-anchor="middle">${d.short}</text>`;
       }).join('')}
     </svg>`;
+  renderRankMove(series);
 
   const cats = {};
   PRODUCTS.forEach(p=>{
