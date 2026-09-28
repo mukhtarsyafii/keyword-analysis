@@ -886,6 +886,11 @@ def main():
         with open(out, "w") as f:
             f.write(html)
         print(f"wrote {out} ({len(html):,} bytes) — kirim file ini ke klien")
+        # GitHub Pages serves the repo root; index.html is the live copy and
+        # uses the inlined Tailwind so it renders without the CDN.
+        with open(os.path.join(HERE, "index.html"), "w") as f:
+            f.write(html)
+        print("wrote index.html (GitHub Pages entry point)")
 
 
 if __name__ == "__main__":
