@@ -43,7 +43,8 @@ python3 dashboard.py           # satu langkah: ketiganya berurutan
 
 ### Refresh mingguan otomatis (cron tiap Jumat 07:00)
 
-Job Hermes `7d41e50037fa` menjalankan `~/.hermes/scripts/refresh_keyword_dashboard.sh`:
+Job Hermes `7d41e50037fa` menjalankan `~/.hermes/scripts/refresh_keyword_dashboard.sh`
+dalam mode **`no_agent`** — stdout script dikirim apa adanya ke chat, tanpa LLM.
 
 ```
 refresh.py --weeks 13  →  build_dashboard.py --standalone  →  git commit + push
@@ -51,8 +52,15 @@ refresh.py --weeks 13  →  build_dashboard.py --standalone  →  git commit + p
 
 Push memicu GitHub Pages rebuild, jadi URL live ikut ter-update. Script mencetak
 ringkasan (impresi, klik, CTR, prioritas 5, rentang data) yang diteruskan ke chat.
+
+Kenapa `no_agent`: versi awal memakai agent untuk "menyampaikan ulang" output script,
+dan job rutin gagal dengan `Response remained truncated after 4 continuation attempts`
+padahal scriptnya sukses. Ringkasan sudah dicetak script, jadi LLM tidak diperlukan.
+
 Kalau GSC timeout, `fetch_gsc.py` retry 3x; kalau tetap gagal, script melaporkan
 error apa adanya dan **tidak** push — dashboard live tetap versi lama, bukan data rusak.
+Kalau data tidak berubah, script keluar tanpa commit (perbandingan pada
+`data/products.json` dkk, bukan pada HTML hasil build yang timestamp-nya selalu berubah).
 
 Butuh mesin menyala saat Jumat 07:00. Kalau Mac mati, refresh terlewat — jalankan
 manual: `bash ~/.hermes/scripts/refresh_keyword_dashboard.sh`
