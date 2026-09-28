@@ -12,7 +12,7 @@ Usage:
 Writes data/gsc_raw.json (per page per week) and optionally merges into
 products.json so build_dashboard.py picks it up.
 """
-import argparse, json, os, re, sys, datetime, urllib.request, urllib.parse
+import argparse, json, os, re, sys, datetime, time, urllib.request, urllib.error, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
@@ -63,14 +63,23 @@ def _refresh(tok):
     return tok
 
 
-def api(path, token, method="GET", payload=None):
+def api(path, token, method="GET", payload=None, attempts=3):
+    """GSC occasionally stalls mid-read; retry transient network errors."""
     url = "https://searchconsole.googleapis.com/" + path.lstrip("/")
     data = json.dumps(payload).encode() if payload else None
-    req = urllib.request.Request(url, data=data, method=method)
-    req.add_header("Authorization", "Bearer " + token)
-    req.add_header("Content-Type", "application/json")
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read().decode())
+    for i in range(attempts):
+        req = urllib.request.Request(url, data=data, method=method)
+        req.add_header("Authorization", "Bearer " + token)
+        req.add_header("Content-Type", "application/json")
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                return json.loads(r.read().decode())
+        except (TimeoutError, urllib.error.URLError, ConnectionError) as e:
+            if i == attempts - 1:
+                raise
+            print(f"  retry {i+1}/{attempts-1} after {type(e).__name__}: {e}")
+            time.sleep(5 * (i + 1))
+    raise RuntimeError("unreachable")  # loop always returns or raises
 
 
 def main():
