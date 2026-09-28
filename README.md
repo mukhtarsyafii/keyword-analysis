@@ -2,6 +2,12 @@
 
 Dashboard kinerja SEO per landing page pelatihan. Data GSC + rekomendasi aksi + analisis kompetitor.
 
+**Live:** https://mukhtarsyafii.github.io/keyword-analysis/
+
+> Repo ini **public**. Isinya data keyword, celah kompetitor, dan rekomendasi untuk
+> grc-indonesia.com — siapa pun bisa membacanya. Kalau perlu ditutup, ubah ke private
+> dan pindah hosting (Pages butuh repo public).
+
 ## Alur
 
 ```
