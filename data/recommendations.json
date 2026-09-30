@@ -1,7 +1,7 @@
 {
  "1": {
   "masalah": [
-   "Posisi rata-rata #15.7 — masih di halaman 2+ Google."
+   "Posisi rata-rata #13.5 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Apa itu fraud management\" ke halaman transaksional ini."
@@ -29,7 +29,7 @@
  },
  "2": {
   "masalah": [
-   "Posisi rata-rata #16.2 — masih di halaman 2+ Google.",
+   "Posisi rata-rata #13.0 — masih di halaman 2+ Google.",
    "Tidak ada masalah kritis — halaman ini top performer."
   ],
   "solusi": [
@@ -193,7 +193,7 @@
  },
  "8": {
   "masalah": [
-   "Posisi rata-rata #12.3 — masih di halaman 2+ Google."
+   "Posisi rata-rata #11.3 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Langkah-langkah risk based audit\" ke halaman transaksional ini."
@@ -221,7 +221,7 @@
  },
  "9": {
   "masalah": [
-   "Posisi rata-rata #12.3 — masih di halaman 2+ Google."
+   "Posisi rata-rata #12.0 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Framework GRC (Governance Risk Compliance)\" ke halaman transaksional ini."
@@ -280,12 +280,15 @@
  },
  "11": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (4,739.0) tetapi CTR hanya 0.17% — 4,731.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan ISO 37301 - GRC Indonesia",
    "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
@@ -302,7 +305,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "12": {
   "masalah": [
@@ -362,7 +365,7 @@
  },
  "14": {
   "masalah": [
-   "Impresi tinggi (1,410) tetapi CTR hanya 0.71% — 1,400 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,424.0) tetapi CTR hanya 0.7% — 1,414.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -391,8 +394,8 @@
  },
  "15": {
   "masalah": [
-   "Impresi tinggi (2,136) tetapi CTR hanya 1.54% — 2,103 tayangan tidak menghasilkan klik.",
-   "Posisi rata-rata #12.8 — masih di halaman 2+ Google."
+   "Impresi tinggi (2,154.0) tetapi CTR hanya 1.58% — 2,120.0 tayangan tidak menghasilkan klik.",
+   "Posisi rata-rata #12.4 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA.",
@@ -423,7 +426,7 @@
  },
  "16": {
   "masalah": [
-   "Impresi tinggi (5,124) tetapi CTR hanya 0.74% — 5,086 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,124.0) tetapi CTR hanya 0.74% — 5,086.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -452,7 +455,7 @@
  },
  "17": {
   "masalah": [
-   "Impresi tinggi (2,559) tetapi CTR hanya 1.48% — 2,521 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,583.0) tetapi CTR hanya 1.47% — 2,545.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -481,7 +484,7 @@
  },
  "18": {
   "masalah": [
-   "Impresi tinggi (3,438) tetapi CTR hanya 0.55% — 3,419 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,451.0) tetapi CTR hanya 0.55% — 3,432.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -510,7 +513,7 @@
  },
  "19": {
   "masalah": [
-   "Impresi tinggi (3,574) tetapi CTR hanya 0.34% — 3,562 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,588.0) tetapi CTR hanya 0.33% — 3,576.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -539,7 +542,7 @@
  },
  "20": {
   "masalah": [
-   "Impresi tinggi (4,708) tetapi CTR hanya 0.17% — 4,700 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,739.0) tetapi CTR hanya 0.17% — 4,731.0 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -698,7 +701,7 @@
  },
  "26": {
   "masalah": [
-   "Posisi rata-rata #16.8 — masih di halaman 2+ Google."
+   "Posisi rata-rata #14.2 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Strategi penerapan anti fraud management system\" ke halaman transaksional ini."
@@ -990,7 +993,7 @@
  },
  "37": {
   "masalah": [
-   "Posisi rata-rata #16.9 — masih di halaman 2+ Google."
+   "Posisi rata-rata #15.9 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"contoh manajemen risiko proyek konstruksi\" ke halaman transaksional ini."
@@ -1018,7 +1021,7 @@
  },
  "38": {
   "masalah": [
-   "Impresi tinggi (1,819) tetapi CTR hanya 0.93% — 1,802 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,018) tetapi CTR hanya 0.94% — 1,999 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA."
@@ -1125,7 +1128,7 @@
  },
  "42": {
   "masalah": [
-   "Posisi rata-rata #13.1 — masih di halaman 2+ Google."
+   "Posisi rata-rata #18.1 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"penerapan data analytics dalam manajemen risiko\" ke halaman transaksional ini."
@@ -1205,7 +1208,7 @@
  },
  "45": {
   "masalah": [
-   "Posisi rata-rata #10.3 — masih di halaman 2+ Google."
+   "Posisi rata-rata #10.1 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"perbedaan design deficiency dan operating deficiency\" ke halaman transaksional ini."
@@ -1259,7 +1262,7 @@
  },
  "47": {
   "masalah": [
-   "Posisi rata-rata #17.4 — masih di halaman 2+ Google."
+   "Posisi rata-rata #14.4 — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"three lines of defense adalah\" ke halaman transaksional ini."
@@ -1287,14 +1290,12 @@
  },
  "48": {
   "masalah": [
-   "Posisi rata-rata #10.9 — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Masterclass Direksi & Eksekutif: Pelatihan… - GRC Indonesia",
    "meta_description": "Masterclass Direksi & Eksekutif: Pelatihan Pengambilan Keputusan Direksi dan Debiasing Risiko Strategis di GRC Indonesia. Bersertifikat, trainer praktisi, ",
@@ -1311,12 +1312,12 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "49": {
   "masalah": [
-   "Impresi tinggi (7,337) tetapi CTR hanya 0.82% — 7,277 tayangan tidak menghasilkan klik.",
-   "Peringkat #2.8 (halaman 1 teratas) tetapi CTR 0.82% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (7,260) tetapi CTR hanya 0.83% — 7,200 tayangan tidak menghasilkan klik.",
+   "Peringkat #2.5 (halaman 1 teratas) tetapi CTR 0.83% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Rombak Meta Title & Meta Description: taruh keyword di depan, tambahkan penanda sertifikasi dan tahun, akhiri dengan CTA.",
