@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Weekly refresh: GSC API -> products.json -> recommendations -> dashboard.
+"""Refresh: Google Sheet tracker -> GSC API -> recommendations -> dashboard.
 
 Requires the OAuth token at ~/.hermes/google_token.json with the
 webmasters.readonly scope (see oauth_loopback.py for the one-time setup).
@@ -8,6 +8,7 @@ Usage:
   python3 refresh.py                       # last 12 weeks
   python3 refresh.py --weeks 36
   python3 refresh.py --start 2026-01-01 --end 2026-09-24
+  python3 refresh.py --skip-sheet          # GSC only, keep the current catalog
 """
 import argparse, os, subprocess, sys
 
@@ -29,9 +30,16 @@ def main():
     ap.add_argument("--start")
     ap.add_argument("--end")
     ap.add_argument("--site", default=SITE)
+    ap.add_argument("--skip-sheet", action="store_true",
+                    help="don't re-read the Google Sheet tracker")
     ap.add_argument("--skip-competitors", action="store_true",
                     help="don't refresh Ubersuggest competitor intel")
     args = ap.parse_args()
+
+    # Sheet first: it owns the catalog (new LPs, keywords, status). It preserves
+    # the GSC weeks/daily already in products.json, so nothing is lost.
+    if not args.skip_sheet:
+        run([os.path.join(HERE, "extract_sheet.py")])
 
     gsc = [os.path.join(HERE, "fetch_gsc.py"), "--site", args.site, "--merge"]
     if args.start:

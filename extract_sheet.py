@@ -44,7 +44,19 @@ def main():
     for j, c in enumerate(hdr):
         m = re.match(r"^(W\d+)\s*—", c.strip())
         if m:
-            weeks.append((j, m.group(1)))
+            # Normalize to the year-qualified key GSC uses (sheet covers 2026).
+            weeks.append((j, f"2026W{int(m.group(1)[1:]):02d}"))
+
+    # Keep the GSC daily series: this script owns the catalog columns, GSC owns
+    # performance. Rebuilding products.json from scratch would drop `daily`.
+    prev = {}
+    if os.path.exists(OUT):
+        try:
+            for p in json.load(open(OUT)):
+                if p.get("url"):
+                    prev[p["url"].rstrip("/")] = p
+        except (json.JSONDecodeError, OSError):
+            pass
 
     products = []
     for r in rows[3:]:
@@ -67,7 +79,16 @@ def main():
         seen = {}
         for s in series:
             seen[s["w"]] = s
-        series = sorted(seen.values(), key=lambda s: int(s["w"][1:]))
+        series = sorted(seen.values(), key=lambda s: s["w"])
+
+        url = r[9].strip() if len(r) > 9 else ""
+        old = prev.get(url.rstrip("/")) if url else None
+
+        # GSC weeks win over the tracker's manual entry for the same week.
+        if old:
+            by_wk = {s["w"]: s for s in series}
+            by_wk.update({s["w"]: s for s in old.get("weeks", [])})
+            series = sorted(by_wk.values(), key=lambda s: s["w"])
 
         live = [s for s in series if s["impr"] or s["clicks"]]
         total_impr = sum(s["impr"] for s in live)
@@ -75,7 +96,7 @@ def main():
         ranks = [s["rank"] for s in live if s["rank"]]
         latest_rank = live[-1]["rank"] if live and live[-1]["rank"] else 0
 
-        products.append({
+        p = {
             "id": int(r[0]) if r[0].strip().isdigit() else len(products) + 1,
             "name": r[1].strip(),
             "category": categorize(r[1], r[2]),
@@ -85,7 +106,7 @@ def main():
             "vol_target": r[5].strip() or "-",
             "kw_info": r[6].strip() or "-",
             "vol_info": r[7].strip() or "-",
-            "url": r[9].strip() if len(r) > 9 else "",
+            "url": url,
             "status": (r[12].strip() if len(r) > 12 else "") or "Draft",
             "total_impr": int(total_impr),
             "total_clicks": int(total_clicks),
@@ -93,7 +114,10 @@ def main():
             "avg_rank": round(sum(ranks) / len(ranks), 1) if ranks else 0,
             "latest_rank": latest_rank,
             "weeks": series,
-        })
+        }
+        if old and old.get("daily"):
+            p["daily"] = old["daily"]
+        products.append(p)
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w") as f:

@@ -53,6 +53,13 @@ HTML = r"""<!DOCTYPE html>
           <div class="text-xs text-slate-400">Total Portofolio</div>
           <div class="text-lg font-bold" id="totalPortfolio">—</div>
         </div>
+        <div class="flex flex-col items-end gap-1">
+          <div class="flex items-center gap-2">
+            <button onclick="liveRefresh(true)" class="px-3 py-2 text-xs font-medium rounded-lg border border-slate-700 hover:bg-slate-700" title="Muat ulang data tanpa reload">⟳ Refresh</button>
+            <button onclick="toggleLive()" id="liveBtn" class="px-3 py-2 text-xs font-medium rounded-lg border border-slate-700 hover:bg-slate-700">▶ Live 5 menit</button>
+          </div>
+          <span class="text-[11px] text-slate-500" id="liveStatus"></span>
+        </div>
         <button onclick="resetFilters()" class="px-3 py-2 text-xs font-medium rounded-lg border border-slate-700 hover:bg-slate-700">Reset Filter</button>
       </div>
     </div>
@@ -172,6 +179,16 @@ HTML = r"""<!DOCTYPE html>
         <button onclick="setPeriod('weekly')" class="pill-btn period-btn active px-2.5 py-1 rounded-md border border-slate-700" data-period="weekly">Mingguan</button>
         <button onclick="setPeriod('monthly')" class="pill-btn period-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-period="monthly">Bulanan</button>
         <span class="text-slate-500 ml-auto" id="periodLabel">—</span>
+      </div>
+      <div class="flex flex-wrap items-center gap-2 text-xs">
+        <span class="text-slate-400">Rentang tanggal:</span>
+        <input type="date" id="dateFrom" onchange="applyDateRange()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none focus:ring-2 focus:ring-blue-500">
+        <span class="text-slate-500">s/d</span>
+        <input type="date" id="dateTo" onchange="applyDateRange()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none focus:ring-2 focus:ring-blue-500">
+        <button onclick="setDatePreset(7)" class="px-2 py-1 rounded-md border border-slate-700 text-slate-400 hover:bg-slate-700">7 hari</button>
+        <button onclick="setDatePreset(30)" class="px-2 py-1 rounded-md border border-slate-700 text-slate-400 hover:bg-slate-700">30 hari</button>
+        <button onclick="setDatePreset(90)" class="px-2 py-1 rounded-md border border-slate-700 text-slate-400 hover:bg-slate-700">90 hari</button>
+        <button onclick="clearDateRange()" class="px-2 py-1 rounded-md border border-slate-700 text-slate-400 hover:bg-slate-700">Semua</button>
       </div>
       <div class="w-full overflow-x-auto pt-4"><div class="min-w-[700px] h-72" id="chartContainer"></div></div>
     </div>
@@ -347,6 +364,13 @@ function rec(id){ return RECS[String(id)] || {masalah:[],solusi:[],rekomendasi:[
 function init(){
   document.getElementById('dataStamp').textContent = META.stamp;
   document.getElementById('totalPortfolio').textContent = PRODUCTS.length + ' Program';
+  const all = allDates();
+  if (all.length){
+    ['dateFrom','dateTo'].forEach(id=>{
+      const el = document.getElementById(id);
+      el.min = all[0]; el.max = all[all.length-1];
+    });
+  }
   renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands();
 }
 
@@ -557,6 +581,32 @@ const WEEK_ORDER = (()=>{
   return new Map([...seen].sort().map((w,i)=>[w,i]));
 })();
 
+// Date-window filter ("" = open). Applied to rows before bucketing.
+let dateFrom = '', dateTo = '';
+
+// "2026W39" -> [mondayISO, sundayISO]; ISO-8601 week.
+function weekRange(wk){
+  const y = +wk.slice(0,4), n = +wk.slice(5);
+  const jan4 = new Date(Date.UTC(y,0,4));
+  const dow = jan4.getUTCDay() || 7;
+  const mon = new Date(jan4); mon.setUTCDate(jan4.getUTCDate()-(dow-1)+(n-1)*7);
+  const sun = new Date(mon); sun.setUTCDate(mon.getUTCDate()+6);
+  return [mon.toISOString().slice(0,10), sun.toISOString().slice(0,10)];
+}
+
+// "2026-02" -> [first, last] day of month.
+function monthRange(key){
+  const [y,m] = key.split('-').map(Number);
+  const last = new Date(Date.UTC(y, m, 0)).toISOString().slice(0,10);
+  return [key + '-01', last];
+}
+
+function inWindow(a, b){
+  if (dateFrom && b < dateFrom) return false;
+  if (dateTo && a > dateTo) return false;
+  return true;
+}
+
 function bucketProduct(p, period){
   const out = new Map();
   const add = (key,label,short,ord,impr,clicks,rank)=>{
@@ -567,6 +617,8 @@ function bucketProduct(p, period){
   };
   if (period==='weekly'){
     (p.weeks||[]).forEach(w=>{
+      const [a,b] = weekRange(w.w);
+      if (!inWindow(a,b)) return;
       const lbl = w.w.slice(4);   // "2026W39" -> "W39"
       add(w.w, lbl, lbl, WEEK_ORDER.get(w.w), w.impr, w.clicks, w.rank);
     });
@@ -576,10 +628,13 @@ function bucketProduct(p, period){
     rows.forEach(r=>{
       if (period==='daily'){
         const d = r.d || r.w;
+        if (!inWindow(d,d)) return;
         add(d, d, d.slice(5).replace('-','/'), d, r.impr, r.clicks, r.rank);
       } else { // monthly
         const d = r.d || r.w;
         const key = r.d ? r.d.slice(0,7) : 'W'+d;
+        const [a,b] = r.d ? monthRange(key) : weekRange(r.w);
+        if (!inWindow(a,b)) return;
         const label = r.d ? MONTHS[+r.d.slice(5,7)-1]+' '+r.d.slice(0,4) : d;
         add(key, label, r.d?MONTHS[+r.d.slice(5,7)-1]:d, key, r.impr, r.clicks, r.rank);
       }
@@ -614,6 +669,44 @@ function setPeriod(p){
     b.classList.toggle('text-slate-400', !on);
   });
   renderTrends();
+}
+
+// Date-range controls. The window filters every bucket, so the chart, the rank
+// table and the period label all narrow together.
+function applyDateRange(){
+  dateFrom = document.getElementById('dateFrom').value || '';
+  dateTo = document.getElementById('dateTo').value || '';
+  if (dateFrom && dateTo && dateFrom > dateTo){
+    const t = dateFrom; dateFrom = dateTo; dateTo = t;
+    document.getElementById('dateFrom').value = dateFrom;
+    document.getElementById('dateTo').value = dateTo;
+  }
+  renderTrends();
+}
+function setDatePreset(days){
+  const all = allDates();
+  if (!all.length) return;
+  const last = all[all.length-1];
+  const start = new Date(last + 'T00:00:00Z');
+  start.setUTCDate(start.getUTCDate() - (days-1));
+  const from = start.toISOString().slice(0,10);
+  document.getElementById('dateFrom').value = from < all[0] ? all[0] : from;
+  document.getElementById('dateTo').value = last;
+  applyDateRange();
+}
+function clearDateRange(){
+  document.getElementById('dateFrom').value = '';
+  document.getElementById('dateTo').value = '';
+  applyDateRange();
+}
+// Every date the data covers, so presets anchor on real data, not today.
+function allDates(){
+  const s = new Set();
+  PRODUCTS.forEach(p=>{
+    (p.daily||[]).forEach(d=>s.add(d.d));
+    (p.weeks||[]).forEach(w=>{ const [a,b]=weekRange(w.w); s.add(a); s.add(b); });
+  });
+  return [...s].sort();
 }
 
 // Per-program rank movement (first vs last bucket of the selected period).
@@ -824,6 +917,75 @@ function pushToWordPress(){
   alert('Belum dikonfigurasi.\n\nIsi data/wp_config.json dengan:\n{\n  "base_url": "https://grc-indonesia.com",\n  "user": "USERNAME",\n  "app_password": "xxxx xxxx xxxx xxxx"\n}\n\nLalu jalankan: python3 push_wp.py --id ' + currentId);
 }
 document.getElementById('detailModal').addEventListener('click', function(e){ if (e.target===this) closeModal(); });
+
+// --- Live refresh -----------------------------------------------------------
+// The page is static, so "live" means: re-read the JSON the pipeline writes and
+// re-render, without a reload. Only works when the page is served over http(s)
+// from the same origin as data/ (GitHub Pages serves the repo root, so it does).
+// Opened as a local file:// the fetch is blocked by the browser — the button
+// then says so instead of failing silently.
+const LIVE_MS = 5 * 60 * 1000;
+let liveTimer = null, liveOn = false;
+
+function liveSupported(){
+  return location.protocol === 'http:' || location.protocol === 'https:';
+}
+
+function setLiveStatus(msg, cls){
+  const el = document.getElementById('liveStatus');
+  if (el){ el.textContent = msg; el.className = 'text-[11px] ' + (cls||'text-slate-500'); }
+}
+
+async function liveRefresh(manual){
+  if (!liveSupported()){
+    setLiveStatus('Live tidak tersedia saat file dibuka langsung (file://). Buka lewat URL GitHub Pages.', 'text-amber-400');
+    return;
+  }
+  setLiveStatus('Memuat data terbaru…', 'text-slate-400');
+  try {
+    const bust = '?t=' + Date.now();
+    const [pr, rc, cp, br] = await Promise.all([
+      fetch('data/products.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
+      fetch('data/recommendations.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
+      fetch('data/competitors.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
+      fetch('data/brands.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
+    ]);
+    if (!Array.isArray(pr) || !pr.length) throw new Error('products.json kosong');
+    PRODUCTS.length = 0; PRODUCTS.push(...pr);
+    Object.keys(RECS).forEach(k=>delete RECS[k]); Object.assign(RECS, rc);
+    Object.keys(COMPETITORS).forEach(k=>delete COMPETITORS[k]); Object.assign(COMPETITORS, cp);
+    BRANDS.length = 0; BRANDS.push(...br);
+    const all = allDates();
+    if (all.length){
+      ['dateFrom','dateTo'].forEach(id=>{
+        const el = document.getElementById(id);
+        el.min = all[0]; el.max = all[all.length-1];
+      });
+    }
+    renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands();
+    setLiveStatus('Data terbaru dimuat ' + new Date().toLocaleTimeString('id-ID') +
+                  (liveOn ? ' • auto tiap 5 menit' : ''), 'text-emerald-400');
+  } catch (e) {
+    setLiveStatus('Gagal memuat data terbaru (' + e + '). Menampilkan data yang tertanam.', 'text-rose-400');
+  }
+}
+
+function toggleLive(){
+  liveOn = !liveOn;
+  const b = document.getElementById('liveBtn');
+  if (liveOn){
+    b.textContent = '⏸ Hentikan Live';
+    b.classList.add('bg-emerald-600');
+    liveRefresh(false);
+    liveTimer = setInterval(()=>liveRefresh(false), LIVE_MS);
+  } else {
+    b.textContent = '▶ Live 5 menit';
+    b.classList.remove('bg-emerald-600');
+    clearInterval(liveTimer); liveTimer = null;
+    setLiveStatus('Live dimatikan.', 'text-slate-500');
+  }
+}
+
 window.onload = init;
 </script>
 </body>
