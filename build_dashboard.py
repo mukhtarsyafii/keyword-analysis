@@ -230,6 +230,58 @@ HTML = r"""<!DOCTYPE html>
       <div class="px-4 py-3 border-t border-slate-700 bg-slate-900/40 text-xs text-slate-400" id="rankMoveFoot">—</div>
     </div>
 
+    <div class="bg-slate-800 border border-slate-700 rounded-xl overflow-hidden">
+      <div class="p-4 border-b border-slate-700 space-y-3">
+        <div class="flex items-center justify-between flex-wrap gap-2">
+          <div>
+            <h3 class="text-sm font-bold">🆚 Perbandingan Dua Rentang Tanggal</h3>
+            <p class="text-xs text-slate-400 mt-0.5">Metrik per program: Periode B (baru) vs Periode A (dasar). <span class="text-emerald-400">▲</span> = membaik.</p>
+          </div>
+          <div class="flex flex-wrap gap-1.5 text-xs">
+            <button onclick="setComparePreset(7)" class="px-2.5 py-1 rounded-md border border-slate-700 text-slate-400 hover:bg-slate-700">Minggu ini vs lalu</button>
+            <button onclick="setComparePreset(30)" class="px-2.5 py-1 rounded-md border border-slate-700 text-slate-400 hover:bg-slate-700">30 hari vs 30 hari lalu</button>
+          </div>
+        </div>
+        <div class="flex flex-wrap items-center gap-2 text-xs">
+          <span class="badge bg-slate-700 text-slate-300">A</span>
+          <input type="date" id="cmpAFrom" onchange="renderCompare()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none">
+          <span class="text-slate-500">s/d</span>
+          <input type="date" id="cmpATo" onchange="renderCompare()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none">
+          <span class="badge bg-blue-500/20 text-blue-300">B</span>
+          <input type="date" id="cmpBFrom" onchange="renderCompare()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none">
+          <span class="text-slate-500">s/d</span>
+          <input type="date" id="cmpBTo" onchange="renderCompare()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none">
+          <select id="cmpSort" onchange="renderCompare()" class="px-2 py-1 rounded-md bg-slate-900 border border-slate-700 text-xs focus:outline-none ml-auto">
+            <option value="dI">Urut: Δ Impresi</option>
+            <option value="dC">Urut: Δ Klik</option>
+            <option value="dR">Urut: Δ Posisi terbaik</option>
+            <option value="ib">Urut: Impresi B</option>
+            <option value="nm">Urut: Nama</option>
+          </select>
+        </div>
+      </div>
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs sm:text-sm">
+          <thead class="bg-slate-900/70 text-slate-400 border-b border-slate-700">
+            <tr>
+              <th class="px-3 py-3 font-semibold min-w-[200px]">Program<i class="th-info" data-tip="Program yang punya data di salah satu dari dua rentang. Baris dengan '▲ baru' = dulu nol, sekarang ada.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi A<i class="th-info" data-tip="Total impresi pada rentang A (periode dasar, yang lebih lama).">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi B<i class="th-info" data-tip="Total impresi pada rentang B (periode pembanding, yang lebih baru).">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Δ Impr<i class="th-info" data-tip="Perubahan impresi B terhadap A dalam persen. ▲ hijau = naik.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Klik A<i class="th-info" data-tip="Total klik organik pada rentang A.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Klik B<i class="th-info" data-tip="Total klik organik pada rentang B.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Δ Klik<i class="th-info" data-tip="Perubahan klik B terhadap A dalam persen.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Posisi A<i class="th-info" data-tip="Posisi rata-rata Google selama rentang A.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Posisi B<i class="th-info" data-tip="Posisi rata-rata Google selama rentang B.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Δ Posisi<i class="th-info" data-tip="A − B. ▲ hijau = posisi membaik (angka mengecil, makin dekat #1).">i</i></th>
+            </tr>
+          </thead>
+          <tbody id="cmpBody" class="divide-y divide-slate-700"></tbody>
+        </table>
+      </div>
+      <div class="px-4 py-3 border-t border-slate-700 bg-slate-900/40 text-xs text-slate-400" id="cmpFoot">—</div>
+    </div>
+
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
       <div class="bg-slate-800 border border-slate-700 rounded-xl p-5 space-y-3">
         <h3 class="text-sm font-bold">Distribusi Klik per Kategori</h3>
@@ -377,10 +429,11 @@ function init(){
   document.getElementById('totalPortfolio').textContent = PRODUCTS.length + ' Program';
   const all = allDates();
   if (all.length){
-    ['dateFrom','dateTo'].forEach(id=>{
+    ['dateFrom','dateTo','cmpAFrom','cmpATo','cmpBFrom','cmpBTo'].forEach(id=>{
       const el = document.getElementById(id);
       el.min = all[0]; el.max = all[all.length-1];
     });
+    setComparePreset(7);   // default: minggu ini vs minggu lalu
   }
   renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands();
 }
@@ -675,6 +728,115 @@ function bucketSeries(period){
     e.rank = e._r.length ? Math.round(e._r.reduce((a,b)=>a+b,0)/e._r.length*10)/10 : null;
     delete e._r; return e;
   }).sort((a,b)=>a.ord<b.ord?-1:a.ord>b.ord?1:0);
+}
+
+// --- Compare two date ranges -------------------------------------------------
+// Aggregate one product over [from,to] using daily rows where available.
+// Weeks outside daily coverage are pro-rated by how many of their 7 days fall
+// inside the window, so a partial week doesn't count double.
+function windowAgg(p, from, to){
+  let impr=0, clicks=0, rsum=0, rn=0;
+  const days = (p.daily||[]).filter(r=>r.d>=from && r.d<=to);
+  days.forEach(r=>{ impr+=r.impr; clicks+=r.clicks; if(r.rank!=null){rsum+=r.rank;rn++;} });
+  const covered = days.length>0;
+  (p.weeks||[]).forEach(w=>{
+    if (covered) return;
+    const [a,b] = weekRange(w.w);
+    if (b < from || a > to) return;
+    const ov = Math.min(b,to) >= Math.max(a,from)
+      ? Math.round((Date.parse(Math.min(b,to)+'T00:00:00Z') - Date.parse(Math.max(a,from)+'T00:00:00Z'))/86400000)+1
+      : 0;
+    const f = ov/7;
+    impr += w.impr*f; clicks += w.clicks*f;
+    if (w.rank!=null){ rsum += w.rank*f; rn += f; }
+  });
+  return {impr:Math.round(impr), clicks:Math.round(clicks), rank: rn?Math.round(rsum/rn*10)/10:null};
+}
+
+function setComparePreset(days){
+  const all = allDates(); if (!all.length) return;
+  const last = all[all.length-1];
+  const shift = (endISO, n)=>{ const d=new Date(endISO+'T00:00:00Z'); d.setUTCDate(d.getUTCDate()-n); return d.toISOString().slice(0,10); };
+  const bFrom = shift(last, days-1);
+  document.getElementById('cmpBFrom').value = bFrom < all[0] ? all[0] : bFrom;
+  document.getElementById('cmpBTo').value = last;
+  const aTo = shift(bFrom,1);
+  document.getElementById('cmpATo').value = aTo;
+  document.getElementById('cmpAFrom').value = shift(aTo, days-1);
+  renderCompare();
+}
+
+function cmpPct(a,b){
+  if (!a && !b) return '<span class="text-slate-600">—</span>';
+  if (!a) return '<span class="text-emerald-400 font-semibold">▲ baru</span>';
+  if (!b) return '<span class="text-rose-400 font-semibold">▼ -100%</span>';
+  const d = Math.round((b-a)/a*100);
+  if (d>0) return `<span class="text-emerald-400 font-semibold">▲ +${d}%</span>`;
+  if (d<0) return `<span class="text-rose-400 font-semibold">▼ ${d}%</span>`;
+  return '<span class="text-slate-500">0%</span>';
+}
+function cmpRank(a,b){
+  if (a==null && b==null) return '<span class="text-slate-600">—</span>';
+  if (a==null) return `<span class="text-slate-400">#${b} <span class="text-[10px]">(baru)</span></span>`;
+  if (b==null) return `<span class="text-rose-400">#${a} → hilang</span>`;
+  const d = Math.round((a-b)*10)/10;
+  const t = d>0?`<span class="text-emerald-400 font-semibold">▲ ${d}</span>`
+          : d<0?`<span class="text-rose-400 font-semibold">▼ ${Math.abs(d)}</span>`
+          : '<span class="text-slate-500">—</span>';
+  return `<span class="text-amber-300">#${a}</span> → <span class="text-amber-300">#${b}</span> ${t}`;
+}
+
+function renderCompare(){
+  const body = document.getElementById('cmpBody');
+  const foot = document.getElementById('cmpFoot');
+  const g = id => document.getElementById(id).value;
+  const aFrom=g('cmpAFrom'), aTo=g('cmpATo'), bFrom=g('cmpBFrom'), bTo=g('cmpBTo');
+  if (!aFrom||!aTo||!bFrom||!bTo){
+    body.innerHTML = `<tr><td colspan="10" class="px-3 py-6 text-center text-slate-400">Pilih kedua rentang tanggal, atau pakai preset di atas.</td></tr>`;
+    foot.textContent = '—'; return;
+  }
+  if (aFrom>aTo || bFrom>bTo){ foot.textContent = 'Tanggal awal melebihi tanggal akhir.'; return; }
+
+  const rows = PRODUCTS.map(p=>{
+    const A = windowAgg(p,aFrom,aTo), B = windowAgg(p,bFrom,bTo);
+    return {p,A,B,dI:B.impr-A.impr,dC:B.clicks-A.clicks,
+            dR:(A.rank!=null&&B.rank!=null)?A.rank-B.rank:null};
+  }).filter(r=>r.A.impr||r.B.impr||r.A.clicks||r.B.clicks);
+
+  const sort = document.getElementById('cmpSort').value;
+  rows.sort((x,y)=>{
+    if (sort==='dI') return y.dI-x.dI;
+    if (sort==='dC') return y.dC-x.dC;
+    if (sort==='dR') return (y.dR==null?-999:y.dR)-(x.dR==null?-999:x.dR);
+    if (sort==='ib') return y.B.impr-x.B.impr;
+    return x.p.name.localeCompare(y.p.name);
+  });
+
+  if (!rows.length){
+    body.innerHTML = `<tr><td colspan="10" class="px-3 py-6 text-center text-slate-400">Tidak ada data di kedua rentang ini.</td></tr>`;
+    foot.textContent = '—'; return;
+  }
+  const tA = rows.reduce((a,r)=>a+r.A.impr,0), tB = rows.reduce((a,r)=>a+r.B.impr,0);
+  const cA = rows.reduce((a,r)=>a+r.A.clicks,0), cB = rows.reduce((a,r)=>a+r.B.clicks,0);
+  const up = rows.filter(r=>r.dI>0).length, dn = rows.filter(r=>r.dI<0).length;
+  foot.innerHTML = `${rows.length} program • Impresi: ${fmt(tA)} → <strong>${fmt(tB)}</strong> • Klik: ${cA} → <strong>${cB}</strong> • ${up} naik, ${dn} turun`;
+
+  body.innerHTML = rows.map(r=>`
+    <tr class="hover:bg-slate-700/30">
+      <td class="px-3 py-3">
+        <div class="font-medium">${esc(r.p.name)}</div>
+        <div class="text-[11px] text-slate-500">${esc(r.p.kw_utama||'')}</div>
+      </td>
+      <td class="px-3 py-3 text-right font-mono text-xs text-slate-400">${fmt(r.A.impr)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(r.B.impr)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${cmpPct(r.A.impr,r.B.impr)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs text-slate-400">${fmt(r.A.clicks)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(r.B.clicks)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${cmpPct(r.A.clicks,r.B.clicks)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${cmpRank(r.A.rank,r.B.rank)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${r.B.rank!=null?`<span class="text-amber-300">#${r.B.rank}</span>`:'<span class="text-slate-600">—</span>'}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${r.dR==null?'<span class="text-slate-600">—</span>':(r.dR>0?`<span class="text-emerald-400 font-semibold">▲ ${r.dR}</span>`:r.dR<0?`<span class="text-rose-400 font-semibold">▼ ${Math.abs(r.dR)}</span>`:'<span class="text-slate-500">—</span>')}</td>
+    </tr>`).join('');
 }
 
 function setPeriod(p){
@@ -978,7 +1140,7 @@ async function liveRefresh(manual){
         el.min = all[0]; el.max = all[all.length-1];
       });
     }
-    renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands();
+    renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands(); renderCompare();
     setLiveStatus('Data terbaru dimuat ' + new Date().toLocaleTimeString('id-ID') +
                   (liveOn ? ' • auto tiap 5 menit' : ''), 'text-emerald-400');
   } catch (e) {
