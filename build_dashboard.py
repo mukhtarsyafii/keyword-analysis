@@ -33,6 +33,16 @@ HTML = r"""<!DOCTYPE html>
   .pill-btn.active{background:#3b82f6;color:#fff}
   .copy-btn{font-size:11px}
   pre.snippet{white-space:pre-wrap;word-break:break-word;font-size:11px;line-height:1.5}
+  /* One shared tooltip, position:fixed so it escapes the tables' overflow-x-auto
+     (an absolutely-positioned child would be clipped by the scroll container). */
+  .th-info{display:inline-flex;align-items:center;justify-content:center;width:13px;height:13px;
+    margin-left:4px;border-radius:9999px;border:1px solid rgba(148,163,184,.5);color:#94a3b8;
+    font-size:9px;font-weight:700;line-height:1;cursor:help;vertical-align:middle;user-select:none}
+  .th-info:hover{border-color:#60a5fa;color:#60a5fa}
+  #tip{position:fixed;z-index:80;max-width:280px;padding:8px 10px;border-radius:8px;
+    background:#0f172a;border:1px solid #334155;color:#e2e8f0;font-size:11px;line-height:1.5;
+    box-shadow:0 8px 24px rgba(0,0,0,.5);pointer-events:none;opacity:0;transition:opacity .12s}
+  #tip.on{opacity:1}
 </style>
 </head>
 <body class="bg-slate-900 text-slate-100 antialiased p-4 sm:p-6 min-h-screen">
@@ -119,15 +129,15 @@ HTML = r"""<!DOCTYPE html>
         <table class="w-full text-left text-xs sm:text-sm">
           <thead class="bg-slate-900/70 text-slate-400 border-b border-slate-700">
             <tr>
-              <th class="px-3 py-3 font-semibold w-10">#</th>
-              <th class="px-3 py-3 font-semibold min-w-[230px]">Program Layanan</th>
-              <th class="px-3 py-3 font-semibold min-w-[150px]">Kategori / Status</th>
-              <th class="px-3 py-3 font-semibold text-right">Impresi</th>
-              <th class="px-3 py-3 font-semibold text-right">Klik</th>
-              <th class="px-3 py-3 font-semibold text-right">CTR</th>
-              <th class="px-3 py-3 font-semibold text-right">Rank</th>
-              <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren</th>
-              <th class="px-3 py-3 font-semibold text-center w-24">Aksi</th>
+              <th class="px-3 py-3 font-semibold w-10">#<i class="th-info" data-tip="Nomor urut program di sheet tracker GRC Indonesia.">i</i></th>
+              <th class="px-3 py-3 font-semibold min-w-[230px]">Program Layanan<i class="th-info" data-tip="Nama landing page / program pelatihan beserta URL live-nya. Satu program = satu halaman.">i</i></th>
+              <th class="px-3 py-3 font-semibold min-w-[150px]">Kategori / Status<i class="th-info" data-tip="Kategori dikelompokkan otomatis dari nama program &amp; keyword utama. Status: Aktif = LP sudah live, Draft = belum tayang.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console, kumulatif seluruh minggu yang tersedia.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Jumlah kunjungan dari hasil pencarian organik Google ke halaman tersebut. Sumber: Google Search Console.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir yang punya data. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren<i class="th-info" data-tip="Sparkline impresi mingguan. Hijau = minggu terakhir naik dibanding sebelumnya, merah = turun. Perlu minimal 2 minggu data.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-center w-24">Aksi<i class="th-info" data-tip="Buka detail Masalah, Solusi, Rekomendasi, dan Perbaikan siap-tempel (meta title, meta description, FAQ schema, outline H2).">i</i></th>
             </tr>
           </thead>
           <tbody id="matrixBody" class="divide-y divide-slate-700"></tbody>
@@ -205,13 +215,13 @@ HTML = r"""<!DOCTYPE html>
         <table class="w-full text-left text-xs sm:text-sm">
           <thead class="bg-slate-900/70 text-slate-400 border-b border-slate-700">
             <tr>
-              <th class="px-3 py-3 font-semibold min-w-[220px]">Program</th>
-              <th class="px-3 py-3 font-semibold text-right">Posisi Awal</th>
-              <th class="px-3 py-3 font-semibold text-right">Posisi Akhir</th>
-              <th class="px-3 py-3 font-semibold text-right">Δ Posisi</th>
-              <th class="px-3 py-3 font-semibold text-right">Impresi</th>
-              <th class="px-3 py-3 font-semibold text-right">Klik</th>
-              <th class="px-3 py-3 font-semibold text-center">Tren</th>
+              <th class="px-3 py-3 font-semibold min-w-[220px]">Program<i class="th-info" data-tip="Program yang punya data posisi di periode terpilih. Diurutkan dari kenaikan posisi terbesar.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Posisi Awal<i class="th-info" data-tip="Posisi rata-rata pada titik pertama periode terpilih (minggu/bulan/hari paling awal).">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Posisi Akhir<i class="th-info" data-tip="Posisi rata-rata pada titik terakhir periode terpilih — kondisi terkini.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Δ Posisi<i class="th-info" data-tip="Selisih Posisi Awal − Posisi Akhir. ▲ hijau = naik (angka posisi mengecil, makin dekat #1). ▼ merah = turun.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Total impresi program ini selama periode terpilih.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Total klik organik program ini selama periode terpilih.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-center">Tren<i class="th-info" data-tip="Garis posisi sepanjang periode. Sumbu dibalik: #1 di atas, posisi terburuk di bawah. Hijau = membaik, merah = memburuk.">i</i></th>
             </tr>
           </thead>
           <tbody id="rankMoveBody" class="divide-y divide-slate-700"></tbody>
@@ -242,12 +252,12 @@ HTML = r"""<!DOCTYPE html>
       <table class="w-full text-left text-xs sm:text-sm">
         <thead class="bg-slate-900/70 text-slate-400 border-b border-slate-700">
           <tr>
-            <th class="px-4 py-3 font-semibold">Brand / Unit Bisnis</th>
-            <th class="px-4 py-3 font-semibold">Fokus</th>
-            <th class="px-4 py-3 font-semibold text-center">LP Aktif</th>
-            <th class="px-4 py-3 font-semibold text-right">Impresi/Mgg</th>
-            <th class="px-4 py-3 font-semibold text-right">Klik/Mgg</th>
-            <th class="px-4 py-3 font-semibold text-right">Avg CTR</th>
+            <th class="px-4 py-3 font-semibold">Brand / Unit Bisnis<i class="th-info" data-tip="Unit bisnis di bawah Proxsis Academy yang punya landing page sendiri.">i</i></th>
+            <th class="px-4 py-3 font-semibold">Fokus<i class="th-info" data-tip="Bidang utama yang digarap brand tersebut.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-center">LP Aktif<i class="th-info" data-tip="Jumlah landing page yang sudah live dan terindeks.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-right">Impresi/Mgg<i class="th-info" data-tip="Rata-rata impresi organik per minggu untuk brand ini.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-right">Klik/Mgg<i class="th-info" data-tip="Rata-rata klik organik per minggu untuk brand ini.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-right">Avg CTR<i class="th-info" data-tip="CTR rata-rata seluruh LP brand ini = total klik ÷ total impresi × 100%.">i</i></th>
           </tr>
         </thead>
         <tbody class="divide-y divide-slate-700" id="brandsBody"></tbody>
@@ -258,6 +268,7 @@ HTML = r"""<!DOCTYPE html>
 </div>
 
 <!-- MODAL -->
+<div id="tip" role="tooltip"></div>
 <div id="detailModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden items-center justify-center p-4">
   <div class="bg-slate-800 border border-slate-700 rounded-2xl max-w-3xl w-full max-h-[90vh] overflow-y-auto p-6 space-y-5">
     <div class="flex items-start justify-between gap-4 border-b border-slate-700 pb-4">
@@ -270,10 +281,10 @@ HTML = r"""<!DOCTYPE html>
     </div>
 
     <div class="grid grid-cols-4 gap-3 bg-slate-900/60 rounded-xl p-3 border border-slate-700">
-      <div class="text-center"><div class="text-[10px] text-slate-400">Impresi</div><div class="text-lg font-bold" id="mImpr">-</div></div>
-      <div class="text-center"><div class="text-[10px] text-slate-400">Klik</div><div class="text-lg font-bold text-blue-400" id="mClicks">-</div></div>
-      <div class="text-center"><div class="text-[10px] text-slate-400">CTR</div><div class="text-lg font-bold text-emerald-400" id="mCtr">-</div></div>
-      <div class="text-center"><div class="text-[10px] text-slate-400">Rank</div><div class="text-lg font-bold text-amber-400" id="mRank">-</div></div>
+      <div class="text-center"><div class="text-[10px] text-slate-400">Impresi<i class="th-info" data-tip="Total impresi halaman ini di Google Search Console sepanjang periode data.">i</i></div><div class="text-lg font-bold" id="mImpr">-</div></div>
+      <div class="text-center"><div class="text-[10px] text-slate-400">Klik<i class="th-info" data-tip="Total klik organik Google ke halaman ini.">i</i></div><div class="text-lg font-bold text-blue-400" id="mClicks">-</div></div>
+      <div class="text-center"><div class="text-[10px] text-slate-400">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%.">i</i></div><div class="text-lg font-bold text-emerald-400" id="mCtr">-</div></div>
+      <div class="text-center"><div class="text-[10px] text-slate-400">Rank<i class="th-info" data-tip="Posisi rata-rata di Google pada minggu terakhir yang punya data.">i</i></div><div class="text-lg font-bold text-amber-400" id="mRank">-</div></div>
     </div>
 
     <div class="space-y-3">
@@ -382,19 +393,23 @@ function renderKPI(){
   const top = [...PRODUCTS].sort((a,b)=>b.total_clicks-a.total_clicks)[0] || {};
   const needAction = PRODUCTS.filter(p=>rec(p.id).prioritas>=4).length;
   const cards = [
-    ['Total Impresi Organik', fmt(impr), 'GSC kumulatif', 'text-slate-100'],
-    ['Total Klik Organik', fmt(clicks), 'CTR rata-rata '+ctr+'%', 'text-blue-400'],
-    ['Status Landing Page', aktif+' Aktif / '+(PRODUCTS.length-aktif)+' Draft', 'Target min 2 LP baru/mgg', 'text-slate-100'],
-    ['Perlu Tindakan', needAction+' Program', 'Prioritas aksi tinggi', 'text-amber-400'],
+    ['Total Impresi Organik', fmt(impr), 'GSC kumulatif', 'text-slate-100',
+     'Jumlah seluruh impresi organik dari Google Search Console, dijumlahkan untuk semua program dan semua minggu yang tersedia.'],
+    ['Total Klik Organik', fmt(clicks), 'CTR rata-rata '+ctr+'%', 'text-blue-400',
+     'Jumlah seluruh klik dari hasil pencarian organik Google. CTR rata-rata = total klik ÷ total impresi × 100%.'],
+    ['Status Landing Page', aktif+' Aktif / '+(PRODUCTS.length-aktif)+' Draft', 'Target min 2 LP baru/mgg', 'text-slate-100',
+     'Aktif = landing page sudah live dan terindeks Google. Draft = sudah dibuat tapi belum tayang. Target tim: minimal 2 LP baru per minggu.'],
+    ['Perlu Tindakan', needAction+' Program', 'Prioritas aksi tinggi', 'text-amber-400',
+     'Program dengan prioritas aksi 4 atau 5 — masalahnya paling mendesak (mis. impresi tinggi tapi CTR rendah, atau posisi masih di halaman 2+).'],
   ];
-  document.getElementById('kpiRow').innerHTML = cards.map(([t,v,s,c])=>`
+  document.getElementById('kpiRow').innerHTML = cards.map(([t,v,s,c,tip])=>`
     <div class="bg-slate-800 border border-slate-700 rounded-xl p-4">
-      <div class="text-xs font-medium text-slate-400 mb-1">${t}</div>
+      <div class="text-xs font-medium text-slate-400 mb-1">${t}<i class="th-info" data-tip="${esc(tip)}">i</i></div>
       <div class="text-2xl sm:text-3xl font-extrabold ${c}">${v}</div>
       <div class="text-[10px] text-slate-500 mt-1">${s}</div>
     </div>`).join('') + `
     <div class="bg-slate-800 border border-emerald-500/30 rounded-xl p-4 col-span-2 lg:col-span-4">
-      <div class="text-xs font-medium text-slate-400 mb-1">Top Star Performer</div>
+      <div class="text-xs font-medium text-slate-400 mb-1">Top Star Performer<i class="th-info" data-tip="Program dengan klik organik terbanyak sepanjang periode data — tolok ukur yang bisa ditiru program lain.">i</i></div>
       <div class="text-base font-bold text-emerald-400">${esc(top.name||'-')}</div>
       <div class="text-xs text-slate-300 mt-1">${fmt(top.total_clicks)} Klik • CTR ${top.ctr||0}% • Rank #${top.latest_rank||'-'}</div>
     </div>`;
@@ -453,10 +468,11 @@ function renderMatrix(){
     else if (p.ctr>=2) ctrColor='text-blue-400 font-semibold';
     else if (p.total_impr>1000 && p.ctr<1) ctrColor='text-rose-400 font-semibold';
     const pr = rec(p.id).prioritas;
-    const prBadge = pr>=5 ? '<span class="badge bg-rose-500/20 text-rose-300">P5</span>'
-                  : pr>=4 ? '<span class="badge bg-amber-500/20 text-amber-300">P4</span>'
-                  : pr>=3 ? '<span class="badge bg-blue-500/20 text-blue-300">P3</span>'
-                  : '<span class="badge bg-slate-600/40 text-slate-400">P1</span>';
+    const PR_TIP = 'Prioritas aksi: P5 = mendesak (impresi besar tapi CTR rendah / posisi halaman 3+), P4 = perlu perbaikan on-page, P3 = optimasi lanjutan, P1 = sehat, tidak ada tindakan mendesak.';
+    const prBadge = pr>=5 ? `<span class="badge bg-rose-500/20 text-rose-300">P5<i class="th-info" data-tip="${PR_TIP}">i</i></span>`
+                  : pr>=4 ? `<span class="badge bg-amber-500/20 text-amber-300">P4<i class="th-info" data-tip="${PR_TIP}">i</i></span>`
+                  : pr>=3 ? `<span class="badge bg-blue-500/20 text-blue-300">P3<i class="th-info" data-tip="${PR_TIP}">i</i></span>`
+                  : `<span class="badge bg-slate-600/40 text-slate-400">P1<i class="th-info" data-tip="${PR_TIP}">i</i></span>`;
     return `<tr class="hover:bg-slate-700/30">
       <td class="px-3 py-3 text-slate-500 font-mono text-xs">${p.id}</td>
       <td class="px-3 py-3">
@@ -534,7 +550,7 @@ function renderKompetitor(){
         <td class="px-3 py-2 text-right font-mono text-xs text-slate-400">${kw.difficulty!=null?kw.difficulty:'-'}</td>
         <td class="px-3 py-2 text-xs text-slate-300">${esc(kw.top_competitor||'-')}${kw.top_position!=null?` <span class="text-slate-500">#${kw.top_position}</span>`:''}</td>
         <td class="px-3 py-2 text-right font-mono text-xs">${kw.we_rank!=null?`<span class="text-amber-300">#${kw.we_rank}</span>`:'<span class="text-rose-400 font-semibold">belum</span>'}</td>
-        <td class="px-3 py-2 text-center">${gap?'<span class="badge bg-rose-500/20 text-rose-300">GAP</span>':'<span class="badge bg-emerald-500/10 text-emerald-400">unggul</span>'}</td>
+        <td class="px-3 py-2 text-center">${gap?'<span class="badge bg-rose-500/20 text-rose-300">GAP<i class="th-info" data-tip="Kompetitor di atas kita, atau kita belum muncul di 10 besar. Ini celah yang harus diisi.">i</i></span>':'<span class="badge bg-emerald-500/10 text-emerald-400">unggul<i class="th-info" data-tip="Posisi kita di atas kompetitor teratas untuk keyword ini.">i</i></span>'}</td>
       </tr>`;
     }).join('');
     const gaps = (c.competitor_keywords||[]).filter(x=>x.we_rank==null || (x.top_position!=null && x.we_rank>x.top_position)).length;
@@ -550,12 +566,12 @@ function renderKompetitor(){
         <table class="w-full text-left">
           <thead class="bg-slate-900/70 text-slate-400 text-[11px] border-b border-slate-700">
             <tr>
-              <th class="px-3 py-2 font-semibold">Keyword</th>
-              <th class="px-3 py-2 font-semibold text-right">Volume</th>
-              <th class="px-3 py-2 font-semibold text-right">SD</th>
-              <th class="px-3 py-2 font-semibold">Peringkat Teratas</th>
-              <th class="px-3 py-2 font-semibold text-right">Posisi Kita</th>
-              <th class="px-3 py-2 font-semibold text-center">Status</th>
+              <th class="px-3 py-2 font-semibold">Keyword<i class="th-info" data-tip="Query yang muncul di Google untuk halaman ini. Sumber: GSC queries, dicek ulang lewat SERP Ubersuggest.">i</i></th>
+              <th class="px-3 py-2 font-semibold text-right">Volume<i class="th-info" data-tip="Perkiraan pencarian rata-rata per bulan untuk keyword ini di Indonesia. Sumber: Ubersuggest.">i</i></th>
+              <th class="px-3 py-2 font-semibold text-right">SD<i class="th-info" data-tip="SEO Difficulty 0–100: seberapa berat menembus halaman 1. Makin kecil makin mudah.">i</i></th>
+              <th class="px-3 py-2 font-semibold">Peringkat Teratas<i class="th-info" data-tip="Domain kompetitor yang menempati hasil organik paling atas untuk keyword ini, beserta posisinya.">i</i></th>
+              <th class="px-3 py-2 font-semibold text-right">Posisi Kita<i class="th-info" data-tip="Posisi halaman kita untuk keyword ini. 'belum' = kita tidak muncul sama sekali di 10 besar.">i</i></th>
+              <th class="px-3 py-2 font-semibold text-center">Status<i class="th-info" data-tip="GAP = kompetitor di atas kita atau kita belum muncul → celah yang harus diisi. unggul = kita di atas kompetitor teratas.">i</i></th>
             </tr>
           </thead>
           <tbody class="divide-y divide-slate-700">${rows}</tbody>
@@ -985,6 +1001,42 @@ function toggleLive(){
     setLiveStatus('Live dimatikan.', 'text-slate-500');
   }
 }
+
+// --- Shared tooltip ----------------------------------------------------------
+// One #tip element, positioned fixed via event delegation. Delegation matters:
+// table bodies and KPI cards are re-rendered by innerHTML constantly, so
+// per-element listeners would leak or die after every refresh.
+(function(){
+  const tip = document.getElementById('tip');
+  let cur = null;
+  function place(el){
+    const r = el.getBoundingClientRect();
+    tip.textContent = el.dataset.tip;
+    tip.classList.add('on');
+    const tw = tip.offsetWidth, th = tip.offsetHeight, gap = 8;
+    let x = r.left + r.width/2 - tw/2;
+    let y = r.top - th - gap;
+    if (y < gap) y = r.bottom + gap;                      // no room above
+    x = Math.max(gap, Math.min(x, innerWidth - tw - gap)); // clamp horizontal
+    tip.style.left = x + 'px'; tip.style.top = y + 'px';
+  }
+  function hide(){ cur = null; tip.classList.remove('on'); }
+  document.addEventListener('mouseover', e=>{
+    const el = e.target.closest && e.target.closest('.th-info');
+    if (el && el !== cur){ cur = el; place(el); }
+  });
+  document.addEventListener('mouseout', e=>{
+    if (cur && e.target.closest && e.target.closest('.th-info') === cur) hide();
+  });
+  // touch: tap the i to show, tap anywhere else to dismiss
+  document.addEventListener('click', e=>{
+    const el = e.target.closest && e.target.closest('.th-info');
+    if (el && el !== cur){ cur = el; place(el); e.stopPropagation(); }
+    else if (!el) hide();
+  }, true);
+  addEventListener('scroll', hide, true);
+  addEventListener('resize', hide);
+})();
 
 window.onload = init;
 </script>
