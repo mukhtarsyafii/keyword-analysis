@@ -47,8 +47,14 @@ Job Hermes `7d41e50037fa` menjalankan `~/.hermes/scripts/refresh_keyword_dashboa
 dalam mode **`no_agent`** — stdout script dikirim apa adanya ke chat, tanpa LLM.
 
 ```
-refresh.py --weeks 13  →  build_dashboard.py --standalone  →  git commit + push
+extract_sheet.py  →  fetch_gsc.py --merge  →  fetch_competitors.py
+                  →  recommend.py  →  build_dashboard.py --standalone
+                  →  git commit + push
 ```
+
+`extract_sheet.py` jalan **pertama**: sheet tracker pemilik katalog (LP baru, keyword,
+status), GSC pemilik performa. Script itu mempertahankan `weeks`/`daily` dari GSC yang
+sudah ada, jadi katalog baru tidak menghapus data performa.
 
 Push memicu GitHub Pages rebuild, jadi URL live ikut ter-update. Script mencetak
 ringkasan (impresi, klik, CTR, prioritas 5, rentang data) yang diteruskan ke chat.
@@ -64,6 +70,17 @@ Kalau data tidak berubah, script keluar tanpa commit (perbandingan pada
 
 Butuh mesin menyala saat Jumat 07:00. Kalau Mac mati, refresh terlewat — jalankan
 manual: `bash ~/.hermes/scripts/refresh_keyword_dashboard.sh`
+
+### Live di dashboard
+
+Tombol **⟳ Refresh** dan **▶ Live 5 menit** di header memuat ulang `data/*.json`
+dan me-render ulang tanpa reload halaman. Ini bekerja di URL GitHub Pages (http/https,
+origin sama). Kalau `index.html` dibuka langsung dari disk (`file://`), browser memblokir
+`fetch` dan tombolnya memberi pesan jelas alih-alih gagal diam-diam.
+
+Batasnya: halaman ini statis. "Live" = mengambil JSON terbaru yang sudah di-push.
+Data baru muncul setelah pipeline jalan (cron Jumat, atau manual). Tidak ada streaming
+dari GSC/Ubersuggest langsung ke browser — API mereka butuh OAuth server-side.
 
 ## Sumber data
 
