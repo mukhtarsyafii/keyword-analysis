@@ -321,6 +321,27 @@ HTML = r"""<!DOCTYPE html>
 
 <!-- MODAL -->
 <div id="tip" role="tooltip"></div>
+
+<!-- HERMES AI CHAT WIDGET -->
+<button id="aiFab" aria-label="Buka chat Hermes AI" title="Tanya Hermes AI tentang data ini"
+        class="fixed bottom-5 right-5 z-40 w-14 h-14 rounded-full bg-blue-600 hover:bg-blue-500 text-white text-2xl shadow-xl flex items-center justify-center">✦</button>
+<div id="aiPanel" class="fixed bottom-5 right-5 z-50 hidden flex-col bg-slate-800 border border-slate-600 rounded-2xl shadow-2xl"
+     style="width:min(400px,calc(100vw - 24px));height:min(560px,calc(100vh - 24px))">
+  <div class="flex items-center gap-2 px-4 py-3 border-b border-slate-700">
+    <span id="aiDot" class="w-2.5 h-2.5 rounded-full bg-slate-500"></span>
+    <div class="font-semibold text-sm text-slate-100">Hermes AI <span class="text-slate-400 font-normal">• asisten dashboard</span></div>
+    <button id="aiClear" class="text-slate-400 hover:text-white text-xs px-1" title="Mulai percakapan baru">reset</button>
+    <button id="aiCfg" class="text-slate-400 hover:text-white text-xs px-1" title="Atur endpoint + API key">⚙</button>
+    <button id="aiClose" class="ml-auto text-slate-400 hover:text-white text-lg px-1" aria-label="Tutup chat">×</button>
+  </div>
+  <div id="aiLog" class="flex-1 overflow-y-auto px-3 py-3 space-y-2 text-sm"></div>
+  <div id="aiQuick" class="px-3 pb-2 flex flex-wrap gap-1.5"></div>
+  <div class="flex gap-2 px-3 pb-3">
+    <textarea id="aiInput" rows="1" placeholder="Tanya soal data dashboard…"
+              class="flex-1 resize-none rounded-lg bg-slate-900 border border-slate-700 px-3 py-2 text-sm text-slate-100 focus:outline-none"></textarea>
+    <button id="aiSend" class="rounded-lg bg-blue-600 hover:bg-blue-500 px-3 text-sm font-medium text-white">Kirim</button>
+  </div>
+</div>
 <div id="detailModal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 hidden items-center justify-center p-4">
   <div class="bg-slate-800 border border-slate-700 rounded-2xl max-w-3xl w-full max-h-[90vh] overflow-y-auto p-6 space-y-5">
     <div class="flex items-start justify-between gap-4 border-b border-slate-700 pb-4">
@@ -1198,6 +1219,165 @@ function toggleLive(){
   }, true);
   addEventListener('scroll', hide, true);
   addEventListener('resize', hide);
+})();
+
+// --- Hermes AI chat widget ---------------------------------------------------
+// Talks to the local Hermes API server (OpenAI-compatible, default :8642).
+// Endpoint + key live in localStorage, never in this file — the repo is public.
+(function(){
+  const EP_KEY='hermes_ai_endpoint', K_KEY='hermes_ai_key', MSG_KEY='hermes_ai_msgs';
+  const DEF_EP='http://127.0.0.1:8642/v1/chat/completions';
+  const $ = id => document.getElementById(id);
+  const fab=$('aiFab'), panel=$('aiPanel'), log=$('aiLog'), input=$('aiInput'), dot=$('aiDot');
+  let msgs = [];
+  try { msgs = JSON.parse(localStorage.getItem(MSG_KEY) || '[]'); } catch(e){ msgs = []; }
+
+  const ep  = () => localStorage.getItem(EP_KEY) || DEF_EP;
+  const key = () => localStorage.getItem(K_KEY) || '';
+
+  // Compact snapshot of the dashboard data so the model answers from real numbers.
+  function context(){
+    const L = [];
+    L.push('KONTEKS DASHBOARD SEO GRC INDONESIA');
+    L.push('Stamp: ' + (META.stamp||'-'));
+    if (dateFrom || dateTo) L.push('Filter tanggal aktif: ' + (dateFrom||'awal') + ' s/d ' + (dateTo||'akhir'));
+    L.push('');
+    L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir');
+    PRODUCTS.forEach(p=>{
+      L.push([p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
+              p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank].join(' | '));
+    });
+    const byId = {}; PRODUCTS.forEach(p=>byId[p.id]=p);
+    const recs = Object.entries(RECS||{}).map(([id,r])=>({p:byId[id], r}))
+      .sort((a,b)=>(b.r.prioritas||0)-(a.r.prioritas||0));
+    if (recs.length){
+      L.push('');
+      L.push('REKOMENDASI AKSI (prioritas tertinggi dulu):');
+      recs.slice(0,15).forEach(({p,r})=>{
+        L.push('- [P' + (r.prioritas||'-') + '] ' + (p?p.name:'?') +
+               ' | MASALAH: ' + (r.masalah||[]).join(' ') +
+               ' | SOLUSI: ' + (r.solusi||[]).join(' ') +
+               ' | REKOMENDASI: ' + (r.rekomendasi||[]).join(' '));
+      });
+    }
+    const comps = Object.entries(COMPETITORS||{}).map(([id,c])=>({p:byId[id], c}));
+    if (comps.length){
+      L.push('');
+      L.push('CELAH KOMPETITOR:');
+      comps.slice(0,12).forEach(({p,c})=>{
+        (c.competitor_keywords||[]).slice(0,4).forEach(k=>{
+          L.push('- ' + (p?p.name:(c.product_name||'?')) + ' | "' + k.keyword + '" vol ' + k.volume +
+                 ' SD ' + k.difficulty + ' | teratas ' + k.top_competitor + ' #' + k.top_position +
+                 ' | kita ' + (k.we_rank==null?'belum':('#'+k.we_rank)));
+        });
+      });
+    }
+    if ((BRANDS||[]).length){
+      L.push('');
+      L.push('BRAND: ' + BRANDS.map(b=>b.brand||b.name).join(', '));
+    }
+    return L.join('\n');
+  }
+
+  const SYS = () => 'Kamu analis SEO untuk GRC Indonesia. Jawab dalam Bahasa Indonesia, ringkas, '
+    + 'langsung ke angka. Pakai HANYA data di konteks; kalau tidak ada, bilang tidak ada. '
+    + 'Format: poin pendek, angka pakai pemisah ribuan titik.\n\n' + context();
+
+  function bubble(role, text){
+    const wrap = document.createElement('div');
+    wrap.className = role==='user' ? 'flex justify-end' : 'flex justify-start';
+    const b = document.createElement('div');
+    b.className = role==='user'
+      ? 'max-w-[85%] rounded-2xl rounded-br-sm bg-blue-600 px-3 py-2 text-white whitespace-pre-wrap'
+      : 'max-w-[90%] rounded-2xl rounded-bl-sm bg-slate-900 border border-slate-700 px-3 py-2 text-slate-200 whitespace-pre-wrap';
+    b.textContent = text;
+    wrap.appendChild(b); log.appendChild(wrap); log.scrollTop = log.scrollHeight;
+    return b;
+  }
+  function repaint(){
+    log.innerHTML = '';
+    if (!msgs.length){
+      bubble('assistant','Halo. Tanya apa saja soal data dashboard ini — misalnya program yang turun minggu ini, keyword volume besar tapi posisi masih jelek, atau bandingkan dua periode.');
+    } else msgs.forEach(m=>bubble(m.role, m.content));
+  }
+  function status(state, text){
+    dot.className = 'w-2.5 h-2.5 rounded-full ' +
+      (state==='ok'?'bg-emerald-400':state==='err'?'bg-rose-500':state==='busy'?'bg-amber-400 animate-pulse':'bg-slate-500');
+    if (text) dot.title = text;
+  }
+
+  async function send(text){
+    if (!text.trim()) return;
+    if (!key()){
+      bubble('assistant','Belum ada API key. Klik ⚙ di bawah untuk isi endpoint + key API server Hermes lokal.');
+      return;
+    }
+    msgs.push({role:'user', content:text});
+    bubble('user', text);
+    input.value = '';
+    const pending = bubble('assistant','…');
+    status('busy','Menghubungi Hermes…');
+    try {
+      const res = await fetch(ep(), {
+        method:'POST',
+        headers:{'Content-Type':'application/json','Authorization':'Bearer '+key()},
+        body: JSON.stringify({
+          model:'hermes-agent',
+          messages:[{role:'system',content:SYS()}].concat(msgs.slice(-12)),
+          stream:false
+        })
+      });
+      if (!res.ok){
+        const t = await res.text();
+        throw new Error('HTTP ' + res.status + ' — ' + t.slice(0,300));
+      }
+      const j = await res.json();
+      const out = (j.choices && j.choices[0] && j.choices[0].message && j.choices[0].message.content) || '(kosong)';
+      pending.textContent = out;
+      msgs.push({role:'assistant', content:out});
+      status('ok','Terhubung');
+    } catch(e){
+      pending.textContent = 'Gagal menghubungi Hermes.\n\n' + e.message +
+        '\n\nCek: (1) gateway Hermes jalan di mesin ini, (2) API server aktif di ' + ep() +
+        ', (3) origin dashboard diizinkan CORS, (4) API key benar.';
+      status('err', String(e.message));
+    }
+    try { localStorage.setItem(MSG_KEY, JSON.stringify(msgs.slice(-20))); } catch(e){}
+  }
+
+  const QUICK = ['Program mana yang turun minggu ini?','Keyword volume besar tapi posisi kita masih jelek?',
+                 'Ringkas kondisi 5 program teratas','Apa 3 aksi paling mendesak?'];
+  QUICK.forEach(q=>{
+    const b=document.createElement('button');
+    b.className='px-2 py-1 rounded-full border border-slate-600 text-[11px] text-slate-300 hover:bg-slate-700';
+    b.textContent=q; b.onclick=()=>send(q);
+    $('aiQuick').appendChild(b);
+  });
+
+  fab.onclick = ()=>{ fab.classList.add('hidden'); panel.classList.remove('hidden'); panel.classList.add('flex'); input.focus(); };
+  // Chrome blocks public-origin -> loopback (Private Network Access), so from
+  // GitHub Pages the widget can never reach the local Hermes API server.
+  // Show the fab only where it actually works: file:// or a localhost tab.
+  const LOCAL = location.protocol === 'file:' || /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+  if (!LOCAL) fab.classList.add('hidden');
+  $('aiClose').onclick = ()=>{ panel.classList.add('hidden'); panel.classList.remove('flex'); fab.classList.remove('hidden'); };
+  $('aiClear').onclick = ()=>{ msgs=[]; localStorage.removeItem(MSG_KEY); repaint(); };
+  $('aiCfg').onclick = ()=>{
+    const e = prompt('Endpoint API server Hermes (OpenAI-compatible):', ep());
+    if (e === null) return;
+    const k = prompt('API key (API_SERVER_KEY). Disimpan hanya di browser ini:', key());
+    if (k === null) return;
+    localStorage.setItem(EP_KEY, e.trim());
+    localStorage.setItem(K_KEY, k.trim());
+    status(k.trim()?'ok':'idle', k.trim()?'Terhubung':'Belum ada API key');
+    bubble('assistant','Pengaturan disimpan di browser ini. Endpoint: ' + e.trim());
+  };
+  $('aiSend').onclick = ()=>send(input.value);
+  input.addEventListener('keydown', e=>{
+    if (e.key==='Enter' && !e.shiftKey){ e.preventDefault(); send(input.value); }
+  });
+  repaint();
+  status(key()?'ok':'idle', key()?'Terhubung':'Belum ada API key');
 })();
 
 window.onload = init;
