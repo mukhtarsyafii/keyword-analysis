@@ -1247,6 +1247,17 @@ function toggleLive(){
       L.push([p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
               p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank].join(' | '));
     });
+    // Weekly tail: without it the model cannot answer "what moved this week".
+    const wk = p => (p.weeks||[]).filter(w=>w.impr||w.clicks||w.rank).slice(-4);
+    const anyWk = PRODUCTS.some(p=>wk(p).length);
+    if (anyWk){
+      L.push('');
+      L.push('SERI MINGGUAN TERAKHIR (4 minggu terakhir yang ada datanya) — nama | minggu: impr/klik/rank');
+      PRODUCTS.forEach(p=>{
+        const w = wk(p); if (!w.length) return;
+        L.push(p.name + ' | ' + w.map(x=>x.w+': '+x.impr+'/'+x.clicks+'/'+(x.rank||'-')).join(' ; '));
+      });
+    }
     const byId = {}; PRODUCTS.forEach(p=>byId[p.id]=p);
     const recs = Object.entries(RECS||{}).map(([id,r])=>({p:byId[id], r}))
       .sort((a,b)=>(b.r.prioritas||0)-(a.r.prioritas||0));
@@ -1357,8 +1368,10 @@ function toggleLive(){
   fab.onclick = ()=>{ fab.classList.add('hidden'); panel.classList.remove('hidden'); panel.classList.add('flex'); input.focus(); };
   // Chrome blocks public-origin -> loopback (Private Network Access), so from
   // GitHub Pages the widget can never reach the local Hermes API server.
-  // Show the fab only where it actually works: file:// or a localhost tab.
-  const LOCAL = location.protocol === 'file:' || /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+  // file:// sends Origin: null, which the API server's CORS allowlist refuses
+  // (and must stay refused: every local HTML file shares that origin).
+  // Works only when the dashboard is served over http://localhost.
+  const LOCAL = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
   if (!LOCAL) fab.classList.add('hidden');
   $('aiClose').onclick = ()=>{ panel.classList.add('hidden'); panel.classList.remove('flex'); fab.classList.remove('hidden'); };
   $('aiClear').onclick = ()=>{ msgs=[]; localStorage.removeItem(MSG_KEY); repaint(); };
