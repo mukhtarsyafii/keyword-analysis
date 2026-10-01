@@ -12,7 +12,7 @@
     "brand": "IPQI",
     "gid": "1195768283",
     "domain": "ipqi.org",
-    "property": "sc-domain:ipqi.org",
+    "property": "https://ipqi.org/",
     "id_base": 1000,
     "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
     "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, maintenance, dan continuous improvement manufaktur."

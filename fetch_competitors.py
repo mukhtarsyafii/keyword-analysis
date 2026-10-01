@@ -18,7 +18,7 @@ Usage:
 """
 import argparse, datetime, json, os, subprocess, sys, urllib.parse, urllib.request
 
-from fetch_gsc import access_token
+from fetch_gsc import access_token, api
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
@@ -59,12 +59,10 @@ def gsc_queries(page_url, token, prop=PROPERTY, n=10):
                 "dimension": "page", "operator": "equals",
                 "expression": page_url}]}]}
     site_q = urllib.parse.quote(prop, safe="")
-    req = urllib.request.Request(
-        f"https://searchconsole.googleapis.com/webmasters/v3/sites/{site_q}/searchAnalytics/query",
-        data=json.dumps(body).encode(), method="POST",
-        headers={"Authorization": "Bearer " + token, "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        rows = json.loads(r.read().decode()).get("rows", [])
+    # fetch_gsc.api retries transient RemoteDisconnected/timeouts; a bare
+    # urlopen here killed the whole run on one flaky response.
+    rows = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
+               token, "POST", body).get("rows", [])
     rows.sort(key=lambda x: -x.get("impressions", 0))
     return [{"keyword": x["keys"][0], "impr": x.get("impressions", 0),
              "clicks": x.get("clicks", 0), "pos": round(x.get("position", 0), 1)}
@@ -90,6 +88,13 @@ def main():
         by_brand = {k: v for k, v in by_brand.items() if k == args.brand}
 
     out, total_gaps = {}, 0
+    # A brand-scoped run must not erase other brands' intel already on disk.
+    path = os.path.join(DATA, "competitors.json")
+    if os.path.exists(path):
+        try:
+            out.update(json.load(open(path)))
+        except (json.JSONDecodeError, OSError):
+            pass
     for brand, b in by_brand.items():
         site, prop = b["domain"], b["property"]
         targets = [p for p in sorted((p for p in products if p.get("brand") == brand),
@@ -97,7 +102,13 @@ def main():
                    if p["url"] and p["total_impr"]][: args.products]
         for p in targets:
             rows = []
-            for s in gsc_queries(p["url"], token, prop=prop, n=args.kw * 3):
+            try:
+                queries = gsc_queries(p["url"], token, prop=prop, n=args.kw * 3)
+            except Exception as e:
+                # One flaky page must not lose the whole run's intel.
+                print(f"  [{brand}] {p['name'][:40]:40} SKIP: {type(e).__name__}: {e}")
+                continue
+            for s in queries:
                 kw = s["keyword"]
                 if len(kw) < 4 or kw.strip() in ("-", ""):
                     continue

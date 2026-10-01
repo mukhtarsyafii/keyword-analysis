@@ -15,7 +15,7 @@ Semua brand didaftarkan di `data/brands_config.json` — satu entri per brand:
 
 ```json
 { "brand": "IPQI", "gid": "1195768283", "domain": "ipqi.org",
-  "property": "sc-domain:ipqi.org", "id_base": 1000,
+  "property": "https://ipqi.org/", "id_base": 1000,
   "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
   "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, ..." }
 ```
@@ -140,7 +140,7 @@ Butuh OAuth client + scope `webmasters.readonly`:
 python3 oauth_gsc_only.py      # server callback lokal di :8765, sekali saja
 python3 fetch_gsc.py --check   # daftar property yang bisa diakses token
 python3 fetch_gsc.py --weeks 36 --merge          # semua brand di brands_config.json
-python3 fetch_gsc.py --site sc-domain:ipqi.org --weeks 36 --merge   # satu property
+python3 fetch_gsc.py --site https://ipqi.org/ --weeks 36 --merge   # satu property
 ```
 
 Token lama bisa dicabut Google (error `invalid_grant` / HTTP 400 saat refresh) —
