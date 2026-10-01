@@ -56,7 +56,7 @@ HTML = r"""<!DOCTYPE html>
           <span class="text-xs text-slate-400" id="dataStamp">—</span>
         </div>
         <h1 class="text-2xl sm:text-3xl font-bold tracking-tight">Dashboard Kinerja Keyword &amp; Produk</h1>
-        <p class="text-sm text-slate-400 mt-1">GRC Indonesia • Proxsis Academy • Matriks Impresi / Klik / CTR / Rank + Rekomendasi Aksi</p>
+        <p class="text-sm text-slate-400 mt-1" id="brandSubtitle">Matriks Impresi / Klik / CTR / Rank + Rekomendasi Aksi</p>
       </div>
       <div class="flex items-center gap-3">
         <div class="text-right hidden sm:block">
@@ -74,6 +74,8 @@ HTML = r"""<!DOCTYPE html>
       </div>
     </div>
   </header>
+
+  <div class="flex flex-wrap items-center gap-1.5 text-xs" id="brandBar"></div>
 
   <div class="grid grid-cols-2 lg:grid-cols-4 gap-4" id="kpiRow"></div>
 
@@ -108,12 +110,7 @@ HTML = r"""<!DOCTYPE html>
       <div class="flex flex-wrap items-center justify-between gap-3 pt-2 border-t border-slate-700">
         <div class="flex flex-wrap items-center gap-1.5 text-xs">
           <span class="text-slate-400 mr-1">Kategori:</span>
-          <button onclick="setCategoryFilter('all')" class="pill-btn active cat-btn px-2.5 py-1 rounded-md border border-slate-700" data-cat="all">Semua</button>
-          <button onclick="setCategoryFilter('Sertifikasi BNSP / Profesi')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-cat="Sertifikasi BNSP / Profesi">Sertifikasi BNSP</button>
-          <button onclick="setCategoryFilter('Standar ISO & Kepatuhan')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-cat="Standar ISO & Kepatuhan">Standar ISO</button>
-          <button onclick="setCategoryFilter('Audit, Fraud & Forensik')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-cat="Audit, Fraud & Forensik">Audit &amp; Fraud</button>
-          <button onclick="setCategoryFilter('Tata Kelola & BUMN')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-cat="Tata Kelola & BUMN">Tata Kelola</button>
-          <button onclick="setCategoryFilter('AI & Data Governance')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-slate-700 text-slate-400" data-cat="AI & Data Governance">AI &amp; Data</button>
+          <span id="catPills" class="contents"></span>
         </div>
         <div class="flex items-center gap-1.5 text-xs">
           <span class="text-slate-400 mr-1">Status:</span>
@@ -129,7 +126,7 @@ HTML = r"""<!DOCTYPE html>
         <table class="w-full text-left text-xs sm:text-sm">
           <thead class="bg-slate-900/70 text-slate-400 border-b border-slate-700">
             <tr>
-              <th class="px-3 py-3 font-semibold w-10">#<i class="th-info" data-tip="Nomor urut program di sheet tracker GRC Indonesia.">i</i></th>
+              <th class="px-3 py-3 font-semibold w-10">#<i class="th-info" data-tip="Nomor urut program di sheet tracker brand masing-masing.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[230px]">Program Layanan<i class="th-info" data-tip="Nama landing page / program pelatihan beserta URL live-nya. Satu program = satu halaman.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[150px]">Kategori / Status<i class="th-info" data-tip="Kategori dikelompokkan otomatis dari nama program &amp; keyword utama. Status: Aktif = LP sudah live, Draft = belum tayang.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console, kumulatif seluruh minggu yang tersedia.">i</i></th>
@@ -175,7 +172,7 @@ HTML = r"""<!DOCTYPE html>
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
         <div>
           <h2 class="text-lg font-bold">Tren Trafik &amp; Posisi Keyword</h2>
-          <p class="text-xs text-slate-400">Total impresi, klik &amp; rata-rata posisi seluruh landing page GRC Indonesia</p>
+          <p class="text-xs text-slate-400" id="trendSubtitle">Total impresi, klik &amp; rata-rata posisi seluruh landing page</p>
         </div>
         <div class="flex items-center gap-4 text-xs">
           <span class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-blue-500"></span> Impresi</span>
@@ -297,7 +294,7 @@ HTML = r"""<!DOCTYPE html>
   <!-- BRANDS -->
   <div id="view-brands" class="hidden space-y-4">
     <div class="bg-slate-800 border border-slate-700 rounded-xl p-5">
-      <h2 class="text-lg font-bold">🌐 Snapshot Kinerja Unit Bisnis Proxsis Academy</h2>
+      <h2 class="text-lg font-bold">🌐 Snapshot Kinerja Lintas Brand</h2>
       <p class="text-xs text-slate-400 mt-1">Perbandingan performa organik mingguan antar brand.</p>
     </div>
     <div class="bg-slate-800 border border-slate-700 rounded-xl overflow-hidden">
@@ -306,9 +303,9 @@ HTML = r"""<!DOCTYPE html>
           <tr>
             <th class="px-4 py-3 font-semibold">Brand / Unit Bisnis<i class="th-info" data-tip="Unit bisnis di bawah Proxsis Academy yang punya landing page sendiri.">i</i></th>
             <th class="px-4 py-3 font-semibold">Fokus<i class="th-info" data-tip="Bidang utama yang digarap brand tersebut.">i</i></th>
-            <th class="px-4 py-3 font-semibold text-center">LP Aktif<i class="th-info" data-tip="Jumlah landing page yang sudah live dan terindeks.">i</i></th>
-            <th class="px-4 py-3 font-semibold text-right">Impresi/Mgg<i class="th-info" data-tip="Rata-rata impresi organik per minggu untuk brand ini.">i</i></th>
-            <th class="px-4 py-3 font-semibold text-right">Klik/Mgg<i class="th-info" data-tip="Rata-rata klik organik per minggu untuk brand ini.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-center">LP Aktif/Total<i class="th-info" data-tip="Jumlah landing page yang sudah live dibanding total program brand ini di tracker.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-right">Total Impresi<i class="th-info" data-tip="Kumulatif impresi organik seluruh landing page brand ini, dari Google Search Console. Klik baris untuk filter dashboard ke brand tersebut.">i</i></th>
+            <th class="px-4 py-3 font-semibold text-right">Total Klik<i class="th-info" data-tip="Kumulatif klik organik seluruh landing page brand ini.">i</i></th>
             <th class="px-4 py-3 font-semibold text-right">Avg CTR<i class="th-info" data-tip="CTR rata-rata seluruh LP brand ini = total klik ÷ total impresi × 100%.">i</i></th>
           </tr>
         </thead>
@@ -439,6 +436,16 @@ const META = __META__;
 
 let currentCategory = 'all', currentStatus = 'all', currentId = null;
 let currentPeriod = 'weekly';   // daily | weekly | monthly
+let currentBrand = 'all';       // brand filter drives every tab
+
+// Rows in scope for the selected brand. All render functions read this, never
+// PRODUCTS directly, so the whole dashboard follows one switch.
+function brows(){
+  return currentBrand==='all' ? PRODUCTS : PRODUCTS.filter(p=>p.brand===currentBrand);
+}
+function brandNames(){
+  return [...new Set(PRODUCTS.map(p=>p.brand).filter(Boolean))];
+}
 
 const fmt = n => (n||0).toLocaleString('id-ID');
 const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -448,6 +455,7 @@ function rec(id){ return RECS[String(id)] || {masalah:[],solusi:[],rekomendasi:[
 function init(){
   document.getElementById('dataStamp').textContent = META.stamp;
   document.getElementById('totalPortfolio').textContent = PRODUCTS.length + ' Program';
+  renderBrandBar();
   const all = allDates();
   if (all.length){
     ['dateFrom','dateTo','cmpAFrom','cmpATo','cmpBFrom','cmpBTo'].forEach(id=>{
@@ -459,19 +467,59 @@ function init(){
   renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands();
 }
 
+function renderBrandBar(){
+  const names = brandNames();
+  const focus = {}; BRANDS.forEach(b=>focus[b.brand]=b.focus);
+  document.getElementById('brandBar').innerHTML =
+    '<span class="text-slate-400 mr-1">Brand:</span>' +
+    ['all', ...names].map(b=>{
+      const on = currentBrand===b;
+      const label = b==='all' ? 'Semua Brand' : b;
+      const n = b==='all' ? PRODUCTS.length : PRODUCTS.filter(p=>p.brand===b).length;
+      return `<button onclick="setBrand('${esc(b)}')" class="pill-btn brand-btn px-3 py-1.5 rounded-lg border text-xs font-medium ${on?'active':'border-slate-700 text-slate-400 hover:bg-slate-700'}">${esc(label)} <span class="opacity-60">${n}</span></button>`;
+    }).join('');
+  const sub = currentBrand==='all'
+    ? names.join(' • ') + ' • Matriks Impresi / Klik / CTR / Rank + Rekomendasi Aksi'
+    : `${currentBrand} — ${focus[currentBrand]||''} • ${PRODUCTS.filter(p=>p.brand===currentBrand).length} LP`;
+  document.getElementById('brandSubtitle').textContent = sub;
+  document.getElementById('trendSubtitle').textContent =
+    currentBrand==='all' ? 'Total impresi, klik & rata-rata posisi seluruh landing page'
+                         : `Total impresi, klik & rata-rata posisi landing page ${currentBrand}`;
+}
+
+function setBrand(b){
+  if (currentBrand===b) return;
+  currentBrand = b;
+  currentCategory = 'all';   // categories differ per brand
+  renderBrandBar(); renderMatrix(); renderKPI(); renderAksi();
+  renderKompetitor(); renderTrends(); renderCompare();
+}
+
+// Category pills follow the brand in scope — IPQI and GRC have different sets.
+function renderCatPills(rows){
+  const cats = [...new Set(rows.map(p=>p.category))].sort();
+  document.getElementById('catPills').innerHTML =
+    ['all', ...cats].map(c=>{
+      const on = currentCategory===c;
+      const label = c==='all' ? 'Semua' : c;
+      return `<button onclick="setCategoryFilter('${esc(c).replace(/'/g,"\\'")}')" class="pill-btn cat-btn px-2.5 py-1 rounded-md border border-slate-700 ${on?'active':'text-slate-400'}" data-cat="${esc(c)}">${esc(label)}</button>`;
+    }).join('');
+}
+
 function renderKPI(){
-  const impr = PRODUCTS.reduce((a,p)=>a+p.total_impr,0);
-  const clicks = PRODUCTS.reduce((a,p)=>a+p.total_clicks,0);
+  const P = brows();
+  const impr = P.reduce((a,p)=>a+p.total_impr,0);
+  const clicks = P.reduce((a,p)=>a+p.total_clicks,0);
   const ctr = impr ? (clicks/impr*100).toFixed(2) : 0;
-  const aktif = PRODUCTS.filter(p=>p.status.toLowerCase()==='aktif').length;
-  const top = [...PRODUCTS].sort((a,b)=>b.total_clicks-a.total_clicks)[0] || {};
-  const needAction = PRODUCTS.filter(p=>rec(p.id).prioritas>=4).length;
+  const aktif = P.filter(p=>p.status.toLowerCase()==='aktif').length;
+  const top = [...P].sort((a,b)=>b.total_clicks-a.total_clicks)[0] || {};
+  const needAction = P.filter(p=>rec(p.id).prioritas>=4).length;
   const cards = [
     ['Total Impresi Organik', fmt(impr), 'GSC kumulatif', 'text-slate-100',
      'Jumlah seluruh impresi organik dari Google Search Console, dijumlahkan untuk semua program dan semua minggu yang tersedia.'],
     ['Total Klik Organik', fmt(clicks), 'CTR rata-rata '+ctr+'%', 'text-blue-400',
      'Jumlah seluruh klik dari hasil pencarian organik Google. CTR rata-rata = total klik ÷ total impresi × 100%.'],
-    ['Status Landing Page', aktif+' Aktif / '+(PRODUCTS.length-aktif)+' Draft', 'Target min 2 LP baru/mgg', 'text-slate-100',
+    ['Status Landing Page', aktif+' Aktif / '+(P.length-aktif)+' Draft', 'Target min 2 LP baru/mgg', 'text-slate-100',
      'Aktif = landing page sudah live dan terindeks Google. Draft = sudah dibuat tapi belum tayang. Target tim: minimal 2 LP baru per minggu.'],
     ['Perlu Tindakan', needAction+' Program', 'Prioritas aksi tinggi', 'text-amber-400',
      'Program dengan prioritas aksi 4 atau 5 — masalahnya paling mendesak (mis. impresi tinggi tapi CTR rendah, atau posisi masih di halaman 2+).'],
@@ -510,7 +558,9 @@ function renderMatrix(){
   const tbody = document.getElementById('matrixBody');
   const empty = document.getElementById('matrixEmpty');
 
-  let rows = PRODUCTS.filter(p=>{
+  const scoped = brows();
+  renderCatPills(scoped);
+  let rows = scoped.filter(p=>{
     const mc = currentCategory==='all' || p.category===currentCategory;
     const ms = currentStatus==='all' || p.status.toLowerCase()===currentStatus.toLowerCase();
     const mq = !q || [p.name,p.kw_utama,p.kw_target,p.kw_info].join(' ').toLowerCase().includes(q);
@@ -530,7 +580,7 @@ function renderMatrix(){
 
   if (!rows.length){ tbody.innerHTML=''; empty.classList.remove('hidden'); document.getElementById('rowCountLabel').textContent='Menampilkan 0 program'; return; }
   empty.classList.add('hidden');
-  document.getElementById('rowCountLabel').textContent = `Menampilkan ${rows.length} dari ${PRODUCTS.length} program`;
+  document.getElementById('rowCountLabel').textContent = `Menampilkan ${rows.length} dari ${scoped.length} program`;
 
   tbody.innerHTML = rows.map(p=>{
     const live = p.status.toLowerCase()==='aktif';
@@ -553,7 +603,7 @@ function renderMatrix(){
         <div class="font-medium">${esc(p.name)}</div>
         ${p.url?`<a href="${esc(p.url)}" target="_blank" class="text-[11px] text-blue-400/80 hover:text-blue-300 truncate block max-w-xs">${esc(p.url)}</a>`:'<span class="text-[10px] text-amber-400/70 italic">Belum ada URL live</span>'}
       </td>
-      <td class="px-3 py-3"><div class="text-xs text-slate-400">${esc(p.category)}</div><div class="mt-1 flex gap-1">${badge}${prBadge}</div></td>
+      <td class="px-3 py-3"><div class="text-xs text-slate-400">${esc(p.category)}</div>${currentBrand==='all'&&p.brand?`<div class="text-[10px] text-sky-400/80 font-semibold mt-0.5">${esc(p.brand)}</div>`:''}<div class="mt-1 flex gap-1">${badge}${prBadge}</div></td>
       <td class="px-3 py-3 text-right font-mono text-xs">${fmt(p.total_impr)}</td>
       <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${p.total_clicks}</td>
       <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${p.ctr}%</td>
@@ -567,7 +617,7 @@ function renderMatrix(){
 }
 
 function renderAksi(){
-  const rows = [...PRODUCTS].sort((a,b)=>rec(b.id).prioritas-rec(a.id).prioritas || b.total_impr-a.total_impr);
+  const rows = [...brows()].sort((a,b)=>rec(b.id).prioritas-rec(a.id).prioritas || b.total_impr-a.total_impr);
   document.getElementById('aksiList').innerHTML = rows.map(p=>{
     const r = rec(p.id);
     const pr = r.prioritas;
@@ -605,7 +655,11 @@ function renderAksi(){
 
 function renderKompetitor(){
   const el = document.getElementById('kompetitorList');
-  const keys = Object.keys(COMPETITORS||{});
+  const keys = Object.keys(COMPETITORS||{}).filter(k=>{
+    if (currentBrand==='all') return true;
+    const p = PRODUCTS.find(x=>String(x.id)===String(k));
+    return (p||{}).brand===currentBrand || COMPETITORS[k].brand===currentBrand;
+  });
   if (!keys.length){
     el.innerHTML = `<div class="bg-slate-800 border border-slate-700 rounded-xl p-6 text-center text-sm text-slate-400">
       Belum ada data kompetitor. Jalankan <code class="text-blue-400">python3 fetch_competitors.py</code>
@@ -739,7 +793,7 @@ function bucketProduct(p, period){
 // Portfolio-wide series for the chart.
 function bucketSeries(period){
   const totals = new Map();
-  PRODUCTS.forEach(p=>bucketProduct(p,period).forEach(b=>{
+  brows().forEach(p=>bucketProduct(p,period).forEach(b=>{
     const e = totals.get(b.key) || {key:b.key,label:b.label,short:b.short,ord:b.ord,impr:0,clicks:0,_r:[]};
     e.impr += b.impr; e.clicks += b.clicks;
     if (b.rank!=null) e._r.push(b.rank);
@@ -818,7 +872,7 @@ function renderCompare(){
   }
   if (aFrom>aTo || bFrom>bTo){ foot.textContent = 'Tanggal awal melebihi tanggal akhir.'; return; }
 
-  const rows = PRODUCTS.map(p=>{
+  const rows = brows().map(p=>{
     const A = windowAgg(p,aFrom,aTo), B = windowAgg(p,bFrom,bTo);
     return {p,A,B,dI:B.impr-A.impr,dC:B.clicks-A.clicks,
             dR:(A.rank!=null&&B.rank!=null)?A.rank-B.rank:null};
@@ -912,7 +966,7 @@ function allDates(){
 function renderRankMove(series){
   const body = document.getElementById('rankMoveBody');
   const foot = document.getElementById('rankMoveFoot');
-  const rows = PRODUCTS.map(p=>{
+  const rows = brows().map(p=>{
     const b = bucketProduct(p,currentPeriod).filter(x=>x.rank!=null);
     if (b.length<2) return null;
     const first=b[0], last=b[b.length-1];
@@ -1002,11 +1056,11 @@ function renderTrends(){
   renderRankMove(series);
 
   const cats = {};
-  PRODUCTS.forEach(p=>{
+  brows().forEach(p=>{
     if (!cats[p.category]) cats[p.category]={n:0,clicks:0,impr:0};
     cats[p.category].n++; cats[p.category].clicks+=p.total_clicks; cats[p.category].impr+=p.total_impr;
   });
-  const totalClicks = PRODUCTS.reduce((a,p)=>a+p.total_clicks,0)||1;
+  const totalClicks = brows().reduce((a,p)=>a+p.total_clicks,0)||1;
   document.getElementById('categoryBars').innerHTML = Object.entries(cats).map(([c,v])=>{
     const pct = Math.round(v.clicks/totalClicks*100);
     return `<div>
@@ -1019,7 +1073,7 @@ function renderTrends(){
       </div></div>`;
   }).join('');
 
-  const top = [...PRODUCTS].sort((a,b)=>b.total_clicks-a.total_clicks).slice(0,5);
+  const top = [...brows()].sort((a,b)=>b.total_clicks-a.total_clicks).slice(0,5);
   document.getElementById('topKeywords').innerHTML = top.map((p,i)=>`
     <div class="py-2.5 flex items-center justify-between">
       <div><div class="font-semibold">${i+1}. ${esc(p.kw_utama)}</div>
@@ -1030,15 +1084,35 @@ function renderTrends(){
 }
 
 function renderBrands(){
-  document.getElementById('brandsBody').innerHTML = (BRANDS||[]).map(b=>`
-    <tr class="hover:bg-slate-700/30">
-      <td class="px-4 py-3 font-semibold">${esc(b.brand)}</td>
-      <td class="px-4 py-3 text-xs text-slate-400">${esc(b.focus)}</td>
-      <td class="px-4 py-3 text-center font-mono">${b.active_lp}</td>
-      <td class="px-4 py-3 text-right font-mono">${fmt(b.impr)}</td>
-      <td class="px-4 py-3 text-right font-mono font-semibold text-blue-400">${b.clicks}</td>
-      <td class="px-4 py-3 text-right font-mono font-semibold text-emerald-400">${b.ctr}</td>
-    </tr>`).join('');
+  // Numbers are computed from products.json so the cross-brand table can never
+  // drift from the detail tabs; brands.json only supplies the focus text.
+  const focus = {}; (BRANDS||[]).forEach(b=>focus[b.brand]=b.focus);
+  const byBrand = {};
+  PRODUCTS.forEach(p=>{
+    const b = p.brand || 'Lainnya';
+    const e = byBrand[b] || (byBrand[b]={lp:0,aktif:0,impr:0,clicks:0,wks:new Set()});
+    e.lp++; e.impr+=p.total_impr; e.clicks+=p.total_clicks;
+    if (p.status.toLowerCase()==='aktif') e.aktif++;
+    (p.weeks||[]).forEach(w=>{ if (w.impr||w.clicks) e.wks.add(w.w); });
+  });
+  const rows = Object.entries(byBrand).sort((a,b)=>b[1].impr-a[1].impr);
+  const tot = rows.reduce((a,[,v])=>({lp:a.lp+v.lp,aktif:a.aktif+v.aktif,impr:a.impr+v.impr,clicks:a.clicks+v.clicks}),{lp:0,aktif:0,impr:0,clicks:0});
+  document.getElementById('brandsBody').innerHTML = rows.map(([name,v])=>`
+    <tr class="hover:bg-slate-700/30 cursor-pointer" onclick="setBrand('${esc(name)}')">
+      <td class="px-4 py-3 font-semibold">${esc(name)}</td>
+      <td class="px-4 py-3 text-xs text-slate-400">${esc(focus[name]||'—')}</td>
+      <td class="px-4 py-3 text-center font-mono">${v.aktif}<span class="text-slate-500">/${v.lp}</span></td>
+      <td class="px-4 py-3 text-right font-mono">${fmt(v.impr)}</td>
+      <td class="px-4 py-3 text-right font-mono font-semibold text-blue-400">${fmt(v.clicks)}</td>
+      <td class="px-4 py-3 text-right font-mono font-semibold text-emerald-400">${v.impr?(v.clicks/v.impr*100).toFixed(2)+'%':'0.00%'}</td>
+    </tr>`).join('') + `
+    <tr class="bg-slate-900/60 font-bold border-t border-slate-600">
+      <td class="px-4 py-3" colspan="2">TOTAL</td>
+      <td class="px-4 py-3 text-center font-mono">${tot.aktif}<span class="text-slate-500">/${tot.lp}</span></td>
+      <td class="px-4 py-3 text-right font-mono">${fmt(tot.impr)}</td>
+      <td class="px-4 py-3 text-right font-mono text-blue-400">${fmt(tot.clicks)}</td>
+      <td class="px-4 py-3 text-right font-mono text-emerald-400">${tot.impr?(tot.clicks/tot.impr*100).toFixed(2)+'%':'0.00%'}</td>
+    </tr>`;
 }
 
 function switchTab(t){
@@ -1161,7 +1235,7 @@ async function liveRefresh(manual){
         el.min = all[0]; el.max = all[all.length-1];
       });
     }
-    renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands(); renderCompare();
+    renderBrandBar(); renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands(); renderCompare();
     setLiveStatus('Data terbaru dimuat ' + new Date().toLocaleTimeString('id-ID') +
                   (liveOn ? ' • auto tiap 5 menit' : ''), 'text-emerald-400');
   } catch (e) {
@@ -1227,7 +1301,12 @@ function toggleLive(){
 (function(){
   const EP_KEY='hermes_ai_endpoint', K_KEY='hermes_ai_key', MSG_KEY='hermes_ai_msgs';
   const DEF_EP='http://127.0.0.1:8642/v1/chat/completions';
+  // Proxy Netlify untuk mode publik (github.io). Key provider ada di env Netlify,
+  // jadi tidak ada rahasia di repo. Token widget cuma remah biaya, bukan rahasia.
+  const PROXY = '/.netlify/functions/ai-chat';
+  const WIDGET_TOKEN = 'grc-widget-2026';
   const $ = id => document.getElementById(id);
+  const LOCAL_HOST = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
   const fab=$('aiFab'), panel=$('aiPanel'), log=$('aiLog'), input=$('aiInput'), dot=$('aiDot');
   let msgs = [];
   try { msgs = JSON.parse(localStorage.getItem(MSG_KEY) || '[]'); } catch(e){ msgs = []; }
@@ -1238,13 +1317,13 @@ function toggleLive(){
   // Compact snapshot of the dashboard data so the model answers from real numbers.
   function context(){
     const L = [];
-    L.push('KONTEKS DASHBOARD SEO GRC INDONESIA');
+    L.push('KONTEKS DASHBOARD SEO: ' + brandNames().join(', '));
     L.push('Stamp: ' + (META.stamp||'-'));
     if (dateFrom || dateTo) L.push('Filter tanggal aktif: ' + (dateFrom||'awal') + ' s/d ' + (dateTo||'akhir'));
     L.push('');
     L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir');
     PRODUCTS.forEach(p=>{
-      L.push([p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
+      L.push([p.brand, p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
               p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank].join(' | '));
     });
     // Weekly tail: without it the model cannot answer "what moved this week".
@@ -1290,7 +1369,7 @@ function toggleLive(){
     return L.join('\n');
   }
 
-  const SYS = () => 'Kamu analis SEO untuk GRC Indonesia. Jawab dalam Bahasa Indonesia, ringkas, '
+  const SYS = () => 'Kamu analis SEO untuk ' + brandNames().join(' dan ') + '. Jawab dalam Bahasa Indonesia, ringkas, '
     + 'langsung ke angka. Pakai HANYA data di konteks; kalau tidak ada, bilang tidak ada. '
     + 'Format: poin pendek, angka pakai pemisah ribuan titik.\n\n' + context();
 
@@ -1319,7 +1398,10 @@ function toggleLive(){
 
   async function send(text){
     if (!text.trim()) return;
-    if (!key()){
+    // Mode publik (github.io): lewat proxy Netlify, tanpa key di browser.
+    // Mode lokal: langsung ke API server Hermes, butuh key.
+    const viaProxy = !LOCAL_HOST;
+    if (!viaProxy && !key()){
       bubble('assistant','Belum ada API key. Klik ⚙ di bawah untuk isi endpoint + key API server Hermes lokal.');
       return;
     }
@@ -1327,11 +1409,15 @@ function toggleLive(){
     bubble('user', text);
     input.value = '';
     const pending = bubble('assistant','…');
-    status('busy','Menghubungi Hermes…');
+    status('busy','Menghubungi AI…');
     try {
-      const res = await fetch(ep(), {
+      const url = viaProxy ? PROXY : ep();
+      const headers = {'Content-Type':'application/json'};
+      if (viaProxy) headers['X-Widget-Token'] = WIDGET_TOKEN;
+      else headers['Authorization'] = 'Bearer ' + key();
+      const res = await fetch(url, {
         method:'POST',
-        headers:{'Content-Type':'application/json','Authorization':'Bearer '+key()},
+        headers,
         body: JSON.stringify({
           model:'hermes-agent',
           messages:[{role:'system',content:SYS()}].concat(msgs.slice(-12)),
@@ -1348,9 +1434,11 @@ function toggleLive(){
       msgs.push({role:'assistant', content:out});
       status('ok','Terhubung');
     } catch(e){
-      pending.textContent = 'Gagal menghubungi Hermes.\n\n' + e.message +
-        '\n\nCek: (1) gateway Hermes jalan di mesin ini, (2) API server aktif di ' + ep() +
-        ', (3) origin dashboard diizinkan CORS, (4) API key benar.';
+      pending.textContent = 'Gagal menghubungi AI.\n\n' + e.message +
+        (viaProxy
+          ? '\n\nCek: fungsi Netlify sudah ter-deploy dan env AI_PROVIDER_KEY terisi.'
+          : '\n\nCek: (1) gateway Hermes jalan, (2) API server aktif di ' + ep() +
+            ', (3) origin diizinkan CORS, (4) API key benar.');
       status('err', String(e.message));
     }
     try { localStorage.setItem(MSG_KEY, JSON.stringify(msgs.slice(-20))); } catch(e){}
@@ -1367,12 +1455,12 @@ function toggleLive(){
 
   fab.onclick = ()=>{ fab.classList.add('hidden'); panel.classList.remove('hidden'); panel.classList.add('flex'); input.focus(); };
   // Chrome blocks public-origin -> loopback (Private Network Access), so from
-  // GitHub Pages the widget can never reach the local Hermes API server.
-  // file:// sends Origin: null, which the API server's CORS allowlist refuses
-  // (and must stay refused: every local HTML file shares that origin).
-  // Works only when the dashboard is served over http://localhost.
-  const LOCAL = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
-  if (!LOCAL) fab.classList.add('hidden');
+  // GitHub Pages the widget can never reach the local Hermes API server, and
+  // the Netlify proxy path only resolves on the netlify.app origin.
+  // file:// sends Origin: null — refused by CORS on purpose (shared by every
+  // local HTML file). Fab shows on localhost (direct Hermes) or netlify.app (proxy).
+  const SERVED = LOCAL_HOST || /\.netlify\.app$/.test(location.hostname);
+  if (!SERVED) fab.classList.add('hidden');
   $('aiClose').onclick = ()=>{ panel.classList.add('hidden'); panel.classList.remove('flex'); fab.classList.remove('hidden'); };
   $('aiClear').onclick = ()=>{ msgs=[]; localStorage.removeItem(MSG_KEY); repaint(); };
   $('aiCfg').onclick = ()=>{
@@ -1390,7 +1478,8 @@ function toggleLive(){
     if (e.key==='Enter' && !e.shiftKey){ e.preventDefault(); send(input.value); }
   });
   repaint();
-  status(key()?'ok':'idle', key()?'Terhubung':'Belum ada API key');
+  if (!LOCAL_HOST) status('ok','Mode publik: lewat proxy Netlify');
+  else status(key()?'ok':'idle', key()?'Terhubung':'Belum ada API key');
 })();
 
 window.onload = init;

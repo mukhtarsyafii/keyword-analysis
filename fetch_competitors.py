@@ -26,8 +26,7 @@ PY = sys.executable
 CLIENT = os.path.join(HERE, "uber_client.py")
 CACHE = os.path.join(DATA, "uber_cache.json")
 GSC_TOKEN = os.path.expanduser("~/.hermes/google_token.json")
-SITE = "grc-indonesia.com"
-PROPERTY = "https://grc-indonesia.com/"
+PROPERTY = "https://grc-indonesia.com/"   # default for gsc_queries(); per-brand value comes from brands_config.json
 LANG, LOC = "id", 2360          # Indonesian / Indonesia (locId from location_suggest)
 
 
@@ -50,7 +49,7 @@ def uber(tool, args, cache=None):
     return val
 
 
-def gsc_queries(page_url, token, n=10):
+def gsc_queries(page_url, token, prop=PROPERTY, n=10):
     """Top queries driving impressions for one page, last 90 days."""
     end = datetime.date.today() - datetime.timedelta(days=3)
     start = end - datetime.timedelta(days=87)
@@ -59,7 +58,7 @@ def gsc_queries(page_url, token, n=10):
             "dimensionFilterGroups": [{"filters": [{
                 "dimension": "page", "operator": "equals",
                 "expression": page_url}]}]}
-    site_q = urllib.parse.quote(PROPERTY, safe="")
+    site_q = urllib.parse.quote(prop, safe="")
     req = urllib.request.Request(
         f"https://searchconsole.googleapis.com/webmasters/v3/sites/{site_q}/searchAnalytics/query",
         data=json.dumps(body).encode(), method="POST",
@@ -77,52 +76,62 @@ def main():
     ap.add_argument("--products", type=int, default=12, help="top N products by impressions")
     ap.add_argument("--kw", type=int, default=5, help="queries per product")
     ap.add_argument("--no-cache", action="store_true")
+    ap.add_argument("--brand", help="only this brand (default: every brand in the catalog)")
     args = ap.parse_args()
 
     token = access_token()   # handles OAuth refresh (fetch_gsc.py)
     products = json.load(open(os.path.join(DATA, "products.json")))
     cache = {} if args.no_cache or not os.path.exists(CACHE) else json.load(open(CACHE))
 
-    targets = [p for p in sorted(products, key=lambda p: -p["total_impr"])
-               if p["url"] and p["total_impr"]][: args.products]
+    # Domain + GSC property per brand come from data/brands_config.json.
+    cfg = json.load(open(os.path.join(DATA, "brands_config.json")))
+    by_brand = {b["brand"]: b for b in cfg}
+    if args.brand:
+        by_brand = {k: v for k, v in by_brand.items() if k == args.brand}
 
     out, total_gaps = {}, 0
-    for p in targets:
-        rows = []
-        for s in gsc_queries(p["url"], token, n=args.kw * 3):
-            kw = s["keyword"]
-            if len(kw) < 4 or kw.strip() in ("-", ""):
-                continue
-            serp = uber("serp_analysis", {"keyword": kw, "language": LANG,
-                                          "locId": LOC, "limit": 10}, cache)
-            if not serp:
-                continue
-            organic = [e for e in (serp.get("serpEntries") or [])
-                       if e.get("type") == "organic"]
-            top = next((e for e in organic if SITE not in (e.get("domain") or "")), None)
-            ours = next((e for e in organic if SITE in (e.get("domain") or "")), None)
-            we_rank = ours["position"] if ours else (s["pos"] or None)
-            ov = uber("keyword_overview", {"keyword": kw, "language": LANG,
-                                           "locId": LOC}, cache) or {}
-            rows.append({
-                "keyword": kw,
-                "volume": ov.get("search_volume") or None,
-                "difficulty": ov.get("seo_difficulty"),
-                "top_competitor": (top or {}).get("domain") or "-",
-                "top_position": (top or {}).get("position"),
-                "we_rank": round(we_rank) if isinstance(we_rank, (int, float)) else None,
-            })
-            if len(rows) >= args.kw:
-                break
-        gaps = sum(1 for r in rows if r["top_competitor"] != "-"
-                   and (r["we_rank"] or 99) > (r["top_position"] or 0))
-        total_gaps += gaps
-        out[str(p["id"])] = {
-            "product_name": p["name"],
-            "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
-            "competitor_keywords": rows,
-        }
-        print(f"  {p['name'][:44]:44} {len(rows)} kw, {gaps} kalah posisi")
+    for brand, b in by_brand.items():
+        site, prop = b["domain"], b["property"]
+        targets = [p for p in sorted((p for p in products if p.get("brand") == brand),
+                                     key=lambda p: -p["total_impr"])
+                   if p["url"] and p["total_impr"]][: args.products]
+        for p in targets:
+            rows = []
+            for s in gsc_queries(p["url"], token, prop=prop, n=args.kw * 3):
+                kw = s["keyword"]
+                if len(kw) < 4 or kw.strip() in ("-", ""):
+                    continue
+                serp = uber("serp_analysis", {"keyword": kw, "language": LANG,
+                                              "locId": LOC, "limit": 10}, cache)
+                if not serp:
+                    continue
+                organic = [e for e in (serp.get("serpEntries") or [])
+                           if e.get("type") == "organic"]
+                top = next((e for e in organic if site not in (e.get("domain") or "")), None)
+                ours = next((e for e in organic if site in (e.get("domain") or "")), None)
+                we_rank = ours["position"] if ours else (s["pos"] or None)
+                ov = uber("keyword_overview", {"keyword": kw, "language": LANG,
+                                               "locId": LOC}, cache) or {}
+                rows.append({
+                    "keyword": kw,
+                    "volume": ov.get("search_volume") or None,
+                    "difficulty": ov.get("seo_difficulty"),
+                    "top_competitor": (top or {}).get("domain") or "-",
+                    "top_position": (top or {}).get("position"),
+                    "we_rank": round(we_rank) if isinstance(we_rank, (int, float)) else None,
+                })
+                if len(rows) >= args.kw:
+                    break
+            gaps = sum(1 for r in rows if r["top_competitor"] != "-"
+                       and (r["we_rank"] or 99) > (r["top_position"] or 0))
+            total_gaps += gaps
+            out[str(p["id"])] = {
+                "product_name": p["name"],
+                "brand": brand,
+                "source": f"GSC queries + Ubersuggest SERP (id/Indonesia)",
+                "competitor_keywords": rows,
+            }
+            print(f"  [{brand}] {p['name'][:40]:40} {len(rows)} kw, {gaps} kalah posisi")
 
     with open(os.path.join(DATA, "competitors.json"), "w") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)

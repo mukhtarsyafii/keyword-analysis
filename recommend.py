@@ -14,8 +14,10 @@ import json, os, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 
-BRAND = "GRC Indonesia"
 YEAR = "2026"
+DEFAULT_BRAND = "GRC Indonesia"
+DEFAULT_AUDIENCE = ("Manajer risiko, auditor internal, compliance officer, dan tim tata kelola "
+                    "yang bertanggung jawab atas kepatuhan organisasi.")
 
 
 def load(name, default):
@@ -26,13 +28,26 @@ def load(name, default):
         return json.load(f)
 
 
+# Brand copy (name + who the training is for) comes from data/brands_config.json,
+# so adding a brand is a config edit, not a code edit.
+BRAND_CFG = {b["brand"]: b for b in load("brands_config.json", [])}
+
+
+def brand_of(p):
+    return p.get("brand") or DEFAULT_BRAND
+
+
+def audience_of(p):
+    return BRAND_CFG.get(brand_of(p), {}).get("audience") or DEFAULT_AUDIENCE
+
+
 def meta_title(p):
     """<=60 chars, keyword first, brand last."""
     kw = p["kw_utama"].strip()
     if kw in ("-", ""):
         kw = p["name"]
     kw = kw[:1].upper() + kw[1:]
-    suffix = f" - {BRAND}"
+    suffix = f" - {brand_of(p)}"
     budget = 60 - len(suffix)
     if len(kw) > budget:
         kw = kw[: budget - 1].rstrip() + "…"
@@ -44,7 +59,7 @@ def meta_desc(p):
     kw = p["kw_target"] if p["kw_target"] not in ("-", "") else p["kw_utama"]
     if kw in ("-", ""):
         kw = p["name"]
-    base = f"{kw} di {BRAND}. Bersertifikat, trainer praktisi, jadwal {YEAR} tersedia."
+    base = f"{kw} di {brand_of(p)}. Bersertifikat, trainer praktisi, jadwal {YEAR} tersedia."
     cta = " Konsultasi kebutuhan in-house sekarang."
     out = base + cta
     return out[:155]
@@ -53,16 +68,15 @@ def meta_desc(p):
 def faq_schema(p):
     kw = p["kw_utama"] if p["kw_utama"] not in ("-", "") else p["name"]
     qs = [
-        (f"Apa itu {kw}?", f"{kw} adalah program pelatihan {p['category']} dari {BRAND} "
-                            f"yang membahas praktik dan penerapan di perusahaan."),
-        (f"Siapa yang perlu mengikuti {kw}?",
-         "Manajer risiko, auditor internal, compliance officer, dan tim tata kelola "
-         "yang bertanggung jawab atas kepatuhan organisasi."),
+        (f"Apa itu {kw}?",
+         f"{kw} adalah program pelatihan {p['category']} dari {brand_of(p)} "
+         f"yang membahas praktik dan penerapan di perusahaan."),
+        (f"Siapa yang perlu mengikuti {kw}?", audience_of(p)),
         (f"Apakah {kw} bersertifikat?",
          "Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training "
          "sesuai kebutuhan perusahaan."),
         ("Bagaimana cara mendaftar?",
-         f"Hubungi tim {BRAND} melalui formulir di halaman ini atau WhatsApp untuk "
+         f"Hubungi tim {brand_of(p)} melalui formulir di halaman ini atau WhatsApp untuk "
          "jadwal kelas terdekat dan penawaran in-house."),
     ]
     items = [

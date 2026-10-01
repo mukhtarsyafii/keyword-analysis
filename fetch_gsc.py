@@ -2,12 +2,13 @@
 """Fetch GSC data via API and refresh data/products.json weekly series.
 
 Requires OAuth token with scope https://www.googleapis.com/auth/webmasters.readonly
-at ~/.hermes/google_token.json (see google-workspace skill setup).
+at ~/.hermes/google_token.json (see oauth_gsc_only.py for the one-time setup).
 
 Usage:
   python3 fetch_gsc.py --check                 # verify token + list properties
-  python3 fetch_gsc.py --site sc-domain:grc-indonesia.com --weeks 36
-  python3 fetch_gsc.py --site ... --merge     # merge into existing products.json
+  python3 fetch_gsc.py --weeks 36              # every brand in data/brands_config.json
+  python3 fetch_gsc.py --site sc-domain:ipqi.org --weeks 36
+  python3 fetch_gsc.py --merge                 # merge into existing products.json
 
 Writes data/gsc_raw.json (per page per week) and optionally merges into
 products.json so build_dashboard.py picks it up.
@@ -18,6 +19,14 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 TOKEN = os.path.expanduser("~/.hermes/google_token.json")
 SCOPE = "https://www.googleapis.com/auth/webmasters.readonly"
+
+
+def brands():
+    """Brands to fetch: data/brands_config.json owns the property per brand."""
+    p = os.path.join(DATA, "brands_config.json")
+    if not os.path.exists(p):
+        return []
+    return json.load(open(p))
 
 
 def access_token():
@@ -85,7 +94,7 @@ def api(path, token, method="GET", payload=None, attempts=3):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true")
-    ap.add_argument("--site")
+    ap.add_argument("--site", help="one GSC property (default: all in data/brands_config.json)")
     ap.add_argument("--weeks", type=int, default=36)
     ap.add_argument("--start", help="YYYY-MM-DD (overrides --weeks)")
     ap.add_argument("--end", help="YYYY-MM-DD (default: today)")
@@ -101,8 +110,9 @@ def main():
             print("  ", s["siteUrl"], s["permissionLevel"])
         return
 
-    if not args.site:
-        sys.exit("--site required (e.g. sc-domain:grc-indonesia.com)")
+    props = [args.site] if args.site else [b["property"] for b in brands()]
+    if not props:
+        sys.exit("no property: pass --site or fill data/brands_config.json")
 
     end = datetime.date.fromisoformat(args.end) if args.end else datetime.date.today()
     if args.start:
@@ -110,65 +120,64 @@ def main():
     else:
         start = end - datetime.timedelta(weeks=args.weeks)
 
-    site_q = urllib.parse.quote(args.site, safe="")
+    out, per_day = {}, {}
+    for site in props:
+        # GSC caps a query at 25k rows. 36 weeks x ~600 pages x 7 days blows past
+        # that, so fetch one week at a time (max ~4k rows/week, safely under).
+        rows = []
+        cur = start
+        while cur <= end:
+            w_end = min(cur + datetime.timedelta(days=6), end)
+            body = {
+                "startDate": cur.isoformat(),
+                "endDate": w_end.isoformat(),
+                "dimensions": ["page", "date"],
+                "rowLimit": 25000,
+            }
+            site_q = urllib.parse.quote(site, safe="")
+            res = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
+                      token, "POST", body)
+            got = res.get("rows", [])
+            rows.extend(got)
+            print(f"  {site} {cur} .. {w_end}: {len(got)} rows")
+            cur = w_end + datetime.timedelta(days=1)
 
-    # GSC caps a query at 25k rows. 36 weeks x ~600 pages x 7 days blows past that,
-    # so fetch one week at a time (max ~4k rows/week, safely under the cap).
-    rows = []
-    cur = start
-    while cur <= end:
-        w_end = min(cur + datetime.timedelta(days=6), end)
-        body = {
-            "startDate": cur.isoformat(),
-            "endDate": w_end.isoformat(),
-            "dimensions": ["page", "date"],
-            "rowLimit": 25000,
-        }
-        res = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
-                  token, "POST", body)
-        got = res.get("rows", [])
-        rows.extend(got)
-        print(f"  {cur} .. {w_end}: {len(got)} rows")
-        cur = w_end + datetime.timedelta(days=1)
+        print(f"fetched {len(rows)} page/date rows for {site} {start} .. {end}")
 
-    print(f"fetched {len(rows)} page/date rows {start} .. {end}")
+        # aggregate per page per ISO week, and keep the daily rows too so the
+        # dashboard can bucket by day / week / month without a re-fetch.
+        per_page = {}
+        for r in rows:
+            page = r["keys"][0]
+            d = datetime.date.fromisoformat(r["keys"][1])
+            iso = d.isocalendar()
+            # Year-qualified key: plain "W<n>" wraps at the ISO year boundary and
+            # sorts wrong once the series spans two years. "2025W01" sorts as a string.
+            wk = f"{iso[0]}W{iso[1]:02d}"
+            e = per_page.setdefault(page, {}).setdefault(wk, {"impr": 0, "clicks": 0, "pos": []})
+            e["impr"] += r.get("impressions", 0)
+            e["clicks"] += r.get("clicks", 0)
+            if r.get("position"):
+                e["pos"].append(r["position"])
+            per_day.setdefault(page, {})[d.isoformat()] = {
+                "impr": int(r.get("impressions", 0)),
+                "clicks": int(r.get("clicks", 0)),
+                "rank": round(r["position"], 1) if r.get("position") else None,
+            }
 
-    # aggregate per page per ISO week, and keep the daily rows too so the
-    # dashboard can bucket by day / week / month without a re-fetch.
-    per_page = {}
-    per_day = {}
-    for r in rows:
-        page = r["keys"][0]
-        d = datetime.date.fromisoformat(r["keys"][1])
-        iso = d.isocalendar()
-        # Year-qualified key: plain "W<n>" wraps at the ISO year boundary and
-        # sorts wrong once the series spans two years. "2025W01" sorts as a string.
-        wk = f"{iso[0]}W{iso[1]:02d}"
-        e = per_page.setdefault(page, {}).setdefault(wk, {"impr": 0, "clicks": 0, "pos": []})
-        e["impr"] += r.get("impressions", 0)
-        e["clicks"] += r.get("clicks", 0)
-        if r.get("position"):
-            e["pos"].append(r["position"])
-        per_day.setdefault(page, {})[d.isoformat()] = {
-            "impr": int(r.get("impressions", 0)),
-            "clicks": int(r.get("clicks", 0)),
-            "rank": round(r["position"], 1) if r.get("position") else None,
-        }
-
-    out = {}
-    for page, weeks in per_page.items():
-        out[page] = []
-        for wk in sorted(weeks):
-            v = weeks[wk]
-            out[page].append({
-                "w": wk,
-                "impr": int(v["impr"]),
-                "clicks": int(v["clicks"]),
-                "ctr": round(v["clicks"] / v["impr"] * 100, 2) if v["impr"] else 0.0,
-                "rank": round(sum(v["pos"]) / len(v["pos"]), 1) if v["pos"] else None,
-            })
-    # daily series written separately (data/gsc_daily.json) -> bucketed
-    # client-side into day / week / month in the dashboard.
+        for page, weeks in per_page.items():
+            out[page] = []
+            for wk in sorted(weeks):
+                v = weeks[wk]
+                out[page].append({
+                    "w": wk,
+                    "impr": int(v["impr"]),
+                    "clicks": int(v["clicks"]),
+                    "ctr": round(v["clicks"] / v["impr"] * 100, 2) if v["impr"] else 0.0,
+                    "rank": round(sum(v["pos"]) / len(v["pos"]), 1) if v["pos"] else None,
+                })
+        # daily series written separately (data/gsc_daily.json) -> bucketed
+        # client-side into day / week / month in the dashboard.
 
     os.makedirs(DATA, exist_ok=True)
     with open(os.path.join(DATA, "gsc_raw.json"), "w") as f:

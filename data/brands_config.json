@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "GRC Indonesia",
+    "gid": "844447021",
+    "domain": "grc-indonesia.com",
+    "property": "https://grc-indonesia.com/",
+    "id_base": 0,
+    "focus": "Governance, Risk, Compliance, Fraud & ISO",
+    "audience": "Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi."
+  },
+  {
+    "brand": "IPQI",
+    "gid": "1195768283",
+    "domain": "ipqi.org",
+    "property": "sc-domain:ipqi.org",
+    "id_base": 1000,
+    "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
+    "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, maintenance, dan continuous improvement manufaktur."
+  }
+]

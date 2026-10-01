@@ -1,17 +1,37 @@
-# Keyword & Produk Dashboard — GRC Indonesia
+# Keyword & Produk Dashboard — GRC Indonesia & IPQI
 
-Dashboard kinerja SEO per landing page pelatihan. Data GSC + rekomendasi aksi + analisis kompetitor.
+Dashboard kinerja SEO per landing page pelatihan, multi-brand (filter Brand di header).
+Data GSC + rekomendasi aksi + analisis kompetitor.
 
 **Live:** https://mukhtarsyafii.github.io/keyword-analysis/
 
 > Repo ini **public**. Isinya data keyword, celah kompetitor, dan rekomendasi untuk
-> grc-indonesia.com — siapa pun bisa membacanya. Kalau perlu ditutup, ubah ke private
+> grc-indonesia.com dan ipqi.org — siapa pun bisa membacanya. Kalau perlu ditutup, ubah ke private
 > dan pindah hosting (Pages butuh repo public).
+
+## Brand
+
+Semua brand didaftarkan di `data/brands_config.json` — satu entri per brand:
+
+```json
+{ "brand": "IPQI", "gid": "1195768283", "domain": "ipqi.org",
+  "property": "sc-domain:ipqi.org", "id_base": 1000,
+  "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
+  "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, ..." }
+```
+
+- `gid` = tab Google Sheet tracker brand itu (satu sheet, banyak tab `LP <Brand>`).
+- `property` = URL GSC property (domain-level `sc-domain:` atau `https://.../`).
+- `id_base` = basis ID produk (GRC 1.., IPQI 1001..) supaya key `recommendations.json`
+  dan `competitors.json` tidak bentrok antar brand dan tidak berubah antar run.
+- `audience` dipakai `recommend.py` untuk FAQ schema per brand.
+
+Tambah brand baru = tambah entri di config + tab sheet + akses GSC, lalu `python3 refresh.py`.
 
 ## Alur
 
 ```
-GSC API (langsung)     ──> fetch_gsc.py   ──> data/products.json  (sumber utama)
+GSC API (semua brand)  ──> fetch_gsc.py   ──> data/products.json  (sumber utama)
 Google Sheet tracker   ──> extract_sheet.py ─┘        │
 GSC queries + Ubersuggest MCP ──> fetch_competitors.py ──> data/competitors.json
                                                       v
@@ -29,16 +49,19 @@ Satu perintah untuk refresh penuh (GSC + kompetitor + dashboard):
 python3 refresh.py --start 2026-01-01 --end $(date +%F)   # histori lengkap
 python3 refresh.py --weeks 12                              # refresh mingguan
 python3 refresh.py --skip-competitors                      # GSC saja
+python3 refresh.py --brand IPQI                            # intel kompetitor IPQI saja
 ```
 
 ## Perintah
 
 ```bash
-python3 extract_sheet.py       # tarik Google Sheet tracker (public, tanpa auth)
-python3 fetch_competitors.py   # keyword kompetitor via Ubersuggest MCP + GSC
+python3 extract_sheet.py       # tarik semua tab LP di Google Sheet tracker (public, tanpa auth)
+python3 fetch_gsc.py --check   # daftar property GSC yang bisa diakses token
+python3 fetch_competitors.py   # keyword kompetitor via Ubersuggest MCP + GSC (per brand)
 python3 recommend.py           # generate Masalah/Solusi/Rekomendasi/Perbaikan
 python3 build_dashboard.py     # render dashboard.html
 python3 dashboard.py           # satu langkah: ketiganya berurutan
+node dashboard_smoke.js dashboard.html   # smoke test JS: render semua tab + filter brand
 ```
 
 ### Refresh mingguan otomatis (cron tiap Jumat 07:00)
@@ -114,10 +137,14 @@ Client ID Metadata Document Hermes, jadi pakai dynamic client registration.
 
 Butuh OAuth client + scope `webmasters.readonly`:
 ```bash
-python3 oauth_loopback.py      # server callback lokal, sekali saja
-python3 fetch_gsc.py --check
-python3 fetch_gsc.py --site https://grc-indonesia.com/ --weeks 36 --merge
+python3 oauth_gsc_only.py      # server callback lokal di :8765, sekali saja
+python3 fetch_gsc.py --check   # daftar property yang bisa diakses token
+python3 fetch_gsc.py --weeks 36 --merge          # semua brand di brands_config.json
+python3 fetch_gsc.py --site sc-domain:ipqi.org --weeks 36 --merge   # satu property
 ```
+
+Token lama bisa dicabut Google (error `invalid_grant` / HTTP 400 saat refresh) —
+jalankan `oauth_gsc_only.py` lagi, buka URL yang dicetak, lalu Allow.
 
 ## WordPress: perbaikan langsung
 

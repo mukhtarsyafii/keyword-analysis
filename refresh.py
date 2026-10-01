@@ -2,19 +2,20 @@
 """Refresh: Google Sheet tracker -> GSC API -> recommendations -> dashboard.
 
 Requires the OAuth token at ~/.hermes/google_token.json with the
-webmasters.readonly scope (see oauth_loopback.py for the one-time setup).
+webmasters.readonly scope (see oauth_gsc_only.py for the one-time setup).
+Every brand listed in data/brands_config.json is fetched.
 
 Usage:
-  python3 refresh.py                       # last 12 weeks
+  python3 refresh.py                       # last 12 weeks, all brands
   python3 refresh.py --weeks 36
   python3 refresh.py --start 2026-01-01 --end 2026-09-24
   python3 refresh.py --skip-sheet          # GSC only, keep the current catalog
+  python3 refresh.py --brand IPQI          # one brand for competitors
 """
 import argparse, os, subprocess, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PY = sys.executable
-SITE = "https://grc-indonesia.com/"
 
 
 def run(args):
@@ -29,7 +30,7 @@ def main():
     ap.add_argument("--weeks", type=int, default=12)
     ap.add_argument("--start")
     ap.add_argument("--end")
-    ap.add_argument("--site", default=SITE)
+    ap.add_argument("--brand", help="limit competitor intel to one brand")
     ap.add_argument("--skip-sheet", action="store_true",
                     help="don't re-read the Google Sheet tracker")
     ap.add_argument("--skip-competitors", action="store_true",
@@ -41,7 +42,7 @@ def main():
     if not args.skip_sheet:
         run([os.path.join(HERE, "extract_sheet.py")])
 
-    gsc = [os.path.join(HERE, "fetch_gsc.py"), "--site", args.site, "--merge"]
+    gsc = [os.path.join(HERE, "fetch_gsc.py"), "--merge"]
     if args.start:
         gsc += ["--start", args.start]
     else:
@@ -53,7 +54,10 @@ def main():
     if not args.skip_competitors:
         # Non-fatal: Ubersuggest has a daily report quota and its OAuth token
         # can expire; the dashboard still builds with the last cached intel.
-        r = subprocess.run([PY, os.path.join(HERE, "fetch_competitors.py")], cwd=HERE)
+        cmd = [os.path.join(HERE, "fetch_competitors.py")]
+        if args.brand:
+            cmd += ["--brand", args.brand]
+        r = subprocess.run([PY] + cmd, cwd=HERE)
         if r.returncode:
             print("WARN: fetch_competitors failed; keeping previous competitors.json")
     run([os.path.join(HERE, "recommend.py")])
