@@ -659,6 +659,18 @@ function uniqP(arr){
   const s = new Set();
   return arr.filter(p=>{ const k = normUrl(p.url); if (s.has(k)) return false; s.add(k); return true; });
 }
+// Klik WA terkredit ke halaman NON-tracker (hub) — tidak terlihat di matriks.
+function hubWaLeft(){
+  const tracked = new Set(PRODUCTS.map(p=>normUrl(p.url)));
+  let n = 0;
+  Object.entries((WA&&WA.pages)||{}).forEach(([k,v])=>{
+    if (tracked.has(k)) return;
+    n += (PW ? Object.entries(v.credit_weeks||{}).reduce((a,[wk,c])=>a+(PW.has(wk)?c:0),0)
+             : (v.credited!==undefined?v.credited:v.total||0));
+  });
+  return n;
+}
+
 function renderKPI(){
   const P = brows();
   const impr = P.reduce((a,p)=>a+mImp(p),0);
@@ -672,6 +684,9 @@ function renderKPI(){
      'Jumlah seluruh impresi organik dari Google Search Console, dijumlahkan untuk semua program dan semua minggu yang tersedia.'],
     ['Total Klik Organik', fmt(clicks), 'CTR rata-rata '+ctr+'%', 'text-blue-400',
      'Jumlah seluruh klik dari hasil pencarian organik Google. CTR rata-rata = total klik ÷ total impresi × 100%.'],
+    ['Klik WA (Atribusi Asal)', fmt(uniqP(P).reduce((a,p)=>a+waClicks(p),0)),
+     'Eng% total '+((uniqP(P).reduce((a,p)=>a+waClicks(p),0))/(clicks||1)*100).toFixed(1)+'% dari klik organik', 'text-emerald-300',
+     'Jumlah klik tombol WhatsApp yang BERAWAL dari landing page di tracker (atribusi asal via referrer — klik yang terjadi di halaman hub ikut dihitung ke LP pengirim; hover kolom WA utk lihat CTA-nya di halaman mana). Eng% total = total klik WA ÷ total klik organik. '+fmt(hubWaLeft())+' klik WA lain berasal dari halaman non-tracker (lihat panel Halaman Hub).'],
     ['Status Landing Page', aktif+' Aktif / '+(P.length-aktif)+' Draft', 'Target min 2 LP baru/mgg', 'text-slate-100',
      'Aktif = landing page sudah live dan terindeks Google. Draft = sudah dibuat tapi belum tayang. Target tim: minimal 2 LP baru per minggu.'],
     ['Perlu Tindakan', needAction+' Program', 'Prioritas aksi tinggi', 'text-amber-400',
