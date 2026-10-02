@@ -319,7 +319,7 @@ HTML = r"""<!DOCTYPE html>
 <!-- MODAL -->
 <div id="tip" role="tooltip"></div>
 
-<!-- HERMES AI CHAT WIDGET -->
+<!-- DIFA AI CHAT WIDGET -->
 <button id="aiFab" aria-label="Buka chat Difa AI" title="Tanya Difa AI tentang data ini"
         class="fixed bottom-5 right-5 z-40 w-14 h-14 rounded-full bg-blue-600 hover:bg-blue-500 text-white text-2xl shadow-xl flex items-center justify-center">✦</button>
 <div id="aiPanel" class="fixed bottom-5 right-5 z-50 hidden flex-col bg-slate-800 border border-slate-600 rounded-2xl shadow-2xl"
