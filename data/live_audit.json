@@ -1,0 +1,826 @@
+{
+ "1": {
+  "url": "https://grc-indonesia.com/training-fraud-management/",
+  "http_ok": true,
+  "live_title": "Training Fraud Management - GRC Indonesia",
+  "live_desc": "Training Fraud Management",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "2": {
+  "url": "https://grc-indonesia.com/training-ai-governance/",
+  "http_ok": true,
+  "live_title": "Training AI Governance - GRC Indonesia",
+  "live_desc": "Training AI Governance",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "3": {
+  "url": "https://grc-indonesia.com/training-pemalsuan-dokumen/",
+  "http_ok": true,
+  "live_title": "Training Deteksi Dokumen Palsu - GRC Indonesia",
+  "live_desc": "Training Pemalsuan Dokumen",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "4": {
+  "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/",
+  "http_ok": true,
+  "live_title": "Training High Impact Report Audit Writing - GRC Indonesia",
+  "live_desc": "Training High Impact Report Audit Writing: tulis laporan audit yang berdampak, jelas, dan menggerakkan keputusan. Instruktur bersertifikat, online/offline.",
+  "has_faq": false,
+  "h2_count": 51
+ },
+ "24": {
+  "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
+  "http_ok": true,
+  "live_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
+  "live_desc": "Training Fraud Management",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "6": {
+  "url": "https://grc-indonesia.com/training-grafonomi-grafologi-dan-deteksi-uang-palsu/",
+  "http_ok": true,
+  "live_title": "Training Grafonomi, Grafologi, dan Deteksi Uang Palsu - GRC Indonesia",
+  "live_desc": "Training Grafonomi, Grafologi, dan Deteksi Uang Palsu",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "7": {
+  "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko/",
+  "http_ok": true,
+  "live_title": "Pelatihan & Sertifikasi Manajemen Risiko ISO 31000:2018 - GRC Indonesia",
+  "live_desc": "Silabus Pelatihan Manajemen Risiko ISO 31000:2018 dari GRC Indonesia: 7 modul praktis, teknik FMEA hingga Monte Carlo, dan jalur sertifikasi profesional.",
+  "has_faq": true,
+  "h2_count": 94
+ },
+ "8": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-based-audit/",
+  "http_ok": true,
+  "live_title": "Risk Based Audit - GRC Indonesia",
+  "live_desc": "Pelatihan Risk Based Audit: susun program audit berbasis hasil penilaian risiko sesuai praktik IPPF. Instruktur berpengalaman, metode online dan offline.",
+  "has_faq": false,
+  "h2_count": 78
+ },
+ "9": {
+  "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/",
+  "http_ok": true,
+  "live_title": "Pelatihan Integrasi ES-GRC Bersertifikat - GRC Indonesia",
+  "live_desc": "Pelatihan Integrasi ES-GRC Bersertifikat: 7 modul GRC terintegrasi berstandar ISO 31000, ISO 37301 & OCEG Red Book. Sertifikat resmi, instruktur berpengalaman, jadwal tersedia tiap bulan.",
+  "has_faq": false,
+  "h2_count": 60
+ },
+ "10": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-management-iso-31000/",
+  "http_ok": true,
+  "live_title": "Pelatihan & Sertifikasi Manajemen Risiko ISO 31000:2018 - GRC Indonesia",
+  "live_desc": "Silabus Pelatihan Manajemen Risiko ISO 31000:2018 dari GRC Indonesia: 7 modul praktis, teknik FMEA hingga Monte Carlo, dan jalur sertifikasi profesional.",
+  "has_faq": true,
+  "h2_count": 94
+ },
+ "20": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
+  "http_ok": true,
+  "live_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
+  "live_desc": "Lindungi bisnis Anda dari sanksi hukum & denda regulasi di Indonesia. Ikuti Pelatihan & Sertifikasi Compliance System Management ISO 37301 bersama GRC Indonesia.",
+  "has_faq": false,
+  "h2_count": 74
+ },
+ "12": {
+  "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
+  "http_ok": true,
+  "live_title": "Pelatihan Business Continuity Management ISO 22301-2019 - GRC Indonesia",
+  "live_desc": "Pelajari silabus pelatihan Business Continuity Management (BCM) System based on ISO 22301:2019. Kuasai BIA, BCP, dan simulasi krisis bersama GRC Indonesia.",
+  "has_faq": false,
+  "h2_count": 41
+ },
+ "13": {
+  "url": "https://grc-indonesia.com/icofr-intensive-training/",
+  "http_ok": true,
+  "live_title": "ICoFR Intensive Training - GRC Indonesia",
+  "live_desc": "ICoFR Intensive Training — pengendalian internal atas pelaporan keuangan untuk BUMN: desain, implementasi, dan evaluasi pengendalian ICoFR sesuai regulasi.",
+  "has_faq": false,
+  "h2_count": 4
+ },
+ "14": {
+  "url": "https://grc-indonesia.com/pelatihan-key-risk-indicator-kri/",
+  "http_ok": true,
+  "live_title": "Pelatihan Key Risk Indicator KRI - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan Key Risk Indicator (KRI) GRC Indonesia. Pelajari silabus lengkap, ambang batas RAG, dan desain dashboard risiko terukur. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 34
+ },
+ "15": {
+  "url": "https://grc-indonesia.com/pelatihan-legal-and-compliance-management/",
+  "http_ok": true,
+  "live_title": "Pelatihan Legal and Compliance Management - GRC Indonesia",
+  "live_desc": "Ikuti Training Integrated Governance, Risk Management, & Compliance (GRC). Kuasai silabus 8 modul terpadu untuk efisiensi bisnis. Konsultasi dan daftar via WA!",
+  "has_faq": true,
+  "h2_count": 35
+ },
+ "16": {
+  "url": "https://grc-indonesia.com/sertifikasi/qrmo-qualified-risk-management-officer/",
+  "http_ok": true,
+  "live_title": "Pelatihan Sertifikasi QRMO BNSP - GRC Indonesia",
+  "live_desc": "Ikuti pelatihan dan sertifikasi Qualified Risk Management Officer (QRMO) BNSP berbasis ISO 31000 bersama GRC Indonesia. Daftar dan konsultasi jadwal hari ini!",
+  "has_faq": true,
+  "h2_count": 34
+ },
+ "17": {
+  "url": "https://grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi QRMA BNSP - GRC Indonesia",
+  "live_desc": "Pelatihan QRMA BNSP berbasis SNI ISO 31000. Silabus 6 modul, 4 hari intensif, online & offline di Jakarta, Bandung, Yogyakarta, Surabaya. Jadwal 2026 tersedia. Daftar sekarang.",
+  "has_faq": true,
+  "h2_count": 56
+ },
+ "18": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-qcro-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi QCRO BNSP - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan QCRO dan Sertifikasi Qualified Chief Risk Officer BNSP di GRC Indonesia. Kuasai 27 unit kompetensi ISO 31000. Daftar via WhatsApp sekarang!",
+  "has_faq": true,
+  "h2_count": 51
+ },
+ "19": {
+  "url": "https://grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi QRGP BNSP Berbasis SNI ISO 31000 | GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan QRGP bersertifikat BNSP berbasis SNI ISO 31000. Silabus 7 modul tata kelola risiko untuk Direksi, Komisaris & Top Management. Daftar sekarang.",
+  "has_faq": true,
+  "h2_count": 50
+ },
+ "21": {
+  "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/",
+  "http_ok": true,
+  "live_title": "Pelatihan Sistem Manajemen Anti Penyuapan ISO 37001 - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan Sistem Manajemen Anti Penyuapan (ISO 37001) bersama GRC Indonesia. Kuasai silabus 8 modul praktis dan percepat sertifikasi tim Anda.",
+  "has_faq": true,
+  "h2_count": 40
+ },
+ "22": {
+  "url": "https://grc-indonesia.com/integrasi-iso-31000-dengan-iso-9001/",
+  "http_ok": true,
+  "live_title": "Pelatihan Integrasi ISO 31000 & ISO 9001 | GRC Indonesia",
+  "live_desc": "Pelatihan integrasi ISO 31000:2018 dengan ISO 9001:2015. Siklus dasar serupa, penerapan terpadu di organisasi.",
+  "has_faq": false,
+  "h2_count": 0
+ },
+ "23": {
+  "url": "https://grc-indonesia.com/pelatihan/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
+  "http_ok": true,
+  "live_title": "Pelatihan Business Continuity Management ISO 22301-2019 - GRC Indonesia",
+  "live_desc": "Pelajari silabus pelatihan Business Continuity Management (BCM) System based on ISO 22301:2019. Kuasai BIA, BCP, dan simulasi krisis bersama GRC Indonesia.",
+  "has_faq": false,
+  "h2_count": 41
+ },
+ "25": {
+  "url": "https://grc-indonesia.com/pelatihan-managing-legal-risk-based-on-iso-31022/",
+  "http_ok": true,
+  "live_title": "Pelatihan Managing Legal Risk Based On ISO 31022 - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan Managing Legal Risk Based on ISO 31022 dari GRC Indonesia. Program 8 modul: identifikasi risiko hukum, penyusunan legal risk register, strategi mitigasi, hingga integrasi dengan ERM. Daftar sekarang.",
+  "has_faq": false,
+  "h2_count": 40
+ },
+ "26": {
+  "url": "https://grc-indonesia.com/pelatihan-integrated-anti-fraud-management-system/",
+  "http_ok": true,
+  "live_title": "Pelatihan Integrated Anti Fraud Management System - GRC Indonesia",
+  "live_desc": "Program pelatihan anti-fraud 8 modul: fraud risk assessment, deteksi, whistleblowing, dan investigasi. Terintegrasi dengan GRC. Sesuai POJK 12/2024. Daftar via WhatsApp.",
+  "has_faq": false,
+  "h2_count": 36
+ },
+ "27": {
+  "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019/",
+  "http_ok": true,
+  "live_title": "Pelatihan Business Continuity Management ISO 22301-2019 - GRC Indonesia",
+  "live_desc": "Pelajari silabus pelatihan Business Continuity Management (BCM) System based on ISO 22301:2019. Kuasai BIA, BCP, dan simulasi krisis bersama GRC Indonesia.",
+  "has_faq": false,
+  "h2_count": 41
+ },
+ "28": {
+  "url": "https://grc-indonesia.com/pelatihan-internal-control-testing/",
+  "http_ok": true,
+  "live_title": "Pelatihan Internal Control Testing - GRC Indonesia",
+  "live_desc": "Tingkatkan kesiapan audit lewat Pelatihan Internal Control Testing GRC Indonesia. Kuasai evaluasi kontrol berbasis COSO untuk lindungi integritas bisnis Anda.",
+  "has_faq": true,
+  "h2_count": 41
+ },
+ "29": {
+  "url": "https://grc-indonesia.com/training-integrated-governance-risk-management-compliance-grc/",
+  "http_ok": true,
+  "live_title": "Training Integrated Governance Risk Management Compliance GRC - GRC Indonesia",
+  "live_desc": "Ikuti Training Integrated Governance, Risk Management, & Compliance (GRC). Kuasai silabus 8 modul terpadu untuk efisiensi bisnis. Konsultasi dan daftar via WA!",
+  "has_faq": true,
+  "h2_count": 35
+ },
+ "30": {
+  "url": "https://grc-indonesia.com/pelatihan-penyusunan-anggaran-berbasis-risiko/",
+  "http_ok": true,
+  "live_title": "Pelatihan Penyusunan Anggaran Berbasis Risiko - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan Penyusunan Anggaran Berbasis Risiko dari GRC Indonesia. Kuasai silabus 8 modul, integrasi risk appetite, dan simulasi RKAP. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 34
+ },
+ "31": {
+  "url": "https://grc-indonesia.com/pelatihan-implementasi-manajemen-risiko-bumn-per2-mbu-03-2023/",
+  "http_ok": true,
+  "live_title": "Pelatihan Implementasi Manajemen Risiko BUMN PER-2/MBU/03/2023 - GRC Indonesia",
+  "live_desc": "Tingkatkan kepatuhan BUMN dengan Pelatihan Implementasi Manajemen Risiko BUMN. Pelajari PER-2/MBU/03/2023, 8 modul praktis, dan tata kelola 3 lines model. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 54
+ },
+ "32": {
+  "url": "https://grc-indonesia.com/pelatihan-rkap-berbasis-risiko/",
+  "http_ok": true,
+  "live_title": "Pelatihan RKAP Berbasis Risiko - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan Rencana Kerja Anggaran Perusahaan (RKAP) Berbasis Risiko di GRC Indonesia. Susun anggaran realistis sesuai tata kelola BUMN. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 34
+ },
+ "33": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-control-self-assessment/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risk Control Self Assessment - GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan RCSA dari GRC Indonesia. Kuasai metodologi Risk Control Self Assessment: merancang template, memfasilitasi workshop, hingga mengonsolidasikan risk register. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 41
+ },
+ "34": {
+  "url": "https://grc-indonesia.com/pelatihan-good-corporate-governance-gcg-terbaik/",
+  "http_ok": true,
+  "live_title": "Pelatihan Good Corporate Governance GCG Terbaik - GRC Indonesia",
+  "live_desc": "Bedah lengkap silabus 8 modul pelatihan Good Corporate Governance (GCG) terbaik, plus acuan regulasi terbaru PUGKI 2021 dan UU BUMN 2025.",
+  "has_faq": true,
+  "h2_count": 54
+ },
+ "35": {
+  "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko-berbasis-data/",
+  "http_ok": true,
+  "live_title": "pelatihan Manajemen Risiko Berbasis Data - GRC Indonesia",
+  "live_desc": "Program pelatihan manajemen risiko berbasis data: 8 modul dari analisis deskriptif hingga prediktif, KRI berbasis data, dan dashboard risiko real-time. Konsultasi via WhatsApp.",
+  "has_faq": false,
+  "h2_count": 54
+ },
+ "36": {
+  "url": "https://grc-indonesia.com/pelatihan-kepatuhan-apu-dan-ppt-untuk-perusahaan/",
+  "http_ok": true,
+  "live_title": "Pelatihan Kepatuhan APU dan PPT Untuk Perusahaan - GRC Indonesia",
+  "live_desc": "Ikuti pelatihan kepatuhan APU dan PPT untuk perusahaan dari GRC Indonesia. Kuasai silabus 8 modul, mitigasi risiko sanksi OJK, dan deteksi transaksi mencurigakan.",
+  "has_faq": true,
+  "h2_count": 46
+ },
+ "37": {
+  "url": "https://grc-indonesia.com/pelatihan-risiko-proyek-konstruksi/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risiko Proyek Konstruksi - GRC Indonesia",
+  "live_desc": "Ikuti program pelatihan risiko proyek konstruksi dari GRC Indonesia. Pelajari silabus lengkap, analisis Monte Carlo, dan risk register. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 43
+ },
+ "38": {
+  "url": "https://grc-indonesia.com/sertifikasi-certified-governance-professional-cgp/",
+  "http_ok": true,
+  "live_title": "Pelatihan & Sertifikasi CGP (Certified Governance Professional) | GRC Indonesia",
+  "live_desc": "Pelajari detail silabus Sertifikasi Certified Governance Professional (CGP) Indonesia. Kuasai 8 modul tata kelola dan daftar batch pelatihan di GRC Indonesia.",
+  "has_faq": true,
+  "h2_count": 61
+ },
+ "40": {
+  "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
+  "http_ok": true,
+  "live_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC",
+  "live_desc": "Ikuti pelatihan boardrooms governance BUMN dari GRC Indonesia. Kuasai kepemimpinan tangkas, integrasi ESG, dan tanggung jawab fidusia dewan. Daftar kelasnya sekarang!",
+  "has_faq": true,
+  "h2_count": 47
+ },
+ "41": {
+  "url": "https://grc-indonesia.com/pelatihan-ccgo-cgop-lsp-mks-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan CCGO CGOP LSP MKS Indonesia | Sertifikasi Ganda BNSP",
+  "live_desc": "Ikuti pelatihan CCGO CGOP LSP MKS Indonesia dari GRC Indonesia. Kuasai silabus tata kelola korporasi 2 hari dan raih sertifikasi ganda BNSP. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 59
+ },
+ "42": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-data-analytics-risk-management/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Data Analytics Risk Management - GRC Indonesia",
+  "live_desc": "Ikuti pelatihan dan sertifikasi data analytics risk management dari GRC Indonesia. Pelajari 8 modul praktis, hands-on Excel, dan template dashboard. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 58
+ },
+ "44": {
+  "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan ERM Fundamentals dan Sertifikasi Risk Officer BNSP (QRMO/QRMA) - GRC Indonesia",
+  "live_desc": "Pelatihan ERM Fundamentals 2 hari berbasis ISO 31000 dengan sertifikasi risk officer BNSP (QRMO/QRMA). Lihat silabus, rundown, dan biayanya. Daftar kini!",
+  "has_faq": true,
+  "h2_count": 58
+ },
+ "45": {
+  "url": "https://grc-indonesia.com/pelatihan-internal-control-testing-bumn/",
+  "http_ok": true,
+  "live_title": "Masterclass Internal Control Testing dan Klasifikasi Temuan Audit Korporasi (BUMN) - GRC Indonesia",
+  "live_desc": "Pelatihan audit internal BUMN 2 hari: kuasai internal control testing, bedakan design vs operating deficiency, susun working paper. Daftar via WA!",
+  "has_faq": true,
+  "h2_count": 57
+ },
+ "46": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-managing-legal-risk-iso-31022/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Managing Legal Risk (ISO 31022) Legal & Compliance Officer",
+  "live_desc": "Ikuti pelatihan dan sertifikasi managing legal risk ISO 31022 dari GRC Indonesia. Kuasai mitigasi kontrak dan regulasi korporasi. Daftar via WhatsApp sekarang!",
+  "has_faq": true,
+  "h2_count": 64
+ },
+ "47": {
+  "url": "https://grc-indonesia.com/sertifikasi/master-class-enterprise-risk-governance-qcro-qrgp-cerg/",
+  "http_ok": true,
+  "live_title": "Master Class Enterprise Risk Governance: Sertifikasi QCRO, QRGP, dan CERG untuk Direksi dan Komisaris - GRC Indonesia",
+  "live_desc": "Pelatihan 2 hari untuk Direksi dan Komisaris dengan jalur sertifikasi QCRO, QRGP (BNSP), dan CERG (ERMA). Investasi mulai Rp9,5 juta. Lihat jadwal batch.",
+  "has_faq": true,
+  "h2_count": 58
+ },
+ "48": {
+  "url": "https://grc-indonesia.com/pelatihan-pengambilan-keputusan-direksi-debiasing/",
+  "http_ok": true,
+  "live_title": "Masterclass Direksi & Eksekutif: Pelatihan Pengambilan Keputusan Direksi dan Debiasing Risiko Strategis - GRC Indonesia",
+  "live_desc": "Ikuti pelatihan pengambilan keputusan direksi dan debiasing strategis BUMN dari GRC Indonesia. Perkuat perlindungan Business Judgment Rule. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 58
+ },
+ "49": {
+  "url": "https://grc-indonesia.com/risk-maturity-level/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Risk Maturity Level Berbasis ISO 31000 | GRC Indonesia",
+  "live_desc": "Ikuti Pelatihan dan Sertifikasi Risk Maturity Level berbasis ISO 31000 dan regulasi BUMN. Kuasai asesmen mandiri dan konsultasikan jadwal kelas Anda di sini!",
+  "has_faq": true,
+  "h2_count": 55
+ },
+ "50": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-perbankan/",
+  "http_ok": true,
+  "live_title": "Program Persiapan Sertifikasi Manajemen Risiko Perbankan (BSMR & LSPP) - GRC Indonesia",
+  "live_desc": "Program persiapan sertifikasi manajemen risiko perbankan sesuai POJK 24/2022. Kuasai 8 jenis risiko dan latihan soal ujian BSMR/LSPP dalam 2 hari. Daftar kini.",
+  "has_faq": true,
+  "h2_count": 70
+ },
+ "51": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-appetite-statement-bersertifikat/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risk Appetite Statement: Establishment, Implementation dan Evaluation",
+  "live_desc": "Ikuti Pelatihan Risk Appetite Statement bersertifikat Proxsis Academy. 2 hari, 8 modul, hands-on workshop. Kuasai RAS berbasis COSO ERM & ISO 31000. Daftar!",
+  "has_faq": true,
+  "h2_count": 72
+ },
+ "52": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-assessment-iso-31010-bia/",
+  "http_ok": true,
+  "live_title": "Pelatihan Asesmen Risiko ISO 31010 dan Business Impact Analysis (BIA)",
+  "live_desc": "Ikuti pelatihan risk assessment ISO 31010 dan BIA. Kuasai teknik evaluasi risiko operasional teruji, raih sertifikasi kompetensi, dan daftar batch sekarang.",
+  "has_faq": true,
+  "h2_count": 60
+ },
+ "53": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-based-decision-making/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risk Based Decision Making | GRC Indonesia",
+  "live_desc": "Pelatihan Risk Based Decision Making 2 hari dari GRC Indonesia. Kuasai decision tree, teknik debiasing, dan analisis risk-reward. Sertifikat kompetensi Proxsis Academy. Daftar sekarang.",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "54": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-management-maturity-assessment-bumn-non-bumn/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risk Management Maturity Assessment for BUMN dan Non-BUMN | GRC Indonesia",
+  "live_desc": "Pelatihan Risk Management Maturity Assessment 2 hari dari GRC Indonesia. Ukur kematangan risiko berbasis SK-8/DKU.MBU/12/2023 & SNI ISO 31000. Sertifikat Proxsis Academy. Daftar!",
+  "has_faq": true,
+  "h2_count": 61
+ },
+ "5": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
+  "http_ok": true,
+  "live_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
+  "live_desc": "Lindungi bisnis Anda dari sanksi hukum & denda regulasi di Indonesia. Ikuti Pelatihan & Sertifikasi Compliance System Management ISO 37301 bersama GRC Indonesia.",
+  "has_faq": false,
+  "h2_count": 74
+ },
+ "1001": {
+  "url": "https://ipqi.org/pelatihan-fmea-failure-mode-and-effects-analysis-control-plan/",
+  "http_ok": true,
+  "live_title": "Pelatihan FMEA dan Control Plan Implementation di Indonesia | IPQI",
+  "live_desc": "Pelatihan FMEA & Control Plan di Indonesia bersama praktisi IPQI. Kuasai analisis risiko RPN, DFMEA, PFMEA, dan susun control plan efektif dalam 2 hari. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 58
+ },
+ "1002": {
+  "url": "https://ipqi.org/training-iso/",
+  "http_ok": true,
+  "live_title": "Training ISO - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "1003": {
+  "url": "https://ipqi.org/pelatihan-5s-workplace-organization-audit-system/",
+  "http_ok": true,
+  "live_title": "Pelatihan Budaya Kerja 5R/5S & Penerapan Red Tag System Manufaktur | IPQI",
+  "live_desc": "Ikuti pelatihan 5S Indonesia dari IPQI. Kuasai workshop workplace organization, red tag system, dan audit checklist untuk efisiensi korporasi. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 66
+ },
+ "1004": {
+  "url": "https://ipqi.org/training-5r/",
+  "http_ok": true,
+  "live_title": "Pelatihan Budaya Kerja 5R/5S & Penerapan Red Tag System Manufaktur | IPQI",
+  "live_desc": "Ikuti pelatihan 5S Indonesia dari IPQI. Kuasai workshop workplace organization, red tag system, dan audit checklist untuk efisiensi korporasi. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 66
+ },
+ "1005": {
+  "url": "https://ipqi.org/training-leadership/",
+  "http_ok": true,
+  "live_title": "Pelatihan Leadership Bersertifikat untuk Supervisor & Manager | IPQI",
+  "live_desc": "Pelatihan Leadership Bersertifikat IPQI: 7 modul komprehensif untuk Supervisor & Manager. Offline di 4 kota & online. Sertifikat resmi. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 73
+ },
+ "1006": {
+  "url": "https://ipqi.org/pelatihan-teknisi-kalibrasi-alat-ukur-iso-17025/",
+  "http_ok": true,
+  "live_title": "Pelatihan Teknisi Kalibrasi Alat Ukur dan Pelaporan ISO/IEC 17025 Bersertifikat | IPQI",
+  "live_desc": "Ikuti pelatihan kalibrasi alat ukur ISO 17025 bersertifikat dari IPQI. Kuasai kalibrasi massa, suhu, tekanan, dan ketidakpastian. Daftar tim Anda sekarang.",
+  "has_faq": true,
+  "h2_count": 55
+ },
+ "1007": {
+  "url": "https://ipqi.org/training-project-management-bersertifikat/",
+  "http_ok": true,
+  "live_title": "Training Project Management Bersertifikat | IPQI",
+  "live_desc": "Training project management bersertifikat IPQI. Kuasai WBS, EVM, dan risk register lewat workshop 2 hari. Jadwal 2026 Jakarta, Bandung, Yogya, Surabaya.",
+  "has_faq": true,
+  "h2_count": 73
+ },
+ "1008": {
+  "url": "https://ipqi.org/training-lean-management/",
+  "http_ok": true,
+  "live_title": "Training Lean Management - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "1009": {
+  "url": "https://ipqi.org/training-iatf-16949/",
+  "http_ok": true,
+  "live_title": "Training IATF 16949 Dan Latar Belakang Training IATF",
+  "live_desc": "Training IATF 16949, Running setiap bulannya, Segera Daftar Informasi detail hub 082233661026 Latar Belakang Training IATF 16949",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "1010": {
+  "url": "https://ipqi.org/training-need-analysis/",
+  "http_ok": true,
+  "live_title": "Training Need Analysis",
+  "live_desc": "Training Need Analysis, Running setiap bulannya, Segera Daftar Informasi detail hub 082233661026",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "1011": {
+  "url": "https://ipqi.org/training-iso-90012015/",
+  "http_ok": true,
+  "live_title": "Training ISO 9001:2015 - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "1012": {
+  "url": "https://ipqi.org/training-balanced-scorecard/",
+  "http_ok": true,
+  "live_title": "Training Balanced Scorecard - IPQI Training Center",
+  "live_desc": "Lebih dari 60% strategi perusahaan gagal dieksekusi. Ubah visi jadi aksi nyata dengan Training Balanced Scorecard dari IPQI. Jadwal 2026 tersedia!",
+  "has_faq": false,
+  "h2_count": 18
+ },
+ "1013": {
+  "url": "https://ipqi.org/training-warehouse-management/",
+  "http_ok": true,
+  "live_title": "Training Warehouse Management - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "1014": {
+  "url": "https://ipqi.org/training-business-process/",
+  "http_ok": true,
+  "live_title": "Training Business Process - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "1015": {
+  "url": "https://ipqi.org/training-business-strategy-planning/",
+  "http_ok": true,
+  "live_title": "Training Business Strategic - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1016": {
+  "url": "https://ipqi.org/training-masa-persiapan-pensiun/",
+  "http_ok": true,
+  "live_title": "Training Masa Persiapan Pensiun - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "1017": {
+  "url": "https://ipqi.org/training-creative-problem-solving/",
+  "http_ok": true,
+  "live_title": "Training Creative Problem Solving, Decision Making, and Conflict Management | IPQI",
+  "live_desc": "Pelatihan ini akan membahas tentang tiga hal penting dalam dinamika organisasi, yaitu problem solving, decision making dan conflict management.",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "1018": {
+  "url": "https://ipqi.org/training-social-accountability-8000/",
+  "http_ok": true,
+  "live_title": "Training Social Accountability 8000 - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "1019": {
+  "url": "https://ipqi.org/training-business-process-mapping/",
+  "http_ok": true,
+  "live_title": "Training Business Process Mapping and Documentation SOP - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1020": {
+  "url": "https://ipqi.org/training-business-process-improvement/",
+  "http_ok": true,
+  "live_title": "Business Process Improvement - IPQI Training Center",
+  "live_desc": "Business Process Improvement membangun sistem manajemen mutu yang efektif sesuai persyaratan standar ISO 9001:2015,",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "1021": {
+  "url": "https://ipqi.org/training-effective-communication-skill/",
+  "http_ok": true,
+  "live_title": "Training Effective Communication Skill - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "1022": {
+  "url": "https://ipqi.org/training-awareness-quality-management/",
+  "http_ok": true,
+  "live_title": "Training Awareness Quality Management - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1023": {
+  "url": "https://ipqi.org/training-business-process-management/",
+  "http_ok": true,
+  "live_title": "Training Business Process Management",
+  "live_desc": "Training Business Process Management, Running setiap bulannya, Segera Daftar Informasi detail hub 082233661026",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "1024": {
+  "url": "https://ipqi.org/training-iso-50001-2011/",
+  "http_ok": true,
+  "live_title": "Training Introduction to Implemented of Energy Conservation with ISO 50001:2011 Jakarta, 7-8 Oktober/27-28 Nopember 2013 - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1025": {
+  "url": "https://ipqi.org/training-quality-function-deployment/",
+  "http_ok": true,
+  "live_title": "Training Quality Function Deployment Enterprise Product Development Processes - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1026": {
+  "url": "https://ipqi.org/training-lobbying-and-negotiation-skill/",
+  "http_ok": true,
+  "live_title": "Training Lobbying and Negotiation Skill - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1027": {
+  "url": "https://ipqi.org/training-awareness-environmental-management-system/",
+  "http_ok": true,
+  "live_title": "Training Awareness Environmental Management System Jakarta, 22-23 Januari 2014 - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1028": {
+  "url": "https://ipqi.org/training-root-cause-analysis-technique/",
+  "http_ok": true,
+  "live_title": "Training Root Cause Analysis Technique - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "1029": {
+  "url": "https://ipqi.org/training-green-belt-six-sigma/",
+  "http_ok": true,
+  "live_title": "Training Green Belt Six Sigma - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1030": {
+  "url": "https://ipqi.org/training-spc-statistical-process-control/",
+  "http_ok": true,
+  "live_title": "Training spc (Statistical Process Control) - IPQI",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1031": {
+  "url": "https://ipqi.org/training-total-productive-maintenance-tpm/",
+  "http_ok": true,
+  "live_title": "Training Total Productive Maintenance",
+  "live_desc": "Training Total Productive Maintenance, Running setiap bulannya, Segera Daftar Informasi detail hub 082233661026",
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1032": {
+  "url": "https://ipqi.org/training-kalibrasi-massa-suhu-dan-tekanan/",
+  "http_ok": true,
+  "live_title": "Training Kalibrasi Massa Suhu dan Tekanan - IPQI Member of Proxsis",
+  "live_desc": "Training Kalibrasi Massa Suhu dan Tekanan, Daftar Training Kalibrasi Massa, Suhu dan Tekanan Phone : 0822 3366 1026 IPQI Training Center",
+  "has_faq": false,
+  "h2_count": 13
+ },
+ "1033": {
+  "url": "https://ipqi.org/training-kblm-kaizen-based-lean-manufacturing/",
+  "http_ok": true,
+  "live_title": "Training Kaizen Based Lean Manufacturing (KBLM) - IPQI",
+  "live_desc": "Berikut manfaat yang anda dapatkan setelah melaksanakan Training KBLM kaizen based lean manufacturing dan pelajari selanjutnya",
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1034": {
+  "url": "https://ipqi.org/training-advanced-product-quality-planning-apqp/",
+  "http_ok": true,
+  "live_title": "Training Advanced Product Quality Planning (APQP) - IPQI",
+  "live_desc": "Training Advanced Product Quality Planning (APQP), Running setiap bulannya, Segera Daftar Informasi detail hub 082233661026",
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "1035": {
+  "url": "https://ipqi.org/pelatihan-sertifikasi-internal-auditor-iso-9001-2026/",
+  "http_ok": true,
+  "live_title": "Pelatihan Internal Auditor ISO 9001:2026 | IPQI",
+  "live_desc": "Pelatihan dan sertifikasi internal auditor ISO 9001:2026, 2 hari, 60% simulasi audit proses bank. Mulai Rp4,5 juta. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 68
+ },
+ "1036": {
+  "url": "https://ipqi.org/pelatihan-iso-9001-2026-perbankan/",
+  "http_ok": true,
+  "live_title": "Pelatihan ISO 9001:2026 Perbankan | IPQI",
+  "live_desc": "Ikuti pelatihan sistem manajemen mutu ISO 9001:2026 perbankan. Pelajari peta proses SIPOC, turtle diagram, dan dokumen audit. Daftar via WhatsApp sekarang!",
+  "has_faq": true,
+  "h2_count": 61
+ },
+ "1037": {
+  "url": "https://ipqi.org/pelatihan-maintenance-excellence-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan Maintenance Excellence Indonesia, 2 Hari | IPQI",
+  "live_desc": "Pelatihan maintenance excellence Indonesia 2 hari: praktik asset criticality & equipment reliability. Mulai Rp 4,5 juta. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 68
+ },
+ "1038": {
+  "url": "https://ipqi.org/pelatihan-oee-improvement-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan OEE Improvement Manufaktur Indonesia | IPQI",
+  "live_desc": "Ikuti pelatihan OEE improvement Indonesia dari IPQI dan Proxsis. Bedah six big losses lewat workshop 60% praktik dan raih sertifikasi resmi. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 61
+ },
+ "1039": {
+  "url": "https://ipqi.org/pelatihan-preventive-predictive-maintenance/",
+  "http_ok": true,
+  "live_title": "Pelatihan Preventive Predictive Maintenance PM PdM Indonesia | IPQI",
+  "live_desc": "Pelatihan preventive and predictive maintenance 2 hari (16 JP) dari IPQI dan Proxsis Academy. 60% praktik, template Excel, sertifikat. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "1040": {
+  "url": "https://ipqi.org/pelatihan-demand-forecasting-excel-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan Demand Forecasting Excel Indonesia 2 Hari | IPQI",
+  "live_desc": "Pelatihan demand forecasting Excel Indonesia 2 hari: praktik FORECAST.ETS, regresi, MAPE, WMAPE. Dapat template forecast 12 bulan. Cek jadwal di IPQI.",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "1041": {
+  "url": "https://ipqi.org/pelatihan-lean-six-sigma-green-belt-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan Lean Six Sigma Green Belt Indonesia DMAIC | IPQI",
+  "live_desc": "Ikuti pelatihan Lean Six Sigma Green Belt Indonesia dari IPQI dan Proxsis Academy. Kuasai DMAIC Toolkit praktis berbasis Excel. Daftar batch terbaru di sini!",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "1042": {
+  "url": "https://ipqi.org/pelatihan-inventory-optimization-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan Inventory Optimization dan Safety Stock Indonesia | IPQI",
+  "live_desc": "Pelatihan inventory optimization Indonesia 2 hari: ABC-XYZ, safety stock, dan simulasi Excel. Dapat kalkulator siap pakai. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "1043": {
+  "url": "https://ipqi.org/pelatihan-shopfloor-leadership-indonesia/",
+  "http_ok": true,
+  "live_title": "Pelatihan Shopfloor Leadership: Effective Supervisory Development 2 Hari | IPQI",
+  "live_desc": "Pelatihan shopfloor leadership Indonesia 2 hari: ubah supervisor jadi pemimpin lini depan yang mengawal target, mutu, dan keselamatan. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "1044": {
+  "url": "https://ipqi.org/pelatihan-leadership-bersertifikat/",
+  "http_ok": true,
+  "live_title": "Pelatihan Leadership Bersertifikat untuk Supervisor & Manager | IPQI",
+  "live_desc": "Pelatihan Leadership Bersertifikat IPQI: 7 modul komprehensif untuk Supervisor & Manager. Offline di 4 kota & online. Sertifikat resmi. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 73
+ },
+ "1045": {
+  "url": "https://ipqi.org/pelatihan-qcc-facilitator/",
+  "http_ok": true,
+  "live_title": "Pelatihan QCC Facilitator: Gugus Kendali Mutu dan 7 QC Tools | IPQI",
+  "live_desc": "Pelatihan QCC Facilitator 2 hari dari IPQI & Proxsis Academy: 8 langkah, 7 QC Tools, fasilitasi gugus, 60% praktik. Lihat silabus, rundown & biaya.",
+  "has_faq": true,
+  "h2_count": 66
+ },
+ "1046": {
+  "url": "https://ipqi.org/pelatihan-8d-problem-solving-manufaktur/",
+  "http_ok": true,
+  "live_title": "Pelatihan 8D Problem Solving Manufaktur dan IATF 16949 | IPQI",
+  "live_desc": "Pelatihan 8D problem solving manufaktur 2 hari, 60% workshop. Kuasai D0-D8, root cause analysis, dan customer complaint handling. Daftar via WhatsApp.",
+  "has_faq": true,
+  "h2_count": 66
+ },
+ "1047": {
+  "url": "https://ipqi.org/pelatihan-internal-auditor-iso-iec-17025/",
+  "http_ok": true,
+  "live_title": "Pelatihan Internal Auditor ISO/IEC 17025:2017 | IPQI",
+  "live_desc": "Pelatihan Internal Auditor ISO/IEC 17025:2017 dari IPQI & Proxsis Academy. 2 hari, 60% praktik simulasi audit berbasis ISO 19011:2018. Siap asesmen KAN.",
+  "has_faq": true,
+  "h2_count": 67
+ },
+ "1048": {
+  "url": "https://ipqi.org/pelatihan-vda-6-3-process-auditor/",
+  "http_ok": true,
+  "live_title": "Pelatihan VDA 6.3 Process Auditor: Automotive Process Audit Edisi 2023 | IPQI",
+  "live_desc": "Pelatihan VDA 6.3 Process Auditor edisi 2023: 2 hari, 60% simulasi audit P6, silabus lengkap & rundown. Mulai Rp4,5 juta. Daftar via WhatsApp IPQI.",
+  "has_faq": true,
+  "h2_count": 65
+ },
+ "11": {
+  "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
+  "http_ok": true,
+  "live_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
+  "live_desc": "Training Fraud Management",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "39": {
+  "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
+  "http_ok": true,
+  "live_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC",
+  "live_desc": "Ikuti pelatihan boardrooms governance BUMN dari GRC Indonesia. Kuasai kepemimpinan tangkas, integrasi ESG, dan tanggung jawab fidusia dewan. Daftar kelasnya sekarang!",
+  "has_faq": true,
+  "h2_count": 47
+ },
+ "43": {
+  "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan ERM Fundamentals dan Sertifikasi Risk Officer BNSP (QRMO/QRMA) - GRC Indonesia",
+  "live_desc": "Pelatihan ERM Fundamentals 2 hari berbasis ISO 31000 dengan sertifikasi risk officer BNSP (QRMO/QRMA). Lihat silabus, rundown, dan biayanya. Daftar kini!",
+  "has_faq": true,
+  "h2_count": 58
+ },
+ "56": {
+  "url": "https://grc-indonesia.com/pelatihan-risk-modeling-for-better-performance/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risk Modeling for Better Performance",
+  "live_desc": "Pelatihan Risk Modeling for Better Performance dari Proxsis Academy. 2 hari intensif: risk scoring, simulasi Monte Carlo, scenario analysis. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 69
+ }
+}

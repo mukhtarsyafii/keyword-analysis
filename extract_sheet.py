@@ -195,16 +195,25 @@ def main():
                 old = prev.get(p["url"].rstrip("/")) if p["url"] else None
                 if isinstance((old or {}).get("id"), int):
                     p["id"] = old["id"]
-        taken = {p["id"] for p in rows if isinstance(p.get("id"), int)}
+        taken = set()
+        # pass 1: reserve every inherited id first, in row order — a dup row must
+        # not steal an id whose owner row comes later in the sheet
+        for p in rows:
+            pid = p.get("id")
+            if isinstance(pid, int) and pid not in taken:
+                taken.add(pid)
+            else:
+                # two sheet rows can share one URL; prev-by-lookup hands them the
+                # same id and recommendations.json silently drops one of them
+                p["id"] = None
         n = base.get(b, 0)
         for p in rows:
-            if isinstance(p.get("id"), int):
-                continue
-            n += 1
-            while n in taken:
+            if p["id"] is None:
                 n += 1
-            p["id"] = n
-            taken.add(n)
+                while n in taken:
+                    n += 1
+                p["id"] = n
+                taken.add(n)
 
     with open(OUT, "w") as f:
         json.dump(products, f, indent=1, ensure_ascii=False)
