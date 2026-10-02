@@ -102,6 +102,8 @@ HTML = r"""<!DOCTYPE html>
             <option value="clicks-desc">Klik (Tertinggi)</option>
             <option value="ctr-desc">CTR (Tertinggi)</option>
             <option value="ctr-asc">CTR (Terendah)</option>
+            <option value="wa-desc">Klik WA (Tertinggi)</option>
+            <option value="eng-desc">Engagement % (Tertinggi)</option>
             <option value="rank-asc">Rank Terbaik</option>
             <option value="name-asc">Nama (A-Z)</option>
           </select>
@@ -132,6 +134,8 @@ HTML = r"""<!DOCTYPE html>
               <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console, kumulatif seluruh minggu yang tersedia.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Jumlah kunjungan dari hasil pencarian organik Google ke halaman tersebut. Sumber: Google Search Console.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG), kumulatif seluruh periode log — seperiode dengan kolom Klik. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir yang punya data. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren<i class="th-info" data-tip="Sparkline impresi mingguan. Hijau = minggu terakhir naik dibanding sebelumnya, merah = turun. Perlu minimal 2 minggu data.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center w-24">Aksi<i class="th-info" data-tip="Buka detail Masalah, Solusi, Rekomendasi, dan Perbaikan siap-tempel (meta title, meta description, FAQ schema, outline H2).">i</i></th>
@@ -432,6 +436,7 @@ const PRODUCTS = __PRODUCTS__;
 const RECS = __RECS__;
 const COMPETITORS = __COMPETITORS__;
 const BRANDS = __BRANDS__;
+const WA = __WA__;
 const META = __META__;
 
 let currentCategory = 'all', currentStatus = 'all', currentId = null;
@@ -451,6 +456,41 @@ const fmt = n => (n||0).toLocaleString('id-ID');
 const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 function rec(id){ return RECS[String(id)] || {masalah:[],solusi:[],rekomendasi:[],perbaikan:{},prioritas:1}; }
+
+// --- Klik WhatsApp per landing page (data/wa.json, sumber sheet WA log) ------
+// Join lewat URL yang dinormalisasi; ikut filter tanggal via peta minggu ISO.
+function normUrl(u){
+  return String(u||'').trim().toLowerCase()
+    .replace(/^https?:\/\//,'').replace(/^www\./,'')
+    .split('?')[0].split('#')[0].replace(/\/+$/,'');
+}
+const WA_IDX = {};
+function waReindex(){
+  Object.keys(WA_IDX).forEach(k=>delete WA_IDX[k]);
+  Object.entries((WA&&WA.pages)||{}).forEach(([k,v])=>{ WA_IDX[k]=v; });
+}
+waReindex();
+
+function waEntry(p){ return WA_IDX[normUrl(p.url)] || null; }
+
+// Total klik WA sepanjang periode log. Sengaja tidak ikut filter tanggal:
+// kolom Klik/Impresi di matriks juga kumulatif seluruh minggu — Eng% harus
+// memakai pembilang & penyebut dengan periode yang sama.
+function waClicks(p){
+  const e = waEntry(p);
+  return e ? (e.total||0) : 0;
+}
+
+// Engagement = klik WA ÷ klik organik Google × 100%.
+// Null kalau belum ada data WA sama sekali (bukan 0% — 0% berarti ditolak).
+function waEng(p, wa){
+  if (wa==null) wa = waClicks(p);
+  const e = waEntry(p);
+  if (!e) return null;
+  const clicks = p.total_clicks || 0;
+  if (!clicks) return null;
+  return wa / clicks * 100;
+}
 
 function init(){
   document.getElementById('dataStamp').textContent = META.stamp;
@@ -574,6 +614,8 @@ function renderMatrix(){
     if (sortVal==='clicks-desc') return b.total_clicks-a.total_clicks;
     if (sortVal==='ctr-desc') return b.ctr-a.ctr;
     if (sortVal==='ctr-asc') return a.ctr-b.ctr;
+    if (sortVal==='wa-desc') return waClicks(b)-waClicks(a) || b.total_impr-a.total_impr;
+    if (sortVal==='eng-desc') return (waEng(b)??-1)-(waEng(a)??-1);
     if (sortVal==='rank-asc') return (a.latest_rank||999)-(b.latest_rank||999);
     return a.name.localeCompare(b.name);
   });
@@ -591,6 +633,11 @@ function renderMatrix(){
     if (p.ctr>=5) ctrColor='text-emerald-400 font-bold';
     else if (p.ctr>=2) ctrColor='text-blue-400 font-semibold';
     else if (p.total_impr>1000 && p.ctr<1) ctrColor='text-rose-400 font-semibold';
+    const wa = waClicks(p), eng = waEng(p, wa);
+    let waCell = wa ? `<span class="text-emerald-300 font-semibold">${wa}</span>`
+             : (waEntry(p) ? '<span class="text-slate-600">0</span>' : '<span class="text-slate-600">-</span>');
+    let engCell = eng==null ? '<span class="text-slate-600">-</span>'
+              : `<span class="${eng>=10?'text-emerald-400 font-bold':eng>=5?'text-blue-400 font-semibold':'text-slate-300'}">${eng.toFixed(1)}%</span>`;
     const pr = rec(p.id).prioritas;
     const PR_TIP = 'Prioritas aksi: P5 = mendesak (impresi besar tapi CTR rendah / posisi halaman 3+), P4 = perlu perbaikan on-page, P3 = optimasi lanjutan, P1 = sehat, tidak ada tindakan mendesak.';
     const prBadge = pr>=5 ? `<span class="badge bg-rose-500/20 text-rose-300">P5<i class="th-info" data-tip="${PR_TIP}">i</i></span>`
@@ -607,6 +654,8 @@ function renderMatrix(){
       <td class="px-3 py-3 text-right font-mono text-xs">${fmt(p.total_impr)}</td>
       <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${p.total_clicks}</td>
       <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${p.ctr}%</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${waCell}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${engCell}</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${p.latest_rank>0?`<span class="text-amber-300">#${p.latest_rank}</span>`:'<span class="text-slate-500">-</span>'}</td>
       <td class="px-3 py-3 text-center">${sparkline(p)}</td>
       <td class="px-3 py-3 text-center">
@@ -631,7 +680,7 @@ function renderAksi(){
             <span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
           </div>
           <h4 class="font-bold mt-1.5">${esc(p.name)}</h4>
-          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(p.total_impr)} • Klik ${p.total_clicks} • CTR ${p.ctr}% • Rank #${p.latest_rank||'-'}</div>
+          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(p.total_impr)} • Klik ${p.total_clicks} • CTR ${p.ctr}% • WA ${waClicks(p)||'-'} • Rank #${p.latest_rank||'-'}</div>
         </div>
         <button onclick="openModal(${p.id})" class="px-3 py-1.5 text-xs rounded-lg bg-blue-600 hover:bg-blue-500">Buka Perbaikan</button>
       </div>
@@ -1217,17 +1266,19 @@ async function liveRefresh(manual){
   setLiveStatus('Memuat data terbaru…', 'text-slate-400');
   try {
     const bust = '?t=' + Date.now();
-    const [pr, rc, cp, br] = await Promise.all([
+    const [pr, rc, cp, br, wa] = await Promise.all([
       fetch('data/products.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/recommendations.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/competitors.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/brands.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
+      fetch('data/wa.json' + bust).then(r=>r.ok?r.json():{pages:{}}).catch(()=>({pages:{}})),
     ]);
     if (!Array.isArray(pr) || !pr.length) throw new Error('products.json kosong');
     PRODUCTS.length = 0; PRODUCTS.push(...pr);
     Object.keys(RECS).forEach(k=>delete RECS[k]); Object.assign(RECS, rc);
     Object.keys(COMPETITORS).forEach(k=>delete COMPETITORS[k]); Object.assign(COMPETITORS, cp);
     BRANDS.length = 0; BRANDS.push(...br);
+    Object.keys(WA).forEach(k=>delete WA[k]); Object.assign(WA, wa||{pages:{}}); waReindex();
     const all = allDates();
     if (all.length){
       ['dateFrom','dateTo'].forEach(id=>{
@@ -1321,10 +1372,12 @@ function toggleLive(){
     L.push('Stamp: ' + (META.stamp||'-'));
     if (dateFrom || dateTo) L.push('Filter tanggal aktif: ' + (dateFrom||'awal') + ' s/d ' + (dateTo||'akhir'));
     L.push('');
-    L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir');
+    L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir | klik WA | Eng%');
     PRODUCTS.forEach(p=>{
+      const wa = waClicks(p), eng = waEng(p, wa);
       L.push([p.brand, p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
-              p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank].join(' | '));
+              p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank,
+              wa, eng==null?'-':eng.toFixed(1)+'%'].join(' | '));
     });
     // Weekly tail: without it the model cannot answer "what moved this week".
     const wk = p => (p.weeks||[]).filter(w=>w.impr||w.clicks||w.rank).slice(-4);
@@ -1518,6 +1571,7 @@ def main():
     recs = load("recommendations.json", {})
     comps = load("competitors.json", {})
     brands = load("brands.json", [])
+    wa = load("wa.json", {"pages": {}})
     meta = {
         "stamp": "Data per " + datetime.datetime.now().strftime("%d %b %Y %H:%M")
                 + " • " + str(len(products)) + " program",
@@ -1528,6 +1582,7 @@ def main():
             .replace("__RECS__", json.dumps(recs, ensure_ascii=False))
             .replace("__COMPETITORS__", json.dumps(comps, ensure_ascii=False))
             .replace("__BRANDS__", json.dumps(brands, ensure_ascii=False))
+            .replace("__WA__", json.dumps(wa, ensure_ascii=False))
             .replace("__META__", json.dumps(meta, ensure_ascii=False)))
     with open(OUT, "w") as f:
         f.write(html)

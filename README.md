@@ -130,7 +130,19 @@ VPS. Kalau VPS mati, widget publik ikut mati — data dashboard tetap terbaca.
 | `data/competitors.json` | GSC queries + Ubersuggest MCP | `fetch_competitors.py` (otomatis) |
 | `data/uber_cache.json` | cache respons Ubersuggest | otomatis, hemat kuota harian |
 | `data/brands.json` | Tab Dashboard lintas brand | manual |
+| `data/wa.json` | Klik WhatsApp per LP (funnel WA) | `fetch_wa.py` (otomatis di `refresh.py`) |
 | `data/wp_config.json` | WordPress Application Password | manual, **gitignored** |
+
+## Klik WA per Landing Page (kolom WA / Eng%)
+
+Matriks punya dua kolom hasil: **WA** = jumlah klik tombol WhatsApp di halaman
+(sumber: sheet WA log per brand — GRC `1bPPlmIp...`, IPQI `1IfLSGTt...`, kolom
+`page` = URL LP) dan **Eng%** = WA ÷ Klik Google × 100% (berapa persen pengunjung
+organik yang benar-benar menghubungi). Join lewat URL dinormalisasi; kumulatif
+sepanjang periode log (sengaja tidak ikut filter tanggal, supaya seperiode dengan
+kolom Klik). '-' = halaman belum dipantau funnel.
+
+Sumber: `fetch_wa.py` → `data/wa.json` (non-fatal di `refresh.py`).
 
 ## Ubersuggest via MCP
 

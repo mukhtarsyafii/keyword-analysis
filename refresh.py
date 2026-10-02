@@ -51,6 +51,10 @@ def main():
         gsc += ["--end", args.end]
 
     run(gsc)
+    # Klik WA per LP: non-fatal, dashboard tetap jalan tanpa kolom ini.
+    r = subprocess.run([PY, os.path.join(HERE, "fetch_wa.py")], cwd=HERE)
+    if r.returncode:
+        print("WARN: fetch_wa gagal; pakai data/wa.json terakhir")
     if not args.skip_competitors:
         # Non-fatal: Ubersuggest has a daily report quota and its OAuth token
         # can expire; the dashboard still builds with the last cached intel.
