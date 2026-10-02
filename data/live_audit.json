@@ -400,12 +400,12 @@
   "h2_count": 61
  },
  "5": {
-  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
+  "url": "https://grc-indonesia.com/pelatihan-risk-modeling-for-better-performance/",
   "http_ok": true,
-  "live_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-  "live_desc": "Lindungi bisnis Anda dari sanksi hukum & denda regulasi di Indonesia. Ikuti Pelatihan & Sertifikasi Compliance System Management ISO 37301 bersama GRC Indonesia.",
-  "has_faq": false,
-  "h2_count": 74
+  "live_title": "Pelatihan Risk Modeling for Better Performance",
+  "live_desc": "Pelatihan Risk Modeling for Better Performance dari Proxsis Academy. 2 hari intensif: risk scoring, simulasi Monte Carlo, scenario analysis. Daftar sekarang!",
+  "has_faq": true,
+  "h2_count": 69
  },
  "1001": {
   "url": "https://ipqi.org/pelatihan-fmea-failure-mode-and-effects-analysis-control-plan/",
@@ -792,6 +792,14 @@
   "h2_count": 65
  },
  "11": {
+  "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
+  "http_ok": true,
+  "live_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
+  "live_desc": "Lindungi bisnis Anda dari sanksi hukum & denda regulasi di Indonesia. Ikuti Pelatihan & Sertifikasi Compliance System Management ISO 37301 bersama GRC Indonesia.",
+  "has_faq": false,
+  "h2_count": 74
+ },
+ "39": {
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "http_ok": true,
   "live_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
@@ -799,7 +807,7 @@
   "has_faq": false,
   "h2_count": 10
  },
- "39": {
+ "43": {
   "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
   "http_ok": true,
   "live_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC",
@@ -807,20 +815,12 @@
   "has_faq": true,
   "h2_count": 47
  },
- "43": {
+ "56": {
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "http_ok": true,
   "live_title": "Pelatihan ERM Fundamentals dan Sertifikasi Risk Officer BNSP (QRMO/QRMA) - GRC Indonesia",
   "live_desc": "Pelatihan ERM Fundamentals 2 hari berbasis ISO 31000 dengan sertifikasi risk officer BNSP (QRMO/QRMA). Lihat silabus, rundown, dan biayanya. Daftar kini!",
   "has_faq": true,
   "h2_count": 58
- },
- "56": {
-  "url": "https://grc-indonesia.com/pelatihan-risk-modeling-for-better-performance/",
-  "http_ok": true,
-  "live_title": "Pelatihan Risk Modeling for Better Performance",
-  "live_desc": "Pelatihan Risk Modeling for Better Performance dari Proxsis Academy. 2 hari intensif: risk scoring, simulasi Monte Carlo, scenario analysis. Daftar sekarang!",
-  "has_faq": true,
-  "h2_count": 69
  }
 }
