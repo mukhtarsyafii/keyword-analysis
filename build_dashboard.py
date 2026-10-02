@@ -320,13 +320,13 @@ HTML = r"""<!DOCTYPE html>
 <div id="tip" role="tooltip"></div>
 
 <!-- HERMES AI CHAT WIDGET -->
-<button id="aiFab" aria-label="Buka chat Hermes AI" title="Tanya Hermes AI tentang data ini"
+<button id="aiFab" aria-label="Buka chat Difa AI" title="Tanya Difa AI tentang data ini"
         class="fixed bottom-5 right-5 z-40 w-14 h-14 rounded-full bg-blue-600 hover:bg-blue-500 text-white text-2xl shadow-xl flex items-center justify-center">✦</button>
 <div id="aiPanel" class="fixed bottom-5 right-5 z-50 hidden flex-col bg-slate-800 border border-slate-600 rounded-2xl shadow-2xl"
      style="width:min(400px,calc(100vw - 24px));height:min(560px,calc(100vh - 24px))">
   <div class="flex items-center gap-2 px-4 py-3 border-b border-slate-700">
     <span id="aiDot" class="w-2.5 h-2.5 rounded-full bg-slate-500"></span>
-    <div class="font-semibold text-sm text-slate-100">Hermes AI <span class="text-slate-400 font-normal">• asisten dashboard</span></div>
+    <div class="font-semibold text-sm text-slate-100">Difa AI</div>
     <button id="aiClear" class="text-slate-400 hover:text-white text-xs px-1" title="Mulai percakapan baru">reset</button>
     <button id="aiCfg" class="text-slate-400 hover:text-white text-xs px-1" title="Atur endpoint + API key">⚙</button>
     <button id="aiClose" class="ml-auto text-slate-400 hover:text-white text-lg px-1" aria-label="Tutup chat">×</button>
@@ -1295,7 +1295,7 @@ function toggleLive(){
   addEventListener('resize', hide);
 })();
 
-// --- Hermes AI chat widget ---------------------------------------------------
+// --- Difa AI chat widget ---------------------------------------------------
 // Talks to the local Hermes API server (OpenAI-compatible, default :8642).
 // Endpoint + key live in localStorage, never in this file — the repo is public.
 (function(){
