@@ -105,6 +105,23 @@ Batasnya: halaman ini statis. "Live" = mengambil JSON terbaru yang sudah di-push
 Data baru muncul setelah pipeline jalan (cron Jumat, atau manual). Tidak ada streaming
 dari GSC/Ubersuggest langsung ke browser — API mereka butuh OAuth server-side.
 
+### Live Chat AI (tombol ✦ kanan bawah)
+
+Widget tanya-jawab soal data dashboard. Konteks (program, seri mingguan, rekomendasi,
+celah kompetitor) dikirim klien dari JSON yang sudah dimuat, model menjawab dari angka itu.
+
+- **Publik (github.io)**: POST `https://dashboard.digitalfinger.id/keyword-ai/chat`
+  → FastAPI `keyword-ai` (port 8611, `/opt/keyword-ai/app.py`) → 9router → LLM.
+  Key provider hanya ada di server, tidak pernah masuk repo. Header `X-Widget-Token`
+  (nilai sudah public di repo) cuma remah biaya, bukan rahasia.
+- **Lokal (localhost)**: langsung ke API server Hermes (`⚙` untuk endpoint + key,
+  tersimpan di localStorage browser).
+- `file://` → tombol disembunyikan (Origin null, CORS).
+
+Catatan: fungsi Netlify `netlify/functions/ai-chat.mjs` tidak pernah ter-deploy
+(site `keyword-analysis.netlify.app` 404 di path fungsi), jadi jalur proxy pindah ke
+VPS. Kalau VPS mati, widget publik ikut mati — data dashboard tetap terbaca.
+
 ## Sumber data
 
 | File | Sumber | Cara isi |
