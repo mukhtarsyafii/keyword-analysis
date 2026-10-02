@@ -160,7 +160,14 @@ Check your Browserslist config to be sure that your targets are set up correctly
           <input type="text" id="searchInput" oninput="renderMatrix()" placeholder="Cari program, keyword utama, target keyword..." class="w-full pl-3 pr-4 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs sm:text-sm placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
         <div class="flex items-center gap-2">
-          <span class="text-xs text-slate-400 whitespace-nowrap">Urutkan:</span>
+          <span class="text-xs text-slate-400 whitespace-nowrap">Periode:</span>
+          <select id="periodSelect" onchange="setMatrixPeriod(this.value)" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs focus:outline-none">
+            <option value="all">Semua (kumulatif)</option>
+            <option value="4">4 minggu terakhir</option>
+            <option value="8">8 minggu terakhir</option>
+            <option value="12">12 minggu terakhir</option>
+          </select>
+          <span class="text-xs text-slate-400 whitespace-nowrap ml-2">Urutkan:</span>
           <select id="sortSelect" onchange="renderMatrix()" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs focus:outline-none">
             <option value="prio-desc">Prioritas Aksi (Tertinggi)</option>
             <option value="impr-desc">Impresi (Tertinggi)</option>
@@ -196,12 +203,12 @@ Check your Browserslist config to be sure that your targets are set up correctly
               <th class="px-3 py-3 font-semibold w-10">#<i class="th-info" data-tip="Nomor urut program di sheet tracker brand masing-masing.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[230px]">Program Layanan<i class="th-info" data-tip="Nama landing page / program pelatihan beserta URL live-nya. Satu program = satu halaman.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[150px]">Kategori / Status<i class="th-info" data-tip="Kategori dikelompokkan otomatis dari nama program &amp; keyword utama. Status: Aktif = LP sudah live, Draft = belum tayang.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console, kumulatif seluruh minggu yang tersedia.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console. Mengikuti filter Periode di atas (default: kumulatif seluruh minggu yang tersedia).">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Jumlah kunjungan dari hasil pencarian organik Google ke halaman tersebut. Sumber: Google Search Console.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG), kumulatif seluruh periode log — seperiode dengan kolom Klik. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir yang punya data. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG). Mengikuti filter Periode yang sama dengan kolom Klik, jadi rasio Eng% selalu seperiode. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%, dalam periode yang sedang dipilih. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir dalam periode terpilih. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren<i class="th-info" data-tip="Sparkline impresi mingguan. Hijau = minggu terakhir naik dibanding sebelumnya, merah = turun. Perlu minimal 2 minggu data.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center w-24">Aksi<i class="th-info" data-tip="Buka detail Masalah, Solusi, Rekomendasi, dan Perbaikan siap-tempel (meta title, meta description, FAQ schema, outline H2).">i</i></th>
             </tr>
@@ -502,7 +509,7 @@ const RECS = {"1": {"masalah": ["Posisi rata-rata #12.9 — masih di halaman 2+ 
 const COMPETITORS = {"49": {"product_name": "Training Risk Maturity Level (Level Pengukuran Maturitas Risiko)", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "skala kematangan dari terendah hingga tertinggi", "volume": 40, "difficulty": 5, "top_competitor": "gauthmath.com", "top_position": 1, "we_rank": 2}, {"keyword": "risk maturity index adalah", "volume": 140, "difficulty": 8, "top_competitor": "crmsindonesia.org", "top_position": 4, "we_rank": 3}, {"keyword": "maturity adalah", "volume": 1900, "difficulty": 11, "top_competitor": "quora.com", "top_position": 2, "we_rank": 9}, {"keyword": "risk maturity index", "volume": 140, "difficulty": 19, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 4}, {"keyword": "risk maturity", "volume": 40, "difficulty": 19, "top_competitor": "irmapa.org", "top_position": 2, "we_rank": 11}]}, "7": {"product_name": "Pelatihan dan Sertifikasi Manajemen Risiko Berbasis ISO 31000:2018", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": []}, "12": {"product_name": "Pelatihan BCMS berbasis ISO 22301:2019", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "iso 22301 training", "volume": 10, "difficulty": 20, "top_competitor": "phitagoras.co.id", "top_position": 1, "we_rank": 10}, {"keyword": "business continuity management indonesia", "volume": null, "difficulty": 4, "top_competitor": "crmsindonesia.org", "top_position": 1, "we_rank": 44}, {"keyword": "mekanisme latihan bcms", "volume": 10, "difficulty": 13, "top_competitor": "rwi.co.id", "top_position": 1, "we_rank": 5}, {"keyword": "business continuity management awareness", "volume": 10, "difficulty": 5, "top_competitor": "-", "top_position": null, "we_rank": 19}, {"keyword": "bcm training", "volume": 10, "difficulty": 30, "top_competitor": "translate.google.com", "top_position": 1, "we_rank": 9}]}, "13": {"product_name": "ICoFR Intensive Training", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "sertifikasi icofr", "volume": 30, "difficulty": 18, "top_competitor": "aeec.unair.ac.id", "top_position": 1, "we_rank": 6}, {"keyword": "pelatihan icofr", "volume": null, "difficulty": 17, "top_competitor": "aeec.unair.ac.id", "top_position": 2, "we_rank": 6}, {"keyword": "training icofr", "volume": 20, "difficulty": 23, "top_competitor": "aeec.unair.ac.id", "top_position": 2, "we_rank": 5}, {"keyword": "site:grc-indonesia.com", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}, {"keyword": "icofr", "volume": 1600, "difficulty": 13, "top_competitor": "pwc.com", "top_position": 2, "we_rank": 3}]}, "38": {"product_name": "Pelatihan dan Sertifikasi Certified Governance Professional (CGP) Indonesia", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "cgp adalah", "volume": 170, "difficulty": 12, "top_competitor": "lspmks.co.id", "top_position": 1, "we_rank": 4}, {"keyword": "apa itu cgp", "volume": 20, "difficulty": 13, "top_competitor": "sites.google.com", "top_position": 1, "we_rank": 8}, {"keyword": "site:grc-indonesia.com/sertifikasi", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}, {"keyword": "certified governance professional (cgp)", "volume": null, "difficulty": 4, "top_competitor": "crmsindonesia.org", "top_position": 1, "we_rank": 7}, {"keyword": "cgop", "volume": 20, "difficulty": 31, "top_competitor": "lspmks.co.id", "top_position": 1, "we_rank": 5}]}, "10": {"product_name": "Sertifikasi Risk Management ISO 31000", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "risk management iso 31000", "volume": 90, "difficulty": 7, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 8}, {"keyword": "iso 31000 risk management", "volume": 590, "difficulty": 13, "top_competitor": "iso.org", "top_position": 2, "we_rank": 8}, {"keyword": "risk management iso", "volume": 140, "difficulty": 17, "top_competitor": "crmsindonesia.org", "top_position": 1, "we_rank": 9}, {"keyword": "pelatihan iso 31000", "volume": 20, "difficulty": 9, "top_competitor": "diotraining.com", "top_position": 2, "we_rank": 30}, {"keyword": "sertifikasi iso 31000", "volume": 40, "difficulty": 26, "top_competitor": "ias-indonesia.org", "top_position": 2, "we_rank": 16}]}, "2": {"product_name": "Training AI Governance", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "ai governance", "volume": 210, "difficulty": 30, "top_competitor": "ojk.go.id", "top_position": 2, "we_rank": 15}, {"keyword": "ai governance adalah", "volume": null, "difficulty": 12, "top_competitor": "sis.binus.ac.id", "top_position": 2, "we_rank": 5}, {"keyword": "training ai governance", "volume": null, "difficulty": 34, "top_competitor": "trainingeltasa.com", "top_position": 3, "we_rank": 2}, {"keyword": "ai governance indonesia", "volume": null, "difficulty": 12, "top_competitor": "ojk.go.id", "top_position": 2, "we_rank": 11}, {"keyword": "site:grc-indonesia.com", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}]}, "6": {"product_name": "Training Grafonomi, Grafologi, & Deteksi Uang Palsu", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "grafonomi", "volume": 140, "difficulty": 9, "top_competitor": "grafonomi.id", "top_position": 1, "we_rank": 7}, {"keyword": "pelatihan grafonomi", "volume": 10, "difficulty": 21, "top_competitor": "grafonomi.id", "top_position": 2, "we_rank": 4}, {"keyword": "grafonomi indonesia", "volume": 480, "difficulty": 20, "top_competitor": "instagram.com", "top_position": 1, "we_rank": 8}, {"keyword": "grafonomi adalah", "volume": 140, "difficulty": 19, "top_competitor": "grafonomi.id", "top_position": 1, "we_rank": 4}, {"keyword": "ahli grafologi", "volume": 40, "difficulty": 18, "top_competitor": "instagram.com", "top_position": 1, "we_rank": 1}]}, "1": {"product_name": "Training Fraud Management", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "fraud management", "volume": 40, "difficulty": 24, "top_competitor": "crmsindonesia.org", "top_position": 1, "we_rank": 14}, {"keyword": "site:grc-indonesia.com", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}, {"keyword": "pelatihan anti fraud", "volume": 30, "difficulty": 20, "top_competitor": "grc-management.co.id", "top_position": 1, "we_rank": 28}, {"keyword": "site:grc-indonesia.com/training-fraud-management", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}, {"keyword": "site:grc-indonesia.com -site:grc-indonesia.com/pelatihan -site:grc-indonesia.com/risk -site:grc-indonesia.com/infografik -site:grc-indonesia.com/compliance -site:grc-indonesia.com/sertifikasi -site:grc-indonesia.com/governance", "volume": null, "difficulty": 4, "top_competitor": "-", "top_position": null, "we_rank": 1}]}, "11": {"product_name": "Pelatihan Compliance System Management ISO 37301", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "iso 37301", "volume": 320, "difficulty": 12, "top_competitor": "iso.org", "top_position": 2, "we_rank": 5}, {"keyword": "compliance management system", "volume": 50, "difficulty": 25, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 9}, {"keyword": "compliance management", "volume": 40, "difficulty": 32, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 29}, {"keyword": "sertifikasi iso 37301", "volume": null, "difficulty": 12, "top_competitor": "crmsindonesia.org", "top_position": 1, "we_rank": 3}, {"keyword": "iso 37301 adalah", "volume": 110, "difficulty": 14, "top_competitor": "iso.org", "top_position": 4, "we_rank": 2}]}, "20": {"product_name": "Training Sistem Manajemen Kepatuhan", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "iso 37301", "volume": 320, "difficulty": 12, "top_competitor": "iso.org", "top_position": 2, "we_rank": 5}, {"keyword": "compliance management system", "volume": 50, "difficulty": 25, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 9}, {"keyword": "sertifikasi iso 37301", "volume": null, "difficulty": 12, "top_competitor": "crmsindonesia.org", "top_position": 1, "we_rank": 3}, {"keyword": "compliance management", "volume": 40, "difficulty": 32, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 29}, {"keyword": "iso 37301 adalah", "volume": 110, "difficulty": 14, "top_competitor": "iso.org", "top_position": 4, "we_rank": 2}]}, "16": {"product_name": "Pelatihan Qualified Risk Management Officer (QRMO)", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "qrmo gelar apa", "volume": 210, "difficulty": 15, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 2, "we_rank": 8}, {"keyword": "gelar qrmo", "volume": 70, "difficulty": 18, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 1, "we_rank": 8}, {"keyword": "qrmo sertifikasi", "volume": 40, "difficulty": 21, "top_competitor": "lspmks.co.id", "top_position": 1, "we_rank": 6}, {"keyword": "gelar qrmo adalah", "volume": 50, "difficulty": 13, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 1, "we_rank": 9}, {"keyword": "qrmo adalah", "volume": 140, "difficulty": 13, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 2, "we_rank": 9}]}, "1004": {"product_name": "Training 5R", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "training 5r", "volume": 90, "difficulty": 9, "top_competitor": "aljabarselaras.com", "top_position": 4, "we_rank": 2}, {"keyword": "training 5r adalah", "volume": 40, "difficulty": 15, "top_competitor": "belajark3.com", "top_position": 4, "we_rank": 2}, {"keyword": "site:ipqi.org", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 2}, {"keyword": "pelatihan 5r adalah", "volume": 30, "difficulty": 14, "top_competitor": "belajark3.com", "top_position": 4, "we_rank": 2}, {"keyword": "pelatihan 5r", "volume": 40, "difficulty": 19, "top_competitor": "mkacademy.id", "top_position": 1, "we_rank": 2}]}, "1003": {"product_name": "Pelatihan Budaya Kerja 5R/5S & Penerapan Red Tag System Manufaktur", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": []}, "1016": {"product_name": "Training Masa Persiapan Pensiun", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "training pensiun", "volume": 90, "difficulty": 22, "top_competitor": "mahakainstitute.com", "top_position": 3, "we_rank": 28}, {"keyword": "memasuki masa pensiun dengan kurang persiapan", "volume": null, "difficulty": 4, "top_competitor": "stekom.ac.id", "top_position": 1, "we_rank": 12}, {"keyword": "edukasi pensiun", "volume": null, "difficulty": 17, "top_competitor": "-", "top_position": null, "we_rank": 34}, {"keyword": "program persiapan pensiun", "volume": 20, "difficulty": 26, "top_competitor": "-", "top_position": null, "we_rank": 25}, {"keyword": "training pensiun karyawan", "volume": null, "difficulty": 12, "top_competitor": "-", "top_position": null, "we_rank": 15}]}, "1034": {"product_name": "Training Advanced Product Quality Planning (APQP)", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "apqp", "volume": 320, "difficulty": 10, "top_competitor": "-", "top_position": null, "we_rank": 37}, {"keyword": "apqp adalah", "volume": 210, "difficulty": 13, "top_competitor": "sentralsistem.com", "top_position": 3, "we_rank": 34}, {"keyword": "aapqp", "volume": 10, "difficulty": 31, "top_competitor": "-", "top_position": null, "we_rank": 11}, {"keyword": "advanced product quality planning", "volume": 30, "difficulty": 6, "top_competitor": "pqm.co.id", "top_position": 1, "we_rank": 10}, {"keyword": "advanced product quality planning (apqp)", "volume": null, "difficulty": 4, "top_competitor": "pqm.co.id", "top_position": 1, "we_rank": 39}]}, "1014": {"product_name": "Training Business Process", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "proses mapping adalah", "volume": 30, "difficulty": 13, "top_competitor": "-", "top_position": null, "we_rank": 6}, {"keyword": "process mapping adalah", "volume": 20, "difficulty": 13, "top_competitor": "glints.com", "top_position": 1, "we_rank": 5}, {"keyword": "business process mapping adalah", "volume": 50, "difficulty": 5, "top_competitor": "glints.com", "top_position": 4, "we_rank": 6}, {"keyword": "proses mapping", "volume": 40, "difficulty": 18, "top_competitor": "glints.com", "top_position": 1, "we_rank": 5}, {"keyword": "contoh business process mapping", "volume": 30, "difficulty": 8, "top_competitor": "msi-indonesia.com", "top_position": 1, "we_rank": 1}]}, "1005": {"product_name": "Training Leadership - Menciptakan hasil sebagai seorang ...", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "leadership training", "volume": 590, "difficulty": 14, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 2, "we_rank": 64}, {"keyword": "gambar leadership", "volume": 320, "difficulty": 26, "top_competitor": "pixabay.com", "top_position": 4, "we_rank": 1}, {"keyword": "animasi leadership", "volume": 40, "difficulty": 18, "top_competitor": "id.pngtree.com", "top_position": 1, "we_rank": 1}, {"keyword": "training leadership online", "volume": 50, "difficulty": 31, "top_competitor": "alcleadershipmanagement.com", "top_position": 1, "we_rank": 57}, {"keyword": "leadership training courses", "volume": 20, "difficulty": 23, "top_competitor": "nobleprog.id", "top_position": 1, "we_rank": 76}]}, "1008": {"product_name": "Training Lean Management", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "site:ipqi.org", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 2}, {"keyword": "lean management training", "volume": null, "difficulty": null, "top_competitor": "google.com", "top_position": 1, "we_rank": 7}, {"keyword": "training lean management", "volume": 50, "difficulty": 23, "top_competitor": "-", "top_position": null, "we_rank": 5}, {"keyword": "training lean manufacturing", "volume": 40, "difficulty": 14, "top_competitor": "instagram.com", "top_position": 2, "we_rank": 15}, {"keyword": "lean", "volume": 5400, "difficulty": 21, "top_competitor": "lean.org", "top_position": 3, "we_rank": 10}]}, "1007": {"product_name": "Training Project Management Indonesia", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": []}, "1022": {"product_name": "Training Awareness Quality Management", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "quality awareness adalah", "volume": 210, "difficulty": 10, "top_competitor": "pqm.co.id", "top_position": 3, "we_rank": 31}, {"keyword": "quality awareness training", "volume": 10, "difficulty": 17, "top_competitor": "lokal-media.com", "top_position": 1, "we_rank": 12}, {"keyword": "quality management system awareness training", "volume": 10, "difficulty": 5, "top_competitor": "academy.theknightsofsafety.com", "top_position": 1, "we_rank": 65}, {"keyword": "quality awareness", "volume": 140, "difficulty": 29, "top_competitor": "pqm.co.id", "top_position": 2, "we_rank": 56}]}, "1032": {"product_name": "Training Kalibrasi Massa Suhu dan Tekanan", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "\"pt sinar bahana mulya\" bidang usaha lokasi", "volume": null, "difficulty": 4, "top_competitor": "-", "top_position": null, "we_rank": 8}, {"keyword": "\"pt sinar bahana mulya\" bidang lokasi", "volume": null, "difficulty": 4, "top_competitor": "-", "top_position": null, "we_rank": 9}, {"keyword": "\"pt sinar bahana mulya\" bidang usaha alamat", "volume": null, "difficulty": 4, "top_competitor": "scribd.com", "top_position": 1, "we_rank": 9}, {"keyword": "+\"sinar bahana mulya\" perusahaan", "volume": null, "difficulty": 4, "top_competitor": "sanurhastamitra.com", "top_position": 1, "we_rank": 9}, {"keyword": "%\"sinar bahana mulya\" perusahaan", "volume": null, "difficulty": 4, "top_competitor": "-", "top_position": null, "we_rank": 8}]}, "1011": {"product_name": "Training ISO 9001:2015", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "training iso 9001 versi 2015", "volume": 50, "difficulty": 9, "top_competitor": "dckonsultan.com", "top_position": 2, "we_rank": 15}, {"keyword": "fdis adalah", "volume": 50, "difficulty": 18, "top_competitor": "-", "top_position": null, "we_rank": 10}, {"keyword": "pelatihan iso 9001:2015", "volume": 90, "difficulty": 25, "top_competitor": "google.com", "top_position": 1, "we_rank": 16}, {"keyword": "iso 9001 2015 training", "volume": 90, "difficulty": 17, "top_competitor": "dckonsultan.com", "top_position": 1, "we_rank": 8}, {"keyword": "iso901", "volume": 10, "difficulty": 31, "top_competitor": "iso.org", "top_position": 1, "we_rank": 7}]}, "1010": {"product_name": "Training Need Analysis", "brand": "IPQI", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "training need analysis", "volume": 1300, "difficulty": 31, "top_competitor": "talenta.co", "top_position": 2, "we_rank": 28}, {"keyword": "training needs analysis", "volume": 1300, "difficulty": 35, "top_competitor": "talenta.co", "top_position": 2, "we_rank": 29}, {"keyword": "training need assesment", "volume": 70, "difficulty": 16, "top_competitor": "repositori-ditjen-nakes.kemkes.go.id", "top_position": 1, "we_rank": 48}, {"keyword": "training needs analysis manufacturing", "volume": null, "difficulty": 4, "top_competitor": "-", "top_position": null, "we_rank": 19}, {"keyword": "training need analysis adalah", "volume": 720, "difficulty": 16, "top_competitor": "digitalskola.com", "top_position": 2, "we_rank": 1}]}, "19": {"product_name": "Sertifikasi Qualified Risk Governance Professional (QRGP)", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "qrgp", "volume": 140, "difficulty": 11, "top_competitor": "lspmks.co.id", "top_position": 2, "we_rank": 9}, {"keyword": "site:grc-indonesia.com/pelatihan", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 2}, {"keyword": "gelar qrgp", "volume": 30, "difficulty": 18, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 4, "we_rank": 8}, {"keyword": "qrgp gelar apa", "volume": 90, "difficulty": 13, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 1, "we_rank": 3}, {"keyword": "gelar qrgp adalah", "volume": 20, "difficulty": 13, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 1}]}, "18": {"product_name": "Sertifikasi Qualified Chief Risk Officer (QCRO)", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "qcro gelar apa", "volume": 110, "difficulty": 13, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 2, "we_rank": 5}, {"keyword": "qcro", "volume": 140, "difficulty": 13, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 2, "we_rank": 7}, {"keyword": "site:grc-indonesia.com/pelatihan", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 2}, {"keyword": "qcro adalah", "volume": 70, "difficulty": 18, "top_competitor": "lspmks.co.id", "top_position": 1, "we_rank": 7}, {"keyword": "qcro certification", "volume": 20, "difficulty": 19, "top_competitor": "mos.midiatama.co.id", "top_position": 1, "we_rank": 8}]}, "17": {"product_name": "Pelatihan Qualified Risk Management Analyst (QRMA)", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "qrma", "volume": 390, "difficulty": 14, "top_competitor": "lspmks.co.id", "top_position": 2, "we_rank": 10}, {"keyword": "qrma sertifikasi", "volume": 50, "difficulty": 19, "top_competitor": "-", "top_position": null, "we_rank": 2}, {"keyword": "site:grc-indonesia.com/sertifikasi", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}, {"keyword": "site:grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 1}, {"keyword": "sertifikasi qrma", "volume": 20, "difficulty": 18, "top_competitor": "lspmks.co.id", "top_position": 1, "we_rank": 3}]}, "15": {"product_name": "Legal and Compliance Management Training", "brand": "GRC Indonesia", "source": "GSC queries + Ubersuggest SERP (id/Indonesia)", "competitor_keywords": [{"keyword": "compliance management", "volume": 40, "difficulty": 32, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 48}, {"keyword": "pelatihan compliance", "volume": 20, "difficulty": 22, "top_competitor": "registrasi.ppm-manajemen.ac.id", "top_position": 2, "we_rank": 5}, {"keyword": "site:grc-indonesia.com/pelatihan", "volume": null, "difficulty": 30, "top_competitor": "-", "top_position": null, "we_rank": 2}, {"keyword": "regulatory compliance indonesia", "volume": 20, "difficulty": 13, "top_competitor": "rcs.hukumonline.com", "top_position": 1, "we_rank": 5}, {"keyword": "pelatihan legal compliance", "volume": null, "difficulty": 12, "top_competitor": "crmsindonesia.org", "top_position": 2, "we_rank": 10}]}};
 const BRANDS = [{"brand": "GRC Indonesia", "active_lp": 25, "impr": 713, "clicks": 25, "ctr": "3.51%", "focus": "Governance, Risk, Compliance, Fraud & ISO"}, {"brand": "ISO Center", "active_lp": 24, "impr": 3324, "clicks": 96, "ctr": "2.89%", "focus": "Sistem Manajemen Mutu ISO (9001, 14001, 45001)"}, {"brand": "Proxsis Academy", "active_lp": 21, "impr": 1202, "clicks": 13, "ctr": "1.08%", "focus": "Vokasi, Manajemen Bisnis & Leadership"}, {"brand": "IPQI", "active_lp": 34, "impr": 518, "clicks": 8, "ctr": "1.54%", "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi"}, {"brand": "FS Institute", "active_lp": 8, "impr": 21, "clicks": 0, "ctr": "0.00%", "focus": "Food Safety, Keuangan Perbankan & Treasury"}, {"brand": "ITGID", "active_lp": 12, "impr": 450, "clicks": 12, "ctr": "2.67%", "focus": "IT Governance, COBIT, Cybersecurity"}, {"brand": "IMII", "active_lp": 6, "impr": 180, "clicks": 4, "ctr": "2.22%", "focus": "Maintenance, Asset Reliability & Plant Integrity"}];
 const WA = {"generated": "2026-10-02T10:56:15", "pages": {"grc-indonesia.com": {"total": 28, "organic": 28, "ads": 0, "weeks": {"2026W37": 16, "2026W38": 1, "2026W39": 8, "2026W40": 3}, "first": "2026-09-07", "last": "2026-10-01"}, "grc-indonesia.com/artikel/apa-itu-pelatihan-qrma-qualified-risk-management-analysis": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W38": 1}, "first": "2026-09-18", "last": "2026-09-18"}, "grc-indonesia.com/artikel/budaya-kerja-ai-berkelanjutan": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W37": 1}, "first": "2026-09-08", "last": "2026-09-08"}, "grc-indonesia.com/artikel/icofr-adalah-pengertian-batasan-dan-case-study": {"total": 3, "organic": 3, "ads": 0, "weeks": {"2026W39": 2, "2026W40": 1}, "first": "2026-09-22", "last": "2026-09-29"}, "grc-indonesia.com/artikel/iso-370012025-pembaruan-sistem-anti-suap-yang-wajib-diketahui-setiap-organisasi": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W38": 1, "2026W39": 1}, "first": "2026-09-15", "last": "2026-09-21"}, "grc-indonesia.com/artikel/langkah-langkah-proses-manajemen-risiko": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-21", "last": "2026-09-21"}, "grc-indonesia.com/artikel/memahami-kebijakan-apu-ppt-dan-pppspm": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-25", "last": "2026-09-25"}, "grc-indonesia.com/artikel/mengenal-stress-test-pengertian-tujuan-dan-fungsinya-bagi-korporasi": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W38": 1}, "first": "2026-09-17", "last": "2026-09-17"}, "grc-indonesia.com/artikel/risk-register-komponen-dan-manfaat-dalam-manajemen-risiko-perusahaan": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W39": 1, "2026W40": 1}, "first": "2026-09-24", "last": "2026-10-01"}, "grc-indonesia.com/hubungi-kami": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W39": 1, "2026W40": 1}, "first": "2026-09-24", "last": "2026-09-30"}, "grc-indonesia.com/kegiatan-terkini/pelatihan-kri-dan-ews-bei": {"total": 4, "organic": 4, "ads": 0, "weeks": {"2026W37": 3, "2026W39": 1}, "first": "2026-09-08", "last": "2026-09-27"}, "grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W37": 1, "2026W40": 1}, "first": "2026-09-08", "last": "2026-09-29"}, "grc-indonesia.com/pelatihan-ccgo-cgop-lsp-mks-indonesia": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W40": 1}, "first": "2026-09-28", "last": "2026-09-28"}, "grc-indonesia.com/pelatihan-good-corporate-governance-gcg-terbaik": {"total": 10, "organic": 10, "ads": 0, "weeks": {"2026W37": 2, "2026W39": 3, "2026W40": 5}, "first": "2026-09-08", "last": "2026-10-01"}, "grc-indonesia.com/pelatihan-implementasi-manajemen-risiko-bumn-per2-mbu-03-2023": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W38": 1}, "first": "2026-09-15", "last": "2026-09-15"}, "grc-indonesia.com/pelatihan-integrated-anti-fraud-management-system": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W40": 1}, "first": "2026-09-29", "last": "2026-09-29"}, "grc-indonesia.com/pelatihan-internal-control-testing": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W37": 1}, "first": "2026-09-08", "last": "2026-09-08"}, "grc-indonesia.com/pelatihan-internal-control-testing-bumn": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W38": 1}, "first": "2026-09-15", "last": "2026-09-15"}, "grc-indonesia.com/pelatihan-kepatuhan-apu-dan-ppt-untuk-perusahaan": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W37": 2}, "first": "2026-09-09", "last": "2026-09-09"}, "grc-indonesia.com/pelatihan-key-risk-indicator-kri": {"total": 3, "organic": 3, "ads": 0, "weeks": {"2026W37": 1, "2026W39": 2}, "first": "2026-09-09", "last": "2026-09-23"}, "grc-indonesia.com/pelatihan-legal-and-compliance-management": {"total": 6, "organic": 6, "ads": 0, "weeks": {"2026W37": 3, "2026W38": 1, "2026W39": 1, "2026W40": 1}, "first": "2026-09-11", "last": "2026-09-29"}, "grc-indonesia.com/pelatihan-manajemen-risiko-berbasis-data": {"total": 1, "organic": 0, "ads": 1, "weeks": {"2026W40": 1}, "first": "2026-09-30", "last": "2026-09-30"}, "grc-indonesia.com/pelatihan-penyusunan-anggaran-berbasis-risiko": {"total": 4, "organic": 4, "ads": 0, "weeks": {"2026W37": 4}, "first": "2026-09-10", "last": "2026-09-10"}, "grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W40": 1}, "first": "2026-09-30", "last": "2026-09-30"}, "grc-indonesia.com/pelatihan-risiko-proyek-konstruksi": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-21", "last": "2026-09-21"}, "grc-indonesia.com/pelatihan-risk-appetite-statement-bersertifikat": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W40": 1}, "first": "2026-09-30", "last": "2026-09-30"}, "grc-indonesia.com/pelatihan-risk-based-audit": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W37": 1}, "first": "2026-09-08", "last": "2026-09-08"}, "grc-indonesia.com/pelatihan-rkap-berbasis-risiko": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W37": 1}, "first": "2026-09-10", "last": "2026-09-10"}, "grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance": {"total": 3, "organic": 2, "ads": 1, "weeks": {"2026W37": 1, "2026W38": 1, "2026W40": 1}, "first": "2026-09-07", "last": "2026-10-02"}, "grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-iso-31000-2018": {"total": 19, "organic": 7, "ads": 12, "weeks": {"2026W37": 6, "2026W38": 6, "2026W39": 1, "2026W40": 6}, "first": "2026-09-09", "last": "2026-10-01"}, "grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-perbankan": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W38": 1, "2026W40": 1}, "first": "2026-09-16", "last": "2026-09-29"}, "grc-indonesia.com/pelatihan-sertifikasi-qrmo-bnsp": {"total": 3, "organic": 2, "ads": 1, "weeks": {"2026W40": 3}, "first": "2026-09-29", "last": "2026-09-29"}, "grc-indonesia.com/pelatihan-sertifikasi-risk-maturity-level": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-25", "last": "2026-09-25"}, "grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001": {"total": 7, "organic": 4, "ads": 3, "weeks": {"2026W37": 3, "2026W38": 1, "2026W40": 3}, "first": "2026-09-07", "last": "2026-09-28"}, "grc-indonesia.com/pelatihan-terkini": {"total": 60, "organic": 47, "ads": 13, "weeks": {"2026W37": 18, "2026W38": 13, "2026W39": 15, "2026W40": 14}, "first": "2026-09-07", "last": "2026-10-02"}, "grc-indonesia.com/pelatihan/legal-and-compliance-management": {"total": 1, "organic": 0, "ads": 1, "weeks": {"2026W38": 1}, "first": "2026-09-17", "last": "2026-09-17"}, "grc-indonesia.com/pelatihan/pelatihan-manajemen-risiko": {"total": 1, "organic": 0, "ads": 1, "weeks": {"2026W39": 1}, "first": "2026-09-22", "last": "2026-09-22"}, "grc-indonesia.com/peran-manajemen-risiko-dalam-mendukung-praktik-good-corporate-governance-gcg-yang-efektif": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-23", "last": "2026-09-23"}, "grc-indonesia.com/sertifikasi": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-24", "last": "2026-09-24"}, "grc-indonesia.com/sertifikasi-certified-governance-professional-cgp": {"total": 7, "organic": 3, "ads": 4, "weeks": {"2026W38": 2, "2026W39": 2, "2026W40": 3}, "first": "2026-09-19", "last": "2026-09-30"}, "grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W39": 1}, "first": "2026-09-25", "last": "2026-09-25"}, "grc-indonesia.com/sertifikasi/qrgp-qualified-risk-governance-professional": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W38": 1}, "first": "2026-09-14", "last": "2026-09-14"}, "grc-indonesia.com/sertifikasi/qrmp-qualified-risk-management-professional": {"total": 5, "organic": 5, "ads": 0, "weeks": {"2026W37": 3, "2026W38": 1, "2026W39": 1}, "first": "2026-09-09", "last": "2026-09-25"}, "grc-indonesia.com/training-ai-governance": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W38": 1, "2026W40": 1}, "first": "2026-09-16", "last": "2026-10-01"}, "grc-indonesia.com/training-integrated-governance-risk-management-compliance-grc": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W37": 1}, "first": "2026-09-09", "last": "2026-09-09"}, "grc-indonesia.com/training-pemalsuan-dokumen": {"total": 2, "organic": 2, "ads": 0, "weeks": {"2026W37": 1, "2026W39": 1}, "first": "2026-09-09", "last": "2026-09-24"}, "ipqi.org/e-book": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W40": 1}, "first": "2026-10-01", "last": "2026-10-01"}, "ipqi.org/pelatihan-lean-six-sigma-green-belt-indonesia": {"total": 1, "organic": 0, "ads": 1, "weeks": {"2026W40": 1}, "first": "2026-10-02", "last": "2026-10-02"}, "ipqi.org/training-project-management-bersertifikat": {"total": 1, "organic": 1, "ads": 0, "weeks": {"2026W40": 1}, "first": "2026-10-01", "last": "2026-10-01"}, "ipqi.org/upcoming-training": {"total": 4, "organic": 4, "ads": 0, "weeks": {"2026W40": 4}, "first": "2026-10-01", "last": "2026-10-02"}}, "per_brand": {"GRC Indonesia": 202, "IPQI": 7}, "total_clicks": 209, "lp_matched": 28, "lp_total": 104};
-const META = {"stamp": "Data per 02 Oct 2026 11:03 • 104 program", "generated": "2026-10-02T11:03:06"};
+const META = {"stamp": "Data per 02 Oct 2026 11:27 • 104 program", "generated": "2026-10-02T11:27:23"};
 
 let currentCategory = 'all', currentStatus = 'all', currentId = null;
 let currentPeriod = 'weekly';   // daily | weekly | monthly
@@ -538,21 +545,50 @@ waReindex();
 
 function waEntry(p){ return WA_IDX[normUrl(p.url)] || null; }
 
-// Total klik WA sepanjang periode log. Sengaja tidak ikut filter tanggal:
-// kolom Klik/Impresi di matriks juga kumulatif seluruh minggu — Eng% harus
-// memakai pembilang & penyebut dengan periode yang sama.
+// ---- Filter periode matriks ----
+// periodWeeks: 'all' (kumulatif) | angka = N minggu ISO terakhir yang ada datanya.
+// PW = Set minggu aktif, atau null untuk kumulatif. Semua angka matriks/KPI/modal
+// dibacakan lewat helper m* di bawah supaya pembilang & penyebut selalu seperiode.
+let periodWeeks = 'all';
+let PW = null;
+function recomputePW(){
+  if (periodWeeks === 'all'){ PW = null; return; }
+  const seen = new Set();
+  PRODUCTS.forEach(p=>(p.weeks||[]).forEach(w=>{ if (w.impr||w.clicks||w.rank) seen.add(w.w); }));
+  PW = new Set([...seen].sort().slice(-Number(periodWeeks)));
+}
+function setMatrixPeriod(v){
+  periodWeeks = v === 'all' ? 'all' : Number(v);
+  recomputePW();
+  // renderTrends juga menggambar bar Kategori & Top Keyword — keduanya ikut
+  // periode matriks; grafik trennya sendiri tetap ikut filter tanggal header.
+  renderKPI(); renderMatrix(); renderAksi(); renderTrends(); renderBrands();
+}
+function periodLabel(){
+  return periodWeeks === 'all' ? 'kumulatif seluruh periode' : periodWeeks + ' minggu terakhir';
+}
+function mWeeks(p){ return PW ? (p.weeks||[]).filter(w=>PW.has(w.w)) : (p.weeks||[]); }
+function mImp(p){ return PW ? mWeeks(p).reduce((a,w)=>a+(w.impr||0),0) : (p.total_impr||0); }
+function mClick(p){ return PW ? mWeeks(p).reduce((a,w)=>a+(w.clicks||0),0) : (p.total_clicks||0); }
+function mCtr(p){ const i=mImp(p); return i ? +(mClick(p)/i*100).toFixed(2) : 0; }
+function mRank(p){ const ws=mWeeks(p).filter(w=>w.rank>0); return ws.length ? ws[ws.length-1].rank : 0; }
+
 function waClicks(p){
   const e = waEntry(p);
-  return e ? (e.total||0) : 0;
+  if (!e) return 0;
+  if (!PW) return e.total||0;
+  let n = 0;
+  Object.entries(e.weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  return n;
 }
 
-// Engagement = klik WA ÷ klik organik Google × 100%.
+// Engagement = klik WA ÷ klik organik Google × 100% (satu periode dgn filter).
 // Null kalau belum ada data WA sama sekali (bukan 0% — 0% berarti ditolak).
 function waEng(p, wa){
   if (wa==null) wa = waClicks(p);
   const e = waEntry(p);
   if (!e) return null;
-  const clicks = p.total_clicks || 0;
+  const clicks = mClick(p) || 0;
   if (!clicks) return null;
   return wa / clicks * 100;
 }
@@ -613,14 +649,14 @@ function renderCatPills(rows){
 
 function renderKPI(){
   const P = brows();
-  const impr = P.reduce((a,p)=>a+p.total_impr,0);
-  const clicks = P.reduce((a,p)=>a+p.total_clicks,0);
+  const impr = P.reduce((a,p)=>a+mImp(p),0);
+  const clicks = P.reduce((a,p)=>a+mClick(p),0);
   const ctr = impr ? (clicks/impr*100).toFixed(2) : 0;
   const aktif = P.filter(p=>p.status.toLowerCase()==='aktif').length;
-  const top = [...P].sort((a,b)=>b.total_clicks-a.total_clicks)[0] || {};
+  const top = [...P].sort((a,b)=>mClick(b)-mClick(a))[0] || {};
   const needAction = P.filter(p=>rec(p.id).prioritas>=4).length;
   const cards = [
-    ['Total Impresi Organik', fmt(impr), 'GSC kumulatif', 'text-slate-100',
+    ['Total Impresi Organik', fmt(impr), 'GSC • '+periodLabel(), 'text-slate-100',
      'Jumlah seluruh impresi organik dari Google Search Console, dijumlahkan untuk semua program dan semua minggu yang tersedia.'],
     ['Total Klik Organik', fmt(clicks), 'CTR rata-rata '+ctr+'%', 'text-blue-400',
      'Jumlah seluruh klik dari hasil pencarian organik Google. CTR rata-rata = total klik ÷ total impresi × 100%.'],
@@ -638,12 +674,12 @@ function renderKPI(){
     <div class="bg-slate-800 border border-emerald-500/30 rounded-xl p-4 col-span-2 lg:col-span-4">
       <div class="text-xs font-medium text-slate-400 mb-1">Top Star Performer<i class="th-info" data-tip="Program dengan klik organik terbanyak sepanjang periode data — tolok ukur yang bisa ditiru program lain.">i</i></div>
       <div class="text-base font-bold text-emerald-400">${esc(top.name||'-')}</div>
-      <div class="text-xs text-slate-300 mt-1">${fmt(top.total_clicks)} Klik • CTR ${top.ctr||0}% • Rank #${top.latest_rank||'-'}</div>
+      <div class="text-xs text-slate-300 mt-1">${fmt(mClick(top))} Klik • CTR ${mCtr(top)||0}% • Rank #${mRank(top)||'-'}</div>
     </div>`;
 }
 
 function sparkline(p){
-  const w = p.weeks.filter(x=>x.impr||x.clicks);
+  const w = mWeeks(p).filter(x=>x.impr||x.clicks);
   if (w.length < 2) return '<span class="text-slate-600 text-[10px]">—</span>';
   const W=80,H=22,pad=2;
   const maxI = Math.max(...w.map(x=>x.impr),1);
@@ -674,20 +710,20 @@ function renderMatrix(){
 
   rows.sort((a,b)=>{
     const ra=rec(a.id), rb=rec(b.id);
-    if (sortVal==='prio-desc') return rb.prioritas-ra.prioritas || b.total_impr-a.total_impr;
-    if (sortVal==='impr-desc') return b.total_impr-a.total_impr;
-    if (sortVal==='clicks-desc') return b.total_clicks-a.total_clicks;
-    if (sortVal==='ctr-desc') return b.ctr-a.ctr;
-    if (sortVal==='ctr-asc') return a.ctr-b.ctr;
-    if (sortVal==='wa-desc') return waClicks(b)-waClicks(a) || b.total_impr-a.total_impr;
+    if (sortVal==='prio-desc') return rb.prioritas-ra.prioritas || mImp(b)-mImp(a);
+    if (sortVal==='impr-desc') return mImp(b)-mImp(a);
+    if (sortVal==='clicks-desc') return mClick(b)-mClick(a);
+    if (sortVal==='ctr-desc') return mCtr(b)-mCtr(a);
+    if (sortVal==='ctr-asc') return mCtr(a)-mCtr(b);
+    if (sortVal==='wa-desc') return waClicks(b)-waClicks(a) || mImp(b)-mImp(a);
     if (sortVal==='eng-desc') return (waEng(b)??-1)-(waEng(a)??-1);
-    if (sortVal==='rank-asc') return (a.latest_rank||999)-(b.latest_rank||999);
+    if (sortVal==='rank-asc') return (mRank(a)||999)-(mRank(b)||999);
     return a.name.localeCompare(b.name);
   });
 
   if (!rows.length){ tbody.innerHTML=''; empty.classList.remove('hidden'); document.getElementById('rowCountLabel').textContent='Menampilkan 0 program'; return; }
   empty.classList.add('hidden');
-  document.getElementById('rowCountLabel').textContent = `Menampilkan ${rows.length} dari ${scoped.length} program`;
+  document.getElementById('rowCountLabel').textContent = `Menampilkan ${rows.length} dari ${scoped.length} program • ${periodLabel()}`;
 
   tbody.innerHTML = rows.map(p=>{
     const live = p.status.toLowerCase()==='aktif';
@@ -695,9 +731,10 @@ function renderMatrix(){
       ? '<span class="badge bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Aktif</span>'
       : '<span class="badge bg-amber-500/10 text-amber-400 border border-amber-500/20">Draft</span>';
     let ctrColor='text-slate-400';
-    if (p.ctr>=5) ctrColor='text-emerald-400 font-bold';
-    else if (p.ctr>=2) ctrColor='text-blue-400 font-semibold';
-    else if (p.total_impr>1000 && p.ctr<1) ctrColor='text-rose-400 font-semibold';
+    const ctr=mCtr(p), impr=mImp(p);
+    if (ctr>=5) ctrColor='text-emerald-400 font-bold';
+    else if (ctr>=2) ctrColor='text-blue-400 font-semibold';
+    else if (impr>1000 && ctr<1) ctrColor='text-rose-400 font-semibold';
     const wa = waClicks(p), eng = waEng(p, wa);
     let waCell = wa ? `<span class="text-emerald-300 font-semibold">${wa}</span>`
              : (waEntry(p) ? '<span class="text-slate-600">0</span>' : '<span class="text-slate-600">-</span>');
@@ -716,12 +753,12 @@ function renderMatrix(){
         ${p.url?`<a href="${esc(p.url)}" target="_blank" class="text-[11px] text-blue-400/80 hover:text-blue-300 truncate block max-w-xs">${esc(p.url)}</a>`:'<span class="text-[10px] text-amber-400/70 italic">Belum ada URL live</span>'}
       </td>
       <td class="px-3 py-3"><div class="text-xs text-slate-400">${esc(p.category)}</div>${currentBrand==='all'&&p.brand?`<div class="text-[10px] text-sky-400/80 font-semibold mt-0.5">${esc(p.brand)}</div>`:''}<div class="mt-1 flex gap-1">${badge}${prBadge}</div></td>
-      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(p.total_impr)}</td>
-      <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${p.total_clicks}</td>
-      <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${p.ctr}%</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(mImp(p))}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${mClick(p)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${mCtr(p)}%</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${waCell}</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${engCell}</td>
-      <td class="px-3 py-3 text-right font-mono text-xs">${p.latest_rank>0?`<span class="text-amber-300">#${p.latest_rank}</span>`:'<span class="text-slate-500">-</span>'}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${mRank(p)>0?`<span class="text-amber-300">#${mRank(p)}</span>`:'<span class="text-slate-500">-</span>'}</td>
       <td class="px-3 py-3 text-center">${sparkline(p)}</td>
       <td class="px-3 py-3 text-center">
         <button onclick="openModal(${p.id})" class="px-2.5 py-1 text-xs font-medium rounded border border-blue-500/40 text-blue-400 hover:bg-blue-500/10">Aksi</button>
@@ -731,7 +768,7 @@ function renderMatrix(){
 }
 
 function renderAksi(){
-  const rows = [...brows()].sort((a,b)=>rec(b.id).prioritas-rec(a.id).prioritas || b.total_impr-a.total_impr);
+  const rows = [...brows()].sort((a,b)=>rec(b.id).prioritas-rec(a.id).prioritas || mImp(b)-mImp(a));
   document.getElementById('aksiList').innerHTML = rows.map(p=>{
     const r = rec(p.id);
     const pr = r.prioritas;
@@ -745,7 +782,7 @@ function renderAksi(){
             <span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
           </div>
           <h4 class="font-bold mt-1.5">${esc(p.name)}</h4>
-          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(p.total_impr)} • Klik ${p.total_clicks} • CTR ${p.ctr}% • WA ${waClicks(p)||'-'} • Rank #${p.latest_rank||'-'}</div>
+          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(mImp(p))} • Klik ${mClick(p)} • CTR ${mCtr(p)}% • WA ${waClicks(p)||'-'} • Rank #${mRank(p)||'-'}</div>
         </div>
         <button onclick="openModal(${p.id})" class="px-3 py-1.5 text-xs rounded-lg bg-blue-600 hover:bg-blue-500">Buka Perbaikan</button>
       </div>
@@ -1172,9 +1209,9 @@ function renderTrends(){
   const cats = {};
   brows().forEach(p=>{
     if (!cats[p.category]) cats[p.category]={n:0,clicks:0,impr:0};
-    cats[p.category].n++; cats[p.category].clicks+=p.total_clicks; cats[p.category].impr+=p.total_impr;
+    cats[p.category].n++; cats[p.category].clicks+=mClick(p); cats[p.category].impr+=mImp(p);
   });
-  const totalClicks = brows().reduce((a,p)=>a+p.total_clicks,0)||1;
+  const totalClicks = brows().reduce((a,p)=>a+mClick(p),0)||1;
   document.getElementById('categoryBars').innerHTML = Object.entries(cats).map(([c,v])=>{
     const pct = Math.round(v.clicks/totalClicks*100);
     return `<div>
@@ -1187,13 +1224,13 @@ function renderTrends(){
       </div></div>`;
   }).join('');
 
-  const top = [...brows()].sort((a,b)=>b.total_clicks-a.total_clicks).slice(0,5);
+  const top = [...brows()].sort((a,b)=>mClick(b)-mClick(a)).slice(0,5);
   document.getElementById('topKeywords').innerHTML = top.map((p,i)=>`
     <div class="py-2.5 flex items-center justify-between">
       <div><div class="font-semibold">${i+1}. ${esc(p.kw_utama)}</div>
       <div class="text-[11px] text-slate-400">${esc(p.name)}</div></div>
-      <div class="text-right"><div class="font-bold text-emerald-400">${p.total_clicks} Klik</div>
-      <div class="text-[10px] text-slate-400">CTR ${p.ctr}% • Posisi ${p.latest_rank||'-'}</div></div>
+      <div class="text-right"><div class="font-bold text-emerald-400">${mClick(p)} Klik</div>
+      <div class="text-[10px] text-slate-400">CTR ${mCtr(p)}% • Posisi ${mRank(p)||'-'}</div></div>
     </div>`).join('');
 }
 
@@ -1205,7 +1242,7 @@ function renderBrands(){
   PRODUCTS.forEach(p=>{
     const b = p.brand || 'Lainnya';
     const e = byBrand[b] || (byBrand[b]={lp:0,aktif:0,impr:0,clicks:0,wks:new Set()});
-    e.lp++; e.impr+=p.total_impr; e.clicks+=p.total_clicks;
+    e.lp++; e.impr+=mImp(p); e.clicks+=mClick(p);
     if (p.status.toLowerCase()==='aktif') e.aktif++;
     (p.weeks||[]).forEach(w=>{ if (w.impr||w.clicks) e.wks.add(w.w); });
   });
@@ -1259,6 +1296,7 @@ function setStatusFilter(s){
 function resetFilters(){
   document.getElementById('searchInput').value='';
   document.getElementById('sortSelect').value='prio-desc';
+  document.getElementById('periodSelect').value='all'; setMatrixPeriod('all');
   setCategoryFilter('all'); setStatusFilter('all');
 }
 
@@ -1269,10 +1307,10 @@ function openModal(id){
   document.getElementById('modalTitle').textContent = p.name;
   document.getElementById('modalUrl').textContent = p.url || 'Belum ada URL live';
   document.getElementById('modalUrl').href = p.url || '#';
-  document.getElementById('mImpr').textContent = fmt(p.total_impr);
-  document.getElementById('mClicks').textContent = p.total_clicks;
-  document.getElementById('mCtr').textContent = p.ctr+'%';
-  document.getElementById('mRank').textContent = p.latest_rank>0?'#'+p.latest_rank:'-';
+  document.getElementById('mImpr').textContent = fmt(mImp(p));
+  document.getElementById('mClicks').textContent = mClick(p);
+  document.getElementById('mCtr').textContent = mCtr(p)+'%';
+  document.getElementById('mRank').textContent = mRank(p)>0?'#'+mRank(p):'-';
   document.getElementById('modalBadges').innerHTML =
     `<span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
      <span class="badge bg-blue-500/10 text-blue-400">${esc(p.category)}</span>
@@ -1436,12 +1474,13 @@ function toggleLive(){
     L.push('KONTEKS DASHBOARD SEO: ' + brandNames().join(', '));
     L.push('Stamp: ' + (META.stamp||'-'));
     if (dateFrom || dateTo) L.push('Filter tanggal aktif: ' + (dateFrom||'awal') + ' s/d ' + (dateTo||'akhir'));
+    L.push('Periode matriks aktif: ' + periodLabel() + ' — angka impresi/klik/CTR/rank/WA/Eng% di bawah mengikuti periode ini.');
     L.push('');
     L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir | klik WA | Eng%');
     PRODUCTS.forEach(p=>{
       const wa = waClicks(p), eng = waEng(p, wa);
       L.push([p.brand, p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
-              p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank,
+              mImp(p), mClick(p), mCtr(p), p.avg_rank, mRank(p),
               wa, eng==null?'-':eng.toFixed(1)+'%'].join(' | '));
     });
     // Weekly tail: without it the model cannot answer "what moved this week".

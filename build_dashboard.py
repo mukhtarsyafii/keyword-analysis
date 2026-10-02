@@ -95,7 +95,14 @@ HTML = r"""<!DOCTYPE html>
           <input type="text" id="searchInput" oninput="renderMatrix()" placeholder="Cari program, keyword utama, target keyword..." class="w-full pl-3 pr-4 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs sm:text-sm placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
         <div class="flex items-center gap-2">
-          <span class="text-xs text-slate-400 whitespace-nowrap">Urutkan:</span>
+          <span class="text-xs text-slate-400 whitespace-nowrap">Periode:</span>
+          <select id="periodSelect" onchange="setMatrixPeriod(this.value)" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs focus:outline-none">
+            <option value="all">Semua (kumulatif)</option>
+            <option value="4">4 minggu terakhir</option>
+            <option value="8">8 minggu terakhir</option>
+            <option value="12">12 minggu terakhir</option>
+          </select>
+          <span class="text-xs text-slate-400 whitespace-nowrap ml-2">Urutkan:</span>
           <select id="sortSelect" onchange="renderMatrix()" class="px-3 py-2 rounded-lg bg-slate-900 border border-slate-700 text-xs focus:outline-none">
             <option value="prio-desc">Prioritas Aksi (Tertinggi)</option>
             <option value="impr-desc">Impresi (Tertinggi)</option>
@@ -131,12 +138,12 @@ HTML = r"""<!DOCTYPE html>
               <th class="px-3 py-3 font-semibold w-10">#<i class="th-info" data-tip="Nomor urut program di sheet tracker brand masing-masing.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[230px]">Program Layanan<i class="th-info" data-tip="Nama landing page / program pelatihan beserta URL live-nya. Satu program = satu halaman.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[150px]">Kategori / Status<i class="th-info" data-tip="Kategori dikelompokkan otomatis dari nama program &amp; keyword utama. Status: Aktif = LP sudah live, Draft = belum tayang.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console, kumulatif seluruh minggu yang tersedia.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console. Mengikuti filter Periode di atas (default: kumulatif seluruh minggu yang tersedia).">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Jumlah kunjungan dari hasil pencarian organik Google ke halaman tersebut. Sumber: Google Search Console.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG), kumulatif seluruh periode log — seperiode dengan kolom Klik. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir yang punya data. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG). Mengikuti filter Periode yang sama dengan kolom Klik, jadi rasio Eng% selalu seperiode. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%, dalam periode yang sedang dipilih. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir dalam periode terpilih. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren<i class="th-info" data-tip="Sparkline impresi mingguan. Hijau = minggu terakhir naik dibanding sebelumnya, merah = turun. Perlu minimal 2 minggu data.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center w-24">Aksi<i class="th-info" data-tip="Buka detail Masalah, Solusi, Rekomendasi, dan Perbaikan siap-tempel (meta title, meta description, FAQ schema, outline H2).">i</i></th>
             </tr>
@@ -473,21 +480,50 @@ waReindex();
 
 function waEntry(p){ return WA_IDX[normUrl(p.url)] || null; }
 
-// Total klik WA sepanjang periode log. Sengaja tidak ikut filter tanggal:
-// kolom Klik/Impresi di matriks juga kumulatif seluruh minggu — Eng% harus
-// memakai pembilang & penyebut dengan periode yang sama.
+// ---- Filter periode matriks ----
+// periodWeeks: 'all' (kumulatif) | angka = N minggu ISO terakhir yang ada datanya.
+// PW = Set minggu aktif, atau null untuk kumulatif. Semua angka matriks/KPI/modal
+// dibacakan lewat helper m* di bawah supaya pembilang & penyebut selalu seperiode.
+let periodWeeks = 'all';
+let PW = null;
+function recomputePW(){
+  if (periodWeeks === 'all'){ PW = null; return; }
+  const seen = new Set();
+  PRODUCTS.forEach(p=>(p.weeks||[]).forEach(w=>{ if (w.impr||w.clicks||w.rank) seen.add(w.w); }));
+  PW = new Set([...seen].sort().slice(-Number(periodWeeks)));
+}
+function setMatrixPeriod(v){
+  periodWeeks = v === 'all' ? 'all' : Number(v);
+  recomputePW();
+  // renderTrends juga menggambar bar Kategori & Top Keyword — keduanya ikut
+  // periode matriks; grafik trennya sendiri tetap ikut filter tanggal header.
+  renderKPI(); renderMatrix(); renderAksi(); renderTrends(); renderBrands();
+}
+function periodLabel(){
+  return periodWeeks === 'all' ? 'kumulatif seluruh periode' : periodWeeks + ' minggu terakhir';
+}
+function mWeeks(p){ return PW ? (p.weeks||[]).filter(w=>PW.has(w.w)) : (p.weeks||[]); }
+function mImp(p){ return PW ? mWeeks(p).reduce((a,w)=>a+(w.impr||0),0) : (p.total_impr||0); }
+function mClick(p){ return PW ? mWeeks(p).reduce((a,w)=>a+(w.clicks||0),0) : (p.total_clicks||0); }
+function mCtr(p){ const i=mImp(p); return i ? +(mClick(p)/i*100).toFixed(2) : 0; }
+function mRank(p){ const ws=mWeeks(p).filter(w=>w.rank>0); return ws.length ? ws[ws.length-1].rank : 0; }
+
 function waClicks(p){
   const e = waEntry(p);
-  return e ? (e.total||0) : 0;
+  if (!e) return 0;
+  if (!PW) return e.total||0;
+  let n = 0;
+  Object.entries(e.weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  return n;
 }
 
-// Engagement = klik WA ÷ klik organik Google × 100%.
+// Engagement = klik WA ÷ klik organik Google × 100% (satu periode dgn filter).
 // Null kalau belum ada data WA sama sekali (bukan 0% — 0% berarti ditolak).
 function waEng(p, wa){
   if (wa==null) wa = waClicks(p);
   const e = waEntry(p);
   if (!e) return null;
-  const clicks = p.total_clicks || 0;
+  const clicks = mClick(p) || 0;
   if (!clicks) return null;
   return wa / clicks * 100;
 }
@@ -548,14 +584,14 @@ function renderCatPills(rows){
 
 function renderKPI(){
   const P = brows();
-  const impr = P.reduce((a,p)=>a+p.total_impr,0);
-  const clicks = P.reduce((a,p)=>a+p.total_clicks,0);
+  const impr = P.reduce((a,p)=>a+mImp(p),0);
+  const clicks = P.reduce((a,p)=>a+mClick(p),0);
   const ctr = impr ? (clicks/impr*100).toFixed(2) : 0;
   const aktif = P.filter(p=>p.status.toLowerCase()==='aktif').length;
-  const top = [...P].sort((a,b)=>b.total_clicks-a.total_clicks)[0] || {};
+  const top = [...P].sort((a,b)=>mClick(b)-mClick(a))[0] || {};
   const needAction = P.filter(p=>rec(p.id).prioritas>=4).length;
   const cards = [
-    ['Total Impresi Organik', fmt(impr), 'GSC kumulatif', 'text-slate-100',
+    ['Total Impresi Organik', fmt(impr), 'GSC • '+periodLabel(), 'text-slate-100',
      'Jumlah seluruh impresi organik dari Google Search Console, dijumlahkan untuk semua program dan semua minggu yang tersedia.'],
     ['Total Klik Organik', fmt(clicks), 'CTR rata-rata '+ctr+'%', 'text-blue-400',
      'Jumlah seluruh klik dari hasil pencarian organik Google. CTR rata-rata = total klik ÷ total impresi × 100%.'],
@@ -573,12 +609,12 @@ function renderKPI(){
     <div class="bg-slate-800 border border-emerald-500/30 rounded-xl p-4 col-span-2 lg:col-span-4">
       <div class="text-xs font-medium text-slate-400 mb-1">Top Star Performer<i class="th-info" data-tip="Program dengan klik organik terbanyak sepanjang periode data — tolok ukur yang bisa ditiru program lain.">i</i></div>
       <div class="text-base font-bold text-emerald-400">${esc(top.name||'-')}</div>
-      <div class="text-xs text-slate-300 mt-1">${fmt(top.total_clicks)} Klik • CTR ${top.ctr||0}% • Rank #${top.latest_rank||'-'}</div>
+      <div class="text-xs text-slate-300 mt-1">${fmt(mClick(top))} Klik • CTR ${mCtr(top)||0}% • Rank #${mRank(top)||'-'}</div>
     </div>`;
 }
 
 function sparkline(p){
-  const w = p.weeks.filter(x=>x.impr||x.clicks);
+  const w = mWeeks(p).filter(x=>x.impr||x.clicks);
   if (w.length < 2) return '<span class="text-slate-600 text-[10px]">—</span>';
   const W=80,H=22,pad=2;
   const maxI = Math.max(...w.map(x=>x.impr),1);
@@ -609,20 +645,20 @@ function renderMatrix(){
 
   rows.sort((a,b)=>{
     const ra=rec(a.id), rb=rec(b.id);
-    if (sortVal==='prio-desc') return rb.prioritas-ra.prioritas || b.total_impr-a.total_impr;
-    if (sortVal==='impr-desc') return b.total_impr-a.total_impr;
-    if (sortVal==='clicks-desc') return b.total_clicks-a.total_clicks;
-    if (sortVal==='ctr-desc') return b.ctr-a.ctr;
-    if (sortVal==='ctr-asc') return a.ctr-b.ctr;
-    if (sortVal==='wa-desc') return waClicks(b)-waClicks(a) || b.total_impr-a.total_impr;
+    if (sortVal==='prio-desc') return rb.prioritas-ra.prioritas || mImp(b)-mImp(a);
+    if (sortVal==='impr-desc') return mImp(b)-mImp(a);
+    if (sortVal==='clicks-desc') return mClick(b)-mClick(a);
+    if (sortVal==='ctr-desc') return mCtr(b)-mCtr(a);
+    if (sortVal==='ctr-asc') return mCtr(a)-mCtr(b);
+    if (sortVal==='wa-desc') return waClicks(b)-waClicks(a) || mImp(b)-mImp(a);
     if (sortVal==='eng-desc') return (waEng(b)??-1)-(waEng(a)??-1);
-    if (sortVal==='rank-asc') return (a.latest_rank||999)-(b.latest_rank||999);
+    if (sortVal==='rank-asc') return (mRank(a)||999)-(mRank(b)||999);
     return a.name.localeCompare(b.name);
   });
 
   if (!rows.length){ tbody.innerHTML=''; empty.classList.remove('hidden'); document.getElementById('rowCountLabel').textContent='Menampilkan 0 program'; return; }
   empty.classList.add('hidden');
-  document.getElementById('rowCountLabel').textContent = `Menampilkan ${rows.length} dari ${scoped.length} program`;
+  document.getElementById('rowCountLabel').textContent = `Menampilkan ${rows.length} dari ${scoped.length} program • ${periodLabel()}`;
 
   tbody.innerHTML = rows.map(p=>{
     const live = p.status.toLowerCase()==='aktif';
@@ -630,9 +666,10 @@ function renderMatrix(){
       ? '<span class="badge bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">Aktif</span>'
       : '<span class="badge bg-amber-500/10 text-amber-400 border border-amber-500/20">Draft</span>';
     let ctrColor='text-slate-400';
-    if (p.ctr>=5) ctrColor='text-emerald-400 font-bold';
-    else if (p.ctr>=2) ctrColor='text-blue-400 font-semibold';
-    else if (p.total_impr>1000 && p.ctr<1) ctrColor='text-rose-400 font-semibold';
+    const ctr=mCtr(p), impr=mImp(p);
+    if (ctr>=5) ctrColor='text-emerald-400 font-bold';
+    else if (ctr>=2) ctrColor='text-blue-400 font-semibold';
+    else if (impr>1000 && ctr<1) ctrColor='text-rose-400 font-semibold';
     const wa = waClicks(p), eng = waEng(p, wa);
     let waCell = wa ? `<span class="text-emerald-300 font-semibold">${wa}</span>`
              : (waEntry(p) ? '<span class="text-slate-600">0</span>' : '<span class="text-slate-600">-</span>');
@@ -651,12 +688,12 @@ function renderMatrix(){
         ${p.url?`<a href="${esc(p.url)}" target="_blank" class="text-[11px] text-blue-400/80 hover:text-blue-300 truncate block max-w-xs">${esc(p.url)}</a>`:'<span class="text-[10px] text-amber-400/70 italic">Belum ada URL live</span>'}
       </td>
       <td class="px-3 py-3"><div class="text-xs text-slate-400">${esc(p.category)}</div>${currentBrand==='all'&&p.brand?`<div class="text-[10px] text-sky-400/80 font-semibold mt-0.5">${esc(p.brand)}</div>`:''}<div class="mt-1 flex gap-1">${badge}${prBadge}</div></td>
-      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(p.total_impr)}</td>
-      <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${p.total_clicks}</td>
-      <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${p.ctr}%</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${fmt(mImp(p))}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${mClick(p)}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${mCtr(p)}%</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${waCell}</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${engCell}</td>
-      <td class="px-3 py-3 text-right font-mono text-xs">${p.latest_rank>0?`<span class="text-amber-300">#${p.latest_rank}</span>`:'<span class="text-slate-500">-</span>'}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${mRank(p)>0?`<span class="text-amber-300">#${mRank(p)}</span>`:'<span class="text-slate-500">-</span>'}</td>
       <td class="px-3 py-3 text-center">${sparkline(p)}</td>
       <td class="px-3 py-3 text-center">
         <button onclick="openModal(${p.id})" class="px-2.5 py-1 text-xs font-medium rounded border border-blue-500/40 text-blue-400 hover:bg-blue-500/10">Aksi</button>
@@ -666,7 +703,7 @@ function renderMatrix(){
 }
 
 function renderAksi(){
-  const rows = [...brows()].sort((a,b)=>rec(b.id).prioritas-rec(a.id).prioritas || b.total_impr-a.total_impr);
+  const rows = [...brows()].sort((a,b)=>rec(b.id).prioritas-rec(a.id).prioritas || mImp(b)-mImp(a));
   document.getElementById('aksiList').innerHTML = rows.map(p=>{
     const r = rec(p.id);
     const pr = r.prioritas;
@@ -680,7 +717,7 @@ function renderAksi(){
             <span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
           </div>
           <h4 class="font-bold mt-1.5">${esc(p.name)}</h4>
-          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(p.total_impr)} • Klik ${p.total_clicks} • CTR ${p.ctr}% • WA ${waClicks(p)||'-'} • Rank #${p.latest_rank||'-'}</div>
+          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(mImp(p))} • Klik ${mClick(p)} • CTR ${mCtr(p)}% • WA ${waClicks(p)||'-'} • Rank #${mRank(p)||'-'}</div>
         </div>
         <button onclick="openModal(${p.id})" class="px-3 py-1.5 text-xs rounded-lg bg-blue-600 hover:bg-blue-500">Buka Perbaikan</button>
       </div>
@@ -1107,9 +1144,9 @@ function renderTrends(){
   const cats = {};
   brows().forEach(p=>{
     if (!cats[p.category]) cats[p.category]={n:0,clicks:0,impr:0};
-    cats[p.category].n++; cats[p.category].clicks+=p.total_clicks; cats[p.category].impr+=p.total_impr;
+    cats[p.category].n++; cats[p.category].clicks+=mClick(p); cats[p.category].impr+=mImp(p);
   });
-  const totalClicks = brows().reduce((a,p)=>a+p.total_clicks,0)||1;
+  const totalClicks = brows().reduce((a,p)=>a+mClick(p),0)||1;
   document.getElementById('categoryBars').innerHTML = Object.entries(cats).map(([c,v])=>{
     const pct = Math.round(v.clicks/totalClicks*100);
     return `<div>
@@ -1122,13 +1159,13 @@ function renderTrends(){
       </div></div>`;
   }).join('');
 
-  const top = [...brows()].sort((a,b)=>b.total_clicks-a.total_clicks).slice(0,5);
+  const top = [...brows()].sort((a,b)=>mClick(b)-mClick(a)).slice(0,5);
   document.getElementById('topKeywords').innerHTML = top.map((p,i)=>`
     <div class="py-2.5 flex items-center justify-between">
       <div><div class="font-semibold">${i+1}. ${esc(p.kw_utama)}</div>
       <div class="text-[11px] text-slate-400">${esc(p.name)}</div></div>
-      <div class="text-right"><div class="font-bold text-emerald-400">${p.total_clicks} Klik</div>
-      <div class="text-[10px] text-slate-400">CTR ${p.ctr}% • Posisi ${p.latest_rank||'-'}</div></div>
+      <div class="text-right"><div class="font-bold text-emerald-400">${mClick(p)} Klik</div>
+      <div class="text-[10px] text-slate-400">CTR ${mCtr(p)}% • Posisi ${mRank(p)||'-'}</div></div>
     </div>`).join('');
 }
 
@@ -1140,7 +1177,7 @@ function renderBrands(){
   PRODUCTS.forEach(p=>{
     const b = p.brand || 'Lainnya';
     const e = byBrand[b] || (byBrand[b]={lp:0,aktif:0,impr:0,clicks:0,wks:new Set()});
-    e.lp++; e.impr+=p.total_impr; e.clicks+=p.total_clicks;
+    e.lp++; e.impr+=mImp(p); e.clicks+=mClick(p);
     if (p.status.toLowerCase()==='aktif') e.aktif++;
     (p.weeks||[]).forEach(w=>{ if (w.impr||w.clicks) e.wks.add(w.w); });
   });
@@ -1194,6 +1231,7 @@ function setStatusFilter(s){
 function resetFilters(){
   document.getElementById('searchInput').value='';
   document.getElementById('sortSelect').value='prio-desc';
+  document.getElementById('periodSelect').value='all'; setMatrixPeriod('all');
   setCategoryFilter('all'); setStatusFilter('all');
 }
 
@@ -1204,10 +1242,10 @@ function openModal(id){
   document.getElementById('modalTitle').textContent = p.name;
   document.getElementById('modalUrl').textContent = p.url || 'Belum ada URL live';
   document.getElementById('modalUrl').href = p.url || '#';
-  document.getElementById('mImpr').textContent = fmt(p.total_impr);
-  document.getElementById('mClicks').textContent = p.total_clicks;
-  document.getElementById('mCtr').textContent = p.ctr+'%';
-  document.getElementById('mRank').textContent = p.latest_rank>0?'#'+p.latest_rank:'-';
+  document.getElementById('mImpr').textContent = fmt(mImp(p));
+  document.getElementById('mClicks').textContent = mClick(p);
+  document.getElementById('mCtr').textContent = mCtr(p)+'%';
+  document.getElementById('mRank').textContent = mRank(p)>0?'#'+mRank(p):'-';
   document.getElementById('modalBadges').innerHTML =
     `<span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
      <span class="badge bg-blue-500/10 text-blue-400">${esc(p.category)}</span>
@@ -1371,12 +1409,13 @@ function toggleLive(){
     L.push('KONTEKS DASHBOARD SEO: ' + brandNames().join(', '));
     L.push('Stamp: ' + (META.stamp||'-'));
     if (dateFrom || dateTo) L.push('Filter tanggal aktif: ' + (dateFrom||'awal') + ' s/d ' + (dateTo||'akhir'));
+    L.push('Periode matriks aktif: ' + periodLabel() + ' — angka impresi/klik/CTR/rank/WA/Eng% di bawah mengikuti periode ini.');
     L.push('');
     L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir | klik WA | Eng%');
     PRODUCTS.forEach(p=>{
       const wa = waClicks(p), eng = waEng(p, wa);
       L.push([p.brand, p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
-              p.total_impr, p.total_clicks, p.ctr, p.avg_rank, p.latest_rank,
+              mImp(p), mClick(p), mCtr(p), p.avg_rank, mRank(p),
               wa, eng==null?'-':eng.toFixed(1)+'%'].join(' | '));
     });
     // Weekly tail: without it the model cannot answer "what moved this week".
