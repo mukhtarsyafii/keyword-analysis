@@ -69,6 +69,10 @@ def main():
 
     pages = defaultdict(lambda: {"total": 0, "organic": 0, "ads": 0, "weeks": {},
                                  "dates": [], "from": {}})
+    # credited = atribusi default ke halaman ASAL (referrer). Klik WA yang
+    # terjadi di hub (referrer = LP lain) dicreditkan ke LP pengirim + dicatat
+    # hub mana CTA-nya. Klik tanpa referrer / eksternal tetap milik tujuan.
+    credited = defaultdict(lambda: {"total": 0, "weeks": {}, "via": {}})
     bad_ts = 0
     total_rows = 0
     per_brand = {}
@@ -94,6 +98,19 @@ def main():
             # masuk bucket '(eksternal)', kosong = '(langsung)'.
             ref_raw = (row.get("referrer") or "").strip()
             ref = norm_url(ref_raw)
+            # referrer non-publik (wp-admin/preview) = artefak, bukan asal trafik
+            if any(s in ref for s in ("/wp-admin", "wp-login", "/preview")):
+                ref_raw = ""
+            # --- credit ke halaman asal ---
+            if ref_raw and ref != key and host_of(ref) == host_of(key):
+                tgt = ref
+                credited[tgt]["via"][key] = credited[tgt]["via"].get(key, 0) + 1
+            else:
+                tgt = key   # langsung / eksternal / self-referrer = milik tujuan
+            credited[tgt]["total"] += 1
+            if ts:
+                wk_c = f"{ts.isocalendar()[0]}W{ts.isocalendar()[1]:02d}"
+                credited[tgt]["weeks"][wk_c] = credited[tgt]["weeks"].get(wk_c, 0) + 1
             if not ref_raw:
                 e["from"]["(langsung)"] = e["from"].get("(langsung)", 0) + 1
             elif ref == key:
@@ -115,13 +132,27 @@ def main():
         per_brand[brand] = n
         total_rows += n
 
+    def entry(k):
+        v = pages.get(k)
+        cr = credited.get(k, {"total": 0, "weeks": {}, "via": {}})
+        return {
+            "total": v["total"] if v else 0,
+            "organic": v["organic"] if v else 0,
+            "ads": v["ads"] if v else 0,
+            "weeks": v["weeks"] if v else {},
+            "from": v["from"] if v else {},
+            # atribusi default: klik WA diatribusi ke halaman ASAL (referrer);
+            # "via" = halaman mana CTA-nya berada.
+            "credited": cr["total"] if cr["total"] else (v["total"] if v else 0),
+            "credit_weeks": cr["weeks"] if cr["weeks"] else (v["weeks"] if v else {}),
+            "via": cr["via"],
+            "first": (min(v["dates"]) if v["dates"] else None) if v else None,
+            "last": (max(v["dates"]) if v["dates"] else None) if v else None,
+        }
+
     out = {
         "generated": datetime.datetime.now().isoformat(timespec="seconds"),
-        "pages": {k: {"total": v["total"], "organic": v["organic"], "ads": v["ads"],
-                      "weeks": v["weeks"], "from": v["from"],
-                      "first": min(v["dates"]) if v["dates"] else None,
-                      "last": max(v["dates"]) if v["dates"] else None}
-                  for k, v in sorted(pages.items())},
+        "pages": {k: entry(k) for k in sorted(set(pages) | set(credited))},
         "per_brand": per_brand,
         "total_clicks": total_rows,
     }

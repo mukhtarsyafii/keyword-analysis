@@ -143,9 +143,9 @@ HTML = r"""<!DOCTYPE html>
               <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console. Mengikuti filter Periode di atas (default: kumulatif seluruh minggu yang tersedia).">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Jumlah kunjungan dari hasil pencarian organik Google ke halaman tersebut. Sumber: Google Search Console.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG). Mengikuti filter Periode yang sama dengan kolom Klik, jadi rasio Eng% selalu seperiode. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp yang BERAWAL dari halaman ini (atribusi asal via referrer) — termasuk klik yang terjadi di halaman hub seperti /pelatihan-terkini setelah pengunjung datang dari LP ini. Hover angka = CTA-nya di halaman mana. Mengikuti filter Periode yang sama dengan kolom Klik, jadi rasio Eng% selalu seperiode. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%, dalam periode yang sedang dipilih. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
-              <th class="px-3 py-3 font-semibold text-right">Leads<i class="th-info" data-tip="Lead yang tercatat dari klik WA halaman ini: kode WA funnel → Need Tracking (Kode Unik) → crm.lead Odoo. Mengikuti filter Periode. '-' = halaman belum dipantau funnel. 0 = dipantau, belum ada lead tercatat.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Leads<i class="th-info" data-tip="Lead dari klik WA yang berawal dari halaman ini (atribusi asal via referrer; klik di hub dihitung ke LP pengirim). Rantai: kode WA funnel → Need Tracking (Kode Unik) → crm.lead Odoo. Hover angka = CTA-nya di halaman mana. Mengikuti filter Periode. '-' = halaman belum dipantau funnel. 0 = dipantau, belum ada lead tercatat.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">SO<i class="th-info" data-tip="Sales Order dari lead halaman ini (crm.lead Odoo → sale.order state sale/done). Sel menampilkan jumlah SO; tooltip/nilai Rp = total nilai bruto. Kohort lead: SO dicatat ke lead asal meski tanggal order di luar periode.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir dalam periode terpilih. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren<i class="th-info" data-tip="Sparkline impresi mingguan. Hijau = minggu terakhir naik dibanding sebelumnya, merah = turun. Perlu minimal 2 minggu data.">i</i></th>
@@ -534,21 +534,29 @@ function mClick(p){ return PW ? mWeeks(p).reduce((a,w)=>a+(w.clicks||0),0) : (p.
 function mCtr(p){ const i=mImp(p); return i ? +(mClick(p)/i*100).toFixed(2) : 0; }
 function mRank(p){ const ws=mWeeks(p).filter(w=>w.rank>0); return ws.length ? ws[ws.length-1].rank : 0; }
 
+// Default = ATRIBUSI ASAL (referrer): klik WA yang terjadi di halaman lain
+// tapi berawal dari LP ini (mis. lewat hub /pelatihan-terkini) ikut dicredit
+// ke LP ini. "via" di entry = halaman mana CTA-nya berada. Data lama tanpa
+// credited jatuh balik ke total tujuan.
 function waClicks(p){
   const e = waEntry(p);
   if (!e) return 0;
-  if (!PW) return e.total||0;
+  const useCred = e.credited !== undefined;
+  if (!PW) return useCred ? e.credited : (e.total||0);
+  const w = useCred ? (e.credit_weeks||{}) : (e.weeks||{});
   let n = 0;
-  Object.entries(e.weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  Object.entries(w).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
   return n;
 }
 
 function leadClicks(p){
   const e = leadEntry(p);
   if (!e) return 0;
-  if (!PW) return e.leads||0;
+  const useCred = e.credited !== undefined;
+  if (!PW) return useCred ? e.credited : (e.leads||0);
+  const w = useCred ? (e.credit_weeks||{}) : (e.weeks||{});
   let n = 0;
-  Object.entries(e.weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  Object.entries(w).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
   return n;
 }
 function soCount(p){
@@ -633,9 +641,26 @@ function renderCatPills(rows){
     }).join('');
 }
 
+// Lead yang di-credit ke halaman NON-tracker (hub) — tidak terlihat di matriks.
+function hubLeadLeft(){
+  const tracked = new Set(PRODUCTS.map(p=>normUrl(p.url)));
+  let n = 0;
+  Object.entries((LEADS&&LEADS.pages)||{}).forEach(([k,v])=>{
+    if (tracked.has(k)) return;
+    n += (PW ? Object.entries(v.credit_weeks||{}).reduce((a,[wk,c])=>a+(PW.has(wk)?c:0),0)
+             : (v.credited!==undefined?v.credited:v.leads||0));
+  });
+  return n;
+}
+
+// Tracker bisa memuat 2 baris utk LP yang sama (rename tanpa hapus baris
+// lama; id & URL identik) — agregat dihitung per URL unik.
+function uniqP(arr){
+  const s = new Set();
+  return arr.filter(p=>{ const k = normUrl(p.url); if (s.has(k)) return false; s.add(k); return true; });
+}
 function renderKPI(){
   const P = brows();
-  const soP = P;
   const impr = P.reduce((a,p)=>a+mImp(p),0);
   const clicks = P.reduce((a,p)=>a+mClick(p),0);
   const ctr = impr ? (clicks/impr*100).toFixed(2) : 0;
@@ -651,9 +676,10 @@ function renderKPI(){
      'Aktif = landing page sudah live dan terindeks Google. Draft = sudah dibuat tapi belum tayang. Target tim: minimal 2 LP baru per minggu.'],
     ['Perlu Tindakan', needAction+' Program', 'Prioritas aksi tinggi', 'text-amber-400',
      'Program dengan prioritas aksi 4 atau 5 — masalahnya paling mendesak (mis. impresi tinggi tapi CTR rendah, atau posisi masih di halaman 2+).'],
-    ['Total Leads (WA→CRM)', fmt(P.reduce((a,p)=>a+leadClicks(p),0)), 'Need Tracking ter-atribusi LP', 'text-violet-300',
-     'Lead yang tercatat dari klik WhatsApp di halaman-halaman ini: kode funnel WA dicatat CS di Need Tracking (Kode Unik), lalu di-match ke crm.lead Odoo. Mengikuti filter Periode. Angka ini hanya menghitung halaman yang dipantau funnel — bukan total lead brand.'],
-    ['Sales Order (Kohort Lead)', soP.reduce((a,p)=>a+soCount(p),0)+' SO', 'Rp '+fmt(Math.round(soP.reduce((a,p)=>a+soValue(p),0))), 'text-emerald-400',
+    ['Total Leads (WA→CRM)', fmt(uniqP(P).reduce((a,p)=>a+leadClicks(p),0)),
+     'Need Tracking • +'+fmt(hubLeadLeft())+' masih di halaman hub', 'text-violet-300',
+     'Lead dari klik WhatsApp yang berawal dari halaman-halaman ini (atribusi asal): kode funnel dicatat CS di Need Tracking (Kode Unik), lalu di-match ke crm.lead Odoo. Mengikuti filter Periode. Hitung per URL unik — baris duplikat di tracker tidak digandakan.'],
+    ['Sales Order (Kohort Lead)', uniqP(P).reduce((a,p)=>a+soCount(p),0)+' SO', 'Rp '+fmt(Math.round(uniqP(P).reduce((a,p)=>a+soValue(p),0))), 'text-emerald-400',
      'SO state sale/done dari crm.lead yang ter-atribusi ke landing page ini. Kohort lead: nilai SO mengikuti lead asal meski tanggal order di luar periode terpilih. Nilai = bruto (amount_total), bukan revenue diakui.'],
   ];
   document.getElementById('kpiRow').innerHTML = cards.map(([t,v,s,c,tip])=>`
@@ -729,14 +755,23 @@ function renderMatrix(){
     else if (ctr>=2) ctrColor='text-blue-400 font-semibold';
     else if (impr>1000 && ctr<1) ctrColor='text-rose-400 font-semibold';
     const wa = waClicks(p), eng = waEng(p, wa);
-    let waCell = wa ? `<span class="text-emerald-300 font-semibold">${wa}</span>`
+    // keterangan "CTA-nya di halaman mana" utk klik yang diatribusikan ke LP ini
+    const _we = waEntry(p);
+    const _via = _we ? Object.entries(_we.via||{}).sort((a,b)=>b[1]-a[1]) : [];
+    const _viaTip = _via.length
+      ? _via.map(([u,c])=>`${c} klik via /${u.replace(/^[^/]+\//,'')}`).join('\n')
+      : '';
+    let waCell = wa ? `<span class="text-emerald-300 font-semibold" ${_viaTip?`title="${esc(_viaTip)}"`:''}>${wa}</span>`
              : (waEntry(p) ? '<span class="text-slate-600">0</span>' : '<span class="text-slate-600">-</span>');
     let engCell = eng==null ? '<span class="text-slate-600">-</span>'
               : `<span class="${eng>=10?'text-emerald-400 font-bold':eng>=5?'text-blue-400 font-semibold':'text-slate-300'}">${eng.toFixed(1)}%</span>`;
     const L = leadClicks(p), S = soCount(p), V = soValue(p);
     const hasLead = !!leadEntry(p);
+    const _leE = leadEntry(p);
+    const _lv = _leE ? Object.entries(_leE.via||{}).sort((a,b)=>b[1]-a[1]) : [];
+    const _lvTip = _lv.length ? _lv.map(([u,c])=>`${c} lead via /${u.replace(/^[^/]+\//,'')}`).join('\n') : '';
     let leadCell = !hasLead ? '<span class="text-slate-600">-</span>'
-                   : L ? `<span class="text-violet-300 font-semibold">${L}</span>`
+                   : L ? `<span class="text-violet-300 font-semibold" ${_lvTip?`title="${esc(_lvTip)}"`:''}>${L}</span>`
                        : '<span class="text-slate-600">0</span>';
     let soCell = !hasLead ? '<span class="text-slate-600">-</span>'
                  : S ? `<span class="text-emerald-400 font-bold" title="Rp ${V.toLocaleString('id-ID')}">${S}<span class="text-[10px] text-emerald-500/80"> · ${V>=1e6?(V/1e6).toFixed(1)+'jt':V.toLocaleString('id-ID')}</span></span>`
@@ -1360,13 +1395,24 @@ function openModal(id){
     const we = waEntry(p);
     const from = (we && we.from) || {};
     const lfrom = (_le && _le.from) || {};
+    const via = (we && we.via) || {};
+    const lvias = (_le && _le.via) || {};
     const keys = [...new Set([...Object.keys(from), ...Object.keys(lfrom)])]
       .sort((a,b)=>(from[b]||0)-(from[a]||0));
     const box = document.getElementById('mAsal'), body = document.getElementById('mAsalBody');
-    if (!keys.length){ box.classList.add('hidden'); return; }
+    if (!keys.length && !Object.keys(via).length && !Object.keys(lvias).length){
+      box.classList.add('hidden'); return;
+    }
     box.classList.remove('hidden');
+    // baris atas: dari mana kredit LP ini datang (CTA-nya ada di halaman mana)
+    const viaW = Object.entries(via).sort((a,b)=>b[1]-a[1]);
+    const viaL = Object.entries(lvias).sort((a,b)=>b[1]-a[1]);
+    const viaLine = (viaW.length||viaL.length)
+      ? `<div class="text-xs text-sky-300 mb-1">Kredit LP ini${viaW.length?' • <b>'+we.credited+' klik WA</b> ('+viaW.map(([u,c])=>c+'× /'+u.replace(/^[^/]+\//,'')).join(', ')+')':''}${viaL.length?' • <b>'+_le.credited+' lead</b> ('+viaL.map(([u,c])=>c+'× /'+u.replace(/^[^/]+\//,'')).join(', ')+')':''}</div>
+         <div class="text-[10px] text-slate-500 mb-2">= klik/lead yang berawal dari LP ini; angka dalam kurung = halaman tempat CTA WhatsApp-nya diklik.</div>`
+      : '';
     const tot = keys.reduce((a,k)=>a+(from[k]||0),0)||1;
-    body.innerHTML = keys.map(k=>{
+    body.innerHTML = viaLine + (keys.length ? `<div class="text-[10px] font-semibold text-slate-400 mb-1 pt-1 border-t border-slate-700">PENGUNJUNG DATANG DARI</div>` : '') + keys.map(k=>{
       const f = from[k]||0, l = lfrom[k]||0;
       const label = k.startsWith('(') ? k : k.replace(/^[^/]+\//,'/').slice(0,58);
       return `<div class="flex items-center gap-2">

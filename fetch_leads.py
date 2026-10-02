@@ -222,7 +222,8 @@ def main():
 
     pages = defaultdict(lambda: {"leads": 0, "qualified": 0, "so": 0,
                                  "so_value": 0.0, "weeks": {}, "so_weeks": {},
-                                 "so_cnt_weeks": {}, "from": {}})
+                                 "so_cnt_weeks": {}, "from": {},
+                                 "credited": 0, "credit_weeks": {}, "via": {}})
     seen = set()
     for n in hits:
         e = pages[codes[n["kode"]]["page"]]
@@ -234,17 +235,29 @@ def main():
         # halaman hub (pelatihan-terkini) — CTA LP lain mengarah ke sana, jadi
         # lead 'milik' hub sebenarnya berawal dari LP spesifik.
         ref_raw = codes[n["kode"]].get("referrer") or ""
+        if any(s in ref_raw for s in ("/wp-admin", "wp-login", "/preview")):
+            ref_raw = ""
         ref = norm_url(ref_raw)
         pg = codes[n["kode"]]["page"]
+        host = pg.split("/")[0]
         if not ref_raw:
             src = "(langsung)"
         elif ref == pg:
             src = "(halaman itu sendiri)"
-        elif ref.split("/")[0] == pg.split("/")[0]:
+        elif ref.split("/")[0] == host:
             src = ref
         else:
             src = "(eksternal) " + (ref.split("/")[0] or "?")
         e["from"][src] = e["from"].get(src, 0) + 1
+        # --- credit default ke halaman ASAL; "via" = tempat CTA berada ---
+        if ref_raw and ref != pg and ref.split("/")[0] == host:
+            tgt, via = pages[ref], pg
+        else:
+            tgt, via = e, pg
+        tgt["credited"] += 1
+        tgt["via"][via] = tgt["via"].get(via, 0) + 1
+        if wk0 := iso_week(n["date"]) if n["date"] else None:
+            tgt["credit_weeks"][wk0] = tgt["credit_weeks"].get(wk0, 0) + 1
         if n["status"].lower() not in NOT_QUALIFIED:
             e["qualified"] += 1
         wk = iso_week(n["date"]) if n["date"] else None
