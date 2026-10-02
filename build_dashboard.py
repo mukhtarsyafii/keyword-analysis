@@ -111,6 +111,8 @@ HTML = r"""<!DOCTYPE html>
             <option value="ctr-asc">CTR (Terendah)</option>
             <option value="wa-desc">Klik WA (Tertinggi)</option>
             <option value="eng-desc">Engagement % (Tertinggi)</option>
+            <option value="leads-desc">Leads (Tertinggi)</option>
+            <option value="so-desc">SO / Revenue (Tertinggi)</option>
             <option value="rank-asc">Rank Terbaik</option>
             <option value="name-asc">Nama (A-Z)</option>
           </select>
@@ -143,6 +145,8 @@ HTML = r"""<!DOCTYPE html>
               <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">WA<i class="th-info" data-tip="Klik tombol WhatsApp di halaman ini, dari log funnel WA (sheet WA_LOG). Mengikuti filter Periode yang sama dengan kolom Klik, jadi rasio Eng% selalu seperiode. '-' = halaman belum dipantau funnel. Menunjukkan halaman mana yang benar-benar menghasilkan percakapan, bukan cuma kunjungan.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Eng%<i class="th-info" data-tip="Engagement = Klik WA ÷ Klik Google × 100%, dalam periode yang sedang dipilih. Dari yang datang dari pencarian, berapa persen yang benar-benar menghubungi kita. Hijau ≥10%, biru ≥5%. '-' = belum ada data funnel.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">Leads<i class="th-info" data-tip="Lead yang tercatat dari klik WA halaman ini: kode WA funnel → Need Tracking (Kode Unik) → crm.lead Odoo. Mengikuti filter Periode. '-' = halaman belum dipantau funnel. 0 = dipantau, belum ada lead tercatat.">i</i></th>
+              <th class="px-3 py-3 font-semibold text-right">SO<i class="th-info" data-tip="Sales Order dari lead halaman ini (crm.lead Odoo → sale.order state sale/done). Sel menampilkan jumlah SO; tooltip/nilai Rp = total nilai bruto. Kohort lead: SO dicatat ke lead asal meski tanggal order di luar periode.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Rank<i class="th-info" data-tip="Posisi rata-rata halaman di Google pada minggu terakhir dalam periode terpilih. Angka kecil = makin dekat posisi #1. #11–#20 berarti halaman 2.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center min-w-[90px]">Tren<i class="th-info" data-tip="Sparkline impresi mingguan. Hijau = minggu terakhir naik dibanding sebelumnya, merah = turun. Perlu minimal 2 minggu data.">i</i></th>
               <th class="px-3 py-3 font-semibold text-center w-24">Aksi<i class="th-info" data-tip="Buka detail Masalah, Solusi, Rekomendasi, dan Perbaikan siap-tempel (meta title, meta description, FAQ schema, outline H2).">i</i></th>
@@ -361,11 +365,13 @@ HTML = r"""<!DOCTYPE html>
       <button onclick="closeModal()" class="p-1.5 rounded-lg border border-slate-700 text-slate-400 hover:text-white hover:bg-slate-700">✕</button>
     </div>
 
-    <div class="grid grid-cols-4 gap-3 bg-slate-900/60 rounded-xl p-3 border border-slate-700">
+    <div class="grid grid-cols-3 gap-3 bg-slate-900/60 rounded-xl p-3 border border-slate-700">
       <div class="text-center"><div class="text-[10px] text-slate-400">Impresi<i class="th-info" data-tip="Total impresi halaman ini di Google Search Console sepanjang periode data.">i</i></div><div class="text-lg font-bold" id="mImpr">-</div></div>
       <div class="text-center"><div class="text-[10px] text-slate-400">Klik<i class="th-info" data-tip="Total klik organik Google ke halaman ini.">i</i></div><div class="text-lg font-bold text-blue-400" id="mClicks">-</div></div>
       <div class="text-center"><div class="text-[10px] text-slate-400">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%.">i</i></div><div class="text-lg font-bold text-emerald-400" id="mCtr">-</div></div>
       <div class="text-center"><div class="text-[10px] text-slate-400">Rank<i class="th-info" data-tip="Posisi rata-rata di Google pada minggu terakhir yang punya data.">i</i></div><div class="text-lg font-bold text-amber-400" id="mRank">-</div></div>
+      <div class="text-center"><div class="text-[10px] text-slate-400">Leads<i class="th-info" data-tip="Lead tercatat dari klik WA halaman ini (kode funnel → Need Tracking → Odoo), periode aktif.">i</i></div><div class="text-lg font-bold text-violet-300" id="mLeads">-</div></div>
+      <div class="text-center"><div class="text-[10px] text-slate-400">SO<i class="th-info" data-tip="Jumlah sales order (sale/done) dari lead ter-atribusi halaman ini, periode aktif.">i</i></div><div class="text-lg font-bold text-emerald-400" id="mSo">-</div></div>
     </div>
 
     <div class="space-y-3">
@@ -444,6 +450,7 @@ const RECS = __RECS__;
 const COMPETITORS = __COMPETITORS__;
 const BRANDS = __BRANDS__;
 const WA = __WA__;
+const LEADS = __LEADS__;
 const META = __META__;
 
 let currentCategory = 'all', currentStatus = 'all', currentId = null;
@@ -478,7 +485,15 @@ function waReindex(){
 }
 waReindex();
 
+const LEAD_IDX = {};
+function leadReindex(){
+  Object.keys(LEAD_IDX).forEach(k=>delete LEAD_IDX[k]);
+  Object.entries((LEADS&&LEADS.pages)||{}).forEach(([k,v])=>{ LEAD_IDX[k]=v; });
+}
+leadReindex();
+
 function waEntry(p){ return WA_IDX[normUrl(p.url)] || null; }
+function leadEntry(p){ return LEAD_IDX[normUrl(p.url)] || null; }
 
 // ---- Filter periode matriks ----
 // periodWeeks: 'all' (kumulatif) | angka = N minggu ISO terakhir yang ada datanya.
@@ -514,6 +529,31 @@ function waClicks(p){
   if (!PW) return e.total||0;
   let n = 0;
   Object.entries(e.weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  return n;
+}
+
+function leadClicks(p){
+  const e = leadEntry(p);
+  if (!e) return 0;
+  if (!PW) return e.leads||0;
+  let n = 0;
+  Object.entries(e.weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  return n;
+}
+function soCount(p){
+  const e = leadEntry(p);
+  if (!e) return 0;
+  if (!PW) return e.so||0;
+  let n = 0;
+  Object.entries(e.so_cnt_weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
+  return n;
+}
+function soValue(p){
+  const e = leadEntry(p);
+  if (!e) return 0;
+  if (!PW) return e.so_value||0;
+  let n = 0;
+  Object.entries(e.so_weeks||{}).forEach(([wk,c])=>{ if (PW.has(wk)) n += c; });
   return n;
 }
 
@@ -584,6 +624,7 @@ function renderCatPills(rows){
 
 function renderKPI(){
   const P = brows();
+  const soP = P;
   const impr = P.reduce((a,p)=>a+mImp(p),0);
   const clicks = P.reduce((a,p)=>a+mClick(p),0);
   const ctr = impr ? (clicks/impr*100).toFixed(2) : 0;
@@ -599,6 +640,10 @@ function renderKPI(){
      'Aktif = landing page sudah live dan terindeks Google. Draft = sudah dibuat tapi belum tayang. Target tim: minimal 2 LP baru per minggu.'],
     ['Perlu Tindakan', needAction+' Program', 'Prioritas aksi tinggi', 'text-amber-400',
      'Program dengan prioritas aksi 4 atau 5 — masalahnya paling mendesak (mis. impresi tinggi tapi CTR rendah, atau posisi masih di halaman 2+).'],
+    ['Total Leads (WA→CRM)', fmt(P.reduce((a,p)=>a+leadClicks(p),0)), 'Need Tracking ter-atribusi LP', 'text-violet-300',
+     'Lead yang tercatat dari klik WhatsApp di halaman-halaman ini: kode funnel WA dicatat CS di Need Tracking (Kode Unik), lalu di-match ke crm.lead Odoo. Mengikuti filter Periode. Angka ini hanya menghitung halaman yang dipantau funnel — bukan total lead brand.'],
+    ['Sales Order (Kohort Lead)', soP.reduce((a,p)=>a+soCount(p),0)+' SO', 'Rp '+fmt(Math.round(soP.reduce((a,p)=>a+soValue(p),0))), 'text-emerald-400',
+     'SO state sale/done dari crm.lead yang ter-atribusi ke landing page ini. Kohort lead: nilai SO mengikuti lead asal meski tanggal order di luar periode terpilih. Nilai = bruto (amount_total), bukan revenue diakui.'],
   ];
   document.getElementById('kpiRow').innerHTML = cards.map(([t,v,s,c,tip])=>`
     <div class="bg-slate-800 border border-slate-700 rounded-xl p-4">
@@ -652,6 +697,8 @@ function renderMatrix(){
     if (sortVal==='ctr-asc') return mCtr(a)-mCtr(b);
     if (sortVal==='wa-desc') return waClicks(b)-waClicks(a) || mImp(b)-mImp(a);
     if (sortVal==='eng-desc') return (waEng(b)??-1)-(waEng(a)??-1);
+    if (sortVal==='leads-desc') return leadClicks(b)-leadClicks(a) || mImp(b)-mImp(a);
+    if (sortVal==='so-desc') return soValue(b)-soValue(a) || soCount(b)-soCount(a);
     if (sortVal==='rank-asc') return (mRank(a)||999)-(mRank(b)||999);
     return a.name.localeCompare(b.name);
   });
@@ -675,6 +722,14 @@ function renderMatrix(){
              : (waEntry(p) ? '<span class="text-slate-600">0</span>' : '<span class="text-slate-600">-</span>');
     let engCell = eng==null ? '<span class="text-slate-600">-</span>'
               : `<span class="${eng>=10?'text-emerald-400 font-bold':eng>=5?'text-blue-400 font-semibold':'text-slate-300'}">${eng.toFixed(1)}%</span>`;
+    const L = leadClicks(p), S = soCount(p), V = soValue(p);
+    const hasLead = !!leadEntry(p);
+    let leadCell = !hasLead ? '<span class="text-slate-600">-</span>'
+                   : L ? `<span class="text-violet-300 font-semibold">${L}</span>`
+                       : '<span class="text-slate-600">0</span>';
+    let soCell = !hasLead ? '<span class="text-slate-600">-</span>'
+                 : S ? `<span class="text-emerald-400 font-bold" title="Rp ${V.toLocaleString('id-ID')}">${S}<span class="text-[10px] text-emerald-500/80"> · ${V>=1e6?(V/1e6).toFixed(1)+'jt':V.toLocaleString('id-ID')}</span></span>`
+                     : '<span class="text-slate-600">0</span>';
     const pr = rec(p.id).prioritas;
     const PR_TIP = 'Prioritas aksi: P5 = mendesak (impresi besar tapi CTR rendah / posisi halaman 3+), P4 = perlu perbaikan on-page, P3 = optimasi lanjutan, P1 = sehat, tidak ada tindakan mendesak.';
     const prBadge = pr>=5 ? `<span class="badge bg-rose-500/20 text-rose-300">P5<i class="th-info" data-tip="${PR_TIP}">i</i></span>`
@@ -693,6 +748,8 @@ function renderMatrix(){
       <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${mCtr(p)}%</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${waCell}</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${engCell}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${leadCell}</td>
+      <td class="px-3 py-3 text-right font-mono text-xs">${soCell}</td>
       <td class="px-3 py-3 text-right font-mono text-xs">${mRank(p)>0?`<span class="text-amber-300">#${mRank(p)}</span>`:'<span class="text-slate-500">-</span>'}</td>
       <td class="px-3 py-3 text-center">${sparkline(p)}</td>
       <td class="px-3 py-3 text-center">
@@ -717,7 +774,7 @@ function renderAksi(){
             <span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
           </div>
           <h4 class="font-bold mt-1.5">${esc(p.name)}</h4>
-          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(mImp(p))} • Klik ${mClick(p)} • CTR ${mCtr(p)}% • WA ${waClicks(p)||'-'} • Rank #${mRank(p)||'-'}</div>
+          <div class="text-[11px] text-slate-400 font-mono mt-0.5">Impr ${fmt(mImp(p))} • Klik ${mClick(p)} • CTR ${mCtr(p)}% • WA ${waClicks(p)||'-'} • Leads ${leadClicks(p)||'-'} • SO ${soCount(p)||0} • Rank #${mRank(p)||'-'}</div>
         </div>
         <button onclick="openModal(${p.id})" class="px-3 py-1.5 text-xs rounded-lg bg-blue-600 hover:bg-blue-500">Buka Perbaikan</button>
       </div>
@@ -1246,6 +1303,9 @@ function openModal(id){
   document.getElementById('mClicks').textContent = mClick(p);
   document.getElementById('mCtr').textContent = mCtr(p)+'%';
   document.getElementById('mRank').textContent = mRank(p)>0?'#'+mRank(p):'-';
+  const _le = leadEntry(p);
+  document.getElementById('mLeads').textContent = _le ? leadClicks(p)+' lead' : '-';
+  document.getElementById('mSo').textContent = _le ? (soCount(p)+' SO • Rp '+(soValue(p)>=1e6?(soValue(p)/1e6).toFixed(1)+'jt':fmt(Math.round(soValue(p))))) : '-';
   document.getElementById('modalBadges').innerHTML =
     `<span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
      <span class="badge bg-blue-500/10 text-blue-400">${esc(p.category)}</span>
@@ -1304,12 +1364,13 @@ async function liveRefresh(manual){
   setLiveStatus('Memuat data terbaru…', 'text-slate-400');
   try {
     const bust = '?t=' + Date.now();
-    const [pr, rc, cp, br, wa] = await Promise.all([
+    const [pr, rc, cp, br, wa, ld] = await Promise.all([
       fetch('data/products.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/recommendations.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/competitors.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/brands.json' + bust).then(r=>r.ok?r.json():Promise.reject(r.status)),
       fetch('data/wa.json' + bust).then(r=>r.ok?r.json():{pages:{}}).catch(()=>({pages:{}})),
+      fetch('data/leads.json' + bust).then(r=>r.ok?r.json():{pages:{}}).catch(()=>({pages:{}})),
     ]);
     if (!Array.isArray(pr) || !pr.length) throw new Error('products.json kosong');
     PRODUCTS.length = 0; PRODUCTS.push(...pr);
@@ -1317,6 +1378,7 @@ async function liveRefresh(manual){
     Object.keys(COMPETITORS).forEach(k=>delete COMPETITORS[k]); Object.assign(COMPETITORS, cp);
     BRANDS.length = 0; BRANDS.push(...br);
     Object.keys(WA).forEach(k=>delete WA[k]); Object.assign(WA, wa||{pages:{}}); waReindex();
+    Object.keys(LEADS).forEach(k=>delete LEADS[k]); Object.assign(LEADS, ld||{pages:{}}); leadReindex();
     const all = allDates();
     if (all.length){
       ['dateFrom','dateTo'].forEach(id=>{
@@ -1411,12 +1473,12 @@ function toggleLive(){
     if (dateFrom || dateTo) L.push('Filter tanggal aktif: ' + (dateFrom||'awal') + ' s/d ' + (dateTo||'akhir'));
     L.push('Periode matriks aktif: ' + periodLabel() + ' — angka impresi/klik/CTR/rank/WA/Eng% di bawah mengikuti periode ini.');
     L.push('');
-    L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir | klik WA | Eng%');
+    L.push('PROGRAM (' + PRODUCTS.length + '): nama | kategori | status | keyword utama (vol) | impresi | klik | CTR% | rank rata2 | rank terakhir | klik WA | Eng% | leads | SO | SO rupiah');
     PRODUCTS.forEach(p=>{
       const wa = waClicks(p), eng = waEng(p, wa);
       L.push([p.brand, p.name, p.category, p.status, (p.kw_utama||'-')+' ('+(p.vol_utama||'-')+')',
-              mImp(p), mClick(p), mCtr(p), p.avg_rank, mRank(p),
-              wa, eng==null?'-':eng.toFixed(1)+'%'].join(' | '));
+              wa, eng==null?'-':eng.toFixed(1)+'%',
+              leadClicks(p), soCount(p), Math.round(soValue(p))].join(' | '));
     });
     // Weekly tail: without it the model cannot answer "what moved this week".
     const wk = p => (p.weeks||[]).filter(w=>w.impr||w.clicks||w.rank).slice(-4);
@@ -1611,6 +1673,7 @@ def main():
     comps = load("competitors.json", {})
     brands = load("brands.json", [])
     wa = load("wa.json", {"pages": {}})
+    leads = load("leads.json", {"pages": {}})
     meta = {
         "stamp": "Data per " + datetime.datetime.now().strftime("%d %b %Y %H:%M")
                 + " • " + str(len(products)) + " program",
@@ -1622,6 +1685,7 @@ def main():
             .replace("__COMPETITORS__", json.dumps(comps, ensure_ascii=False))
             .replace("__BRANDS__", json.dumps(brands, ensure_ascii=False))
             .replace("__WA__", json.dumps(wa, ensure_ascii=False))
+            .replace("__LEADS__", json.dumps(leads, ensure_ascii=False))
             .replace("__META__", json.dumps(meta, ensure_ascii=False)))
     with open(OUT, "w") as f:
         f.write(html)

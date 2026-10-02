@@ -55,6 +55,10 @@ def main():
     r = subprocess.run([PY, os.path.join(HERE, "fetch_wa.py")], cwd=HERE)
     if r.returncode:
         print("WARN: fetch_wa gagal; pakai data/wa.json terakhir")
+    # Leads & SO per LP (Need Tracking + Odoo): non-fatal juga.
+    r = subprocess.run([PY, os.path.join(HERE, "fetch_leads.py")], cwd=HERE)
+    if r.returncode:
+        print("WARN: fetch_leads gagal; pakai data/leads.json terakhir")
     if not args.skip_competitors:
         # Non-fatal: Ubersuggest has a daily report quota and its OAuth token
         # can expire; the dashboard still builds with the last cached intel.
