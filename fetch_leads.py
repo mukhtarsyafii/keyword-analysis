@@ -133,7 +133,8 @@ def load_wa_codes():
                 continue
             ts = parse_date(row.get("timestamp"))
             if code not in codes or (ts and codes[code]["date"] and ts < codes[code]["date"]):
-                codes[code] = {"page": page, "brand": brand, "date": ts}
+                codes[code] = {"page": page, "brand": brand, "date": ts,
+                               "referrer": (row.get("referrer") or "").strip()}
     return codes
 
 
@@ -221,7 +222,7 @@ def main():
 
     pages = defaultdict(lambda: {"leads": 0, "qualified": 0, "so": 0,
                                  "so_value": 0.0, "weeks": {}, "so_weeks": {},
-                                 "so_cnt_weeks": {}})
+                                 "so_cnt_weeks": {}, "from": {}})
     seen = set()
     for n in hits:
         e = pages[codes[n["kode"]]["page"]]
@@ -229,6 +230,21 @@ def main():
             continue          # satu kode = satu lead; dobel dicatat -> hitung sekali
         seen.add(n["kode"])
         e["leads"] += 1
+        # asal lead: halaman sebelum LP tujuan (referrer klik WA). Penting utk
+        # halaman hub (pelatihan-terkini) — CTA LP lain mengarah ke sana, jadi
+        # lead 'milik' hub sebenarnya berawal dari LP spesifik.
+        ref_raw = codes[n["kode"]].get("referrer") or ""
+        ref = norm_url(ref_raw)
+        pg = codes[n["kode"]]["page"]
+        if not ref_raw:
+            src = "(langsung)"
+        elif ref == pg:
+            src = "(halaman itu sendiri)"
+        elif ref.split("/")[0] == pg.split("/")[0]:
+            src = ref
+        else:
+            src = "(eksternal) " + (ref.split("/")[0] or "?")
+        e["from"][src] = e["from"].get(src, 0) + 1
         if n["status"].lower() not in NOT_QUALIFIED:
             e["qualified"] += 1
         wk = iso_week(n["date"]) if n["date"] else None

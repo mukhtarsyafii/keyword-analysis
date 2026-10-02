@@ -36,6 +36,10 @@ def norm_url(u):
     return u.rstrip("/")
 
 
+def host_of(key):
+    return key.split("/")[0] if key else ""
+
+
 def parse_ts(s):
     s = (s or "").strip()
     if not s:
@@ -63,7 +67,8 @@ def main():
     ap.add_argument("--check", action="store_true", help="jangan menulis")
     args = ap.parse_args()
 
-    pages = defaultdict(lambda: {"total": 0, "organic": 0, "ads": 0, "weeks": {}, "dates": []})
+    pages = defaultdict(lambda: {"total": 0, "organic": 0, "ads": 0, "weeks": {},
+                                 "dates": [], "from": {}})
     bad_ts = 0
     total_rows = 0
     per_brand = {}
@@ -83,6 +88,21 @@ def main():
             ch = (row.get("channel") or "").strip().upper()
             e = pages[key]
             e["total"] += 1
+            # Asal klik WA: halaman sebelum LP ini (referrer). Klik WA di
+            # halaman hub (pelatihan-terkini) datang dari LP mana -> atribusi
+            # tidak langsung ke LP tujuan. Referrer eksternal (google dll)
+            # masuk bucket '(eksternal)', kosong = '(langsung)'.
+            ref_raw = (row.get("referrer") or "").strip()
+            ref = norm_url(ref_raw)
+            if not ref_raw:
+                e["from"]["(langsung)"] = e["from"].get("(langsung)", 0) + 1
+            elif ref == key:
+                pass  # self-referrer, tidak informatif
+            elif host_of(ref) == host_of(key):
+                e["from"][ref] = e["from"].get(ref, 0) + 1
+            else:
+                ext = host_of(ref) or "(eksternal)"
+                e["from"]["(eksternal) " + ext] = e["from"].get("(eksternal) " + ext, 0) + 1
             if ch == "A":
                 e["ads"] += 1
             elif ch == "O":
@@ -98,7 +118,7 @@ def main():
     out = {
         "generated": datetime.datetime.now().isoformat(timespec="seconds"),
         "pages": {k: {"total": v["total"], "organic": v["organic"], "ads": v["ads"],
-                      "weeks": v["weeks"],
+                      "weeks": v["weeks"], "from": v["from"],
                       "first": min(v["dates"]) if v["dates"] else None,
                       "last": max(v["dates"]) if v["dates"] else None}
                   for k, v in sorted(pages.items())},

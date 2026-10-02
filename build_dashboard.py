@@ -161,6 +161,13 @@ HTML = r"""<!DOCTYPE html>
         <span>Klik "Aksi" untuk Masalah, Solusi, Rekomendasi &amp; Perbaikan siap-tempel</span>
       </div>
     </div>
+
+    <!-- HUB: halaman tujuan CTA (mis. pelatihan-terkini) yang TIDAK ada di tracker.
+         Panel ini membongkar dari LP mana klik WA / lead di halaman itu berasal. -->
+    <div id="hubPanel" class="hidden bg-slate-800 border border-slate-700 rounded-xl p-4 space-y-3">
+      <div class="text-xs font-bold text-slate-300">🧭 Halaman Hub — asal klik WA &amp; lead<i class="th-info" data-tip="Halaman tujuan CTA (mis. /pelatihan-terkini/) yang tidak terdaftar sebagai LP di tracker. Angka kumulatif seluruh periode log (tidak ikut filter Periode): dari halaman mana pengunjung datang sebelum klik WhatsApp di halaman hub ini.">i</i></div>
+      <div id="hubBody" class="space-y-4"></div>
+    </div>
   </div>
 
   <!-- AKSI -->
@@ -375,6 +382,10 @@ HTML = r"""<!DOCTYPE html>
     </div>
 
     <div class="space-y-3">
+      <div id="mAsal" class="hidden bg-slate-900/60 border border-slate-700 rounded-xl p-4">
+        <h5 class="text-xs font-bold text-slate-300 mb-2">🧭 ASAL KLIK WA / LEADS<i class="th-info" data-tip="Halaman sebelum pengunjung klik WhatsApp di sini (dari kolom referrer log WA). Untuk halaman hub seperti pelatihan-terkini, ini menunjukkan LP mana yang mengirim traffic — klik & lead 'milik' hub sebenarnya berawal dari halaman lain.">i</i></h5>
+        <div id="mAsalBody" class="text-xs space-y-1.5"></div>
+      </div>
       <div class="bg-rose-500/10 border border-rose-500/20 rounded-xl p-4">
         <h5 class="text-xs font-bold text-rose-400 mb-1.5">🔴 MASALAH</h5>
         <ul class="text-xs space-y-1 list-disc list-inside" id="mMasalah"></ul>
@@ -512,7 +523,7 @@ function setMatrixPeriod(v){
   recomputePW();
   // renderTrends juga menggambar bar Kategori & Top Keyword — keduanya ikut
   // periode matriks; grafik trennya sendiri tetap ikut filter tanggal header.
-  renderKPI(); renderMatrix(); renderAksi(); renderTrends(); renderBrands();
+  renderKPI(); renderMatrix(); renderAksi(); renderTrends(); renderBrands(); renderHub();
 }
 function periodLabel(){
   return periodWeeks === 'all' ? 'kumulatif seluruh periode' : periodWeeks + ' minggu terakhir';
@@ -580,7 +591,7 @@ function init(){
     });
     setComparePreset(7);   // default: minggu ini vs minggu lalu
   }
-  renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands();
+  renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands(); renderHub();
 }
 
 function renderBrandBar(){
@@ -756,6 +767,43 @@ function renderMatrix(){
         <button onclick="openModal(${p.id})" class="px-2.5 py-1 text-xs font-medium rounded border border-blue-500/40 text-blue-400 hover:bg-blue-500/10">Aksi</button>
       </td>
     </tr>`;
+  }).join('');
+}
+
+// Halaman hub = halaman tujuan CTA yang ramai klik WA/lead tapi TIDAK ada di
+// tracker LP (mis. /pelatihan-terkini). Panel ini membongkar dari LP mana saja
+// pengunjung datang sebelum klik WA di halaman itu. Klik kumulatif (log tidak
+// menyimpan asal per minggu); lead mengikuti filter periode.
+function renderHub(){
+  const box = document.getElementById('hubPanel'), body = document.getElementById('hubBody');
+  const tracked = new Set(PRODUCTS.map(p=>normUrl(p.url)));
+  const hubs = Object.entries(WA.pages||{}).filter(([k,v])=>!tracked.has(k) && (v.total||0)>=5);
+  if (!hubs.length){ box.classList.add('hidden'); return; }
+  box.classList.remove('hidden');
+  hubs.sort((a,b)=>b[1].total-a[1].total);
+  body.innerHTML = hubs.map(([url,v])=>{
+    const from = v.from||{};
+    const keys = Object.keys(from).sort((a,b)=>from[b]-from[a]);
+    const tot = keys.reduce((a,k)=>a+from[k],0)||1;
+    const le = (LEADS.pages||{})[url];
+    const lfrom = (le&&le.from)||{};
+    const bar = k=>{
+      const f=from[k]||0, l=lfrom[k]||0;
+      const label = k.startsWith('(') ? k : '/'+k.replace(/^[^/]+\//,'');
+      return `<div class="flex items-center gap-2 text-xs">
+        <div class="flex-1 bg-slate-900 rounded-full h-2 overflow-hidden border border-slate-700"><div class="bg-sky-500 h-2 rounded-full" style="width:${Math.round(f/tot*100)}%"></div></div>
+        <span class="text-slate-400 truncate max-w-[300px]" title="${esc(k)}">${esc(label)}</span>
+        <span class="font-mono text-slate-200 w-24 text-right">${f} klik${l?` · <span class="text-violet-300">${l} lead</span>`:''}</span>
+      </div>`;
+    };
+    const all = keys.slice(0,10).map(bar).join('');
+    return `<div class="border border-slate-700 rounded-lg p-3 space-y-2">
+      <div class="flex items-center justify-between gap-3 flex-wrap">
+        <a href="https://${esc(url)}" target="_blank" class="text-sm font-semibold text-blue-400 hover:text-blue-300">${esc(url)}</a>
+        <span class="text-[11px] text-slate-400 font-mono">${v.total} klik WA${le?` · <span class="text-violet-300">${le.leads} lead</span>`:''}</span>
+      </div>
+      ${all}
+    </div>`;
   }).join('');
 }
 
@@ -1306,6 +1354,28 @@ function openModal(id){
   const _le = leadEntry(p);
   document.getElementById('mLeads').textContent = _le ? leadClicks(p)+' lead' : '-';
   document.getElementById('mSo').textContent = _le ? (soCount(p)+' SO • Rp '+(soValue(p)>=1e6?(soValue(p)/1e6).toFixed(1)+'jt':fmt(Math.round(soValue(p))))) : '-';
+  // Asal klik WA / lead: halaman sebelum LP ini (referrer). Hub seperti
+  // pelatihan-terkini menampung CTA LP lain — blok ini membongkar asalnya.
+  (function(){
+    const we = waEntry(p);
+    const from = (we && we.from) || {};
+    const lfrom = (_le && _le.from) || {};
+    const keys = [...new Set([...Object.keys(from), ...Object.keys(lfrom)])]
+      .sort((a,b)=>(from[b]||0)-(from[a]||0));
+    const box = document.getElementById('mAsal'), body = document.getElementById('mAsalBody');
+    if (!keys.length){ box.classList.add('hidden'); return; }
+    box.classList.remove('hidden');
+    const tot = keys.reduce((a,k)=>a+(from[k]||0),0)||1;
+    body.innerHTML = keys.map(k=>{
+      const f = from[k]||0, l = lfrom[k]||0;
+      const label = k.startsWith('(') ? k : k.replace(/^[^/]+\//,'/').slice(0,58);
+      return `<div class="flex items-center gap-2">
+        <div class="flex-1 bg-slate-800 rounded-full h-2 overflow-hidden border border-slate-700"><div class="bg-sky-500 h-2 rounded-full" style="width:${Math.round(f/tot*100)}%"></div></div>
+        <span class="text-slate-400 truncate max-w-[220px]" title="${esc(k)}">${esc(label)}</span>
+        <span class="font-mono text-slate-200">${f} klik${l?` · <span class="text-violet-300">${l} lead</span>`:''}</span>
+      </div>`;
+    }).join('');
+  })();
   document.getElementById('modalBadges').innerHTML =
     `<span class="badge ${p.status.toLowerCase()==='aktif'?'bg-emerald-500/10 text-emerald-400':'bg-amber-500/10 text-amber-400'}">${esc(p.status)}</span>
      <span class="badge bg-blue-500/10 text-blue-400">${esc(p.category)}</span>
@@ -1386,7 +1456,7 @@ async function liveRefresh(manual){
         el.min = all[0]; el.max = all[all.length-1];
       });
     }
-    renderBrandBar(); renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands(); renderCompare();
+    renderBrandBar(); renderKPI(); renderMatrix(); renderAksi(); renderKompetitor(); renderTrends(); renderBrands(); renderHub(); renderCompare();
     setLiveStatus('Data terbaru dimuat ' + new Date().toLocaleTimeString('id-ID') +
                   (liveOn ? ' • auto tiap 5 menit' : ''), 'text-emerald-400');
   } catch (e) {
