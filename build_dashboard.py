@@ -1301,9 +1301,9 @@ function toggleLive(){
 (function(){
   const EP_KEY='hermes_ai_endpoint', K_KEY='hermes_ai_key', MSG_KEY='hermes_ai_msgs';
   const DEF_EP='http://127.0.0.1:8642/v1/chat/completions';
-  // Proxy Netlify untuk mode publik (github.io). Key provider ada di env Netlify,
-  // jadi tidak ada rahasia di repo. Token widget cuma remah biaya, bukan rahasia.
-  const PROXY = '/.netlify/functions/ai-chat';
+  // Proxy publik: nginx dashboard.digitalfinger.id -> FastAPI lokal -> 9router.
+  // Key provider tidak pernah masuk repo. Token widget cuma remah biaya, bukan rahasia.
+  const PROXY = 'https://dashboard.digitalfinger.id/keyword-ai/chat';
   const WIDGET_TOKEN = 'grc-widget-2026';
   const $ = id => document.getElementById(id);
   const LOCAL_HOST = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
@@ -1398,7 +1398,7 @@ function toggleLive(){
 
   async function send(text){
     if (!text.trim()) return;
-    // Mode publik (github.io): lewat proxy Netlify, tanpa key di browser.
+    // Mode publik (github.io): lewat proxy publik, tanpa key di browser.
     // Mode lokal: langsung ke API server Hermes, butuh key.
     const viaProxy = !LOCAL_HOST;
     if (!viaProxy && !key()){
@@ -1436,7 +1436,7 @@ function toggleLive(){
     } catch(e){
       pending.textContent = 'Gagal menghubungi AI.\n\n' + e.message +
         (viaProxy
-          ? '\n\nCek: fungsi Netlify sudah ter-deploy dan env AI_PROVIDER_KEY terisi.'
+          ? '\n\nCek: proxy /keyword-ai/chat di dashboard.digitalfinger.id hidup (service keyword-ai).'
           : '\n\nCek: (1) gateway Hermes jalan, (2) API server aktif di ' + ep() +
             ', (3) origin diizinkan CORS, (4) API key benar.');
       status('err', String(e.message));
@@ -1454,12 +1454,10 @@ function toggleLive(){
   });
 
   fab.onclick = ()=>{ fab.classList.add('hidden'); panel.classList.remove('hidden'); panel.classList.add('flex'); input.focus(); };
-  // Chrome blocks public-origin -> loopback (Private Network Access), so from
-  // GitHub Pages the widget can never reach the local Hermes API server, and
-  // the Netlify proxy path only resolves on the netlify.app origin.
-  // file:// sends Origin: null — refused by CORS on purpose (shared by every
-  // local HTML file). Fab shows on localhost (direct Hermes) or netlify.app (proxy).
-  const SERVED = LOCAL_HOST || /\.netlify\.app$/.test(location.hostname);
+  // Widget butuh endpoint yang bisa diakses dari origin manapun: proxy publik
+  // (dashboard.digitalfinger.id, CORS *) atau API server Hermes lokal (localhost).
+  // file:// tetap diblok — Origin: null, dan tidak ada proxy di sana.
+  const SERVED = LOCAL_HOST || location.protocol.startsWith('http');
   if (!SERVED) fab.classList.add('hidden');
   $('aiClose').onclick = ()=>{ panel.classList.add('hidden'); panel.classList.remove('flex'); fab.classList.remove('hidden'); };
   $('aiClear').onclick = ()=>{ msgs=[]; localStorage.removeItem(MSG_KEY); repaint(); };
@@ -1478,7 +1476,7 @@ function toggleLive(){
     if (e.key==='Enter' && !e.shiftKey){ e.preventDefault(); send(input.value); }
   });
   repaint();
-  if (!LOCAL_HOST) status('ok','Mode publik: lewat proxy Netlify');
+  if (!LOCAL_HOST) status('ok','Mode publik: lewat proxy dashboard.digitalfinger.id');
   else status(key()?'ok':'idle', key()?'Terhubung':'Belum ada API key');
 })();
 
