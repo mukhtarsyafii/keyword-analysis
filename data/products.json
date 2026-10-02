@@ -11,11 +11,11 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-fraud-management/",
   "status": "Aktif",
-  "total_impr": 706,
-  "total_clicks": 32,
-  "ctr": 4.53,
-  "avg_rank": 12.4,
-  "latest_rank": 7.0,
+  "total_impr": 711,
+  "total_clicks": 33,
+  "ctr": 4.64,
+  "avg_rank": 12.6,
+  "latest_rank": 12.9,
   "weeks": [
    {
     "w": "2026W01",
@@ -292,10 +292,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 3,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.0
+    "impr": 8,
+    "clicks": 1,
+    "ctr": 12.5,
+    "rank": 12.9
    }
   ],
   "daily": [
@@ -1336,6 +1336,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 7
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 5,
+    "clicks": 1,
+    "rank": 18.8
    }
   ],
   "id": 1
@@ -1352,11 +1358,11 @@
   "vol_info": "250",
   "url": "https://grc-indonesia.com/training-ai-governance/",
   "status": "Aktif",
-  "total_impr": 1262,
-  "total_clicks": 83,
-  "ctr": 6.58,
+  "total_impr": 1269,
+  "total_clicks": 84,
+  "ctr": 6.62,
   "avg_rank": 10.3,
-  "latest_rank": 8.1,
+  "latest_rank": 8.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -1633,10 +1639,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 7,
-    "clicks": 1,
+    "impr": 14,
+    "clicks": 2,
     "ctr": 14.29,
-    "rank": 8.1
+    "rank": 8.0
    }
   ],
   "daily": [
@@ -2887,6 +2893,12 @@
     "impr": 7,
     "clicks": 1,
     "rank": 8.1
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 7,
+    "clicks": 1,
+    "rank": 7.9
    }
   ],
   "id": 2
@@ -2903,11 +2915,11 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/training-pemalsuan-dokumen/",
   "status": "Aktif",
-  "total_impr": 236.0,
+  "total_impr": 239.0,
   "total_clicks": 10.0,
-  "ctr": 4.24,
-  "avg_rank": 4.9,
-  "latest_rank": 9.0,
+  "ctr": 4.18,
+  "avg_rank": 4.8,
+  "latest_rank": 6.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -3184,10 +3196,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 6.7
    }
   ],
   "daily": [
@@ -3424,6 +3436,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 4.3
    }
   ],
   "id": 3
@@ -3440,11 +3458,11 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/",
   "status": "Aktif",
-  "total_impr": 54.0,
+  "total_impr": 55.0,
   "total_clicks": 2,
-  "ctr": 3.7,
-  "avg_rank": 7.3,
-  "latest_rank": 1.0,
+  "ctr": 3.64,
+  "avg_rank": 7.9,
+  "latest_rank": 6.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -3721,10 +3739,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 1,
-    "ctr": 100.0,
-    "rank": 1.0
+    "ctr": 50.0,
+    "rank": 6.5
    }
   ],
   "daily": [
@@ -3859,6 +3877,12 @@
     "impr": 1,
     "clicks": 1,
     "rank": 1
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 12
    }
   ],
   "id": 4
@@ -3875,11 +3899,11 @@
   "vol_info": "450",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 905.0,
+  "total_impr": 910.0,
   "total_clicks": 24.0,
-  "ctr": 2.65,
-  "avg_rank": 8.6,
-  "latest_rank": 16.4,
+  "ctr": 2.64,
+  "avg_rank": 8.5,
+  "latest_rank": 12.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -4156,10 +4180,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 5,
+    "impr": 10,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 16.4
+    "rank": 12.1
    }
   ],
   "daily": [
@@ -4798,6 +4822,12 @@
     "impr": 5,
     "clicks": 0,
     "rank": 16.4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 7.8
    }
   ],
   "id": 24
@@ -4814,11 +4844,11 @@
   "vol_info": "4,500",
   "url": "https://grc-indonesia.com/training-grafonomi-grafologi-dan-deteksi-uang-palsu/",
   "status": "Aktif",
-  "total_impr": 1066,
+  "total_impr": 1070,
   "total_clicks": 29,
-  "ctr": 2.72,
+  "ctr": 2.71,
   "avg_rank": 6.7,
-  "latest_rank": 6.0,
+  "latest_rank": 5.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -5095,10 +5125,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 5.4
    }
   ],
   "daily": [
@@ -6301,6 +6331,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 4.8
    }
   ],
   "id": 6
@@ -6317,10 +6353,10 @@
   "vol_info": "2,500",
   "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko/",
   "status": "Aktif",
-  "total_impr": 3202,
+  "total_impr": 3178,
   "total_clicks": 26,
-  "ctr": 0.81,
-  "avg_rank": 12.8,
+  "ctr": 0.82,
+  "avg_rank": 12.6,
   "latest_rank": 7.3,
   "weeks": [
    {
@@ -6346,10 +6382,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 81,
+    "impr": 57,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 16.9
+    "rank": 12.0
    },
    {
     "w": "2026W05",
@@ -7550,11 +7586,11 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/pelatihan-risk-based-audit/",
   "status": "Aktif",
-  "total_impr": 359,
+  "total_impr": 361,
   "total_clicks": 16,
-  "ctr": 4.46,
-  "avg_rank": 16.1,
-  "latest_rank": 41.0,
+  "ctr": 4.43,
+  "avg_rank": 15.6,
+  "latest_rank": 24.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -7831,10 +7867,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 2,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 41.0
+    "rank": 24.2
    }
   ],
   "daily": [
@@ -8317,6 +8353,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 41
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 7.5
    }
   ],
   "id": 8
@@ -8333,11 +8375,11 @@
   "vol_info": "900",
   "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 144.0,
+  "total_impr": 145.0,
   "total_clicks": 11.0,
-  "ctr": 7.64,
-  "avg_rank": 9.7,
-  "latest_rank": 13.7,
+  "ctr": 7.59,
+  "avg_rank": 9.5,
+  "latest_rank": 7.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -8614,10 +8656,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 3,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.7
+    "rank": 7.3
    }
   ],
   "daily": [
@@ -8740,6 +8782,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 13.7
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
    }
   ],
   "id": 9
@@ -8756,10 +8804,10 @@
   "vol_info": "3,000",
   "url": "https://grc-indonesia.com/pelatihan-risk-management-iso-31000/",
   "status": "Aktif",
-  "total_impr": 1693,
-  "total_clicks": 97,
-  "ctr": 5.73,
-  "avg_rank": 11.1,
+  "total_impr": 1684,
+  "total_clicks": 96,
+  "ctr": 5.7,
+  "avg_rank": 11.0,
   "latest_rank": 10.4,
   "weeks": [
    {
@@ -8785,10 +8833,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 29,
-    "clicks": 5,
-    "ctr": 17.24,
-    "rank": 6.8
+    "impr": 20,
+    "clicks": 4,
+    "ctr": 20.0,
+    "rank": 3.2
    },
    {
     "w": "2026W05",
@@ -10379,11 +10427,11 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 4766.0,
+  "total_impr": 4791.0,
   "total_clicks": 8,
   "ctr": 0.17,
   "avg_rank": 5.0,
-  "latest_rank": 6.0,
+  "latest_rank": 8.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -10660,10 +10708,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 27,
+    "impr": 52,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 8.1
    }
   ],
   "daily": [
@@ -10828,6 +10876,12 @@
     "impr": 27,
     "clicks": 0,
     "rank": 6.0
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 25,
+    "clicks": 0,
+    "rank": 10.2
    }
   ],
   "id": 20
@@ -10844,10 +10898,10 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 2843,
+  "total_impr": 2818,
   "total_clicks": 112,
-  "ctr": 3.94,
-  "avg_rank": 11.9,
+  "ctr": 3.97,
+  "avg_rank": 11.8,
   "latest_rank": 11.0,
   "weeks": [
    {
@@ -10873,10 +10927,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 68,
+    "impr": 43,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 27.0
+    "rank": 20.8
    },
    {
     "w": "2026W05",
@@ -12461,11 +12515,11 @@
   "vol_info": "700",
   "url": "https://grc-indonesia.com/icofr-intensive-training/",
   "status": "Aktif",
-  "total_impr": 2663,
-  "total_clicks": 247,
-  "ctr": 9.28,
+  "total_impr": 2664,
+  "total_clicks": 252,
+  "ctr": 9.46,
   "avg_rank": 9.3,
-  "latest_rank": 7.6,
+  "latest_rank": 7.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -12490,10 +12544,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 24,
+    "impr": 9,
     "clicks": 3,
-    "ctr": 12.5,
-    "rank": 8.5
+    "ctr": 33.33,
+    "rank": 7.4
    },
    {
     "w": "2026W05",
@@ -12742,10 +12796,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 9,
-    "clicks": 1,
-    "ctr": 11.11,
-    "rank": 7.6
+    "impr": 25,
+    "clicks": 6,
+    "ctr": 24.0,
+    "rank": 7.1
    }
   ],
   "daily": [
@@ -14182,6 +14236,12 @@
     "impr": 9,
     "clicks": 1,
     "rank": 7.6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 16,
+    "clicks": 5,
+    "rank": 6.6
    }
   ],
   "id": 13
@@ -14198,11 +14258,11 @@
   "vol_info": "1,800",
   "url": "https://grc-indonesia.com/pelatihan-key-risk-indicator-kri/",
   "status": "Aktif",
-  "total_impr": 1444.0,
-  "total_clicks": 10.0,
-  "ctr": 0.69,
-  "avg_rank": 13.4,
-  "latest_rank": 6.2,
+  "total_impr": 1457.0,
+  "total_clicks": 11.0,
+  "ctr": 0.75,
+  "avg_rank": 13.5,
+  "latest_rank": 6.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -14479,10 +14539,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 20,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 6.2
+    "impr": 33,
+    "clicks": 1,
+    "ctr": 3.03,
+    "rank": 6.3
    }
   ],
   "daily": [
@@ -14605,6 +14665,12 @@
     "impr": 20,
     "clicks": 0,
     "rank": 6.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 13,
+    "clicks": 1,
+    "rank": 6.5
    }
   ],
   "id": 14
@@ -14621,11 +14687,11 @@
   "vol_info": "2,200",
   "url": "https://grc-indonesia.com/pelatihan-legal-and-compliance-management/",
   "status": "Aktif",
-  "total_impr": 2166.0,
-  "total_clicks": 36.0,
-  "ctr": 1.66,
+  "total_impr": 2177.0,
+  "total_clicks": 37.0,
+  "ctr": 1.7,
   "avg_rank": 34.5,
-  "latest_rank": 6.4,
+  "latest_rank": 6.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -14902,10 +14968,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 12,
-    "clicks": 2,
-    "ctr": 16.67,
-    "rank": 6.4
+    "impr": 23,
+    "clicks": 3,
+    "ctr": 13.04,
+    "rank": 6.3
    }
   ],
   "daily": [
@@ -15022,6 +15088,12 @@
     "impr": 12,
     "clicks": 2,
     "rank": 6.4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 11,
+    "clicks": 1,
+    "rank": 6.3
    }
   ],
   "id": 15
@@ -15503,11 +15575,11 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp/",
   "status": "Aktif",
-  "total_impr": 2627.0,
+  "total_impr": 2651.0,
   "total_clicks": 39.0,
-  "ctr": 1.48,
-  "avg_rank": 7.7,
-  "latest_rank": 4.7,
+  "ctr": 1.47,
+  "avg_rank": 7.6,
+  "latest_rank": 3.9,
   "weeks": [
    {
     "w": "2026W01",
@@ -15784,10 +15856,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 44,
+    "impr": 68,
     "clicks": 1,
-    "ctr": 2.27,
-    "rank": 4.7
+    "ctr": 1.47,
+    "rank": 3.9
    }
   ],
   "daily": [
@@ -15856,6 +15928,12 @@
     "impr": 44,
     "clicks": 1,
     "rank": 4.7
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 24,
+    "clicks": 0,
+    "rank": 3.0
    }
   ],
   "id": 17
@@ -15872,9 +15950,9 @@
   "vol_info": "500",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-qcro-bnsp/",
   "status": "Aktif",
-  "total_impr": 3481.0,
+  "total_impr": 3504.0,
   "total_clicks": 19.0,
-  "ctr": 0.55,
+  "ctr": 0.54,
   "avg_rank": 8.7,
   "latest_rank": 6.6,
   "weeks": [
@@ -16153,7 +16231,7 @@
    },
    {
     "w": "2026W40",
-    "impr": 30,
+    "impr": 53,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.6
@@ -16213,6 +16291,12 @@
     "impr": 30,
     "clicks": 0,
     "rank": 6.6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 23,
+    "clicks": 0,
+    "rank": 6.6
    }
   ],
   "id": 18
@@ -16229,11 +16313,11 @@
   "vol_info": "350",
   "url": "https://grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp/",
   "status": "Aktif",
-  "total_impr": 3616.0,
+  "total_impr": 3648.0,
   "total_clicks": 12.0,
   "ctr": 0.33,
   "avg_rank": 8.5,
-  "latest_rank": 4.2,
+  "latest_rank": 4.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -16510,10 +16594,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 28,
+    "impr": 60,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.2
+    "rank": 4.4
    }
   ],
   "daily": [
@@ -16588,6 +16672,12 @@
     "impr": 28,
     "clicks": 0,
     "rank": 4.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 32,
+    "clicks": 0,
+    "rank": 4.7
    }
   ],
   "id": 19
@@ -16604,11 +16694,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 4766.0,
+  "total_impr": 4791.0,
   "total_clicks": 8,
   "ctr": 0.17,
   "avg_rank": 5.0,
-  "latest_rank": 6.0,
+  "latest_rank": 8.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -16885,10 +16975,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 27,
+    "impr": 52,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 8.1
    }
   ],
   "daily": [
@@ -17053,6 +17143,12 @@
     "impr": 27,
     "clicks": 0,
     "rank": 6.0
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 25,
+    "clicks": 0,
+    "rank": 10.2
    }
   ],
   "id": 20
@@ -17069,11 +17165,11 @@
   "vol_info": "3,500",
   "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/",
   "status": "Aktif",
-  "total_impr": 662.0,
+  "total_impr": 679.0,
   "total_clicks": 10.0,
-  "ctr": 1.51,
-  "avg_rank": 8.6,
-  "latest_rank": 10.3,
+  "ctr": 1.47,
+  "avg_rank": 8.5,
+  "latest_rank": 9.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -17350,10 +17446,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 25,
+    "impr": 42,
     "clicks": 1,
-    "ctr": 4.0,
-    "rank": 10.3
+    "ctr": 2.38,
+    "rank": 9.5
    }
   ],
   "daily": [
@@ -17488,6 +17584,12 @@
     "impr": 25,
     "clicks": 1,
     "rank": 10.3
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 17,
+    "clicks": 0,
+    "rank": 8.6
    }
   ],
   "id": 21
@@ -17504,10 +17606,10 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/integrasi-iso-31000-dengan-iso-9001/",
   "status": "Aktif",
-  "total_impr": 395,
+  "total_impr": 394,
   "total_clicks": 3,
   "ctr": 0.76,
-  "avg_rank": 8.2,
+  "avg_rank": 8.3,
   "latest_rank": 4.5,
   "weeks": [
    {
@@ -17533,10 +17635,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 7,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.9
+    "rank": 14.2
    },
    {
     "w": "2026W05",
@@ -19064,11 +19166,11 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 905.0,
+  "total_impr": 910.0,
   "total_clicks": 24.0,
-  "ctr": 2.65,
-  "avg_rank": 8.6,
-  "latest_rank": 16.4,
+  "ctr": 2.64,
+  "avg_rank": 8.5,
+  "latest_rank": 12.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -19345,10 +19447,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 5,
+    "impr": 10,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 16.4
+    "rank": 12.1
    }
   ],
   "daily": [
@@ -19987,6 +20089,12 @@
     "impr": 5,
     "clicks": 0,
     "rank": 16.4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 7.8
    }
   ],
   "id": 24
@@ -20003,11 +20111,11 @@
   "vol_info": "50 - 200",
   "url": "https://grc-indonesia.com/pelatihan-managing-legal-risk-based-on-iso-31022/",
   "status": "Aktif",
-  "total_impr": 221.0,
+  "total_impr": 222.0,
   "total_clicks": 13.0,
-  "ctr": 5.88,
+  "ctr": 5.86,
   "avg_rank": 6.8,
-  "latest_rank": 8.0,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -20284,10 +20392,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 7.0
    }
   ],
   "daily": [
@@ -20380,6 +20488,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 7
    }
   ],
   "id": 25
@@ -20396,11 +20510,11 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/pelatihan-integrated-anti-fraud-management-system/",
   "status": "Aktif",
-  "total_impr": 82,
-  "total_clicks": 3,
-  "ctr": 3.66,
-  "avg_rank": 14.9,
-  "latest_rank": 20.6,
+  "total_impr": 86,
+  "total_clicks": 4,
+  "ctr": 4.65,
+  "avg_rank": 13.6,
+  "latest_rank": 15.4,
   "weeks": [
    {
     "w": "2026W35",
@@ -20439,10 +20553,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 5,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 20.6
+    "impr": 9,
+    "clicks": 1,
+    "ctr": 11.11,
+    "rank": 15.4
    }
   ],
   "daily": [
@@ -20535,6 +20649,12 @@
     "impr": 5,
     "clicks": 0,
     "rank": 20.6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 4,
+    "clicks": 1,
+    "rank": 10.2
    }
   ],
   "id": 26
@@ -20551,11 +20671,11 @@
   "vol_info": "200",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019/",
   "status": "Aktif",
-  "total_impr": 203,
+  "total_impr": 214,
   "total_clicks": 12,
-  "ctr": 5.91,
-  "avg_rank": 6.0,
-  "latest_rank": 5.3,
+  "ctr": 5.61,
+  "avg_rank": 5.8,
+  "latest_rank": 4.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -20594,10 +20714,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 15,
+    "impr": 26,
     "clicks": 3,
-    "ctr": 20.0,
-    "rank": 5.3
+    "ctr": 11.54,
+    "rank": 4.3
    }
   ],
   "daily": [
@@ -20744,6 +20864,12 @@
     "impr": 15,
     "clicks": 3,
     "rank": 5.3
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 3.4
    }
   ],
   "id": 27
@@ -20760,11 +20886,11 @@
   "vol_info": "100- 250",
   "url": "https://grc-indonesia.com/pelatihan-internal-control-testing/",
   "status": "Aktif",
-  "total_impr": 142,
+  "total_impr": 143,
   "total_clicks": 2,
-  "ctr": 1.41,
-  "avg_rank": 9.8,
-  "latest_rank": 11.5,
+  "ctr": 1.4,
+  "avg_rank": 8.9,
+  "latest_rank": 7.8,
   "weeks": [
    {
     "w": "2026W35",
@@ -20803,10 +20929,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 2,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.5
+    "rank": 7.8
    }
   ],
   "daily": [
@@ -20923,6 +21049,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 11.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
    }
   ],
   "id": 28
@@ -20939,11 +21071,11 @@
   "vol_info": "150 -300",
   "url": "https://grc-indonesia.com/training-integrated-governance-risk-management-compliance-grc/",
   "status": "Aktif",
-  "total_impr": 51,
+  "total_impr": 59,
   "total_clicks": 4,
-  "ctr": 7.84,
+  "ctr": 6.78,
   "avg_rank": 6.8,
-  "latest_rank": 6.0,
+  "latest_rank": 5.9,
   "weeks": [
    {
     "w": "2026W35",
@@ -20982,10 +21114,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 6,
+    "impr": 14,
     "clicks": 1,
-    "ctr": 16.67,
-    "rank": 6.0
+    "ctr": 7.14,
+    "rank": 5.9
    }
   ],
   "daily": [
@@ -21078,6 +21210,12 @@
     "impr": 6,
     "clicks": 1,
     "rank": 6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 5.8
    }
   ],
   "id": 29
@@ -21094,11 +21232,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-penyusunan-anggaran-berbasis-risiko/",
   "status": "Aktif",
-  "total_impr": 49,
+  "total_impr": 51,
   "total_clicks": 1,
-  "ctr": 2.04,
-  "avg_rank": 6.2,
-  "latest_rank": 6.0,
+  "ctr": 1.96,
+  "avg_rank": 7.4,
+  "latest_rank": 10.5,
   "weeks": [
    {
     "w": "2026W35",
@@ -21137,10 +21275,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 10.5
    }
   ],
   "daily": [
@@ -21209,6 +21347,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 15
    }
   ],
   "id": 30
@@ -21225,11 +21369,11 @@
   "vol_info": "100 – 300",
   "url": "https://grc-indonesia.com/pelatihan-implementasi-manajemen-risiko-bumn-per2-mbu-03-2023/",
   "status": "Aktif",
-  "total_impr": 97,
+  "total_impr": 106,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.1,
-  "latest_rank": 6.0,
+  "avg_rank": 6.2,
+  "latest_rank": 6.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -21268,10 +21412,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 9,
+    "impr": 18,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 6.3
    }
   ],
   "daily": [
@@ -21346,6 +21490,12 @@
     "impr": 9,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 9,
+    "clicks": 0,
+    "rank": 6.6
    }
   ],
   "id": 31
@@ -21362,11 +21512,11 @@
   "vol_info": "200 - 450",
   "url": "https://grc-indonesia.com/pelatihan-rkap-berbasis-risiko/",
   "status": "Aktif",
-  "total_impr": 112,
+  "total_impr": 114,
   "total_clicks": 2,
-  "ctr": 1.79,
-  "avg_rank": 7.0,
-  "latest_rank": 6.2,
+  "ctr": 1.75,
+  "avg_rank": 6.9,
+  "latest_rank": 6.5,
   "weeks": [
    {
     "w": "2026W35",
@@ -21405,10 +21555,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 6.5
    }
   ],
   "daily": [
@@ -21513,6 +21663,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 6.5
    }
   ],
   "id": 32
@@ -21529,7 +21685,7 @@
   "vol_info": "800-2.000",
   "url": "https://grc-indonesia.com/pelatihan-risk-control-self-assessment/",
   "status": "Aktif",
-  "total_impr": 308,
+  "total_impr": 360,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.7,
@@ -21572,7 +21728,7 @@
    },
    {
     "w": "2026W40",
-    "impr": 46,
+    "impr": 98,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.4
@@ -21650,6 +21806,12 @@
     "impr": 46,
     "clicks": 0,
     "rank": 5.4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 52,
+    "clicks": 0,
+    "rank": 5.3
    }
   ],
   "id": 33
@@ -21666,9 +21828,9 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-good-corporate-governance-gcg-terbaik/",
   "status": "Aktif",
-  "total_impr": 157,
+  "total_impr": 168,
   "total_clicks": 12,
-  "ctr": 7.64,
+  "ctr": 7.14,
   "avg_rank": 5.9,
   "latest_rank": 5.9,
   "weeks": [
@@ -21709,7 +21871,7 @@
    },
    {
     "w": "2026W40",
-    "impr": 15,
+    "impr": 26,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.9
@@ -21827,6 +21989,12 @@
    {
     "d": "2026-09-28",
     "impr": 15,
+    "clicks": 0,
+    "rank": 5.9
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 11,
     "clicks": 0,
     "rank": 5.9
    }
@@ -21982,11 +22150,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-kepatuhan-apu-dan-ppt-untuk-perusahaan/",
   "status": "Aktif",
-  "total_impr": 109,
+  "total_impr": 114,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 7.2,
-  "latest_rank": 7.2,
+  "avg_rank": 7.4,
+  "latest_rank": 7.8,
   "weeks": [
    {
     "w": "2026W35",
@@ -22025,10 +22193,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 9,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.2
+    "rank": 7.8
    }
   ],
   "daily": [
@@ -22133,6 +22301,12 @@
     "impr": 9,
     "clicks": 0,
     "rank": 7.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 8.4
    }
   ],
   "id": 36
@@ -22149,11 +22323,11 @@
   "vol_info": "450-800",
   "url": "https://grc-indonesia.com/pelatihan-risiko-proyek-konstruksi/",
   "status": "Aktif",
-  "total_impr": 40,
+  "total_impr": 43,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 9.8,
-  "latest_rank": 7.5,
+  "avg_rank": 8.8,
+  "latest_rank": 4.4,
   "weeks": [
    {
     "w": "2026W35",
@@ -22192,10 +22366,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 2,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.5
+    "rank": 4.4
    }
   ],
   "daily": [
@@ -22252,6 +22426,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 7.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 1.3
    }
   ],
   "id": 37
@@ -22268,11 +22448,11 @@
   "vol_info": "100 - 250",
   "url": "https://grc-indonesia.com/sertifikasi-certified-governance-professional-cgp/",
   "status": "Aktif",
-  "total_impr": 2111,
+  "total_impr": 2217,
   "total_clicks": 19,
-  "ctr": 0.9,
-  "avg_rank": 7.1,
-  "latest_rank": 6.9,
+  "ctr": 0.86,
+  "avg_rank": 7.0,
+  "latest_rank": 6.8,
   "weeks": [
    {
     "w": "2026W35",
@@ -22311,10 +22491,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 93,
+    "impr": 199,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.9
+    "rank": 6.8
    }
   ],
   "daily": [
@@ -22425,6 +22605,12 @@
     "impr": 93,
     "clicks": 0,
     "rank": 6.9
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 106,
+    "clicks": 0,
+    "rank": 6.8
    }
   ],
   "id": 38
@@ -22739,11 +22925,11 @@
   "vol_info": "150 - 300",
   "url": "https://grc-indonesia.com/pelatihan-ccgo-cgop-lsp-mks-indonesia/",
   "status": "Aktif",
-  "total_impr": 135,
-  "total_clicks": 5,
-  "ctr": 3.7,
-  "avg_rank": 7.6,
-  "latest_rank": 5.2,
+  "total_impr": 142,
+  "total_clicks": 6,
+  "ctr": 4.23,
+  "avg_rank": 7.3,
+  "latest_rank": 4.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -22782,10 +22968,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 4,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 5.2
+    "impr": 11,
+    "clicks": 1,
+    "ctr": 9.09,
+    "rank": 4.0
    }
   ],
   "daily": [
@@ -22884,6 +23070,12 @@
     "impr": 4,
     "clicks": 0,
     "rank": 5.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 7,
+    "clicks": 1,
+    "rank": 2.7
    }
   ],
   "id": 41
@@ -22900,11 +23092,11 @@
   "vol_info": "100 – 250",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-data-analytics-risk-management/",
   "status": "Aktif",
-  "total_impr": 67,
+  "total_impr": 70,
   "total_clicks": 5,
-  "ctr": 7.46,
-  "avg_rank": 12.2,
-  "latest_rank": 4.5,
+  "ctr": 7.14,
+  "avg_rank": 12.0,
+  "latest_rank": 3.9,
   "weeks": [
    {
     "w": "2026W35",
@@ -22943,10 +23135,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 4,
+    "impr": 7,
     "clicks": 1,
-    "ctr": 25.0,
-    "rank": 4.5
+    "ctr": 14.29,
+    "rank": 3.9
    }
   ],
   "daily": [
@@ -23033,6 +23225,12 @@
     "impr": 4,
     "clicks": 1,
     "rank": 4.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 3.3
    }
   ],
   "id": 42
@@ -23049,11 +23247,11 @@
   "vol_info": "500 - 1.200",
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "status": "Aktif",
-  "total_impr": 190,
+  "total_impr": 201,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.3,
-  "latest_rank": 5.1,
+  "avg_rank": 6.6,
+  "latest_rank": 6.1,
   "weeks": [
    {
     "w": "2026W35",
@@ -23092,10 +23290,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 8,
+    "impr": 19,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.1
+    "rank": 6.1
    }
   ],
   "daily": [
@@ -23188,6 +23386,12 @@
     "impr": 8,
     "clicks": 0,
     "rank": 5.1
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 7.1
    }
   ],
   "id": 44
@@ -23204,11 +23408,11 @@
   "vol_info": "1100",
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "status": "Aktif",
-  "total_impr": 190,
+  "total_impr": 201,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.3,
-  "latest_rank": 5.1,
+  "avg_rank": 6.6,
+  "latest_rank": 6.1,
   "weeks": [
    {
     "w": "2026W35",
@@ -23247,10 +23451,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 8,
+    "impr": 19,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.1
+    "rank": 6.1
    }
   ],
   "daily": [
@@ -23343,6 +23547,12 @@
     "impr": 8,
     "clicks": 0,
     "rank": 5.1
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 7.1
    }
   ],
   "id": 44
@@ -23359,11 +23569,11 @@
   "vol_info": "950",
   "url": "https://grc-indonesia.com/pelatihan-internal-control-testing-bumn/",
   "status": "Aktif",
-  "total_impr": 127,
+  "total_impr": 133,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 8.7,
-  "latest_rank": 9.0,
+  "avg_rank": 7.8,
+  "latest_rank": 6.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -23402,10 +23612,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 11,
+    "impr": 17,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 6.3
    }
   ],
   "daily": [
@@ -23486,6 +23696,12 @@
     "impr": 11,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 3.7
    }
   ],
   "id": 45
@@ -23502,11 +23718,11 @@
   "vol_info": "350 - 700",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-managing-legal-risk-iso-31022/",
   "status": "Aktif",
-  "total_impr": 42,
+  "total_impr": 45,
   "total_clicks": 5,
-  "ctr": 11.9,
-  "avg_rank": 5.0,
-  "latest_rank": 3.5,
+  "ctr": 11.11,
+  "avg_rank": 5.7,
+  "latest_rank": 5.8,
   "weeks": [
    {
     "w": "2026W35",
@@ -23545,10 +23761,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 2,
+    "impr": 5,
     "clicks": 1,
-    "ctr": 50.0,
-    "rank": 3.5
+    "ctr": 20.0,
+    "rank": 5.8
    }
   ],
   "daily": [
@@ -23617,6 +23833,12 @@
     "impr": 2,
     "clicks": 1,
     "rank": 3.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 8
    }
   ],
   "id": 46
@@ -23633,11 +23855,11 @@
   "vol_info": "300 - 700",
   "url": "https://grc-indonesia.com/sertifikasi/master-class-enterprise-risk-governance-qcro-qrgp-cerg/",
   "status": "Aktif",
-  "total_impr": 79,
-  "total_clicks": 1,
-  "ctr": 1.27,
-  "avg_rank": 9.6,
-  "latest_rank": 7.2,
+  "total_impr": 82,
+  "total_clicks": 2,
+  "ctr": 2.44,
+  "avg_rank": 9.3,
+  "latest_rank": 6.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -23676,10 +23898,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 10,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.2
+    "impr": 13,
+    "clicks": 1,
+    "ctr": 7.69,
+    "rank": 6.3
    }
   ],
   "daily": [
@@ -23742,6 +23964,12 @@
     "impr": 10,
     "clicks": 0,
     "rank": 7.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 3,
+    "clicks": 1,
+    "rank": 5.3
    }
   ],
   "id": 47
@@ -23758,11 +23986,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-pengambilan-keputusan-direksi-debiasing/",
   "status": "Aktif",
-  "total_impr": 41,
+  "total_impr": 44,
   "total_clicks": 1,
-  "ctr": 2.44,
-  "avg_rank": 12.6,
-  "latest_rank": 7.2,
+  "ctr": 2.27,
+  "avg_rank": 13.1,
+  "latest_rank": 8.6,
   "weeks": [
    {
     "w": "2026W35",
@@ -23801,10 +24029,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 4,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.2
+    "rank": 8.6
    }
   ],
   "daily": [
@@ -23861,6 +24089,12 @@
     "impr": 4,
     "clicks": 0,
     "rank": 7.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 10
    }
   ],
   "id": 48
@@ -23877,7 +24111,7 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/risk-maturity-level/",
   "status": "Aktif",
-  "total_impr": 7482,
+  "total_impr": 7434,
   "total_clicks": 61,
   "ctr": 0.82,
   "avg_rank": 10.3,
@@ -23906,10 +24140,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 174,
+    "impr": 125,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.1
+    "rank": 8.3
    },
    {
     "w": "2026W05",
@@ -24158,7 +24392,7 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
@@ -25652,6 +25886,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 1
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
    }
   ],
   "id": 49
@@ -25668,11 +25908,11 @@
   "vol_info": "320 - 590",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-perbankan/",
   "status": "Aktif",
-  "total_impr": 189,
+  "total_impr": 197,
   "total_clicks": 2,
-  "ctr": 1.06,
-  "avg_rank": 10.3,
-  "latest_rank": 13.0,
+  "ctr": 1.02,
+  "avg_rank": 9.5,
+  "latest_rank": 10.4,
   "weeks": [
    {
     "w": "2026W35",
@@ -25711,10 +25951,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 3,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.0
+    "rank": 10.4
    }
   ],
   "daily": [
@@ -25801,6 +26041,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 13
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 7.9
    }
   ],
   "id": 50
@@ -25817,11 +26063,11 @@
   "vol_info": "1.4",
   "url": "https://grc-indonesia.com/pelatihan-risk-appetite-statement-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 2,
+  "total_impr": 8,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.5,
-  "latest_rank": 6.5,
+  "avg_rank": 6.9,
+  "latest_rank": 6.9,
   "weeks": [
    {
     "w": "2026W35",
@@ -25860,10 +26106,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 2,
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.5
+    "rank": 6.9
    }
   ],
   "daily": [
@@ -25872,6 +26118,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 6.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 7.3
    }
   ],
   "id": 51
@@ -25916,11 +26168,11 @@
   "vol_info": "123",
   "url": "https://grc-indonesia.com/pelatihan-risk-based-decision-making/",
   "status": "Aktif",
-  "total_impr": 5,
+  "total_impr": 10,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 10.4,
-  "latest_rank": 10.4,
+  "avg_rank": 18.3,
+  "latest_rank": 18.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -25959,10 +26211,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 5,
+    "impr": 10,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.4
+    "rank": 18.3
    }
   ],
   "daily": [
@@ -25971,6 +26223,12 @@
     "impr": 5,
     "clicks": 0,
     "rank": 10.4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 26.2
    }
   ],
   "id": 53
@@ -25987,11 +26245,11 @@
   "vol_info": "212",
   "url": "https://grc-indonesia.com/pelatihan-risk-management-maturity-assessment-bumn-non-bumn/",
   "status": "Aktif",
-  "total_impr": 4,
+  "total_impr": 16,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 5.0,
-  "latest_rank": 5.0,
+  "avg_rank": 5.7,
+  "latest_rank": 5.7,
   "weeks": [
    {
     "w": "2026W35",
@@ -26030,10 +26288,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 4,
+    "impr": 16,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.0
+    "rank": 5.7
    }
   ],
   "daily": [
@@ -26042,6 +26300,12 @@
     "impr": 4,
     "clicks": 0,
     "rank": 5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 12,
+    "clicks": 0,
+    "rank": 6.4
    }
   ],
   "id": 54
@@ -26058,18 +26322,18 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/risk-management/",
   "status": "Draft",
-  "total_impr": 1872,
-  "total_clicks": 28,
-  "ctr": 1.5,
+  "total_impr": 1858,
+  "total_clicks": 27,
+  "ctr": 1.45,
   "avg_rank": 21.0,
-  "latest_rank": 15.2,
+  "latest_rank": 18.6,
   "weeks": [
    {
     "w": "2026W04",
-    "impr": 35,
-    "clicks": 3,
-    "ctr": 8.57,
-    "rank": 12.8
+    "impr": 20,
+    "clicks": 2,
+    "ctr": 10.0,
+    "rank": 11.5
    },
    {
     "w": "2026W05",
@@ -26318,10 +26582,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 4,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.2
+    "rank": 18.6
    }
   ],
   "daily": [
@@ -27722,6 +27986,12 @@
     "impr": 4,
     "clicks": 0,
     "rank": 15.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 22
    }
   ],
   "id": 55
@@ -27766,9 +28036,9 @@
   "vol_info": "2400",
   "url": "https://ipqi.org/pelatihan-fmea-failure-mode-and-effects-analysis-control-plan/",
   "status": "Aktif",
-  "total_impr": 361.0,
+  "total_impr": 371.0,
   "total_clicks": 3.0,
-  "ctr": 0.83,
+  "ctr": 0.81,
   "avg_rank": 47.3,
   "latest_rank": 0,
   "weeks": [
@@ -28047,10 +28317,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 2.0
+    "rank": 4.8
    },
    {
     "w": "2026W41",
@@ -28060,15 +28330,21 @@
     "rank": null
    }
   ],
-  "id": 1001,
   "daily": [
    {
     "d": "2026-09-28",
     "impr": 1,
     "clicks": 0,
     "rank": 2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 7.5
    }
-  ]
+  ],
+  "id": 1001
  },
  {
   "brand": "IPQI",
@@ -28082,11 +28358,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iso/",
   "status": "Aktif",
-  "total_impr": 264.0,
+  "total_impr": 261.0,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 8.5,
-  "latest_rank": 7.1,
+  "avg_rank": 7.9,
+  "latest_rank": 8.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -28111,10 +28387,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 9,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 26.5
+    "rank": 7.3
    },
    {
     "w": "2026W05",
@@ -28363,10 +28639,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 8.0
    },
    {
     "w": "2026W41",
@@ -28376,7 +28652,6 @@
     "rank": null
    }
   ],
-  "id": 1002,
   "daily": [
    {
     "d": "2026-01-22",
@@ -29037,8 +29312,15 @@
     "impr": 2,
     "clicks": 0,
     "rank": 6.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 8
    }
-  ]
+  ],
+  "id": 1002
  },
  {
   "brand": "IPQI",
@@ -29052,11 +29334,11 @@
   "vol_info": "320 - 720",
   "url": "https://ipqi.org/pelatihan-5s-workplace-organization-audit-system/",
   "status": "Aktif",
-  "total_impr": 5640,
-  "total_clicks": 10,
+  "total_impr": 5642.0,
+  "total_clicks": 10.0,
   "ctr": 0.18,
-  "avg_rank": 8.9,
-  "latest_rank": 11.0,
+  "avg_rank": 8.8,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -29333,10 +29615,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 7.0
    },
    {
     "w": "2026W41",
@@ -29346,7 +29628,15 @@
     "rank": null
    }
   ],
-  "id": 1003
+  "id": 1003,
+  "daily": [
+   {
+    "d": "2026-09-29",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 7
+   }
+  ]
  },
  {
   "brand": "IPQI",
@@ -29360,9 +29650,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-5r/",
   "status": "Aktif",
-  "total_impr": 9238.0,
-  "total_clicks": 191.0,
-  "ctr": 2.07,
+  "total_impr": 9212.0,
+  "total_clicks": 193.0,
+  "ctr": 2.1,
   "avg_rank": 4.8,
   "latest_rank": 0,
   "weeks": [
@@ -29389,7 +29679,7 @@
    },
    {
     "w": "2026W04",
-    "impr": 188,
+    "impr": 121,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.9
@@ -29641,10 +29931,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 63,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.0
+    "impr": 104,
+    "clicks": 2,
+    "ctr": 1.92,
+    "rank": 3.7
    },
    {
     "w": "2026W41",
@@ -29654,7 +29944,6 @@
     "rank": null
    }
   ],
-  "id": 1004,
   "daily": [
    {
     "d": "2026-01-22",
@@ -31155,8 +31444,15 @@
     "impr": 63,
     "clicks": 0,
     "rank": 4.0
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 41,
+    "clicks": 2,
+    "rank": 3.3
    }
-  ]
+  ],
+  "id": 1004
  },
  {
   "brand": "IPQI",
@@ -31170,10 +31466,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-leadership/",
   "status": "Aktif",
-  "total_impr": 760.0,
+  "total_impr": 758.0,
   "total_clicks": 4,
   "ctr": 0.53,
-  "avg_rank": 9.0,
+  "avg_rank": 10.0,
   "latest_rank": 0,
   "weeks": [
    {
@@ -31199,10 +31495,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 10,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 2.9
+    "rank": 1.0
    },
    {
     "w": "2026W05",
@@ -31451,10 +31747,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 1.0
+    "rank": 44.5
    },
    {
     "w": "2026W41",
@@ -31464,7 +31760,6 @@
     "rank": null
    }
   ],
-  "id": 1005,
   "daily": [
    {
     "d": "2026-01-22",
@@ -32707,8 +33002,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 1
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 88
    }
-  ]
+  ],
+  "id": 1005
  },
  {
   "brand": "IPQI",
@@ -32722,11 +33024,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/pelatihan-teknisi-kalibrasi-alat-ukur-iso-17025/",
   "status": "Aktif",
-  "total_impr": 379,
-  "total_clicks": 22,
-  "ctr": 5.8,
-  "avg_rank": 14.5,
-  "latest_rank": 11.0,
+  "total_impr": 384.0,
+  "total_clicks": 22.0,
+  "ctr": 5.73,
+  "avg_rank": 14.2,
+  "latest_rank": 4.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -33003,10 +33305,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 4.4
    },
    {
     "w": "2026W41",
@@ -33016,7 +33318,15 @@
     "rank": null
    }
   ],
-  "id": 1006
+  "id": 1006,
+  "daily": [
+   {
+    "d": "2026-09-29",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 4.4
+   }
+  ]
  },
  {
   "brand": "IPQI",
@@ -33338,10 +33648,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-lean-management/",
   "status": "Aktif",
-  "total_impr": 581.0,
+  "total_impr": 580.0,
   "total_clicks": 18.0,
   "ctr": 3.1,
-  "avg_rank": 10.9,
+  "avg_rank": 10.7,
   "latest_rank": 0,
   "weeks": [
    {
@@ -33367,10 +33677,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 5,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 20.8
+    "rank": 9.8
    },
    {
     "w": "2026W05",
@@ -33619,10 +33929,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 3,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.3
+    "rank": 7.2
    },
    {
     "w": "2026W41",
@@ -33632,7 +33942,6 @@
     "rank": null
    }
   ],
-  "id": 1008,
   "daily": [
    {
     "d": "2026-01-22",
@@ -34743,8 +35052,15 @@
     "impr": 3,
     "clicks": 0,
     "rank": 4.3
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 10
    }
-  ]
+  ],
+  "id": 1008
  },
  {
   "brand": "IPQI",
@@ -34758,11 +35074,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iatf-16949/",
   "status": "Aktif",
-  "total_impr": 154.0,
+  "total_impr": 156.0,
   "total_clicks": 3,
-  "ctr": 1.95,
-  "avg_rank": 16.0,
-  "latest_rank": 21.7,
+  "ctr": 1.92,
+  "avg_rank": 15.7,
+  "latest_rank": 8.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -35039,10 +35355,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 8.5
    },
    {
     "w": "2026W41",
@@ -35052,7 +35368,6 @@
     "rank": null
    }
   ],
-  "id": 1009,
   "daily": [
    {
     "d": "2026-01-26",
@@ -35449,8 +35764,15 @@
     "impr": 2,
     "clicks": 0,
     "rank": 29.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 8.5
    }
-  ]
+  ],
+  "id": 1009
  },
  {
   "brand": "IPQI",
@@ -35464,9 +35786,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-need-analysis/",
   "status": "Aktif",
-  "total_impr": 439.0,
+  "total_impr": 452.0,
   "total_clicks": 1,
-  "ctr": 0.23,
+  "ctr": 0.22,
   "avg_rank": 23.5,
   "latest_rank": 0,
   "weeks": [
@@ -35745,10 +36067,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 24.0
+    "rank": 23.0
    },
    {
     "w": "2026W41",
@@ -35758,7 +36080,6 @@
     "rank": null
    }
   ],
-  "id": 1010,
   "daily": [
    {
     "d": "2026-01-23",
@@ -36617,8 +36938,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 24
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 13,
+    "clicks": 0,
+    "rank": 21.9
    }
-  ]
+  ],
+  "id": 1010
  },
  {
   "brand": "IPQI",
@@ -36635,7 +36963,7 @@
   "total_impr": 451.0,
   "total_clicks": 2,
   "ctr": 0.44,
-  "avg_rank": 14.0,
+  "avg_rank": 14.1,
   "latest_rank": 0,
   "weeks": [
    {
@@ -36661,10 +36989,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 5,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 18.8
+    "rank": 19.3
    },
    {
     "w": "2026W05",
@@ -36913,10 +37241,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.0
+    "rank": 10.0
    },
    {
     "w": "2026W41",
@@ -36926,7 +37254,6 @@
     "rank": null
    }
   ],
-  "id": 1011,
   "daily": [
    {
     "d": "2026-01-22",
@@ -38169,8 +38496,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 14
    }
-  ]
+  ],
+  "id": 1011
  },
  {
   "brand": "IPQI",
@@ -38184,9 +38518,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-balanced-scorecard/",
   "status": "Aktif",
-  "total_impr": 101.0,
+  "total_impr": 118.0,
   "total_clicks": 2,
-  "ctr": 1.98,
+  "ctr": 1.69,
   "avg_rank": 12.9,
   "latest_rank": 0,
   "weeks": [
@@ -38465,10 +38799,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 9,
+    "impr": 26,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 4.4
+    "rank": 4.7
    },
    {
     "w": "2026W41",
@@ -38478,7 +38812,6 @@
     "rank": null
    }
   ],
-  "id": 1012,
   "daily": [
    {
     "d": "2026-01-26",
@@ -38779,8 +39112,15 @@
     "impr": 9,
     "clicks": 0,
     "rank": 4.4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 17,
+    "clicks": 0,
+    "rank": 5
    }
-  ]
+  ],
+  "id": 1012
  },
  {
   "brand": "IPQI",
@@ -38797,7 +39137,7 @@
   "total_impr": 275.0,
   "total_clicks": 6.0,
   "ctr": 2.18,
-  "avg_rank": 23.5,
+  "avg_rank": 21.6,
   "latest_rank": 0,
   "weeks": [
    {
@@ -38823,10 +39163,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 2,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 45.5
+    "rank": 7.0
    },
    {
     "w": "2026W05",
@@ -39075,10 +39415,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 87.0
+    "rank": 51.0
    },
    {
     "w": "2026W41",
@@ -39088,7 +39428,6 @@
     "rank": null
    }
   ],
-  "id": 1013,
   "daily": [
    {
     "d": "2026-01-22",
@@ -39725,8 +40064,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 87
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 15
    }
-  ]
+  ],
+  "id": 1013
  },
  {
   "brand": "IPQI",
@@ -39740,9 +40086,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process/",
   "status": "Aktif",
-  "total_impr": 765.0,
-  "total_clicks": 13,
-  "ctr": 1.7,
+  "total_impr": 775.0,
+  "total_clicks": 14,
+  "ctr": 1.81,
   "avg_rank": 8.4,
   "latest_rank": 0,
   "weeks": [
@@ -40021,9 +40367,9 @@
    },
    {
     "w": "2026W40",
-    "impr": 4,
-    "clicks": 0,
-    "ctr": 0.0,
+    "impr": 14,
+    "clicks": 1,
+    "ctr": 7.14,
     "rank": 4.2
    },
    {
@@ -40034,7 +40380,6 @@
     "rank": null
    }
   ],
-  "id": 1014,
   "daily": [
    {
     "d": "2026-01-23",
@@ -41337,8 +41682,15 @@
     "impr": 4,
     "clicks": 0,
     "rank": 4.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 10,
+    "clicks": 1,
+    "rank": 4.1
    }
-  ]
+  ],
+  "id": 1014
  },
  {
   "brand": "IPQI",
@@ -41646,7 +41998,6 @@
     "rank": null
    }
   ],
-  "id": 1015,
   "daily": [
    {
     "d": "2026-03-04",
@@ -41660,7 +42011,8 @@
     "clicks": 0,
     "rank": 22
    }
-  ]
+  ],
+  "id": 1015
  },
  {
   "brand": "IPQI",
@@ -41674,9 +42026,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-masa-persiapan-pensiun/",
   "status": "Aktif",
-  "total_impr": 1804.0,
+  "total_impr": 1812.0,
   "total_clicks": 24,
-  "ctr": 1.33,
+  "ctr": 1.32,
   "avg_rank": 21.4,
   "latest_rank": 0,
   "weeks": [
@@ -41703,10 +42055,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 10,
+    "impr": 9,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 28.4
+    "rank": 35.6
    },
    {
     "w": "2026W05",
@@ -41955,10 +42307,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 11,
+    "impr": 20,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 34.2
+    "rank": 27.3
    },
    {
     "w": "2026W41",
@@ -41968,7 +42320,6 @@
     "rank": null
    }
   ],
-  "id": 1016,
   "daily": [
    {
     "d": "2026-01-22",
@@ -43319,8 +43670,15 @@
     "impr": 11,
     "clicks": 0,
     "rank": 34.2
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 9,
+    "clicks": 0,
+    "rank": 20.3
    }
-  ]
+  ],
+  "id": 1016
  },
  {
   "brand": "IPQI",
@@ -43628,7 +43986,6 @@
     "rank": null
    }
   ],
-  "id": 1017,
   "daily": [
    {
     "d": "2026-01-22",
@@ -44116,7 +44473,8 @@
     "clicks": 0,
     "rank": 6
    }
-  ]
+  ],
+  "id": 1017
  },
  {
   "brand": "IPQI",
@@ -44133,8 +44491,8 @@
   "total_impr": 158.0,
   "total_clicks": 2,
   "ctr": 1.27,
-  "avg_rank": 11.7,
-  "latest_rank": 16.0,
+  "avg_rank": 11.6,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -44159,10 +44517,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 2,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 4.0
    },
    {
     "w": "2026W05",
@@ -44411,10 +44769,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 9.0
    },
    {
     "w": "2026W41",
@@ -44424,7 +44782,6 @@
     "rank": null
    }
   ],
-  "id": 1018,
   "daily": [
    {
     "d": "2026-01-22",
@@ -44947,8 +45304,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 16
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 1018
  },
  {
   "brand": "IPQI",
@@ -45256,7 +45620,6 @@
     "rank": null
    }
   ],
-  "id": 1019,
   "daily": [
    {
     "d": "2026-01-23",
@@ -45498,7 +45861,8 @@
     "clicks": 0,
     "rank": 8
    }
-  ]
+  ],
+  "id": 1019
  },
  {
   "brand": "IPQI",
@@ -45806,7 +46170,6 @@
     "rank": null
    }
   ],
-  "id": 1020,
   "daily": [
    {
     "d": "2026-01-26",
@@ -46396,7 +46759,8 @@
     "clicks": 0,
     "rank": 1
    }
-  ]
+  ],
+  "id": 1020
  },
  {
   "brand": "IPQI",
@@ -46410,11 +46774,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-effective-communication-skill/",
   "status": "Aktif",
-  "total_impr": 228.0,
+  "total_impr": 229.0,
   "total_clicks": 1,
   "ctr": 0.44,
-  "avg_rank": 33.4,
-  "latest_rank": 28.0,
+  "avg_rank": 33.1,
+  "latest_rank": 24.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -46691,10 +47055,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 24.0
    },
    {
     "w": "2026W41",
@@ -46704,7 +47068,6 @@
     "rank": null
    }
   ],
-  "id": 1021,
   "daily": [
    {
     "d": "2026-01-24",
@@ -47287,8 +47650,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 49
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 24
    }
-  ]
+  ],
+  "id": 1021
  },
  {
   "brand": "IPQI",
@@ -47302,10 +47672,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-awareness-quality-management/",
   "status": "Aktif",
-  "total_impr": 466.0,
+  "total_impr": 467.0,
   "total_clicks": 5,
   "ctr": 1.07,
-  "avg_rank": 11.7,
+  "avg_rank": 11.6,
   "latest_rank": 0,
   "weeks": [
    {
@@ -47583,10 +47953,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.0
+    "rank": 6.0
    },
    {
     "w": "2026W41",
@@ -47596,7 +47966,6 @@
     "rank": null
    }
   ],
-  "id": 1022,
   "daily": [
    {
     "d": "2026-01-23",
@@ -48581,8 +48950,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 11
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
    }
-  ]
+  ],
+  "id": 1022
  },
  {
   "brand": "IPQI",
@@ -48596,10 +48972,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process-management/",
   "status": "Aktif",
-  "total_impr": 184.0,
+  "total_impr": 183.0,
   "total_clicks": 3.0,
-  "ctr": 1.63,
-  "avg_rank": 26.2,
+  "ctr": 1.64,
+  "avg_rank": 26.0,
   "latest_rank": 10.5,
   "weeks": [
    {
@@ -48625,10 +49001,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 6,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.2
+    "rank": 4.3
    },
    {
     "w": "2026W05",
@@ -48890,7 +49266,6 @@
     "rank": null
    }
   ],
-  "id": 1023,
   "daily": [
    {
     "d": "2026-01-22",
@@ -49462,7 +49837,8 @@
     "clicks": 0,
     "rank": 15
    }
-  ]
+  ],
+  "id": 1023
  },
  {
   "brand": "IPQI",
@@ -49770,7 +50146,6 @@
     "rank": null
    }
   ],
-  "id": 1024,
   "daily": [
    {
     "d": "2026-04-07",
@@ -49904,7 +50279,8 @@
     "clicks": 0,
     "rank": 10
    }
-  ]
+  ],
+  "id": 1024
  },
  {
   "brand": "IPQI",
@@ -50212,7 +50588,6 @@
     "rank": null
    }
   ],
-  "id": 1025,
   "daily": [
    {
     "d": "2026-01-23",
@@ -51000,7 +51375,8 @@
     "clicks": 0,
     "rank": 18
    }
-  ]
+  ],
+  "id": 1025
  },
  {
   "brand": "IPQI",
@@ -51014,11 +51390,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-lobbying-and-negotiation-skill/",
   "status": "Aktif",
-  "total_impr": 54.0,
+  "total_impr": 55.0,
   "total_clicks": 1,
-  "ctr": 1.85,
-  "avg_rank": 16.3,
-  "latest_rank": 10.0,
+  "ctr": 1.82,
+  "avg_rank": 15.9,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -51295,10 +51671,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 7.0
    },
    {
     "w": "2026W41",
@@ -51308,7 +51684,6 @@
     "rank": null
    }
   ],
-  "id": 1026,
   "daily": [
    {
     "d": "2026-01-23",
@@ -51543,8 +51918,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 10
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 7
    }
-  ]
+  ],
+  "id": 1026
  },
  {
   "brand": "IPQI",
@@ -51558,10 +51940,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-awareness-environmental-management-system/",
   "status": "Aktif",
-  "total_impr": 84.0,
+  "total_impr": 81.0,
   "total_clicks": 2,
-  "ctr": 2.38,
-  "avg_rank": 26.2,
+  "ctr": 2.47,
+  "avg_rank": 26.8,
   "latest_rank": 11.0,
   "weeks": [
    {
@@ -51587,10 +51969,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 5,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 23.3
+    "rank": 40.0
    },
    {
     "w": "2026W05",
@@ -51852,7 +52234,6 @@
     "rank": null
    }
   ],
-  "id": 1027,
   "daily": [
    {
     "d": "2026-01-22",
@@ -52190,7 +52571,8 @@
     "clicks": 0,
     "rank": 11
    }
-  ]
+  ],
+  "id": 1027
  },
  {
   "brand": "IPQI",
@@ -52204,11 +52586,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-root-cause-analysis-technique/",
   "status": "Aktif",
-  "total_impr": 98.0,
+  "total_impr": 99.0,
   "total_clicks": 4,
-  "ctr": 4.08,
-  "avg_rank": 6.8,
-  "latest_rank": 4.5,
+  "ctr": 4.04,
+  "avg_rank": 6.7,
+  "latest_rank": 4.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -52485,10 +52867,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 0.0
+    "rank": 4.0
    },
    {
     "w": "2026W41",
@@ -52498,7 +52880,6 @@
     "rank": null
    }
   ],
-  "id": 1028,
   "daily": [
    {
     "d": "2026-01-23",
@@ -52931,8 +53312,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 4
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
    }
-  ]
+  ],
+  "id": 1028
  },
  {
   "brand": "IPQI",
@@ -52946,9 +53334,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-green-belt-six-sigma/",
   "status": "Aktif",
-  "total_impr": 390.0,
+  "total_impr": 388.0,
   "total_clicks": 2,
-  "ctr": 0.51,
+  "ctr": 0.52,
   "avg_rank": 22.2,
   "latest_rank": 0,
   "weeks": [
@@ -52975,10 +53363,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 6,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 20.5
+    "rank": 22.5
    },
    {
     "w": "2026W05",
@@ -53240,7 +53628,6 @@
     "rank": null
    }
   ],
-  "id": 1029,
   "daily": [
    {
     "d": "2026-01-22",
@@ -54256,7 +54643,8 @@
     "clicks": 0,
     "rank": 1
    }
-  ]
+  ],
+  "id": 1029
  },
  {
   "brand": "IPQI",
@@ -54564,7 +54952,6 @@
     "rank": null
    }
   ],
-  "id": 1030,
   "daily": [
    {
     "d": "2026-04-20",
@@ -54596,7 +54983,8 @@
     "clicks": 0,
     "rank": 2
    }
-  ]
+  ],
+  "id": 1030
  },
  {
   "brand": "IPQI",
@@ -54610,10 +54998,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-total-productive-maintenance-tpm/",
   "status": "Aktif",
-  "total_impr": 147.0,
+  "total_impr": 146.0,
   "total_clicks": 1,
   "ctr": 0.68,
-  "avg_rank": 10.2,
+  "avg_rank": 10.1,
   "latest_rank": 11.8,
   "weeks": [
    {
@@ -54639,10 +55027,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 2,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 6.0
    },
    {
     "w": "2026W05",
@@ -54904,7 +55292,6 @@
     "rank": null
    }
   ],
-  "id": 1031,
   "daily": [
    {
     "d": "2026-01-22",
@@ -55476,7 +55863,8 @@
     "clicks": 0,
     "rank": 14.7
    }
-  ]
+  ],
+  "id": 1031
  },
  {
   "brand": "IPQI",
@@ -55490,10 +55878,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-kalibrasi-massa-suhu-dan-tekanan/",
   "status": "Aktif",
-  "total_impr": 465.0,
+  "total_impr": 466.0,
   "total_clicks": 3,
-  "ctr": 0.65,
-  "avg_rank": 9.9,
+  "ctr": 0.64,
+  "avg_rank": 9.8,
   "latest_rank": 0,
   "weeks": [
    {
@@ -55771,10 +56159,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 1,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.0
+    "rank": 4.5
    },
    {
     "w": "2026W41",
@@ -55784,7 +56172,6 @@
     "rank": null
    }
   ],
-  "id": 1032,
   "daily": [
    {
     "d": "2026-01-24",
@@ -56517,8 +56904,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
    }
-  ]
+  ],
+  "id": 1032
  },
  {
   "brand": "IPQI",
@@ -56826,7 +57220,6 @@
     "rank": null
    }
   ],
-  "id": 1033,
   "daily": [
    {
     "d": "2026-01-26",
@@ -57044,7 +57437,8 @@
     "clicks": 0,
     "rank": 7
    }
-  ]
+  ],
+  "id": 1033
  },
  {
   "brand": "IPQI",
@@ -57058,10 +57452,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-advanced-product-quality-planning-apqp/",
   "status": "Aktif",
-  "total_impr": 1150.0,
+  "total_impr": 1143.0,
   "total_clicks": 4.0,
   "ctr": 0.35,
-  "avg_rank": 9.4,
+  "avg_rank": 9.3,
   "latest_rank": 0,
   "weeks": [
    {
@@ -57087,10 +57481,10 @@
    },
    {
     "w": "2026W04",
-    "impr": 29,
+    "impr": 20,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 2.4
+    "rank": 2.0
    },
    {
     "w": "2026W05",
@@ -57339,10 +57733,10 @@
    },
    {
     "w": "2026W40",
-    "impr": 2,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.5
+    "rank": 3.8
    },
    {
     "w": "2026W41",
@@ -57352,7 +57746,6 @@
     "rank": null
    }
   ],
-  "id": 1034,
   "daily": [
    {
     "d": "2026-01-22",
@@ -58631,8 +59024,15 @@
     "impr": 2,
     "clicks": 0,
     "rank": 6.5
+   },
+   {
+    "d": "2026-09-29",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 1
    }
-  ]
+  ],
+  "id": 1034
  },
  {
   "brand": "IPQI",

@@ -1497,7 +1497,9 @@ def tailwind_inline():
     cache = os.path.join(DATA, "vendor-tailwind.js")
     if not os.path.exists(cache):
         try:
-            with urllib.request.urlopen(TW_URL, timeout=60) as r:
+            # CDN 403s a bare urllib UA; send a browser one.
+            req = urllib.request.Request(TW_URL, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=60) as r:
                 open(cache, "wb").write(r.read())
         except Exception as e:
             print(f"WARN: cannot fetch Tailwind for offline build ({e})")

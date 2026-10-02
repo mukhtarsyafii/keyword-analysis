@@ -1,6 +1,7 @@
 {
  "49": {
   "product_name": "Training Risk Maturity Level (Level Pengukuran Maturitas Risiko)",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
@@ -47,11 +48,13 @@
  },
  "7": {
   "product_name": "Pelatihan dan Sertifikasi Manajemen Risiko Berbasis ISO 31000:2018",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": []
  },
  "12": {
   "product_name": "Pelatihan BCMS berbasis ISO 22301:2019",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
@@ -84,7 +87,7 @@
     "difficulty": 5,
     "top_competitor": "-",
     "top_position": null,
-    "we_rank": 18
+    "we_rank": 19
    },
    {
     "keyword": "bcm training",
@@ -98,6 +101,7 @@
  },
  "13": {
   "product_name": "ICoFR Intensive Training",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
@@ -144,6 +148,7 @@
  },
  "38": {
   "product_name": "Pelatihan dan Sertifikasi Certified Governance Professional (CGP) Indonesia",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
@@ -420,6 +425,7 @@
  },
  "20": {
   "product_name": "Training Sistem Manajemen Kepatuhan",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
@@ -439,20 +445,20 @@
     "we_rank": 9
    },
    {
-    "keyword": "compliance management",
-    "volume": 40,
-    "difficulty": 32,
-    "top_competitor": "crmsindonesia.org",
-    "top_position": 2,
-    "we_rank": 29
-   },
-   {
     "keyword": "sertifikasi iso 37301",
     "volume": null,
     "difficulty": 12,
     "top_competitor": "crmsindonesia.org",
     "top_position": 1,
     "we_rank": 3
+   },
+   {
+    "keyword": "compliance management",
+    "volume": 40,
+    "difficulty": 32,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 29
    },
    {
     "keyword": "iso 37301 adalah",
@@ -466,6 +472,7 @@
  },
  "16": {
   "product_name": "Pelatihan Qualified Risk Management Officer (QRMO)",
+  "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
@@ -549,8 +556,8 @@
    },
    {
     "keyword": "pelatihan 5r",
-    "volume": null,
-    "difficulty": null,
+    "volume": 40,
+    "difficulty": 19,
     "top_competitor": "mkacademy.id",
     "top_position": 1,
     "we_rank": 2
@@ -633,11 +640,27 @@
    },
    {
     "keyword": "aapqp",
-    "volume": null,
-    "difficulty": null,
+    "volume": 10,
+    "difficulty": 31,
     "top_competitor": "-",
     "top_position": null,
     "we_rank": 11
+   },
+   {
+    "keyword": "advanced product quality planning",
+    "volume": 30,
+    "difficulty": 6,
+    "top_competitor": "pqm.co.id",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "advanced product quality planning (apqp)",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "pqm.co.id",
+    "top_position": 1,
+    "we_rank": 39
    }
   ]
  },
@@ -645,7 +668,48 @@
   "product_name": "Training Business Process",
   "brand": "IPQI",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
-  "competitor_keywords": []
+  "competitor_keywords": [
+   {
+    "keyword": "proses mapping adalah",
+    "volume": 30,
+    "difficulty": 13,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 6
+   },
+   {
+    "keyword": "process mapping adalah",
+    "volume": 20,
+    "difficulty": 13,
+    "top_competitor": "glints.com",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "business process mapping adalah",
+    "volume": 50,
+    "difficulty": 5,
+    "top_competitor": "glints.com",
+    "top_position": 4,
+    "we_rank": 6
+   },
+   {
+    "keyword": "proses mapping",
+    "volume": 40,
+    "difficulty": 18,
+    "top_competitor": "glints.com",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "contoh business process mapping",
+    "volume": 30,
+    "difficulty": 8,
+    "top_competitor": "msi-indonesia.com",
+    "top_position": 1,
+    "we_rank": 1
+   }
+  ]
  },
  "1005": {
   "product_name": "Training Leadership - Menciptakan hasil sebagai seorang ...",
@@ -653,44 +717,44 @@
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
-    "keyword": "site:ipqi.org",
-    "volume": null,
-    "difficulty": 30,
-    "top_competitor": "-",
-    "top_position": null,
-    "we_rank": 2
+    "keyword": "leadership training",
+    "volume": 590,
+    "difficulty": 14,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 64
    },
    {
-    "keyword": "animasi kepemimpinan",
-    "volume": 50,
-    "difficulty": 18,
+    "keyword": "gambar leadership",
+    "volume": 320,
+    "difficulty": 26,
     "top_competitor": "pixabay.com",
+    "top_position": 4,
+    "we_rank": 1
+   },
+   {
+    "keyword": "animasi leadership",
+    "volume": 40,
+    "difficulty": 18,
+    "top_competitor": "id.pngtree.com",
     "top_position": 1,
     "we_rank": 1
    },
    {
-    "keyword": "leadership and training",
-    "volume": 590,
-    "difficulty": 24,
-    "top_competitor": "registrasi.ppm-manajemen.ac.id",
-    "top_position": 2,
-    "we_rank": 65
+    "keyword": "training leadership online",
+    "volume": 50,
+    "difficulty": 31,
+    "top_competitor": "alcleadershipmanagement.com",
+    "top_position": 1,
+    "we_rank": 57
    },
    {
-    "keyword": "leadership development training",
+    "keyword": "leadership training courses",
     "volume": 20,
-    "difficulty": 32,
-    "top_competitor": "-",
-    "top_position": null,
-    "we_rank": 58
-   },
-   {
-    "keyword": "leadership training for new leader",
-    "volume": null,
-    "difficulty": 4,
-    "top_competitor": "-",
-    "top_position": null,
-    "we_rank": 60
+    "difficulty": 23,
+    "top_competitor": "nobleprog.id",
+    "top_position": 1,
+    "we_rank": 76
    }
   ]
  },
@@ -732,12 +796,12 @@
     "we_rank": 15
    },
    {
-    "keyword": "lean training",
-    "volume": 30,
-    "difficulty": 23,
-    "top_competitor": "-",
-    "top_position": null,
-    "we_rank": 21
+    "keyword": "lean",
+    "volume": 5400,
+    "difficulty": 21,
+    "top_competitor": "lean.org",
+    "top_position": 3,
+    "we_rank": 10
    }
   ]
  },
@@ -770,8 +834,8 @@
    },
    {
     "keyword": "quality management system awareness training",
-    "volume": null,
-    "difficulty": null,
+    "volume": 10,
+    "difficulty": 5,
     "top_competitor": "academy.theknightsofsafety.com",
     "top_position": 1,
     "we_rank": 65
@@ -863,19 +927,19 @@
     "we_rank": 16
    },
    {
+    "keyword": "iso 9001 2015 training",
+    "volume": 90,
+    "difficulty": 17,
+    "top_competitor": "dckonsultan.com",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
     "keyword": "iso901",
     "volume": 10,
     "difficulty": 31,
     "top_competitor": "iso.org",
     "top_position": 1,
-    "we_rank": 7
-   },
-   {
-    "keyword": "training iso 9001:2015",
-    "volume": 90,
-    "difficulty": 25,
-    "top_competitor": "google.com",
-    "top_position": 2,
     "we_rank": 7
    }
   ]
@@ -891,7 +955,7 @@
     "difficulty": 31,
     "top_competitor": "talenta.co",
     "top_position": 2,
-    "we_rank": 30
+    "we_rank": 28
    },
    {
     "keyword": "training needs analysis",
@@ -924,6 +988,194 @@
     "top_competitor": "digitalskola.com",
     "top_position": 2,
     "we_rank": 1
+   }
+  ]
+ },
+ "19": {
+  "product_name": "Sertifikasi Qualified Risk Governance Professional (QRGP)",
+  "brand": "GRC Indonesia",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "qrgp",
+    "volume": 140,
+    "difficulty": 11,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "site:grc-indonesia.com/pelatihan",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 2
+   },
+   {
+    "keyword": "gelar qrgp",
+    "volume": 30,
+    "difficulty": 18,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 4,
+    "we_rank": 8
+   },
+   {
+    "keyword": "qrgp gelar apa",
+    "volume": 90,
+    "difficulty": 13,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 1,
+    "we_rank": 3
+   },
+   {
+    "keyword": "gelar qrgp adalah",
+    "volume": 20,
+    "difficulty": 13,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 1
+   }
+  ]
+ },
+ "18": {
+  "product_name": "Sertifikasi Qualified Chief Risk Officer (QCRO)",
+  "brand": "GRC Indonesia",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "qcro gelar apa",
+    "volume": 110,
+    "difficulty": 13,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "qcro",
+    "volume": 140,
+    "difficulty": 13,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
+    "keyword": "site:grc-indonesia.com/pelatihan",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 2
+   },
+   {
+    "keyword": "qcro adalah",
+    "volume": 70,
+    "difficulty": 18,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "qcro certification",
+    "volume": 20,
+    "difficulty": 19,
+    "top_competitor": "mos.midiatama.co.id",
+    "top_position": 1,
+    "we_rank": 8
+   }
+  ]
+ },
+ "17": {
+  "product_name": "Pelatihan Qualified Risk Management Analyst (QRMA)",
+  "brand": "GRC Indonesia",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "qrma",
+    "volume": 390,
+    "difficulty": 14,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 2,
+    "we_rank": 10
+   },
+   {
+    "keyword": "qrma sertifikasi",
+    "volume": 50,
+    "difficulty": 19,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 2
+   },
+   {
+    "keyword": "site:grc-indonesia.com/sertifikasi",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "site:grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "sertifikasi qrma",
+    "volume": 20,
+    "difficulty": 18,
+    "top_competitor": "lspmks.co.id",
+    "top_position": 1,
+    "we_rank": 3
+   }
+  ]
+ },
+ "15": {
+  "product_name": "Legal and Compliance Management Training",
+  "brand": "GRC Indonesia",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "compliance management",
+    "volume": 40,
+    "difficulty": 32,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 48
+   },
+   {
+    "keyword": "pelatihan compliance",
+    "volume": 20,
+    "difficulty": 22,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "site:grc-indonesia.com/pelatihan",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 2
+   },
+   {
+    "keyword": "regulatory compliance indonesia",
+    "volume": 20,
+    "difficulty": 13,
+    "top_competitor": "rcs.hukumonline.com",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "pelatihan legal compliance",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 10
    }
   ]
  }
