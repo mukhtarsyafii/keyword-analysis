@@ -21,6 +21,7 @@ DATA = os.path.join(HERE, "data")
 SOURCES = [
     ("GRC Indonesia", "1bPPlmIp_PqfAvGm8B1P3sjXuOQRWGES_aR4DPx5iIqE"),
     ("IPQI",          "1IfLSGTtqaxB-lbfYGlaNbold9mP0NkNf8Xvq9EJ_Vow"),
+    ("FS Institute",   "109ltasFINn8R6Et9V30L6F7piOtd90V_LHo0SvhIOGc"),
 ]
 
 # GRC pakai "9/7/2026 15:54:59", IPQI pakai "2026-10-01 16:19:41".
@@ -53,7 +54,8 @@ def parse_ts(s):
 
 
 def fetch(sid):
-    url = f"https://docs.google.com/spreadsheets/d/{sid}/export?format=csv&gid=0"
+    # gid=0 kadang 400 utk sheet baru; tanpa gid = sheet pertama (sama saja)
+    url = f"https://docs.google.com/spreadsheets/d/{sid}/export?format=csv"
     r = subprocess.run(["curl", "-sL", "--max-time", "90", url],
                        capture_output=True, text=True, timeout=120)
     txt = r.stdout or ""
