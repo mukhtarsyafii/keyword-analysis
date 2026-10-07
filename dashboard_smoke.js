@@ -43,7 +43,7 @@ function check(label, fn) {
 check('init()', () => window.onload());
 check('brandNames has both brands', () => {
   const n = A.brandNames();
-  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID') || !n.includes('Biztech Academy')) throw new Error(n.join(','));
+  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID') || !n.includes('Biztech Academy') || !n.includes('IT Proxsis GRC')) throw new Error(n.join(','));
 });
 check('brandBar rendered', () => {
   if (!el('brandBar').innerHTML.includes('IPQI')) throw new Error('no IPQI pill');
@@ -78,6 +78,14 @@ check('setBrand(Biztech Academy) scopes everything', () => {
   const m = el('matrixBody').innerHTML;
   if (!m.includes('biztechacademy.id')) throw new Error('no biztech row');
   if (m.includes('itgid.org') || m.includes('ipqi.org')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
+check('setBrand(IT Proxsis GRC) scopes everything', () => {
+  A.setBrand('IT Proxsis GRC');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'IT Proxsis GRC').length) throw new Error('scope leak');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('it.proxsisgroup.com')) throw new Error('no proxsis row');
+  if (m.includes('biztechacademy.id') || m.includes('itgid.org')) throw new Error('other brand leaked');
   A.setBrand('all');
 });
 check('setBrand back to all', () => {

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fill tab 'LP Biztech Academy' (gid 1067825045) with the crawl of biztechacademy.id.
+"""Fill tab 'LP Proxsis IT GRC' (gid 1892690756) with the crawl of it.proxsisgroup.com.
 
 Tab schema is No | Nama LP | Keyword Utama | Keyword Sekunder | URL | Tanggal Live |
 PIC Buat | Status LP (no Volume columns, unlike LP ITGID). Two Volume columns are
@@ -7,14 +7,14 @@ inserted first (D and F) so the sheet matches the requested listing format:
 Nama halaman | Keyword Utama | Volume | Keyword Sekunder | Volume | URL.
 Sheets API shifts the weekly GSC blocks right automatically on insertDimension.
 
-Run: python3 write_biztech_sheet.py [--dry]
+Run: python3 write_proxit_sheet.py [--dry]
 """
 import json, os, sys, urllib.parse, urllib.request
 
 SHEET_ID = "1qJ6neAJ4OL98qjSHTTz5QL6TMa0Q4iYbxIJp3dnYz4I"
-TAB = "LP Biztech Academy"
+TAB = "LP Proxsis IT GRC"
 TOKEN = os.path.expanduser("~/.hermes/google_token.json")
-D = "/Users/mukhtarsyafii/.hermes/cache/scratch/biztech"
+D = "/Users/mukhtarsyafii/.hermes/cache/scratch/proxit"
 
 from google.oauth2.credentials import Credentials
 import google.auth.transport.requests
@@ -45,7 +45,7 @@ def get(rng):
     return json.loads(urllib.request.urlopen(urllib.request.Request(u, headers=HDR), timeout=90).read()).get("values", [])
 
 
-SID = 1067825045  # grid id == gid of this tab (confirmed from sheets.merges)
+SID = 1892690756  # grid id == gid of this tab (confirmed from sheets.merges)
 
 
 def sheet_merges():
@@ -72,7 +72,7 @@ def build_rows():
             if q["kw"] != k1:
                 k2, v2 = q["kw"], q["vol"]
                 break
-        rows.append([c["name"], k1, v1, k2, v2, "https://biztechacademy.id" + c["path"], "", "", "Aktif"])
+        rows.append([c["name"], k1, v1, k2, v2, "https://it.proxsisgroup.com" + c["path"], "", "", "Aktif"])
     return rows
 
 
@@ -108,8 +108,8 @@ def main():
         print(f"unmerged {len(reqs)} data-area merge(s)")
 
     last = 4 + n
-    put(f"{TAB}!A1:B2", [["LP TRACKER — BIZTECH ACADEMY 2026"],
-                         ["Brand: Biztech Academy  |  Target: Min. 2 LP baru/minggu  |  Data performa dari Google Search Console setiap Jumat  |  Pre-fill 12 minggu — tambah kolom manual jika perlu"]])
+    put(f"{TAB}!A1:B2", [["LP TRACKER — IT PROXSIS GROUP (PROXSIS ACADEMY) 2026"],
+                         ["Brand: IT Proxsis GRC  |  Target: Min. 2 LP baru/minggu  |  Data performa dari Google Search Console setiap Jumat  |  Pre-fill 12 minggu — tambah kolom manual jika perlu"]])
     put(f"{TAB}!A5:J{last}", values)
     blank = [[""] * 10 for _ in range(200 - last)]
     if blank:

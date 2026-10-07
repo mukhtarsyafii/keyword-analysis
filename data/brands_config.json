@@ -43,5 +43,14 @@
     "id_base": 4000,
     "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional",
     "audience": "Fresh graduate, career switcher, dan staf IT yang ingin naik skill atau ambil sertifikasi."
+  },
+  {
+    "brand": "IT Proxsis GRC",
+    "gid": "1892690756",
+    "domain": "it.proxsisgroup.com",
+    "property": "https://it.proxsisgroup.com/",
+    "id_base": 5000,
+    "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security",
+    "audience": "IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI."
   }
 ]

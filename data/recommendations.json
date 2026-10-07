@@ -112,7 +112,7 @@
   },
   "prioritas": 1
  },
- "24": {
+ "39": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -122,7 +122,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk t",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi corporate dan Mengapa Penting bagi Perusahaan",
@@ -280,7 +280,7 @@
   },
   "prioritas": 1
  },
- "20": {
+ "11": {
   "masalah": [
    "Impresi tinggi (4,929) tetapi CTR hanya 0.2% — 4,919 tayangan tidak menghasilkan klik."
   ],
@@ -293,7 +293,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
+   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan ISO 37301 adalah program pelatihan Standar ISO & Kepatuhan dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan ISO 37301 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Pelatihan ISO 37301 dan Mengapa Penting bagi Perusahaan",
@@ -545,7 +545,7 @@
   },
   "prioritas": 5
  },
- "11": {
+ "20": {
   "masalah": [
    "Impresi tinggi (4,929) tetapi CTR hanya 0.2% — 4,919 tayangan tidak menghasilkan klik."
   ],
@@ -558,7 +558,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training sistem manajemen kepatuhan adalah program pelatihan AI & Data Governance dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training sistem manajemen kepatuhan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training sistem manajemen kepatuhan dan Mengapa Penting bagi Perusahaan",
@@ -652,7 +652,7 @@
   },
   "prioritas": 5
  },
- "39": {
+ "24": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -662,7 +662,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat unt",
+   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi fraud corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi fraud corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi fraud corporate dan Mengapa Penting bagi Perusahaan",
@@ -1057,7 +1057,7 @@
   },
   "prioritas": 5
  },
- "40": {
+ "43": {
   "masalah": [
    "Posisi terkini #20 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
@@ -1069,7 +1069,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan boardrooms governance bumn dan Mengapa Penting bagi Perusahaan",
@@ -1085,7 +1085,7 @@
   },
   "prioritas": 3
  },
- "43": {
+ "40": {
   "masalah": [
    "Posisi terkini #20 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
@@ -1097,7 +1097,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan direksi dan komisaris dan Mengapa Penting bagi Perusahaan",
@@ -1167,7 +1167,7 @@
   },
   "prioritas": 3
  },
- "44": {
+ "56": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1193,7 +1193,7 @@
   },
   "prioritas": 1
  },
- "56": {
+ "44": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -8503,6 +8503,1748 @@
     "Sertifikasi dan Pengakuan pelatihan zoho crm for administrator",
     "Studi Kasus Penerapan di Perusahaan",
     "FAQ: Apa itu pelatihan zoho crm for administrator",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5001": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Cyber Security Maturity Assessment - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "cybersecurity maturity assessment di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi ti",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu cyber security maturity assessment?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"cyber security maturity assessment adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti cyber security maturity assessment?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah cyber security maturity assessment bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu cyber security maturity assessment dan Mengapa Penting bagi Perusahaan",
+    "Manfaat cyber security maturity assessment untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus cyber security maturity assessment",
+    "Siapa yang Wajib Mengikuti cyber security maturity assessment",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan cyber security maturity assessment",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu cyber security maturity assessment",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5002": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CDMP Training - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "cdmp certification di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu cdmp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"cdmp adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti cdmp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah cdmp bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu cdmp dan Mengapa Penting bagi Perusahaan",
+    "Manfaat cdmp untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus cdmp",
+    "Siapa yang Wajib Mengikuti cdmp",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan cdmp",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu cdmp",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5003": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT MASTERPLAN - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "it masterplan di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu it master plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"it master plan adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti it master plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah it master plan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu it master plan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat it master plan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus it master plan",
+    "Siapa yang Wajib Mengikuti it master plan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan it master plan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu it master plan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5004": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO/IEC 20000-1:2018 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "iso 20000 2018 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu iso 20000 version 2018?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"iso 20000 version 2018 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti iso 20000 version 2018?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah iso 20000 version 2018 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu iso 20000 version 2018 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat iso 20000 version 2018 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus iso 20000 version 2018",
+    "Siapa yang Wajib Mengikuti iso 20000 version 2018",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan iso 20000 version 2018",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu iso 20000 version 2018",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5005": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Governance Risk Compliance (GRC) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "it grc di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu it governance risk and compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"it governance risk and compliance adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti it governance risk and compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah it governance risk and compliance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu it governance risk and compliance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat it governance risk and compliance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus it governance risk and compliance",
+    "Siapa yang Wajib Mengikuti it governance risk and compliance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan it governance risk and compliance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu it governance risk and compliance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5006": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PCI-DSS - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "pci dss di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pci dss adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pci dss adalah adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pci dss adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pci dss adalah bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pci dss adalah dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pci dss adalah untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pci dss adalah",
+    "Siapa yang Wajib Mengikuti pci dss adalah",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pci dss adalah",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pci dss adalah",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5007": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Konsultasi ISO 27001:2022 | Bangun Sistem Keamanan Informasi - IT Proxsis GRC",
+   "meta_description": "konsultan iso 27001 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu konsultan iso 27001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"konsultan iso 27001 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti konsultan iso 27001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah konsultan iso 27001 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu konsultan iso 27001 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat konsultan iso 27001 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus konsultan iso 27001",
+    "Siapa yang Wajib Mengikuti konsultan iso 27001",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan konsultan iso 27001",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu konsultan iso 27001",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5008": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CEH Exam Preparation - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "exam ceh di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu ceh exam?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"ceh exam adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti ceh exam?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah ceh exam bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu ceh exam dan Mengapa Penting bagi Perusahaan",
+    "Manfaat ceh exam untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus ceh exam",
+    "Siapa yang Wajib Mengikuti ceh exam",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan ceh exam",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu ceh exam",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5009": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Assessment COBIT 2019 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "cobit assessment di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu cobit 2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"cobit 2019 adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti cobit 2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah cobit 2019 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu cobit 2019 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat cobit 2019 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus cobit 2019",
+    "Siapa yang Wajib Mengikuti cobit 2019",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan cobit 2019",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu cobit 2019",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5010": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Audit POJK/PBI - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "pbi it di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu audit it?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"audit it adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti audit it?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah audit it bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu audit it dan Mengapa Penting bagi Perusahaan",
+    "Manfaat audit it untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus audit it",
+    "Siapa yang Wajib Mengikuti audit it",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan audit it",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu audit it",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5011": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PDP - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training pdp di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan pdp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan pdp adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan pdp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan pdp bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan pdp dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan pdp untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan pdp",
+    "Siapa yang Wajib Mengikuti pelatihan pdp",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan pdp",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan pdp",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5012": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Asset Audit - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training it asset audit di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it asset audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it asset audit adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it asset audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it asset audit bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it asset audit dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it asset audit untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it asset audit",
+    "Siapa yang Wajib Mengikuti pelatihan it asset audit",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it asset audit",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it asset audit",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5013": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CISSP (Certified Information Systems Security Professional) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "kursus cissp di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cissp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cissp adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cissp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cissp bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cissp dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cissp untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cissp",
+    "Siapa yang Wajib Mengikuti training cissp",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cissp",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cissp",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5014": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Penetration Testing - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "pen testing di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu penetration testing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"penetration testing adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti penetration testing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah penetration testing bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu penetration testing dan Mengapa Penting bagi Perusahaan",
+    "Manfaat penetration testing untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus penetration testing",
+    "Siapa yang Wajib Mengikuti penetration testing",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan penetration testing",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu penetration testing",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5015": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Audit IT Kepatuhan OJK & BI | Proxsis IT GRC - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "bi audit di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu audit bi?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"audit bi adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti audit bi?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah audit bi bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu audit bi dan Mengapa Penting bagi Perusahaan",
+    "Manfaat audit bi untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus audit bi",
+    "Siapa yang Wajib Mengikuti audit bi",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan audit bi",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu audit bi",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5016": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Audit SCV - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "audit scv di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu scv audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"scv audit adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti scv audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah scv audit bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu scv audit dan Mengapa Penting bagi Perusahaan",
+    "Manfaat scv audit untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus scv audit",
+    "Siapa yang Wajib Mengikuti scv audit",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan scv audit",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu scv audit",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5017": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "DATA GOVERNANCE - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "data governance organizational structure di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hub",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu iso data governance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"iso data governance adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti iso data governance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah iso data governance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu iso data governance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat iso data governance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus iso data governance",
+    "Siapa yang Wajib Mengikuti iso data governance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan iso data governance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu iso data governance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5018": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Enterprise Architecture - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "architecture ti di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu enterprise architecture?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"enterprise architecture adalah program pelatihan Pelatihan Umum dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti enterprise architecture?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah enterprise architecture bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu enterprise architecture dan Mengapa Penting bagi Perusahaan",
+    "Manfaat enterprise architecture untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus enterprise architecture",
+    "Siapa yang Wajib Mengikuti enterprise architecture",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan enterprise architecture",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu enterprise architecture",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5019": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Enterprise Architecture - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "enterprise architect di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu enterprise architect?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"enterprise architect adalah program pelatihan Pelatihan Umum dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti enterprise architect?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah enterprise architect bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu enterprise architect dan Mengapa Penting bagi Perusahaan",
+    "Manfaat enterprise architect untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus enterprise architect",
+    "Siapa yang Wajib Mengikuti enterprise architect",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan enterprise architect",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu enterprise architect",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5020": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Upgrade ISO/IEC - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "upgrade isms iso 27001 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu upgrade iso 27001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"upgrade iso 27001 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti upgrade iso 27001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah upgrade iso 27001 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu upgrade iso 27001 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat upgrade iso 27001 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus upgrade iso 27001",
+    "Siapa yang Wajib Mengikuti upgrade iso 27001",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan upgrade iso 27001",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu upgrade iso 27001",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5021": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi ISO/IEC - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "iso iec di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu iso 2771?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"iso 2771 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti iso 2771?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah iso 2771 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu iso 2771 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat iso 2771 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus iso 2771",
+    "Siapa yang Wajib Mengikuti iso 2771",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan iso 2771",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu iso 2771",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5022": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi BNSP - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training sertifikasi bnsp di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan sertifikasi bnsp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan sertifikasi bnsp adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan sertifikasi bnsp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan sertifikasi bnsp bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan sertifikasi bnsp dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan sertifikasi bnsp untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan sertifikasi bnsp",
+    "Siapa yang Wajib Mengikuti pelatihan sertifikasi bnsp",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan sertifikasi bnsp",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan sertifikasi bnsp",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5023": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Tata Kelola IT - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "pelatihan tata kelola it di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu proxitech it solutions?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"proxitech it solutions adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti proxitech it solutions?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah proxitech it solutions bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu proxitech it solutions dan Mengapa Penting bagi Perusahaan",
+    "Manfaat proxitech it solutions untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus proxitech it solutions",
+    "Siapa yang Wajib Mengikuti proxitech it solutions",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan proxitech it solutions",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu proxitech it solutions",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5024": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi BCMS - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "business continuity management consulting services di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house ",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu bcms adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"bcms adalah adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti bcms adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah bcms adalah bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu bcms adalah dan Mengapa Penting bagi Perusahaan",
+    "Manfaat bcms adalah untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus bcms adalah",
+    "Siapa yang Wajib Mengikuti bcms adalah",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan bcms adalah",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu bcms adalah",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5025": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Training ISO/IEC 42001:2023 – AI Governance & AIMS | ITGID – Proxsis IT Group - IT Proxsis GRC",
+   "meta_description": "training training iso/iec 42001:2023 – ai governance & aims di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan pena",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan training iso/iec 42001:2023 – ai governance & aims?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan training iso/iec 42001:2023 – ai governance & aims adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan training iso/iec 42001:2023 – ai governance & aims?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan training iso/iec 42001:2023 – ai governance & aims bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan training iso/iec 42001:2023 – ai governance & aims dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan training iso/iec 42001:2023 – ai governance & aims untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan training iso/iec 42001:2023 – ai governance & aims",
+    "Siapa yang Wajib Mengikuti pelatihan training iso/iec 42001:2023 – ai governance & aims",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan training iso/iec 42001:2023 – ai governance & aims",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan training iso/iec 42001:2023 – ai governance & aims",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5026": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Cobit 2019 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "sertifikasi cobit 2019 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cobit 2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cobit 2019 adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cobit 2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cobit 2019 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cobit 2019 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cobit 2019 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cobit 2019",
+    "Siapa yang Wajib Mengikuti training cobit 2019",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cobit 2019",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cobit 2019",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5027": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Business Continuity Plan - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it business continuity plan di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it business continuity plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it business continuity plan adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it business continuity plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it business continuity plan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it business continuity plan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it business continuity plan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it business continuity plan",
+    "Siapa yang Wajib Mengikuti pelatihan it business continuity plan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it business continuity plan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it business continuity plan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5028": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi COBIT 2019 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training cobit 2019 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan cobit 2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan cobit 2019 adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan cobit 2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan cobit 2019 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan cobit 2019 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan cobit 2019 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan cobit 2019",
+    "Siapa yang Wajib Mengikuti pelatihan cobit 2019",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan cobit 2019",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan cobit 2019",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5029": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Master Plan - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training it master plan di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it master plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it master plan adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it master plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it master plan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it master plan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it master plan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it master plan",
+    "Siapa yang Wajib Mengikuti pelatihan it master plan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it master plan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it master plan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5030": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Data Governance - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training data governance di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training data governance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training data governance adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training data governance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training data governance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training data governance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training data governance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training data governance",
+    "Siapa yang Wajib Mengikuti training data governance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training data governance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training data governance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5031": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Identification Contec - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training identification contec di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan identification contec?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan identification contec adalah program pelatihan Pelatihan Umum dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan identification contec?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan identification contec bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan identification contec dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan identification contec untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan identification contec",
+    "Siapa yang Wajib Mengikuti pelatihan identification contec",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan identification contec",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan identification contec",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5032": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Disaster Recovery Plan - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it disaster recovery plan di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it disaster recovery plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it disaster recovery plan adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it disaster recovery plan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it disaster recovery plan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it disaster recovery plan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it disaster recovery plan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it disaster recovery plan",
+    "Siapa yang Wajib Mengikuti pelatihan it disaster recovery plan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it disaster recovery plan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it disaster recovery plan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5033": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Penetration Testing - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "kursus penetration testing di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training penetration testing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training penetration testing adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training penetration testing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training penetration testing bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training penetration testing dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training penetration testing untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training penetration testing",
+    "Siapa yang Wajib Mengikuti training penetration testing",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training penetration testing",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training penetration testing",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5034": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Governance Audit - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training it governance audit di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it governance audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it governance audit adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it governance audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it governance audit bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it governance audit dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it governance audit untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it governance audit",
+    "Siapa yang Wajib Mengikuti pelatihan it governance audit",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it governance audit",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it governance audit",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5035": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Security Audit - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training it security audit di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it security audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it security audit adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it security audit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it security audit bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it security audit dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it security audit untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it security audit",
+    "Siapa yang Wajib Mengikuti pelatihan it security audit",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it security audit",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it security audit",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5036": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Infrastructure Library 4 Foundation - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it infrastructure library 4 foundation di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it infrastructure library 4 foundation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it infrastructure library 4 foundation adalah program pelatihan Pelatihan Umum dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it infrastructure library 4 foundation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it infrastructure library 4 foundation bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it infrastructure library 4 foundation dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it infrastructure library 4 foundation untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it infrastructure library 4 foundation",
+    "Siapa yang Wajib Mengikuti pelatihan it infrastructure library 4 foundation",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it infrastructure library 4 foundation",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it infrastructure library 4 foundation",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5037": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi COBIT 5 - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training cobit 5 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cobit 5?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cobit 5 adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cobit 5?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cobit 5 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cobit 5 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cobit 5 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cobit 5",
+    "Siapa yang Wajib Mengikuti training cobit 5",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cobit 5",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cobit 5",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5038": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CRISC (Certified Risk Information System Control) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training crisc di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan crisc?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan crisc adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan crisc?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan crisc bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan crisc dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan crisc untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan crisc",
+    "Siapa yang Wajib Mengikuti pelatihan crisc",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan crisc",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan crisc",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5039": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CGEIT (Certified in the Governance of Enterprise IT) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training cgeit di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cgeit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cgeit adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cgeit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cgeit bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cgeit dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cgeit untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cgeit",
+    "Siapa yang Wajib Mengikuti training cgeit",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cgeit",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cgeit",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5040": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CISM (Certified Information Security Manager) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training cism di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cism?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cism adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cism?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cism bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cism dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cism untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cism",
+    "Siapa yang Wajib Mengikuti training cism",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cism",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cism",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5041": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "CISA (Certified Information Sistem Auditor) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training cisa di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan cisa?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan cisa adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan cisa?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan cisa bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan cisa dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan cisa untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan cisa",
+    "Siapa yang Wajib Mengikuti pelatihan cisa",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan cisa",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan cisa",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5042": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Togaf Certified - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training togaf certified di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan togaf certified?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan togaf certified adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan togaf certified?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan togaf certified bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan togaf certified dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan togaf certified untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan togaf certified",
+    "Siapa yang Wajib Mengikuti pelatihan togaf certified",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan togaf certified",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan togaf certified",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5043": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Togaf Foundation - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training togaf foundation di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan togaf foundation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan togaf foundation adalah program pelatihan Audit & Assurance TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan togaf foundation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan togaf foundation bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan togaf foundation dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan togaf foundation untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan togaf foundation",
+    "Siapa yang Wajib Mengikuti pelatihan togaf foundation",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan togaf foundation",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan togaf foundation",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5044": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Data Governance Strategic - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training data governance strategic di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan data governance strategic?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan data governance strategic adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan data governance strategic?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan data governance strategic bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan data governance strategic dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan data governance strategic untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan data governance strategic",
+    "Siapa yang Wajib Mengikuti pelatihan data governance strategic",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan data governance strategic",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan data governance strategic",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5045": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Data Governance Practicioner - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training data governance practicioner di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubung",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan data governance practicioner?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan data governance practicioner adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan data governance practicioner?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan data governance practicioner bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan data governance practicioner dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan data governance practicioner untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan data governance practicioner",
+    "Siapa yang Wajib Mengikuti pelatihan data governance practicioner",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan data governance practicioner",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan data governance practicioner",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5046": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Data Governance Architecture - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training data governance architecture di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman in",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan data governance architecture?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan data governance architecture adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan data governance architecture?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan data governance architecture bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan data governance architecture dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan data governance architecture untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan data governance architecture",
+    "Siapa yang Wajib Mengikuti pelatihan data governance architecture",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan data governance architecture",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan data governance architecture",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5047": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Agile Project Management - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training agile project management di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training agile project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training agile project management adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training agile project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training agile project management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training agile project management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training agile project management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training agile project management",
+    "Siapa yang Wajib Mengikuti training agile project management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training agile project management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training agile project management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5048": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Project Management Officer - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it project management officer di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it project management officer?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it project management officer adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it project management officer?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it project management officer bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it project management officer dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it project management officer untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it project management officer",
+    "Siapa yang Wajib Mengikuti pelatihan it project management officer",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it project management officer",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it project management officer",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5049": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Performance Project Management - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it performance project management di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: h",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it performance project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it performance project management adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it performance project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it performance project management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it performance project management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it performance project management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it performance project management",
+    "Siapa yang Wajib Mengikuti pelatihan it performance project management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it performance project management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it performance project management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5050": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi IT BCP - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training it bcp di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it bcp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it bcp adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it bcp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it bcp bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it bcp dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it bcp untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it bcp",
+    "Siapa yang Wajib Mengikuti pelatihan it bcp",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it bcp",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it bcp",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5051": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi IT Operation - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it operation di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it operation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it operation adalah program pelatihan Manajemen Proyek & Data dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it operation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it operation bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it operation dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it operation untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it operation",
+    "Siapa yang Wajib Mengikuti pelatihan it operation",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it operation",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it operation",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5052": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Mitigation Risk - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training mitigation risk di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan mitigation risk?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan mitigation risk adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan mitigation risk?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan mitigation risk bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan mitigation risk dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan mitigation risk untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan mitigation risk",
+    "Siapa yang Wajib Mengikuti pelatihan mitigation risk",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan mitigation risk",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan mitigation risk",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5053": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Identification Risk - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training identification risk di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kam",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan identification risk?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan identification risk adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan identification risk?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan identification risk bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan identification risk dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan identification risk untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan identification risk",
+    "Siapa yang Wajib Mengikuti pelatihan identification risk",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan identification risk",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan identification risk",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5054": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Cloud Security - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training cloud security di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cloud security?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cloud security adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cloud security?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cloud security bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cloud security dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cloud security untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cloud security",
+    "Siapa yang Wajib Mengikuti training cloud security",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cloud security",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cloud security",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5055": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Security Governance - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it security governance di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it security governance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it security governance adalah program pelatihan Pelatihan Umum dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it security governance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it security governance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it security governance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it security governance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it security governance",
+    "Siapa yang Wajib Mengikuti pelatihan it security governance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it security governance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it security governance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5056": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Governance Framework Assessment - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it governance framework assessment di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it governance framework assessment?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it governance framework assessment adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it governance framework assessment?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it governance framework assessment bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it governance framework assessment dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it governance framework assessment untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it governance framework assessment",
+    "Siapa yang Wajib Mengikuti pelatihan it governance framework assessment",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it governance framework assessment",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it governance framework assessment",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5057": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Compliance (OJK, BUMN, & PBI) - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training it compliance di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan it compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan it compliance adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan it compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan it compliance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan it compliance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan it compliance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan it compliance",
+    "Siapa yang Wajib Mengikuti pelatihan it compliance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan it compliance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan it compliance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5058": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO 22301:2013 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training iso 22301:2013 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 22301:2013?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 22301:2013 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 22301:2013?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 22301:2013 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 22301:2013 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 22301:2013 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 22301:2013",
+    "Siapa yang Wajib Mengikuti pelatihan iso 22301:2013",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 22301:2013",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 22301:2013",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5059": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO 20000-1:2018 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training iso 20000-1:2018 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 20000-1:2018?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 20000-1:2018 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 20000-1:2018?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 20000-1:2018 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 20000-1:2018 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 20000-1:2018 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 20000-1:2018",
+    "Siapa yang Wajib Mengikuti pelatihan iso 20000-1:2018",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 20000-1:2018",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 20000-1:2018",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5060": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO 27001:2013 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training iso 27001:2013 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 27001:2013?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 27001:2013 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 27001:2013?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 27001:2013 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 27001:2013 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 27001:2013 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 27001:2013",
+    "Siapa yang Wajib Mengikuti pelatihan iso 27001:2013",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 27001:2013",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 27001:2013",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5061": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi INDI 4.0 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training indi 4.0 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan indi 4.0?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan indi 4.0 adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan indi 4.0?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan indi 4.0 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan indi 4.0 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan indi 4.0 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan indi 4.0",
+    "Siapa yang Wajib Mengikuti pelatihan indi 4.0",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan indi 4.0",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan indi 4.0",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5062": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Cyber Security - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training cyber security di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan cyber security?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan cyber security adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan cyber security?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan cyber security bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan cyber security dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan cyber security untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan cyber security",
+    "Siapa yang Wajib Mengikuti pelatihan cyber security",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan cyber security",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan cyber security",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5063": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Vulnerability Assessment & Penetration Testing - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training vulnerability assessment & penetration testing di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal pr",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan vulnerability assessment & penetration testing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan vulnerability assessment & penetration testing adalah program pelatihan Sertifikasi Keamanan Siber dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan vulnerability assessment & penetration testing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan vulnerability assessment & penetration testing bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan vulnerability assessment & penetration testing dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan vulnerability assessment & penetration testing untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan vulnerability assessment & penetration testing",
+    "Siapa yang Wajib Mengikuti pelatihan vulnerability assessment & penetration testing",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan vulnerability assessment & penetration testing",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan vulnerability assessment & penetration testing",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5064": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IT Risk Management - IT Proxsis Group 2026 - IT Proxsis GRC",
+   "meta_description": "training it risk management di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training it risk management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training it risk management adalah program pelatihan Tata Kelola & Risiko TI dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training it risk management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training it risk management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training it risk management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training it risk management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training it risk management",
+    "Siapa yang Wajib Mengikuti training it risk management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training it risk management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training it risk management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5065": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO 22301:2019 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training iso 22301:2019 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 22301:2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 22301:2019 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 22301:2019?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 22301:2019 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 22301:2019 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 22301:2019 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 22301:2019",
+    "Siapa yang Wajib Mengikuti pelatihan iso 22301:2019",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 22301:2019",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 22301:2019",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5066": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO 20000-1:2018 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training iso 20000-1:2018 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 20000-1:2018?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 20000-1:2018 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 20000-1:2018?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 20000-1:2018 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 20000-1:2018 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 20000-1:2018 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 20000-1:2018",
+    "Siapa yang Wajib Mengikuti pelatihan iso 20000-1:2018",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 20000-1:2018",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 20000-1:2018",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "5067": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "ISO 27001:2013 - IT Proxsis Group - IT Proxsis GRC",
+   "meta_description": "training iso 27001:2013 di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 27001:2013?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 27001:2013 adalah program pelatihan Keamanan Informasi & ISO dari IT Proxsis GRC yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 27001:2013?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 27001:2013 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim IT Proxsis GRC melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 27001:2013 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 27001:2013 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 27001:2013",
+    "Siapa yang Wajib Mengikuti pelatihan iso 27001:2013",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 27001:2013",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 27001:2013",
     "Daftar dan Konsultasi In-House Training"
    ]
   },

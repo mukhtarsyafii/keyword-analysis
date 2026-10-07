@@ -59,10 +59,18 @@ def gsc_queries(page_url, token, prop=PROPERTY, n=10):
                 "dimension": "page", "operator": "equals",
                 "expression": page_url}]}]}
     site_q = urllib.parse.quote(prop, safe="")
-    # fetch_gsc.api retries transient RemoteDisconnected/timeouts; a bare
-    # urlopen here killed the whole run on one flaky response.
-    rows = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
-               token, "POST", body).get("rows", [])
+    # GSC stores this property's URLs with a trailing slash (AIOSEO sitemaps);
+    # the sheet writes them without one. Retry the other form before giving up.
+    exprs = [page_url] if page_url.endswith("/") else [page_url, page_url + "/"]
+    rows = []
+    for expression in exprs:
+        body["dimensionFilterGroups"] = [{"filters": [{
+            "dimension": "page", "operator": "equals",
+            "expression": expression}]}]
+        rows = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
+                   token, "POST", body).get("rows", [])
+        if rows:
+            break
     rows.sort(key=lambda x: -x.get("impressions", 0))
     return [{"keyword": x["keys"][0], "impr": x.get("impressions", 0),
              "clicks": x.get("clicks", 0), "pos": round(x.get("position", 0), 1)}
