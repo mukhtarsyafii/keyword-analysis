@@ -35,7 +35,7 @@
    "Pertahankan: perbarui jadwal kelas, tambah testimoni alumni korporat, dan pastikan CTA WhatsApp/form berfungsi."
   ],
   "rekomendasi": [
-   "Jadikan halaman ini contoh template untuk 1 halaman draft."
+   "Jadikan halaman ini contoh template untuk 2 halaman draft."
   ],
   "perbaikan": {
    "meta_title": "Sertifikasi Training AI Governance 2026 - GRC Indonesia",
@@ -107,7 +107,7 @@
   },
   "prioritas": 1
  },
- "24": {
+ "39": {
   "masalah": [
    "Posisi terkini #12 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
@@ -119,7 +119,7 @@
   ],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk t",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi corporate dan Mengapa Penting bagi Perusahaan",
@@ -255,7 +255,7 @@
   ],
   "rekomendasi": [
    "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait.",
-   "Jadikan halaman ini contoh template untuk 1 halaman draft."
+   "Jadikan halaman ini contoh template untuk 2 halaman draft."
   ],
   "perbaikan": {
    "meta_title": "Pelatihan & Sertifikasi Manajemen Risiko ISO 31000:2018 - GRC Indonesia",
@@ -275,7 +275,7 @@
   },
   "prioritas": 1
  },
- "20": {
+ "11": {
   "masalah": [
    "Impresi tinggi (4,791) tetapi CTR hanya 0.17% — 4,783 tayangan tidak menghasilkan klik."
   ],
@@ -288,7 +288,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
+   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan ISO 37301 adalah program pelatihan Standar ISO & Kepatuhan dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan ISO 37301 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Pelatihan ISO 37301 dan Mengapa Penting bagi Perusahaan",
@@ -340,7 +340,7 @@
    "Pertahankan: perbarui jadwal kelas, tambah testimoni alumni korporat, dan pastikan CTA WhatsApp/form berfungsi."
   ],
   "rekomendasi": [
-   "Jadikan halaman ini contoh template untuk 1 halaman draft."
+   "Jadikan halaman ini contoh template untuk 2 halaman draft."
   ],
   "perbaikan": {
    "meta_title": "Sertifikasi ICoFR Intensive Training 2026 - GRC Indonesia",
@@ -534,7 +534,7 @@
   },
   "prioritas": 5
  },
- "11": {
+ "20": {
   "masalah": [
    "Impresi tinggi (4,791) tetapi CTR hanya 0.17% — 4,783 tayangan tidak menghasilkan klik."
   ],
@@ -547,7 +547,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training sistem manajemen kepatuhan adalah program pelatihan AI & Data Governance dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training sistem manajemen kepatuhan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training sistem manajemen kepatuhan dan Mengapa Penting bagi Perusahaan",
@@ -641,7 +641,7 @@
   },
   "prioritas": 5
  },
- "39": {
+ "24": {
   "masalah": [
    "Posisi terkini #12 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
@@ -653,7 +653,7 @@
   ],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat unt",
+   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi fraud corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi fraud corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi fraud corporate dan Mengapa Penting bagi Perusahaan",
@@ -1042,7 +1042,7 @@
   },
   "prioritas": 5
  },
- "40": {
+ "43": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1052,7 +1052,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan boardrooms governance bumn dan Mengapa Penting bagi Perusahaan",
@@ -1068,7 +1068,7 @@
   },
   "prioritas": 1
  },
- "43": {
+ "40": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1078,7 +1078,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan direksi dan komisaris dan Mengapa Penting bagi Perusahaan",
@@ -1146,7 +1146,7 @@
   },
   "prioritas": 1
  },
- "44": {
+ "56": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1172,7 +1172,7 @@
   },
   "prioritas": 1
  },
- "56": {
+ "44": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -2789,5 +2789,1760 @@
    ]
   },
   "prioritas": 1
+ },
+ "2001": {
+  "masalah": [
+   "Halaman masih DRAFT — belum tayang, jadi 0 impresi dan 0 klik."
+  ],
+  "solusi": [
+   "Terbitkan halaman sesuai silabus, lalu daftarkan URL ke Google Search Console (Inspeksi URL → Minta Pengindeksan)."
+  ],
+  "rekomendasi": [
+   "Target volume keyword utama -/bln belum tertangkap sama sekali. Publish = prioritas tertinggi."
+  ],
+  "perbaikan": {
+   "meta_title": "Training perbankan - FS Institute",
+   "meta_description": "training perbankan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training perbankan adalah program pelatihan Sertifikasi BNSP / Profesi dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training perbankan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training perbankan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training perbankan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training perbankan",
+    "Siapa yang Wajib Mengikuti training perbankan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training perbankan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training perbankan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "2002": {
+  "masalah": [
+   "Posisi terkini #37 (rata-rata periode #41) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Training Effective Budgeting and Cost Control - FS Institute",
+   "meta_description": "Training Effective Budgeting and Cost Control diharapkan dapat memberikan bekal dan wawasan bagi para peserta tentang berbagai konsep",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training effective budgeting and cost control?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training effective budgeting and cost control adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training effective budgeting and cost control?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training effective budgeting and cost control bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training effective budgeting and cost control dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training effective budgeting and cost control untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training effective budgeting and cost control",
+    "Siapa yang Wajib Mengikuti training effective budgeting and cost control",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training effective budgeting and cost control",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training effective budgeting and cost control",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2003": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Training Treasury For Non Dealers - FS Institute",
+   "meta_description": "Training Treasury For Non Dealers di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training Treasury For Non Dealers?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training Treasury For Non Dealers adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training Treasury For Non Dealers?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training Treasury For Non Dealers bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu Training Treasury For Non Dealers dan Mengapa Penting bagi Perusahaan",
+    "Manfaat Training Treasury For Non Dealers untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus Training Treasury For Non Dealers",
+    "Siapa yang Wajib Mengikuti Training Treasury For Non Dealers",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan Training Treasury For Non Dealers",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training treasury for non dealers",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2004": {
+  "masalah": [
+   "Posisi terkini #18 (rata-rata periode #23) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Pelatihan Asset Management Based on ISO 55001:2014 - FS Institute",
+   "meta_description": "Pelatihan Asset Management memberikan pengetahuan dan keterampilan profesional untuk memahami sistem manajemen ISO 55001: 2014",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu iso 55001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"iso 55001 adalah program pelatihan Standar ISO & Kepatuhan dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti iso 55001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah iso 55001 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu iso 55001 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat iso 55001 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus iso 55001",
+    "Siapa yang Wajib Mengikuti iso 55001",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan iso 55001",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu iso 55001",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2005": {
+  "masalah": [
+   "Posisi terkini #18 (rata-rata periode #28) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Pelatihan Dasar Accounting 2026 - FS Institute",
+   "meta_description": "Pelatihan dasar accounting adalah menggabungkan penggunaan bahasa yang mudah dipahami dan pemberian contoh yang nyata sehingga memudahkan..",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan Dasar Accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan Dasar Accounting adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan Dasar Accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan Dasar Accounting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu Pelatihan Dasar Accounting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat Pelatihan Dasar Accounting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus Pelatihan Dasar Accounting",
+    "Siapa yang Wajib Mengikuti Pelatihan Dasar Accounting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan Pelatihan Dasar Accounting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan dasar accounting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2006": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "PELATIHAN ISO 37001 ANTI BRIBERY MANAGEMENT SYSTEM - FS Institute",
+   "meta_description": "anti bribery adalah di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu anti bribery adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"anti bribery adalah adalah program pelatihan Standar ISO & Kepatuhan dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti anti bribery adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah anti bribery adalah bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu anti bribery adalah dan Mengapa Penting bagi Perusahaan",
+    "Manfaat anti bribery adalah untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus anti bribery adalah",
+    "Siapa yang Wajib Mengikuti anti bribery adalah",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan anti bribery adalah",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu anti bribery adalah",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2007": {
+  "masalah": [
+   "Posisi terkini #21 (rata-rata periode #24) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi CASHFLOW MANAGEMENT TRAINING 2026 - FS Institute",
+   "meta_description": "cash flow management di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu cash flow management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"cash flow management adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti cash flow management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah cash flow management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu cash flow management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat cash flow management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus cash flow management",
+    "Siapa yang Wajib Mengikuti cash flow management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan cash flow management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu cash flow management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2008": {
+  "masalah": [
+   "Posisi terkini #24 (rata-rata periode #23) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Strategic Cost Reduction 2026 - FS Institute",
+   "meta_description": "Strategic Cost Reduction adalah jurus yang sangat ampuh untuk meningkatkan posisi kompetitif perusahaan di saat situasi krisis sekalipun.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu strategic cost reduction?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"strategic cost reduction adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti strategic cost reduction?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah strategic cost reduction bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu strategic cost reduction dan Mengapa Penting bagi Perusahaan",
+    "Manfaat strategic cost reduction untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus strategic cost reduction",
+    "Siapa yang Wajib Mengikuti strategic cost reduction",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan strategic cost reduction",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu strategic cost reduction",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2009": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Advanced Excel for Financial Reporting 2026 - FS Institute",
+   "meta_description": "training advanced excel financial reporting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hu",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training advanced excel financial reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training advanced excel financial reporting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training advanced excel financial reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training advanced excel financial reporting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training advanced excel financial reporting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training advanced excel financial reporting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training advanced excel financial reporting",
+    "Siapa yang Wajib Mengikuti training advanced excel financial reporting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training advanced excel financial reporting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training advanced excel financial reporting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2010": {
+  "masalah": [
+   "Posisi terkini #28 (rata-rata periode #15) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Cash Flow Optimization & Management 2026 - FS Institute",
+   "meta_description": "training cash flow optimization di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cash flow optimization?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cash flow optimization adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cash flow optimization?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cash flow optimization bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cash flow optimization dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cash flow optimization untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cash flow optimization",
+    "Siapa yang Wajib Mengikuti training cash flow optimization",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cash flow optimization",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cash flow optimization",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2011": {
+  "masalah": [
+   "Posisi terkini #35 (rata-rata periode #37) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Cash Management 2026 - FS Institute",
+   "meta_description": "training cash management di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cash management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cash management adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cash management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cash management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cash management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cash management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cash management",
+    "Siapa yang Wajib Mengikuti training cash management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cash management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cash management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2012": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Compliance Management & Reporting - FS Institute",
+   "meta_description": "training compliance management reporting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training compliance management reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training compliance management reporting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training compliance management reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training compliance management reporting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training compliance management reporting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training compliance management reporting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training compliance management reporting",
+    "Siapa yang Wajib Mengikuti training compliance management reporting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training compliance management reporting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training compliance management reporting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2013": {
+  "masalah": [
+   "Posisi terkini #20 (rata-rata periode #24) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Finance For Non Finance 2026 - FS Institute",
+   "meta_description": "training finance for non finance di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim k",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training finance for non finance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training finance for non finance adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training finance for non finance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training finance for non finance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training finance for non finance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training finance for non finance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training finance for non finance",
+    "Siapa yang Wajib Mengikuti training finance for non finance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training finance for non finance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training finance for non finance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2014": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Financial Closing Acceleration Techniques - FS Institute",
+   "meta_description": "training financial closing acceleration di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman in",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial closing acceleration?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial closing acceleration adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial closing acceleration?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial closing acceleration bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial closing acceleration dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial closing acceleration untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial closing acceleration",
+    "Siapa yang Wajib Mengikuti training financial closing acceleration",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial closing acceleration",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial closing acceleration",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2015": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Financial Consolidation & Reporting 2026 - FS Institute",
+   "meta_description": "training financial consolidation reporting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim ",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial consolidation reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial consolidation reporting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial consolidation reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial consolidation reporting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial consolidation reporting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial consolidation reporting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial consolidation reporting",
+    "Siapa yang Wajib Mengikuti training financial consolidation reporting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial consolidation reporting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial consolidation reporting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2016": {
+  "masalah": [
+   "Posisi terkini #11 (rata-rata periode #13) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Managing Financial Data for Business Intelligence - FS Institute",
+   "meta_description": "training financial data business intelligence di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial data business intelligence?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial data business intelligence adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial data business intelligence?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial data business intelligence bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial data business intelligence dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial data business intelligence untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial data business intelligence",
+    "Siapa yang Wajib Mengikuti training financial data business intelligence",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial data business intelligence",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial data business intelligence",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2017": {
+  "masalah": [
+   "Posisi terkini #31 (rata-rata periode #30) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Financial Information Systems Management 2026 - FS Institute",
+   "meta_description": "training financial information systems di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial information systems?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial information systems adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial information systems?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial information systems bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial information systems dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial information systems untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial information systems",
+    "Siapa yang Wajib Mengikuti training financial information systems",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial information systems",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial information systems",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2018": {
+  "masalah": [
+   "Posisi terkini #12 (rata-rata periode #39) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Financial Modeling 2026 - FS Institute",
+   "meta_description": "training financial modeling di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial modeling?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial modeling adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial modeling?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial modeling bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial modeling dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial modeling untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial modeling",
+    "Siapa yang Wajib Mengikuti training financial modeling",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial modeling",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial modeling",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2019": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Financial Reporting for Non Financial Managers - FS Institute",
+   "meta_description": "training financial reporting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial reporting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial reporting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial reporting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial reporting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial reporting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial reporting",
+    "Siapa yang Wajib Mengikuti training financial reporting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial reporting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial reporting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2020": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Training integrated business planning - FS Institute",
+   "meta_description": "training integrated business planning di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training integrated business planning?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training integrated business planning adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training integrated business planning?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training integrated business planning bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training integrated business planning dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training integrated business planning untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training integrated business planning",
+    "Siapa yang Wajib Mengikuti training integrated business planning",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training integrated business planning",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training integrated business planning",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2021": {
+  "masalah": [
+   "529 impresi, 0 klik. Snippet tidak meyakinkan sama sekali."
+  ],
+  "solusi": [
+   "Tulis ulang meta description dengan angka konkret (durasi, jumlah peserta, sertifikat) dan CTA eksplisit."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Training regulatory reporting compliance - FS Institute",
+   "meta_description": "training regulatory reporting compliance di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubun",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training regulatory reporting compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training regulatory reporting compliance adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training regulatory reporting compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training regulatory reporting compliance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training regulatory reporting compliance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training regulatory reporting compliance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training regulatory reporting compliance",
+    "Siapa yang Wajib Mengikuti training regulatory reporting compliance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training regulatory reporting compliance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training regulatory reporting compliance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "2022": {
+  "masalah": [
+   "Posisi terkini #28 (rata-rata periode #18) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Training strategic cost management - FS Institute",
+   "meta_description": "training strategic cost management di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training strategic cost management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training strategic cost management adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training strategic cost management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training strategic cost management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training strategic cost management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training strategic cost management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training strategic cost management",
+    "Siapa yang Wajib Mengikuti training strategic cost management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training strategic cost management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training strategic cost management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2023": {
+  "masalah": [
+   "Posisi terkini #14 (rata-rata periode #22) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Working Capital Management 2026 - FS Institute",
+   "meta_description": "training working capital management di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training working capital management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training working capital management adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training working capital management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training working capital management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training working capital management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training working capital management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training working capital management",
+    "Siapa yang Wajib Mengikuti training working capital management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training working capital management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training working capital management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2024": {
+  "masalah": [
+   "Posisi terkini #12 (rata-rata periode #16) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Account Payable 2026 - FS Institute",
+   "meta_description": "training account payable di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training account payable?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training account payable adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training account payable?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training account payable bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training account payable dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training account payable untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training account payable",
+    "Siapa yang Wajib Mengikuti training account payable",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training account payable",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training account payable",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2025": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Accounting for Inventory 2026 - FS Institute",
+   "meta_description": "training accounting for inventory di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim ",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training accounting for inventory?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training accounting for inventory adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training accounting for inventory?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training accounting for inventory bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training accounting for inventory dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training accounting for inventory untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training accounting for inventory",
+    "Siapa yang Wajib Mengikuti training accounting for inventory",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training accounting for inventory",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training accounting for inventory",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2026": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Accounting for Investment 2026 - FS Institute",
+   "meta_description": "training accounting for investment di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training accounting for investment?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training accounting for investment adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training accounting for investment?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training accounting for investment bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training accounting for investment dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training accounting for investment untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training accounting for investment",
+    "Siapa yang Wajib Mengikuti training accounting for investment",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training accounting for investment",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training accounting for investment",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2027": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Accounting for Non Accountants - FS Institute",
+   "meta_description": "pelatihan akuntansi untuk non akuntan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan akuntansi untuk non akuntan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan akuntansi untuk non akuntan adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan akuntansi untuk non akuntan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan akuntansi untuk non akuntan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan akuntansi untuk non akuntan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan akuntansi untuk non akuntan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan akuntansi untuk non akuntan",
+    "Siapa yang Wajib Mengikuti pelatihan akuntansi untuk non akuntan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan akuntansi untuk non akuntan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan akuntansi untuk non akuntan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2028": {
+  "masalah": [
+   "Posisi terkini #43 (rata-rata periode #50) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Accounting Systems Implementation & Integration - FS Institute",
+   "meta_description": "training accounting systems implementation di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training accounting systems implementation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training accounting systems implementation adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training accounting systems implementation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training accounting systems implementation bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training accounting systems implementation dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training accounting systems implementation untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training accounting systems implementation",
+    "Siapa yang Wajib Mengikuti training accounting systems implementation",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training accounting systems implementation",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training accounting systems implementation",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2029": {
+  "masalah": [
+   "Posisi terkini #25 (rata-rata periode #15) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Administrasi Keuangan Perusahaan - FS Institute",
+   "meta_description": "pelatihan administrasi keuangan perusahaan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hub",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan administrasi keuangan perusahaan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan administrasi keuangan perusahaan adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan administrasi keuangan perusahaan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan administrasi keuangan perusahaan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan administrasi keuangan perusahaan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan administrasi keuangan perusahaan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan administrasi keuangan perusahaan",
+    "Siapa yang Wajib Mengikuti pelatihan administrasi keuangan perusahaan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan administrasi keuangan perusahaan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan administrasi keuangan perusahaan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2030": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Advanced Accounting 2026 - FS Institute",
+   "meta_description": "training advanced accounting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training advanced accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training advanced accounting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training advanced accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training advanced accounting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training advanced accounting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training advanced accounting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training advanced accounting",
+    "Siapa yang Wajib Mengikuti training advanced accounting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training advanced accounting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training advanced accounting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2031": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Advance Financial Accounting with Excel 2026 - FS Institute",
+   "meta_description": "training advanced financial accounting excel di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk ti",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training advanced financial accounting excel?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training advanced financial accounting excel adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training advanced financial accounting excel?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training advanced financial accounting excel bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training advanced financial accounting excel dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training advanced financial accounting excel untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training advanced financial accounting excel",
+    "Siapa yang Wajib Mengikuti training advanced financial accounting excel",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training advanced financial accounting excel",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training advanced financial accounting excel",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2032": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Akuntansi Perbankan 2026 - FS Institute",
+   "meta_description": "pelatihan akuntansi perbankan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan akuntansi perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan akuntansi perbankan adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan akuntansi perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan akuntansi perbankan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan akuntansi perbankan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan akuntansi perbankan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan akuntansi perbankan",
+    "Siapa yang Wajib Mengikuti pelatihan akuntansi perbankan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan akuntansi perbankan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan akuntansi perbankan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2033": {
+  "masalah": [
+   "Posisi terkini #15 (rata-rata periode #19) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Basic Audit Finance 2026 - FS Institute",
+   "meta_description": "training basic audit finance di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training basic audit finance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training basic audit finance adalah program pelatihan Audit, Fraud & Forensik dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training basic audit finance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training basic audit finance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training basic audit finance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training basic audit finance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training basic audit finance",
+    "Siapa yang Wajib Mengikuti training basic audit finance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training basic audit finance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training basic audit finance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2034": {
+  "masalah": [
+   "Posisi terkini #30 (rata-rata periode #29) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Cost Accounting & Analysis 2026 - FS Institute",
+   "meta_description": "training cost accounting and analysis di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training cost accounting and analysis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training cost accounting and analysis adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training cost accounting and analysis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training cost accounting and analysis bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training cost accounting and analysis dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training cost accounting and analysis untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training cost accounting and analysis",
+    "Siapa yang Wajib Mengikuti training cost accounting and analysis",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training cost accounting and analysis",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training cost accounting and analysis",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2035": {
+  "masalah": [
+   "Posisi terkini #16 (rata-rata periode #33) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Cost Accounting Perbankan 2026 - FS Institute",
+   "meta_description": "pelatihan cost accounting perbankan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan cost accounting perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan cost accounting perbankan adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan cost accounting perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan cost accounting perbankan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan cost accounting perbankan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan cost accounting perbankan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan cost accounting perbankan",
+    "Siapa yang Wajib Mengikuti pelatihan cost accounting perbankan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan cost accounting perbankan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan cost accounting perbankan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2036": {
+  "masalah": [
+   "Posisi terkini #28 (rata-rata periode #32) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Financial Modeling for Accounting Professionals - FS Institute",
+   "meta_description": "training financial modeling accounting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training financial modeling accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training financial modeling accounting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training financial modeling accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training financial modeling accounting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training financial modeling accounting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training financial modeling accounting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training financial modeling accounting",
+    "Siapa yang Wajib Mengikuti training financial modeling accounting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training financial modeling accounting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training financial modeling accounting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2037": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Pelatihan Kredit Konsumtif BPR - FS Institute",
+   "meta_description": "pelatihan kredit konsumtif bpr di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kam",
+   "faq_schema": "",
+   "h2_outline": [
+    "Apa Itu pelatihan kredit konsumtif bpr dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan kredit konsumtif bpr untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan kredit konsumtif bpr",
+    "Siapa yang Wajib Mengikuti pelatihan kredit konsumtif bpr",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan kredit konsumtif bpr",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan kredit konsumtif bpr",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2038": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Management Accounting for Decision Making - FS Institute",
+   "meta_description": "training management accounting di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training management accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training management accounting adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training management accounting?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training management accounting bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training management accounting dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training management accounting untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training management accounting",
+    "Siapa yang Wajib Mengikuti training management accounting",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training management accounting",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training management accounting",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2039": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Training advanced tax planning - FS Institute",
+   "meta_description": "training advanced tax planning di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training advanced tax planning?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training advanced tax planning adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training advanced tax planning?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training advanced tax planning bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training advanced tax planning dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training advanced tax planning untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training advanced tax planning",
+    "Siapa yang Wajib Mengikuti training advanced tax planning",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training advanced tax planning",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training advanced tax planning",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2040": {
+  "masalah": [
+   "Posisi terkini #18 (rata-rata periode #24) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Training corporate tax planning - FS Institute",
+   "meta_description": "training corporate tax planning di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training corporate tax planning?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training corporate tax planning adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training corporate tax planning?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training corporate tax planning bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training corporate tax planning dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training corporate tax planning untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training corporate tax planning",
+    "Siapa yang Wajib Mengikuti training corporate tax planning",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training corporate tax planning",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training corporate tax planning",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2041": {
+  "masalah": [
+   "Posisi terkini #29 (rata-rata periode #34) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Training strategic tax management - FS Institute",
+   "meta_description": "training strategic tax management di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim ",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training strategic tax management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training strategic tax management adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training strategic tax management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training strategic tax management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training strategic tax management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training strategic tax management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training strategic tax management",
+    "Siapa yang Wajib Mengikuti training strategic tax management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training strategic tax management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training strategic tax management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2042": {
+  "masalah": [
+   "Posisi terkini #10 (rata-rata periode #17) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Tax Audit Preparation & Defense - FS Institute",
+   "meta_description": "training tax audit preparation di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training tax audit preparation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training tax audit preparation adalah program pelatihan Audit, Fraud & Forensik dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training tax audit preparation?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training tax audit preparation bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training tax audit preparation dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training tax audit preparation untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training tax audit preparation",
+    "Siapa yang Wajib Mengikuti training tax audit preparation",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training tax audit preparation",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training tax audit preparation",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2043": {
+  "masalah": [
+   "Posisi terkini #33 (rata-rata periode #41) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Transfer Pricing & International Taxation - FS Institute",
+   "meta_description": "training transfer pricing di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training transfer pricing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training transfer pricing adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training transfer pricing?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training transfer pricing bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training transfer pricing dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training transfer pricing untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training transfer pricing",
+    "Siapa yang Wajib Mengikuti training transfer pricing",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training transfer pricing",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training transfer pricing",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2044": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi VAT/GST Compliance & Management - FS Institute",
+   "meta_description": "training vat gst compliance di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training vat gst compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training vat gst compliance adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training vat gst compliance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training vat gst compliance bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training vat gst compliance dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training vat gst compliance untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training vat gst compliance",
+    "Siapa yang Wajib Mengikuti training vat gst compliance",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training vat gst compliance",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training vat gst compliance",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2045": {
+  "masalah": [
+   "Posisi terkini #11 (rata-rata periode #21) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "TRAINING ASSET LIABILITY MANAGEMENT (ALMA) - FS Institute",
+   "meta_description": "Training ALMA Melaksanakan kebijakan manajemen aktiva dan pasiva (ALM) secara efektif2 dan Mengelola fungsi ALM",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training asset liability management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training asset liability management adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training asset liability management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training asset liability management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training asset liability management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training asset liability management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training asset liability management",
+    "Siapa yang Wajib Mengikuti training asset liability management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training asset liability management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training asset liability management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2046": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Pelatihan integritas laporan keuangan bank - FS Institute",
+   "meta_description": "pelatihan integritas laporan keuangan bank di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan integritas laporan keuangan bank?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan integritas laporan keuangan bank adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan integritas laporan keuangan bank?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan integritas laporan keuangan bank bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan integritas laporan keuangan bank dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan integritas laporan keuangan bank untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan integritas laporan keuangan bank",
+    "Siapa yang Wajib Mengikuti pelatihan integritas laporan keuangan bank",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan integritas laporan keuangan bank",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan integritas laporan keuangan bank",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2047": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Balanced Scorecard 2026 - FS Institute",
+   "meta_description": "training balanced scorecard di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training balanced scorecard?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training balanced scorecard adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training balanced scorecard?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training balanced scorecard bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training balanced scorecard dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training balanced scorecard untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training balanced scorecard",
+    "Siapa yang Wajib Mengikuti training balanced scorecard",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training balanced scorecard",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training balanced scorecard",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2048": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Business/Corporate Plan & Roadmap - FS Institute",
+   "meta_description": "training business plan dan roadmap di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training business plan dan roadmap?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training business plan dan roadmap adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training business plan dan roadmap?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training business plan dan roadmap bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training business plan dan roadmap dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training business plan dan roadmap untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training business plan dan roadmap",
+    "Siapa yang Wajib Mengikuti training business plan dan roadmap",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training business plan dan roadmap",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training business plan dan roadmap",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2049": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Business Strategy, Business Process & Risk Management - FS Institute",
+   "meta_description": "training penyelarasan strategi bisnis di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi ",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training penyelarasan strategi bisnis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training penyelarasan strategi bisnis adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training penyelarasan strategi bisnis?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training penyelarasan strategi bisnis bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training penyelarasan strategi bisnis dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training penyelarasan strategi bisnis untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training penyelarasan strategi bisnis",
+    "Siapa yang Wajib Mengikuti training penyelarasan strategi bisnis",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training penyelarasan strategi bisnis",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training penyelarasan strategi bisnis",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2050": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Strategic Planning & Execution - FS Institute",
+   "meta_description": "training strategic planning execution di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training strategic planning execution?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training strategic planning execution adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training strategic planning execution?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training strategic planning execution bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training strategic planning execution dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training strategic planning execution untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training strategic planning execution",
+    "Siapa yang Wajib Mengikuti training strategic planning execution",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training strategic planning execution",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training strategic planning execution",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2051": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Strategy Business Unit Model 2026 - FS Institute",
+   "meta_description": "training strategy business unit di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training strategy business unit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training strategy business unit adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training strategy business unit?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training strategy business unit bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training strategy business unit dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training strategy business unit untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training strategy business unit",
+    "Siapa yang Wajib Mengikuti training strategy business unit",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training strategy business unit",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training strategy business unit",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2052": {
+  "masalah": [
+   "Posisi terkini #11 (rata-rata periode #28) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "International Financial Reporting Standards - FS Institute",
+   "meta_description": "training ifrs di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training ifrs?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training ifrs adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training ifrs?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training ifrs bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training ifrs dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training ifrs untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training ifrs",
+    "Siapa yang Wajib Mengikuti training ifrs",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training ifrs",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training ifrs",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "2053": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK 14 2026 - FS Institute",
+   "meta_description": "pelatihan psak 14 persediaan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 14 persediaan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 14 persediaan adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 14 persediaan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 14 persediaan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 14 persediaan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 14 persediaan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 14 persediaan",
+    "Siapa yang Wajib Mengikuti pelatihan psak 14 persediaan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 14 persediaan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 14 persediaan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2054": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK 2 2026 - FS Institute",
+   "meta_description": "pelatihan psak 2 laporan arus kas di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 2 laporan arus kas?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 2 laporan arus kas adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 2 laporan arus kas?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 2 laporan arus kas bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 2 laporan arus kas dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 2 laporan arus kas untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 2 laporan arus kas",
+    "Siapa yang Wajib Mengikuti pelatihan psak 2 laporan arus kas",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 2 laporan arus kas",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 2 laporan arus kas",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2055": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK 57 2026 - FS Institute",
+   "meta_description": "pelatihan psak 57 di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 57?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 57 adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 57?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 57 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 57 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 57 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 57",
+    "Siapa yang Wajib Mengikuti pelatihan psak 57",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 57",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 57",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2056": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK 69 2026 - FS Institute",
+   "meta_description": "pelatihan psak 69 agriculture di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 69 agriculture?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 69 agriculture adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 69 agriculture?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 69 agriculture bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 69 agriculture dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 69 agriculture untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 69 agriculture",
+    "Siapa yang Wajib Mengikuti pelatihan psak 69 agriculture",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 69 agriculture",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 69 agriculture",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2057": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "IFRS 9 (Ed Psak 71) : Strategi Dan Dampak Terhadap Profitabilitas Perusahaan - FS Institute",
+   "meta_description": "pelatihan psak 71 instrumen keuangan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi t",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 71 instrumen keuangan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 71 instrumen keuangan adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 71 instrumen keuangan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 71 instrumen keuangan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 71 instrumen keuangan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 71 instrumen keuangan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 71 instrumen keuangan",
+    "Siapa yang Wajib Mengikuti pelatihan psak 71 instrumen keuangan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 71 instrumen keuangan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 71 instrumen keuangan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2058": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK 73 2026 - FS Institute",
+   "meta_description": "pelatihan psak 73 sewa di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 73 sewa?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 73 sewa adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 73 sewa?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 73 sewa bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 73 sewa dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 73 sewa untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 73 sewa",
+    "Siapa yang Wajib Mengikuti pelatihan psak 73 sewa",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 73 sewa",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 73 sewa",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2059": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK 74 2026 - FS Institute",
+   "meta_description": "pelatihan psak 74 kontrak asuransi di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak 74 kontrak asuransi?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak 74 kontrak asuransi adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak 74 kontrak asuransi?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak 74 kontrak asuransi bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak 74 kontrak asuransi dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak 74 kontrak asuransi untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak 74 kontrak asuransi",
+    "Siapa yang Wajib Mengikuti pelatihan psak 74 kontrak asuransi",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak 74 kontrak asuransi",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak 74 kontrak asuransi",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2060": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK for Professional 2026 - FS Institute",
+   "meta_description": "pelatihan psak for professional di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan psak for professional?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan psak for professional adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan psak for professional?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan psak for professional bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan psak for professional dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan psak for professional untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan psak for professional",
+    "Siapa yang Wajib Mengikuti pelatihan psak for professional",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan psak for professional",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan psak for professional",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2061": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi PSAK Update & Implementation 2026 - FS Institute",
+   "meta_description": "pelatihan update psak terbaru di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan update psak terbaru?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan update psak terbaru adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan update psak terbaru?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan update psak terbaru bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan update psak terbaru dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan update psak terbaru untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan update psak terbaru",
+    "Siapa yang Wajib Mengikuti pelatihan update psak terbaru",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan update psak terbaru",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan update psak terbaru",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2062": {
+  "masalah": [
+   "Impresi tinggi (3,037) tetapi CTR hanya 0.89% — 3,010 tayangan tidak menghasilkan klik."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Grafonomi For Banking 2026 - FS Institute",
+   "meta_description": "training grafonomi perbankan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training grafonomi perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training grafonomi perbankan adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training grafonomi perbankan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training grafonomi perbankan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training grafonomi perbankan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training grafonomi perbankan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training grafonomi perbankan",
+    "Siapa yang Wajib Mengikuti training grafonomi perbankan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training grafonomi perbankan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training grafonomi perbankan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "2063": {
+  "masalah": [
+   "Impresi tinggi (815) tetapi CTR hanya 1.23% — 805 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #12 (rata-rata periode #10) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Business Acumen 2026 - FS Institute",
+   "meta_description": "training business acumen di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training business acumen?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training business acumen adalah program pelatihan AI & Data Governance dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training business acumen?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training business acumen bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training business acumen dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training business acumen untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training business acumen",
+    "Siapa yang Wajib Mengikuti training business acumen",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training business acumen",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training business acumen",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "2064": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi LEARN & LUNCH SERIES PROGRAM 2026 - FS Institute",
+   "meta_description": "learn and lunch series program di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu learn and lunch series program?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"learn and lunch series program adalah program pelatihan Tata Kelola & BUMN dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti learn and lunch series program?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah learn and lunch series program bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu learn and lunch series program dan Mengapa Penting bagi Perusahaan",
+    "Manfaat learn and lunch series program untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus learn and lunch series program",
+    "Siapa yang Wajib Mengikuti learn and lunch series program",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan learn and lunch series program",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu learn and lunch series program",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "2065": {
+  "masalah": [
+   "Posisi terkini #25 (rata-rata periode #18) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Manajemen Risiko Terpadu dengan ISO 31000:2009 dan ISO 9001:2015 - FS Institute",
+   "meta_description": "Dalam pelatihan manajemen risiko terpadu, Anda akan mempelajari bagaimana memadukan ISO 9001 dengan ISO 31000 guna membantu organisasi",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan manajemen risiko terpadu?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan manajemen risiko terpadu adalah program pelatihan Standar ISO & Kepatuhan dari FS Institute yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan manajemen risiko terpadu?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan manajemen risiko terpadu bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim FS Institute melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan manajemen risiko terpadu dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan manajemen risiko terpadu untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan manajemen risiko terpadu",
+    "Siapa yang Wajib Mengikuti pelatihan manajemen risiko terpadu",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan manajemen risiko terpadu",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan manajemen risiko terpadu",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
  }
 }

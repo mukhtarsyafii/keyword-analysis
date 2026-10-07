@@ -822,5 +822,496 @@
   "live_desc": "Pelatihan ERM Fundamentals 2 hari berbasis ISO 31000 dengan sertifikasi risk officer BNSP (QRMO/QRMA). Lihat silabus, rundown, dan biayanya. Daftar kini!",
   "has_faq": true,
   "h2_count": 58
+ },
+ "2002": {
+  "url": "https://fs-institute.org/training-effective-budgeting-cost-control/",
+  "http_ok": true,
+  "live_title": "Training Effective Budgeting and Cost Control - FS Institute",
+  "live_desc": "Training Effective Budgeting and Cost Control diharapkan dapat memberikan bekal dan wawasan bagi para peserta tentang berbagai konsep",
+  "has_faq": false,
+  "h2_count": 8
+ },
+ "2003": {
+  "url": "https://fs-institute.org/training-treasury-for-non-dealers/",
+  "http_ok": true,
+  "live_title": "Training Treasury For Non Dealers - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 8
+ },
+ "2004": {
+  "url": "https://fs-institute.org/training/pelatihan-asset-management/",
+  "http_ok": true,
+  "live_title": "Pelatihan Asset Management Based on ISO 55001:2014 - FS Institute",
+  "live_desc": "Pelatihan Asset Management memberikan pengetahuan dan keterampilan profesional untuk memahami sistem manajemen ISO 55001: 2014",
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "2005": {
+  "url": "https://fs-institute.org/training/accounting/basic-accounting/",
+  "http_ok": true,
+  "live_title": "Pelatihan Dasar Accounting - FS Institute",
+  "live_desc": "Pelatihan dasar accounting adalah menggabungkan penggunaan bahasa yang mudah dipahami dan pemberian contoh yang nyata sehingga memudahkan..",
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "2006": {
+  "url": "https://fs-institute.org/pelatihan-iso-37001-anti-bribery-management-system/",
+  "http_ok": true,
+  "live_title": "PELATIHAN ISO 37001 ANTI BRIBERY MANAGEMENT SYSTEM - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "2007": {
+  "url": "https://fs-institute.org/training/finance/cash-flow-management/",
+  "http_ok": true,
+  "live_title": "CASHFLOW MANAGEMENT TRAINING - FS Institute",
+  "live_desc": "IFRS 9 : Strategi Dan Dampak Terhadap Profitabilitas Perusahaan, peserta mampu memahami strategi implementasi PSAK 55 dan proses konversinya",
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "2008": {
+  "url": "https://fs-institute.org/strategic-cost-reduction-training/",
+  "http_ok": true,
+  "live_title": "Strategic Cost Reduction - FS Institute",
+  "live_desc": "Strategic Cost Reduction adalah jurus yang sangat ampuh untuk meningkatkan posisi kompetitif perusahaan di saat situasi krisis sekalipun.",
+  "has_faq": false,
+  "h2_count": 15
+ },
+ "2009": {
+  "url": "https://fs-institute.org/training/finance/advanced-excel-financial-reporting/",
+  "http_ok": true,
+  "live_title": "Advanced Excel for Financial Reporting - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2010": {
+  "url": "https://fs-institute.org/training/finance/cash-flow-optimization-management/",
+  "http_ok": true,
+  "live_title": "Cash Flow Optimization & Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2011": {
+  "url": "https://fs-institute.org/training/finance/cash-management/",
+  "http_ok": true,
+  "live_title": "Cash Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "2012": {
+  "url": "https://fs-institute.org/training/finance/compliance-management-reporting/",
+  "http_ok": true,
+  "live_title": "Compliance Management & Reporting - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2013": {
+  "url": "https://fs-institute.org/training/finance/finance-for-non-finance/",
+  "http_ok": true,
+  "live_title": "Finance For Non Finance - FS Institute",
+  "live_desc": "IFRS 9 : Strategi Dan Dampak Terhadap Profitabilitas Perusahaan, peserta mampu memahami strategi implementasi PSAK 55 dan proses konversinya",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2014": {
+  "url": "https://fs-institute.org/training/finance/financial-closing-acceleration/",
+  "http_ok": true,
+  "live_title": "Financial Closing Acceleration Techniques - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2015": {
+  "url": "https://fs-institute.org/training/finance/financial-consolidation-reporting/",
+  "http_ok": true,
+  "live_title": "Financial Consolidation & Reporting - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2016": {
+  "url": "https://fs-institute.org/training/finance/financial-data-business-intelligence/",
+  "http_ok": true,
+  "live_title": "Managing Financial Data for Business Intelligence - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2017": {
+  "url": "https://fs-institute.org/training/finance/financial-information-systems/",
+  "http_ok": true,
+  "live_title": "Financial Information Systems Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2018": {
+  "url": "https://fs-institute.org/training/finance/financial-modeling/",
+  "http_ok": true,
+  "live_title": "Financial Modeling - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2019": {
+  "url": "https://fs-institute.org/training/finance/financial-reporting-for-non-financial-managers/",
+  "http_ok": true,
+  "live_title": "Financial Reporting for Non Financial Managers - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2020": {
+  "url": "https://fs-institute.org/training/finance/integrated-business-planning-reporting/",
+  "http_ok": false,
+  "error": "Remote end closed connection without response"
+ },
+ "2021": {
+  "url": "https://fs-institute.org/training/finance/regulatory-reporting-compliance/",
+  "http_ok": false,
+  "error": "Remote end closed connection without response"
+ },
+ "2022": {
+  "url": "https://fs-institute.org/training/finance/strategic-cost-management/",
+  "http_ok": false,
+  "error": "Remote end closed connection without response"
+ },
+ "2023": {
+  "url": "https://fs-institute.org/training/finance/working-capital-management/",
+  "http_ok": true,
+  "live_title": "Working Capital Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2024": {
+  "url": "https://fs-institute.org/training/accounting/account-payable/",
+  "http_ok": true,
+  "live_title": "Account Payable - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2025": {
+  "url": "https://fs-institute.org/training/accounting/accounting-for-inventory/",
+  "http_ok": true,
+  "live_title": "Accounting for Inventory - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2026": {
+  "url": "https://fs-institute.org/training/accounting/accounting-for-investment/",
+  "http_ok": true,
+  "live_title": "Accounting for Investment - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2027": {
+  "url": "https://fs-institute.org/training/accounting/accounting-for-non-accountants/",
+  "http_ok": true,
+  "live_title": "Accounting for Non Accountants - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2028": {
+  "url": "https://fs-institute.org/training/accounting/accounting-systems-implementation/",
+  "http_ok": true,
+  "live_title": "Accounting Systems Implementation & Integration - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2029": {
+  "url": "https://fs-institute.org/training/accounting/administrasi-keuangan-perusahaan/",
+  "http_ok": true,
+  "live_title": "Administrasi Keuangan Perusahaan - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2030": {
+  "url": "https://fs-institute.org/training/accounting/advanced-accounting/",
+  "http_ok": true,
+  "live_title": "Advanced Accounting - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2031": {
+  "url": "https://fs-institute.org/training/accounting/advanced-financial-accounting-excel/",
+  "http_ok": true,
+  "live_title": "Advance Financial Accounting with Excel - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2032": {
+  "url": "https://fs-institute.org/training/accounting/akuntansi-perbankan/",
+  "http_ok": true,
+  "live_title": "Akuntansi Perbankan - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2033": {
+  "url": "https://fs-institute.org/training/accounting/basic-audit-finance/",
+  "http_ok": true,
+  "live_title": "Basic Audit Finance - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2034": {
+  "url": "https://fs-institute.org/training/accounting/cost-accounting-analysis/",
+  "http_ok": true,
+  "live_title": "Cost Accounting & Analysis - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2035": {
+  "url": "https://fs-institute.org/training/accounting/cost-accounting-perbankan/",
+  "http_ok": true,
+  "live_title": "Cost Accounting Perbankan - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2036": {
+  "url": "https://fs-institute.org/training/accounting/financial-modeling-accounting/",
+  "http_ok": true,
+  "live_title": "Financial Modeling for Accounting Professionals - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2037": {
+  "url": "https://fs-institute.org/training/banking/pelatihan-kredit-konsumtif-bpr/",
+  "http_ok": true,
+  "live_title": "Pelatihan Kredit Konsumtif BPR - FS Institute",
+  "live_desc": "Pelatihan analisis kredit konsumtif BPR 2 hari: verifikasi SLIK OJK, hitung kemampuan bayar, scorecard, dan keputusan kredit. Cek silabus dan daftar sekarang.",
+  "has_faq": true,
+  "h2_count": 68
+ },
+ "2038": {
+  "url": "https://fs-institute.org/training/accounting/management-accounting-decision-making/",
+  "http_ok": true,
+  "live_title": "Management Accounting for Decision Making - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2039": {
+  "url": "https://fs-institute.org/training/tax/advanced-tax-planning-compliance/",
+  "http_ok": false,
+  "error": "IncompleteRead(137293 bytes read)"
+ },
+ "2040": {
+  "url": "https://fs-institute.org/training/tax/corporate-tax-strategies-planning/",
+  "http_ok": false,
+  "error": "Remote end closed connection without response"
+ },
+ "2041": {
+  "url": "https://fs-institute.org/training/tax/strategic-tax-management/",
+  "http_ok": false,
+  "error": "IncompleteRead(136883 bytes read)"
+ },
+ "2042": {
+  "url": "https://fs-institute.org/training/tax/tax-audit-preparation-defense/",
+  "http_ok": true,
+  "live_title": "Tax Audit Preparation & Defense - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2043": {
+  "url": "https://fs-institute.org/training/tax/transfer-pricing-international-taxation/",
+  "http_ok": true,
+  "live_title": "Transfer Pricing & International Taxation - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2044": {
+  "url": "https://fs-institute.org/training/tax/vat-gst-compliance-management/",
+  "http_ok": true,
+  "live_title": "VAT/GST Compliance & Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2045": {
+  "url": "https://fs-institute.org/training/banking/asset-liability-management/",
+  "http_ok": true,
+  "live_title": "TRAINING ASSET LIABILITY MANAGEMENT (ALMA) - FS Institute",
+  "live_desc": "Training ALMA Melaksanakan kebijakan manajemen aktiva dan pasiva (ALM) secara efektif2 dan Mengelola fungsi ALM",
+  "has_faq": false,
+  "h2_count": 8
+ },
+ "2046": {
+  "url": "https://fs-institute.org/training/banking/integritas-laporan-keuangan-bank-pojk-15-2024/",
+  "http_ok": false,
+  "error": "IncompleteRead(246074 bytes read)"
+ },
+ "2047": {
+  "url": "https://fs-institute.org/training/strategy/balanced-scorecard/",
+  "http_ok": true,
+  "live_title": "Balanced Scorecard - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2048": {
+  "url": "https://fs-institute.org/training/strategy/business-corporate-plan-roadmap/",
+  "http_ok": true,
+  "live_title": "Business/Corporate Plan & Roadmap - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2049": {
+  "url": "https://fs-institute.org/training/strategy/business-strategy-business-process-risk-management/",
+  "http_ok": true,
+  "live_title": "Business Strategy, Business Process & Risk Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2050": {
+  "url": "https://fs-institute.org/training/strategy/strategic-planning-execution/",
+  "http_ok": true,
+  "live_title": "Strategic Planning & Execution - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2051": {
+  "url": "https://fs-institute.org/training/strategy/strategy-business-unit-model/",
+  "http_ok": true,
+  "live_title": "Strategy Business Unit Model - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2052": {
+  "url": "https://fs-institute.org/training/psak-ifrs/international-financial-reporting-standards/",
+  "http_ok": true,
+  "live_title": "International Financial Reporting Standards - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2053": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-14-persediaan/",
+  "http_ok": true,
+  "live_title": "PSAK 14 - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2054": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-2-laporan-arus-kas/",
+  "http_ok": true,
+  "live_title": "PSAK 2 - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2055": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-57-kewajiban-kontinjensi/",
+  "http_ok": true,
+  "live_title": "PSAK 57 - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2056": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-69-agriculture/",
+  "http_ok": true,
+  "live_title": "PSAK 69 - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2057": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-71-instrumen-keuangan/",
+  "http_ok": true,
+  "live_title": "IFRS 9 (Ed Psak 71) : Strategi Dan Dampak Terhadap Profitabilitas Perusahaan - FS Institute",
+  "live_desc": "IFRS 9 : Strategi Dan Dampak Terhadap Profitabilitas Perusahaan, peserta mampu memahami strategi implementasi PSAK 55 dan proses konversinya",
+  "has_faq": false,
+  "h2_count": 17
+ },
+ "2058": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-73-sewa/",
+  "http_ok": true,
+  "live_title": "PSAK 73 - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2059": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-74-kontrak-asuransi/",
+  "http_ok": true,
+  "live_title": "PSAK 74 - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2060": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-for-professional/",
+  "http_ok": true,
+  "live_title": "PSAK for Professional - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2061": {
+  "url": "https://fs-institute.org/training/psak-ifrs/psak-update-implementation/",
+  "http_ok": true,
+  "live_title": "PSAK Update & Implementation - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "2062": {
+  "url": "https://fs-institute.org/grafonomi-for-banking/",
+  "http_ok": true,
+  "live_title": "Grafonomi For Banking - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 2
+ },
+ "2063": {
+  "url": "https://fs-institute.org/business-acumen/",
+  "http_ok": true,
+  "live_title": "Business Acumen - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 13
+ },
+ "2064": {
+  "url": "https://fs-institute.org/learn-lunch-series-program/",
+  "http_ok": true,
+  "live_title": "LEARN & LUNCH SERIES PROGRAM - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "2065": {
+  "url": "https://fs-institute.org/manajemen-risiko-terpadu-dengan-iso-310002009-dan-iso-90012015/",
+  "http_ok": true,
+  "live_title": "Manajemen Risiko Terpadu dengan ISO 31000:2009 dan ISO 9001:2015 - FS Institute",
+  "live_desc": "Dalam pelatihan manajemen risiko terpadu, Anda akan mempelajari bagaimana memadukan ISO 9001 dengan ISO 31000 guna membantu organisasi",
+  "has_faq": false,
+  "h2_count": 8
  }
 }

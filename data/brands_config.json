@@ -16,5 +16,14 @@
     "id_base": 1000,
     "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
     "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, maintenance, dan continuous improvement manufaktur."
+  },
+  {
+    "brand": "FS Institute",
+    "gid": "1719586467",
+    "domain": "fs-institute.org",
+    "property": "https://fs-institute.org/",
+    "id_base": 2000,
+    "focus": "Finance, Treasury, Accounting & Food Safety",
+    "audience": "Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan."
   }
 ]
