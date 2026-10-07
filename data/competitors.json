@@ -44,13 +44,15 @@
     "top_position": 2,
     "we_rank": 11
    }
-  ]
+  ],
+  "product_id": 49
  },
  "7": {
   "product_name": "Pelatihan dan Sertifikasi Manajemen Risiko Berbasis ISO 31000:2018",
   "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
-  "competitor_keywords": []
+  "competitor_keywords": [],
+  "product_id": 7
  },
  "12": {
   "product_name": "Pelatihan BCMS berbasis ISO 22301:2019",
@@ -97,7 +99,8 @@
     "top_position": 1,
     "we_rank": 9
    }
-  ]
+  ],
+  "product_id": 12
  },
  "13": {
   "product_name": "ICoFR Intensive Training",
@@ -144,7 +147,8 @@
     "top_position": 2,
     "we_rank": 3
    }
-  ]
+  ],
+  "product_id": 13
  },
  "38": {
   "product_name": "Pelatihan dan Sertifikasi Certified Governance Professional (CGP) Indonesia",
@@ -191,7 +195,8 @@
     "top_position": 1,
     "we_rank": 5
    }
-  ]
+  ],
+  "product_id": 38
  },
  "10": {
   "product_name": "Sertifikasi Risk Management ISO 31000",
@@ -237,7 +242,8 @@
     "top_position": 2,
     "we_rank": 16
    }
-  ]
+  ],
+  "brand": "GRC Indonesia"
  },
  "2": {
   "product_name": "Training AI Governance",
@@ -283,7 +289,8 @@
     "top_position": null,
     "we_rank": 1
    }
-  ]
+  ],
+  "brand": "GRC Indonesia"
  },
  "6": {
   "product_name": "Training Grafonomi, Grafologi, & Deteksi Uang Palsu",
@@ -329,7 +336,8 @@
     "top_position": 1,
     "we_rank": 1
    }
-  ]
+  ],
+  "brand": "GRC Indonesia"
  },
  "1": {
   "product_name": "Training Fraud Management",
@@ -375,7 +383,8 @@
     "top_position": null,
     "we_rank": 1
    }
-  ]
+  ],
+  "brand": "GRC Indonesia"
  },
  "20": {
   "product_name": "Pelatihan Compliance System Management ISO 37301",
@@ -421,7 +430,8 @@
     "top_position": 4,
     "we_rank": 2
    }
-  ]
+  ],
+  "brand": "GRC Indonesia"
  },
  "11": {
   "product_name": "Training Sistem Manajemen Kepatuhan",
@@ -468,7 +478,8 @@
     "top_position": 4,
     "we_rank": 2
    }
-  ]
+  ],
+  "product_id": 11
  },
  "16": {
   "product_name": "Pelatihan Qualified Risk Management Officer (QRMO)",
@@ -515,7 +526,8 @@
     "top_position": 2,
     "we_rank": 9
    }
-  ]
+  ],
+  "product_id": 16
  },
  "1004": {
   "product_name": "Training 5R",
@@ -562,13 +574,15 @@
     "top_position": 1,
     "we_rank": 2
    }
-  ]
+  ],
+  "product_id": 1004
  },
  "1003": {
   "product_name": "Pelatihan Budaya Kerja 5R/5S & Penerapan Red Tag System Manufaktur",
   "brand": "IPQI",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
-  "competitor_keywords": []
+  "competitor_keywords": [],
+  "product_id": 1003
  },
  "1016": {
   "product_name": "Training Masa Persiapan Pensiun",
@@ -615,7 +629,8 @@
     "top_position": null,
     "we_rank": 15
    }
-  ]
+  ],
+  "product_id": 1016
  },
  "1034": {
   "product_name": "Training Advanced Product Quality Planning (APQP)",
@@ -662,7 +677,8 @@
     "top_position": 1,
     "we_rank": 39
    }
-  ]
+  ],
+  "product_id": 1034
  },
  "1014": {
   "product_name": "Training Business Process",
@@ -709,7 +725,8 @@
     "top_position": 1,
     "we_rank": 1
    }
-  ]
+  ],
+  "product_id": 1014
  },
  "1005": {
   "product_name": "Training Leadership - Menciptakan hasil sebagai seorang ...",
@@ -756,7 +773,8 @@
     "top_position": 1,
     "we_rank": 76
    }
-  ]
+  ],
+  "product_id": 1005
  },
  "1008": {
   "product_name": "Training Lean Management",
@@ -803,13 +821,15 @@
     "top_position": 3,
     "we_rank": 10
    }
-  ]
+  ],
+  "product_id": 1008
  },
  "1007": {
   "product_name": "Training Project Management Indonesia",
   "brand": "IPQI",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
-  "competitor_keywords": []
+  "competitor_keywords": [],
+  "product_id": 1007
  },
  "1022": {
   "product_name": "Training Awareness Quality Management",
@@ -848,7 +868,8 @@
     "top_position": 2,
     "we_rank": 56
    }
-  ]
+  ],
+  "product_id": 1022
  },
  "1032": {
   "product_name": "Training Kalibrasi Massa Suhu dan Tekanan",
@@ -895,7 +916,8 @@
     "top_position": null,
     "we_rank": 8
    }
-  ]
+  ],
+  "product_id": 1032
  },
  "1011": {
   "product_name": "Training ISO 9001:2015",
@@ -942,7 +964,8 @@
     "top_position": 1,
     "we_rank": 7
    }
-  ]
+  ],
+  "product_id": 1011
  },
  "1010": {
   "product_name": "Training Need Analysis",
@@ -989,7 +1012,8 @@
     "top_position": 2,
     "we_rank": 1
    }
-  ]
+  ],
+  "product_id": 1010
  },
  "19": {
   "product_name": "Sertifikasi Qualified Risk Governance Professional (QRGP)",
@@ -1036,7 +1060,8 @@
     "top_position": 2,
     "we_rank": 1
    }
-  ]
+  ],
+  "product_id": 19
  },
  "18": {
   "product_name": "Sertifikasi Qualified Chief Risk Officer (QCRO)",
@@ -1083,7 +1108,8 @@
     "top_position": 1,
     "we_rank": 8
    }
-  ]
+  ],
+  "product_id": 18
  },
  "17": {
   "product_name": "Pelatihan Qualified Risk Management Analyst (QRMA)",
@@ -1130,7 +1156,8 @@
     "top_position": 1,
     "we_rank": 3
    }
-  ]
+  ],
+  "product_id": 17
  },
  "15": {
   "product_name": "Legal and Compliance Management Training",
@@ -1177,9 +1204,10 @@
     "top_position": 2,
     "we_rank": 10
    }
-  ]
+  ],
+  "product_id": 15
  },
- "2037": {
+ "3027": {
   "product_name": "CISA Exam Preparation",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1224,9 +1252,10 @@
     "top_position": 2,
     "we_rank": 3
    }
-  ]
+  ],
+  "product_id": 3027
  },
- "2002": {
+ "3002": {
   "product_name": "PMP Exam Preparation",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1271,9 +1300,10 @@
     "top_position": 2,
     "we_rank": 9
    }
-  ]
+  ],
+  "product_id": 3002
  },
- "2047": {
+ "3047": {
   "product_name": "ITIL V.4 Foundation",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1318,9 +1348,10 @@
     "top_position": 2,
     "we_rank": 3
    }
-  ]
+  ],
+  "product_id": 3047
  },
- "2038": {
+ "3038": {
   "product_name": "Cyber Security Training",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1365,9 +1396,10 @@
     "top_position": 3,
     "we_rank": 2
    }
-  ]
+  ],
+  "product_id": 3038
  },
- "2043": {
+ "3043": {
   "product_name": "COBIT 5",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1412,9 +1444,10 @@
     "top_position": 2,
     "we_rank": 2
    }
-  ]
+  ],
+  "product_id": 3043
  },
- "2007": {
+ "3007": {
   "product_name": "CISSP (Certified Information Systems Security Professional)",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1459,9 +1492,10 @@
     "top_position": 2,
     "we_rank": 26
    }
-  ]
+  ],
+  "product_id": 3007
  },
- "2044": {
+ "3044": {
   "product_name": "IT AUDIT",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1506,9 +1540,10 @@
     "top_position": 2,
     "we_rank": 5
    }
-  ]
+  ],
+  "product_id": 3044
  },
- "2006": {
+ "3006": {
   "product_name": "COBIT 2019",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1553,9 +1588,10 @@
     "top_position": 2,
     "we_rank": 3
    }
-  ]
+  ],
+  "product_id": 3006
  },
- "2055": {
+ "3055": {
   "product_name": "CISM Exam Preparation",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1600,9 +1636,10 @@
     "top_position": null,
     "we_rank": 3
    }
-  ]
+  ],
+  "product_id": 3055
  },
- "2025": {
+ "3025": {
   "product_name": "Penetration Testing",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1647,9 +1684,10 @@
     "top_position": null,
     "we_rank": 16
    }
-  ]
+  ],
+  "product_id": 3025
  },
- "2058": {
+ "3058": {
   "product_name": "CISSP Exam Preparation",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1694,9 +1732,10 @@
     "top_position": 1,
     "we_rank": 2
    }
-  ]
+  ],
+  "product_id": 3058
  },
- "2046": {
+ "3046": {
   "product_name": "IT Project Management",
   "brand": "ITGID",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
@@ -1741,6 +1780,7 @@
     "top_position": null,
     "we_rank": 32
    }
-  ]
+  ],
+  "product_id": 3046
  }
 }

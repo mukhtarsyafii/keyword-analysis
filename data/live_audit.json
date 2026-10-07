@@ -969,18 +969,27 @@
  },
  "2020": {
   "url": "https://fs-institute.org/training/finance/integrated-business-planning-reporting/",
-  "http_ok": false,
-  "error": "Remote end closed connection without response"
+  "http_ok": true,
+  "live_title": "Integrated Business Planning & Reporting - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2021": {
   "url": "https://fs-institute.org/training/finance/regulatory-reporting-compliance/",
-  "http_ok": false,
-  "error": "Remote end closed connection without response"
+  "http_ok": true,
+  "live_title": "Regulatory Reporting & Compliance - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2022": {
   "url": "https://fs-institute.org/training/finance/strategic-cost-management/",
-  "http_ok": false,
-  "error": "Remote end closed connection without response"
+  "http_ok": true,
+  "live_title": "Strategic Cost Management - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2023": {
   "url": "https://fs-institute.org/training/finance/working-capital-management/",
@@ -1112,18 +1121,27 @@
  },
  "2039": {
   "url": "https://fs-institute.org/training/tax/advanced-tax-planning-compliance/",
-  "http_ok": false,
-  "error": "IncompleteRead(137293 bytes read)"
+  "http_ok": true,
+  "live_title": "Advanced Tax Planning & Compliance - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2040": {
   "url": "https://fs-institute.org/training/tax/corporate-tax-strategies-planning/",
-  "http_ok": false,
-  "error": "Remote end closed connection without response"
+  "http_ok": true,
+  "live_title": "Corporate Tax Strategies & Planning - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2041": {
   "url": "https://fs-institute.org/training/tax/strategic-tax-management/",
-  "http_ok": false,
-  "error": "IncompleteRead(136883 bytes read)"
+  "http_ok": true,
+  "live_title": "Strategic Tax Management for Corporations - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2042": {
   "url": "https://fs-institute.org/training/tax/tax-audit-preparation-defense/",
@@ -1159,8 +1177,11 @@
  },
  "2046": {
   "url": "https://fs-institute.org/training/banking/integritas-laporan-keuangan-bank-pojk-15-2024/",
-  "http_ok": false,
-  "error": "IncompleteRead(246074 bytes read)"
+  "http_ok": true,
+  "live_title": "Integritas Laporan Keuangan Bank (POJK No.15/2024) - FS Institute",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 12
  },
  "2047": {
   "url": "https://fs-institute.org/training/strategy/balanced-scorecard/",
@@ -1313,5 +1334,469 @@
   "live_desc": "Dalam pelatihan manajemen risiko terpadu, Anda akan mempelajari bagaimana memadukan ISO 9001 dengan ISO 31000 guna membantu organisasi",
   "has_faq": false,
   "h2_count": 8
+ },
+ "3001": {
+  "url": "https://itgid.org/training/ceh-exam-preparation/",
+  "http_ok": true,
+  "live_title": "CEH Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3002": {
+  "url": "https://itgid.org/training/pmp-exam-preparation/",
+  "http_ok": true,
+  "live_title": "PMP Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 21
+ },
+ "3003": {
+  "url": "https://itgid.org/training/it-asset-audit/",
+  "http_ok": true,
+  "live_title": "Training CISA: IT Asset Audit - ITGID | IT Governance Indonesia",
+  "live_desc": "Training CISA: IT Asset Audit bertujuan untuk Menyediakan sarana untuk memotivasi IS auditor dalam mengevaluasi kompetensi individu",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3004": {
+  "url": "https://itgid.org/training/it-governance-audit/",
+  "http_ok": true,
+  "live_title": "Training CISA: IT Governance Audit - ITGID | IT Governance Indonesia",
+  "live_desc": "Training CISA: IT Governance Audit bertujuan untuk membantu manajemen dalam pemilihan personel dan untuk pengembangan perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3005": {
+  "url": "https://itgid.org/training/it-security-audit/",
+  "http_ok": true,
+  "live_title": "IT Security Audit - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3006": {
+  "url": "https://itgid.org/training/cobit-2019/",
+  "http_ok": true,
+  "live_title": "COBIT 2019 - ITGID | IT Governance Indonesia",
+  "live_desc": "Sama dengan Cobit 5, Cobit 2019 juga merupakan framework IT Governance yang dikeluarkan oleh ISACA yang populer dalam dunia IT. Cobit 2019 adalah framework update dari Cobit 5 dan dalam Cobit 2019 terdapat 40 proses untuk melakukan penilaian maturitas. Berbeda dengan Cobit 5 yang hanya membahas tata kelola IT, pada Cobit 2019 ini akan membahas lebih luas mengenai enterprise governance information & technology. Pada Cobit 2019 terdapat sebuah metode tambahan yang bernama desain vektor untuk membantu organisasi menentukan proses-proses Cobit manakah yang relevan untuk diimplementasikan. Pada training COBIT 2019 ini akan dijelaskan dasar-dasar tata kelola IT, prinsip-prinsip utama, serta best practice implementasi IT Governance yang efektif. Selain itu akan dipelajari isu-isu terkini tata kelola TI dan efeknya bagi organisasi secara global. Pentingnya penggunaan kerangka kerja yang tepat untuk menangani isu tersebut sekaligus menanggulangi efek yang terjadi. COBIT 2019 memperkenalkan serangkaian prinsip yang beroperasi pada high level dan menjadi model best practices bagi implementasi tata kelola TI. Akan diajarkan juga komponen dari model dan relasinya dengan kerangka kerja.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3007": {
+  "url": "https://itgid.org/training/cissp-certified-information-systems-security-professional/",
+  "http_ok": true,
+  "live_title": "CISSP (Certified Information Systems Security Professional) - ITGID | IT Governance Indonesia",
+  "live_desc": "CISSP® certification is a globally recognized standard of achievement that confirms an individual's knowledge in the field of information security. CISSPs are information assurance professionals who define the architecture, design, management and/or controls that assure the security of business environments. It was the first certification in the field of information security to meet the stringent requirements of ISO/IEC Standard 17024. This program also prepares the participants for the Certified Information Systems Security Professional (CISSP®) examination, owned and maintained by the International Information Systems Security Certification Consortium (ISC)2®. Successful completion of this program requires the participants to complete all required assignments and self-study.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3008": {
+  "url": "https://itgid.org/training/crisc-certified-risk-information-system-control/",
+  "http_ok": true,
+  "live_title": "CRISC (Certified Risk Information System Control) - ITGID | IT Governance Indonesia",
+  "live_desc": "The Mark of excellence for a professional certification program is the value and recognition it estows on the individual who achieves it. The Certified in Risk and Information Systems Control (CRISC) program, sponsored by ISACA, recognizes an idea range of professionals for their knowledge of enterprise risk and their ability to design, implement, monitor and maintain information systems (IS) controls to mitigate such risk. The CRISC certification, renounced “see-risk”, is design for IT professional who have hands-on experience with risk identification, assessment and evaluation; risk response; risk monitoring; IS Control design and implementation; and IS control monitoring and maintenance. The CRISC designation will not only certify professional who have knowledge and experience identifying and evaluating entity-specific risk, but also aid them in helping enterprises accomplish business objectives by designing, Implementing, monitoring, and maintaining risk based, efficient and effective IS control. The technical skills and practices that CRISC promotes and evaluates are the building blocks of success in the field. Possessing the CRISC designation demonstrates proficiency and is the basis for measurement in the profession. with a growing demand for professionals possessing risk and control skills, CRISC has positioned itself to be the preferred certification program by individuals and enterprises around the world. CRISC certification signifies commitment to serving an enterprise and the chosen profession with distinction.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3009": {
+  "url": "https://itgid.org/training/cgeit-certified-in-the-governance-of-enterprise-it/",
+  "http_ok": true,
+  "live_title": "CGEIT (Certified in the Governance of Enterprise IT) - ITGID | IT Governance Indonesia",
+  "live_desc": "As technology has become more and more vital to the achievement of business goals and value delivery, enterprise leaders have realized that enterprise governance must be extended to information technology and information systems. Successful enterprises now accept that it is critical to align IT projects, assets and processes with their business strategies and business goals. As a key component of overall enterprise governance, IT governance has emerged as a mission-critical issue for small and large business enterprises worldwide. In order to support the growing demand from business and to promote good IT governance practices, ISACA® created the first and only designation to recognize skilled IT governance professionals—the Certified in the Governance of Enterprise IT® (CGEIT®) certification.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3010": {
+  "url": "https://itgid.org/training/cism-certified-information-security-manager/",
+  "http_ok": true,
+  "live_title": "CISM (Certified Information Security Manager) - ITGID | IT Governance Indonesia",
+  "live_desc": "Around the world, demand for skilled information security management professionals is on the rise, and the CISM certification is the globally accepted standard of achievement in this area. The uniquely management-focused CISM certification ensures holders understand business, and know how to manage and adapt technology to their enterprise and industry. Since its inception in 2002, thousands of professionals worldwide have earned the industry-leading CISM to affirm both their high level of technical competence and qualifications for top caliber leadership and management roles.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3011": {
+  "url": "https://itgid.org/training/cisa-certified-information-sistem-auditor/",
+  "http_ok": true,
+  "live_title": "CISA (Certified Information Sistem Auditor) - ITGID | IT Governance Indonesia",
+  "live_desc": "As it has become more important than ever that organizations recruit employees who can take a comprehensive view of information systems and their relationship to organizational and business success, many hiring managers look for CISA-certified candidates. For some business and governmental agencies, CISA is even a prerequisite for information systems and information technology roles. CISA has become world-renowned as the standard of achievement forthose who assess an organization’s information technology and business systems and provide assurance on their availability and sustainability. Since its inception in 1978, more than 100,000 people have become CISA certified to validate their expertise.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3012": {
+  "url": "https://itgid.org/training/data-governance-strategic/",
+  "http_ok": true,
+  "live_title": "Data Governance Strategic - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3013": {
+  "url": "https://itgid.org/training/togaf-certified/",
+  "http_ok": true,
+  "live_title": "Togaf Certified - ITGID | IT Governance Indonesia",
+  "live_desc": "The TOGAF® Standard, a standard of The Open Group, is a proven Enterprise Architecture methodology and framework used by the world’s leading organizations to improve business efficiency. It is the most prominent and reliable Enterprise Architecture standard, ensuring consistent standards, methods, and communication among Enterprise Architecture professionals. Those professionals who are fluent in the TOGAF approach enjoy greater industry credibility, job effectiveness, and career opportunities. This approach helps practitioners avoid being locked into proprietary methods, utilize resources more efficiently and effectively, and realize a greater return on investment. The TOGAF Standard, Version 9.2 has been redesigned and restructured into a smaller publication that includes separate guides, which will also be incorporated into the future TOGAF certification program. The core of the TOGAF framework remains the same in the new version of the standard with enhancements to Business Architecture, and the Content Metamodel. There is also additional focus on Digital trends and business transformation beyond IT. The Business Architecture content is supplemented with titles in the TOGAF Library, including guides on Business Capabilities and Value Streams. Security Architecture is enhanced with a guide in the TOGAF Library providing detailed guidance on how to integrate risk and security into a TOGAF Enterprise Architecture, including a detailed mapping on using the TOGAF framework together with the SABSA framework. Furthermore, the TOGAF Library contains industry reference models and practical guidance on how to use the TOGAF standard.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3014": {
+  "url": "https://itgid.org/training/data-governance-practicioner/",
+  "http_ok": true,
+  "live_title": "Data Governance Practicioner - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3015": {
+  "url": "https://itgid.org/training/data-governance-architecture/",
+  "http_ok": true,
+  "live_title": "Data Governance Architecture - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3016": {
+  "url": "https://itgid.org/training/agile-project-management/",
+  "http_ok": true,
+  "live_title": "Agile Project Management - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3017": {
+  "url": "https://itgid.org/training/it-project-management-officer/",
+  "http_ok": true,
+  "live_title": "IT Project Management Officer - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3018": {
+  "url": "https://itgid.org/training/it-performance-project-management/",
+  "http_ok": true,
+  "live_title": "IT Performance Project Management - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3019": {
+  "url": "https://itgid.org/training/it-bcp/",
+  "http_ok": true,
+  "live_title": "IT BCP - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3020": {
+  "url": "https://itgid.org/training/it-operation/",
+  "http_ok": true,
+  "live_title": "IT Operation - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3021": {
+  "url": "https://itgid.org/training/it-service-design-proffesional/",
+  "http_ok": true,
+  "live_title": "IT Service Design Proffesional - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3022": {
+  "url": "https://itgid.org/training/mitigation-risk/",
+  "http_ok": true,
+  "live_title": "Mitigation Risk - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3023": {
+  "url": "https://itgid.org/training/identification-risk/",
+  "http_ok": true,
+  "live_title": "Identification Risk - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3024": {
+  "url": "https://itgid.org/training/identification-contec/",
+  "http_ok": true,
+  "live_title": "Identification Contec - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3025": {
+  "url": "https://itgid.org/training/penetration-testing/",
+  "http_ok": true,
+  "live_title": "Penetration Testing - ITGID | IT Governance Indonesia",
+  "live_desc": "Penetration Test merupakan salah satu cara yang efektif untuk pembaharuan dalam keamanan teknologi informasi dalam suatu perusahaan. Implementasi keamanan dalam teknologi informasi tidak dilaksanakan sekali tetapi harus secara berkala dan berkesinambungan sesuai dengan perkembangan jaman. Penggunaan teknologi informasi pada pertumbuhan bisnis jaman ini harus dijaga dan didukung oleh Information Security Policy. Ancaman keamanan informasi sangat nyata mulai dari kerusakan yang yang sederhana oleh virus/Trojan sampai penggunaan data informasi yang dapat diakses orang yang tidak berkepentingan dengan data tersebut. Dalam dunia bisnis yang memang saat ini semua dilandasi oleh teknologi informasi yang dapat diakses mudah dan real-time tidak dapat dipungkiri membuka celah untuk penyalahgunaan data. Hal ini dapat berdampak bukan hanya financial tetapi juga non- financial. Seperti recovery data yang menggunakan waktu tidak sedikit, dan yang jauh lebih parah adalah kurangnya kepercayaan consumer yang mengakibatkan loyalitas terhadap perusahaan kita akan menurun.Informasi apapun akan didapat jika penanganan security akan sebuah data itu buruk. Umumnya celah security ini tidak tampak begitu saja sebelum tindakan penetration terjadi. Salah satu tindakan yang tepat dalam mengamankan website adalah meminimalkan celah security. Penetration testing adalah solusi yang tepat dalam mengenali celah security yang ada. Berbagai celah security yang terungkap dapat sesegera mungkin diatasi sebagai upaya mengamankan sejumlah informasi.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3026": {
+  "url": "https://itgid.org/training/cloud-security/",
+  "http_ok": true,
+  "live_title": "Cloud Security - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3027": {
+  "url": "https://itgid.org/training/cyber-security/",
+  "http_ok": true,
+  "live_title": "CISA Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "As it has become more important than ever that organizations recruit employees who can take a comprehensive view of information systems and their relationship to organizational and business success, many hiring managers look for CISA-certified candidates. For some business and governmental agencies, CISA is even a prerequisite for information systems and information technology roles. CISA has become world-renowned as the standard of achievement for those who assess an organization’s information technology and business systems and provide assurance on their availability and sustainability. Since its inception in 1978, more than 100,000 people have become CISA certified to validate their expertise. 5 Days Training",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3028": {
+  "url": "https://itgid.org/training/it-security-governance/",
+  "http_ok": true,
+  "live_title": "IT Security Governance - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3029": {
+  "url": "https://itgid.org/training/vulnerability-assessment-penetration-testing/",
+  "http_ok": true,
+  "live_title": "Vulnerability Assessment & Penetration Testing - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3030": {
+  "url": "https://itgid.org/training/it-governance-framework-assessment/",
+  "http_ok": true,
+  "live_title": "IT Governance Framework Assessment - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3031": {
+  "url": "https://itgid.org/training/it-risk-management/",
+  "http_ok": true,
+  "live_title": "IT Risk Management - ITGID | IT Governance Indonesia",
+  "live_desc": "This course offers the skills you need to be a proactive IT risk manager-one who plans for contingencies and confidently manages unexpected events that occur throughout the project life cycle. You'll learn how to avoid unnecessary costs and schedule delays and how to keep your team members focused on critical-path activities. Through hands-on exercises, you'll identify common IT risks, threats, and opportunities and turn them into manageable possibilities. You'll learn to capitalize on opportunities that can accelerate your project. Master the building blocks of successful IT risk management: identify, qualify, quantify, prioritize, and manage.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3032": {
+  "url": "https://itgid.org/training/it-compliance-ojk-bumn-pbi/",
+  "http_ok": true,
+  "live_title": "IT Compliance (OJK, BUMN, & PBI) - ITGID | IT Governance Indonesia",
+  "live_desc": "Overview This comprehensive 3-day IT Compliance Training program focuses on ensuring IT compliance through the awareness and implementation of three crucial ISO standards: ISO/IEC 27001:2022 (Information Security Management), ISO/IEC 20000-1:2018 (IT Service Management), and ISO/IEC 22301:2019 (Business Continuity Management). Participants will gain an in-depth understanding of these standards, learn best practices for compliance, and understand how to integrate these standards within their organization's IT framework.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3033": {
+  "url": "https://itgid.org/training/iso-223012013/",
+  "http_ok": true,
+  "live_title": "ISO 22301:2013 - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3034": {
+  "url": "https://itgid.org/training/iso-20000-12018/",
+  "http_ok": true,
+  "live_title": "CISA - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3035": {
+  "url": "https://itgid.org/training/iso-270012013/",
+  "http_ok": true,
+  "live_title": "ISO 27001:2013 - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3036": {
+  "url": "https://itgid.org/training/indi-4-0/",
+  "http_ok": true,
+  "live_title": "INDI 4.0 - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3037": {
+  "url": "https://itgid.org/training/cisa-exam-preparation/",
+  "http_ok": true,
+  "live_title": "CISA Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "Seiring dengan semakin tingginya ketergantungan organisasi terhadap sistem informasi dan kesadaran akan pentingnya untuk melakukan tata kelola teknologi informasi dengan baik, maka meningkat pula kebutuhan akan ahli di bidang audit informasi yang memiliki kualifikasi internasional. Merespon hal ini pada tahun 1978 Information System Audit Control Association (ISACA) menawarkan program sertifikasi audit yang dikenal dengan Certified Information System Auditor (CISA). Ujian CISA pertama kali dilakukan pada tahun 1981 dengan jumlah pendaftar yang terus bertambah. Sampai saat ini telah ada lebih dari 48.000 orang lulus dalam sertifikasi ini. Keberhasilan dalam ujian CISA, menuntut kandidat memiliki kesiapan khusus dan juga pengalaman yang memadai di bidang audit sistem informasi. Untuk itu, CISA diakui secara internasional sebagai professional dengan pengetahuan, keterampilan, pengalaman dan kredibilitas dengan standar average, mengelola kerentanan, memastikan kepatuhan, menawarkan solusi, kontrol lembaga dan memberikan nilai bagi perusahaan.",
+  "has_faq": false,
+  "h2_count": 21
+ },
+ "3038": {
+  "url": "https://itgid.org/training/cyber-security-essentials/",
+  "http_ok": true,
+  "live_title": "Cyber Security Training - ITGID | IT Governance Indonesia",
+  "live_desc": "Pelatihan Cyber Security bertujuan salah satunya untuk mengetahui dan memahami penanggulangan dan langkah-langkah cyber crime dan computer fraud.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3039": {
+  "url": "https://itgid.org/training/it-disaster-recovery-to-business-continue-plan/",
+  "http_ok": true,
+  "live_title": "IT Disaster Recovery to Business Continue Plan - ITGID | IT Governance Indonesia",
+  "live_desc": "This course teaches you the methods in identifying vulnerabilities and takes appropriate countermeasures to prevent and mitigate failure risks for an organization. It also provides the networking professional with a foundation in disaster recovery principles, including preparation of a disaster recovery plan, assessment of risks in the enterprise, development of policies, and procedures, and understanding of the roles and relationships of various members of an organization, implementation of the plan, and recovering from a disaster. This course takes an enterprise-wide approach to developing a disaster recovery plan. Students will learn how to create a secure network by putting policies and procedures in place, and how to restore a network in the event of a disaster.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3040": {
+  "url": "https://itgid.org/training/it-disaster-recovery/",
+  "http_ok": true,
+  "live_title": "IT Disaster Recovery - ITGID | IT Governance Indonesia",
+  "live_desc": "The 3-day IT DR course covers all stages of the entire IT Disaster Recovery lifecycle. This course will be very useful for IT professionals and CM/DR practitioners. Training methodologies include classroom training, individual/group exercises, case studies and role-plays, while videos and group discussions, knowledge checks and quizzes are made use of in order to enhance the participant learning experience and exam preparation.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3041": {
+  "url": "https://itgid.org/training/it-risk-management-system-based-on-iso-31000/",
+  "http_ok": true,
+  "live_title": "IT Risk Management System Based On ISO/IEC 31000 - ITGID | IT Governance Indonesia",
+  "live_desc": "Saat ini pengelolaan risiko menjadi hal yang cukup santer terdengar. Hal ini bukan saja dituntut dalam sistem Good Corporate Governance (GCG) namun pada beberapa lini usaha sudah menjadi “tulang punggung” bagi pertumbuhan perusahaan yang terkendali, seperti contohnya di perusahaan-perusahaan yang bergerak pada industri finansial. Namun di lini-lini usaha lain, banyak terdapat kasus pengelolaan risiko masih terbatas sekedar “asesoris” saja atau boleh dikatakan sebagai syarat ada saja. Hal ini seringkali terjadi tiada lain disebabkan oleh manfaat yang didapat dari aktifitas pengelolaan risiko belum sepenuhnya dirasakan oleh organisasi tersebut. ISO sebagai organisasi yang bertujuan untuk menerbitkan standar di bidang apapun, turun menerbitkan salah satu guidelienya dalam pengelolaan risiko untuk skala enterprise, yaitu ISO 31000. Tujuan dari diterbitkannya guideline ini adalah agar hal-hal kritikal dan mendasar yang sering terlupakan dalam implmentasi sistem pengelolaan risiko dapat dibangun secara sistematis. Namun cukup banyak juga perusahaan-perusahaan yang sudah mengadopsi guideline ISO 31000, pengelolaan risikonya masih “jalan di tempat”. Untuk mengetahui mengapa hal-hal di atas sering terjadi dan bagaimana menerpakan Enterprise Risk Management System yang efektif, diperlukan suatu pelatihan yang dapat memberikan pemahaman yang baik serta contoh-contoh best practice yang telah terbukti berhasil meningkatkan keefektifan pengelolaan risiko.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3042": {
+  "url": "https://itgid.org/training/penetration-test/",
+  "http_ok": true,
+  "live_title": "Penetration Testing - ITGID | IT Governance Indonesia",
+  "live_desc": "Penetration Test merupakan salah satu cara yang efektif untuk pembaharuan dalam keamanan teknologi informasi dalam suatu perusahaan. Implementasi keamanan dalam teknologi informasi tidak dilaksanakan sekali tetapi harus secara berkala dan berkesinambungan sesuai dengan perkembangan jaman. Penggunaan teknologi informasi pada pertumbuhan bisnis jaman ini harus dijaga dan didukung oleh Information Security Policy. Ancaman keamanan informasi sangat nyata mulai dari kerusakan yang yang sederhana oleh virus/Trojan sampai penggunaan data informasi yang dapat diakses orang yang tidak berkepentingan dengan data tersebut. Dalam dunia bisnis yang memang saat ini semua dilandasi oleh teknologi informasi yang dapat diakses mudah dan real-time tidak dapat dipungkiri membuka celah untuk penyalahgunaan data. Hal ini dapat berdampak bukan hanya financial tetapi juga non- financial. Seperti recovery data yang menggunakan waktu tidak sedikit, dan yang jauh lebih parah adalah kurangnya kepercayaan consumer yang mengakibatkan loyalitas terhadap perusahaan kita akan menurun.Informasi apapun akan didapat jika penanganan security akan sebuah data itu buruk. Umumnya celah security ini tidak tampak begitu saja sebelum tindakan penetration terjadi. Salah satu tindakan yang tepat dalam mengamankan website adalah meminimalkan celah security. Penetration testing adalah solusi yang tepat dalam mengenali celah security yang ada. Berbagai celah security yang terungkap dapat sesegera mungkin diatasi sebagai upaya mengamankan sejumlah informasi.",
+  "has_faq": false,
+  "h2_count": 22
+ },
+ "3043": {
+  "url": "https://itgid.org/training/cobit/",
+  "http_ok": true,
+  "live_title": "COBIT 5 - ITGID | IT Governance Indonesia",
+  "live_desc": "Control Objectives for Information and Related Technology versi 5 atau COBIT 5 merupakan framework IT Governance yang dikelaurkan oleh ISACA yang popular dalam dunia IT. Didalam Cobit 5 terdapat 37 proses untuk melakukan penilaian maturitas. IT Governance memberikan panduan untuk memastikan terjadinya IT-Business Alignment, pengelolaan risiko TI secara memadai, efisiensi penggunaan sumberdaya TI dan memungkinnya kinerja TI selalu termonitor. Implementasi IT Governance adalah satu key success factor paling krusial implementasi TI, selain ketepatan pilihan Arsitektur TI. Pada training COBIT 5 ini akan dijelaskan dasar-dasar, prinsip-prinsip utama, interpretasi klausul, serta best practice implementasi IT Governance yang efektif. Pada training ini juga akan dibahas dan diberikan sampel-sampel dokumen (Pedoman, SOP, Instruksi Kerja, Formulir) IT Governance yang berguna bagi pembangunan serta implementasi IT Governance ke depannya.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3044": {
+  "url": "https://itgid.org/training/it-audit/",
+  "http_ok": true,
+  "live_title": "IT AUDIT - ITGID | IT Governance Indonesia",
+  "live_desc": "Audit teknologi informasi adalah bentuk pengawasan dan pengendalian dari infrastruktur teknologi informasi secara menyeluruh. Audit teknologi informasi ini dapat berjalan bersama-sama dengan audit finansial dan audit internal, atau dengan kegiatan pengawasan dan evaluasi lain yang sejenis. Pada mulanya, istilah ini dikenal dengan audit pemrosesan data elektronik, dan sekarang audit teknologi informasi secara umum merupakan proses pengumpulan dan evaluasi dari semua kegiatan sistem informasi dalam perusahaan itu. Istilah lain dari audit teknologi informasi adalah audit komputer yang banyak dipakai untuk menentukan apakah aset sistem informasi perusahaan itu telah bekerja secara efektif dan integratif dalam mencapai target organisasinya. Dalam pelaksanaannya, auditor TI mengumpulkan bukti-bukti yang memadai melalui berbagai teknik termasuk survei, wawancara, observasi, dan review dokumentasi. Satu hal yang unik, bukti-bukti audit yang diambil oleh auditor biasanya mencakup pula bukti elektronik. Biasanya, auditor TI menerapkan teknik audit berbantuan komputer, disebut juga dengan CAAT (Computer Aided Auditing Technique). Teknik ini digunakan untuk menganalisis data, misalnya data transaksi penjualan, pembelian, transaksi aktivitas persediaan, aktivitas nasabah, dan lain-lain.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3045": {
+  "url": "https://itgid.org/training/it-master-plan/",
+  "http_ok": true,
+  "live_title": "IT Master Plan - ITGID | IT Governance Indonesia",
+  "live_desc": "IT Master Plan is one of the key enablers to business success. Implement a business driven IT Architecture plan that aligns with the needs of your organization is therefore critical. This training is designed to help you think through your priorities in order to map the IT strategic initiatives to the goals and core values of organization as well as apply a continuous improvement process to monitor and update the IT Architecture plan. These planning processes will help minimize technology-related crises, optimize resource allocation, manage change, and increase the ROI as a whole.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3046": {
+  "url": "https://itgid.org/training/it-project-management/",
+  "http_ok": true,
+  "live_title": "IT Project Management - ITGID | IT Governance Indonesia",
+  "live_desc": "Dalam era persaingan bebas perusahaan dituntut untuk lebih produktif, efesien dan efektif. Agar proyek berjalan dengan efisien dan efektif, maka dibutuhkan sebuah tim proyek dengan sejumlah keterampilan dan keahlian khusus, untuk dapat mengelola proyek dengan berbagai keterbatasan dalam hal waktu, dana, dan sumber daya. Selain itu, sifat proyek yang unik akan mempertemukan tim proyek kepada berbagai ketidakpastian dengan segenap resikonya, yang tentu akan berpeluang untuk timbulnya konflik yang akan mengganggu stabilitas tim dan kesuksesan pelaksanaan proyek itu sendiri. Pelatihan project management dilaksanakan untuk mengetahui Project Management secara komprehensive. Selama workshop, peserta akan mempelajari kemampuan project management yang dibutuhkan untuk mengimplementasikan proyek apa saja secara sukses: artinya yang bisa dipertanggungjawabkan baik dari segi biaya maupun waktu, resiko dan knowledge area lainnya.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3047": {
+  "url": "https://itgid.org/training/itil-v4-foundation/",
+  "http_ok": true,
+  "live_title": "ITIL V.4 Foundation - ITGID | IT Governance Indonesia",
+  "live_desc": "ITIL is the world’s most popular framework for IT service management (ITSM). The ITIL 4 Foundation syllabus is the first of the new ITIL 4 modules to be released by AXELOS. It offers a more holistic perspective of ITSM compared to ITIL V3, as well as several new tools and concepts",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3048": {
+  "url": "https://itgid.org/training/togaf-9-2/",
+  "http_ok": true,
+  "live_title": "TOGAF 9.2 ( IT Architecture knowledge ) - ITGID | IT Governance Indonesia",
+  "live_desc": "TOGAF® is a proven enterprise architecture methodology and framework used by the world’s leading organisations to improve business efficiency. Enterprise architecture professionals fluent in TOGAF enjoy greater industry credibility, job effectiveness, and career opportunities. Get certified in TOGAF 9 with this powerful training program. The course focuses on the practical application of TOGAF in realistic enterprise architecture scenarios and provide thorough coverage of the knowledge needed for Level 1 / Level 2 certification. The course is structured into two 2-day modules Foundation (Level 1) and Practitioner (Level 2). Modules can be taken separately although most prefer to take the combined course.",
+  "has_faq": false,
+  "h2_count": 23
+ },
+ "3049": {
+  "url": "https://itgid.org/training/bcm-awareness-based-on-iso-22301/",
+  "http_ok": true,
+  "live_title": "BCM Awareness Based on ISO/IEC 22301 - ITGID | IT Governance Indonesia",
+  "live_desc": "Sudah kita sadari bersama-sama bahwa kondisi lingkungan tidak bisa dijamin 100% dalam keadaan normal dan kondusif. Ada kalanya terjadi rintangan-rintangan di luar kendali kita seperti bencana alam, terorisme sampai dengan kegagalan infrastruktur yang berisfat masif. Untuk itu sudah saatnya organisasi/perusahaan yang terutama mengelola obyek vital/kritis memiliki semacam “pedoman opersional saat terjadi kondisi di luar normal” yang saat ini dikenal dengan Business Contunity Plan (BCP) dengan pembangunan dan pengelolaannya disebut dengan Business Continuity Management System(BCMS). Salah satu standar BCMS yang telah cukup banyak diadopsi di berbagai negara adalah ISO 22301 dengan versi pertama dan terbaru adalah versi 2012. Standar ISO 22301 ini adalah merupakan adopsi internasional dari standar BCMS yang sudah cukup lama beredar, yaitu BS 25999. Walaupun terhitung baru, namun standar ini cukup cepat menjadi populer karena kesederhanaannya (kurang lebih hanya 40 halaman) serta kompatibilitasnya dengan standar- standar ISO lainnya, seperti ISO 27001, ISO 20000, ISO 9001 dan ISO 14001. Training ini diperuntukkan bagi organisasi yang memiliki keinginan untuk menyusun dan mengimplementasikan Business Continuity Management agar lebih accountable, efektif, efisien dan “headache free”. Fremwork yang dipilihkan adalah yang “fastest growing”, simple dan dapat diintegrasikan dengan existing management system, yaitu ISO 22301 dengan versi terbarunya, versi 2012. Training ini menjelaskan secara bertahap dari mulai aspek filosofi hingga ke aspek detail dan implementatif.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3050": {
+  "url": "https://itgid.org/training/lead-implementer-iso-223012012/",
+  "http_ok": true,
+  "live_title": "Lead Implementer ISO/IEC 22301:2012 - ITGID | IT Governance Indonesia",
+  "live_desc": "Kita sadari bersama bahwa kondisi lingkungan tidak bisa dijamin 100% dalam keadaan normal dan kondusif. Ada kalanya terjadi rintangan-rintangan di luar kendali kita seperti bencana alam, terorisme sampai dengan kegagalan infrastruktur yang bersifat masif. Untuk itu sudah saatnya organisasi/perusahaan yang terutama mengelola obyek vital/kritis memiliki semacam “pedoman operasional saat terjadi kondisi di luar normal” yang saat ini dikenal dengan Business Contunity Plan (BCP) dengan pembangunan dan pengelolaannya disebut dengan Business Continuity Management System(BCMS). Salah satu standar BCMS yang telah cukup banyak diadopsi di berbagai negara adalah ISO 22301 dengan versi pertama dan terbaru adalah versi 2012. Standar ISO 22301 ini adalah merupakan adopsi internasional dari standar BCMS yang sudah cukup lama beredar, yaitu BS 25999. Walaupun terhitung baru, namun standar ini cukup cepat menjadi populer karena kesederhanaannya (kurang lebih hanya 40 halaman) serta kompatibilitasnya dengan standar-standar ISO lainnya, seperti ISO 27001, ISO 20000, ISO 9001 dan ISO 14001. Training ini diperuntukkan bagi organisasi yang memiliki keinginan untuk menyusun dan mengimplementasikan Business Continuity Management agar lebih accountable, efektif, efisien dan “headache free”. Framework yang dipilihkan adalah yang “fastest growing”, simple dan dapat diintegrasikan dengan existing management system, yaitu ISO 22301 dengan versi terbarunya, versi 2012. Training ini menjelaskan secara bertahap dari mulai aspek filosofi hingga ke aspek detail dan implementatif.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3051": {
+  "url": "https://itgid.org/training/itsm-awareness-based-on-iso-20001/",
+  "http_ok": true,
+  "live_title": "ITSM Awareness based on ISO/IEC 20001 - ITGID | IT Governance Indonesia",
+  "live_desc": "Saat ini sudah semakin banyak organisasi yang menyadari arti penting layananTeknologi Informasi yang prima. Hal ini semakin banyak area kerja yang diotomatisasikan menggunakan solusi Teknologi Informasi (TI).Dapat kita bayangkan seperti apakah perbankan zaman sekarang tanpa layanan IT? Namun dunia IT “tidak seindah kelihatannya”.Persaingan didunia IT yang demikian tinggi serta tuntutan dari pengguna IT yang semakin tinggi menyebabkan seolah-olah para produsen perangkat IT “terburu-buru” menerbitkan produknya sehingga seringkali masih banyak terdapat “bug” yang mengganggu. Di samping itu, berbagai macam solusi IT dibuat oleh produsen-produsen yang berbeda-beda dan beberapa diantaranya belum menggunakan platform yang standar, sehingga seringkali terjadi masalah dalam integrasinya. Dua hal tersebut diatas (semakin tingginya demand akan solusi IT, di sisi lain kerumitan dalam operasional dan integrasi perangkat IT semakin tinggi) yang menyebabkan operasional IT harus dikelola dengan pendekatan “manajemen yang sistematis”. Beberapa lembaga/organisasi di dunia telah menerbitkan framework pengelolaan layanan IT (ITSM = IT Service Management atau juga saat ini dikenal dengan istilah SMS = Service Management System), seperti OGC dengan framework ITIL (Information Technology Infrastructure Library), ISACA dengan framework CoBIT (Control Objectives for Information and Related Technology) dan terakhir ISO dengan standar ISO 20000. Standar ISO 20000 semakin popular karena kesederhanaannya (kurang lebih hanya 40 halaman, bandingkan dengan framework ITIL danCoBIT yang mencapai ribuan halaman) serta kompatibilitasnya dengan standar-standar ISO lainnya, seperti ISO 27001, ISO 22301, ISO 9001 dan ISO 14001. Training ini diperuntukkan bagi organisasi yang memiliki keinginan untuk menata operasional IT-nya agar lebih accountable, efektif, efisien dan “headache free”. Framework yang dipilihkan adalah yang “fastest growing”, simple dan dapat diintegrasikan dengan existing management system, yaitu ISO 20000 dengan versi terbarunya, versi 2011. Training ini menjelaskan secara bertahap dari mulai aspek filosofi hingga keaspek detail dan implementatif.",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3052": {
+  "url": "https://itgid.org/training/lead-implementer-iso-iec-20001/",
+  "http_ok": true,
+  "live_title": "Training Lead Implementer ISO/IEC 20001 - ITGID | IT Governance Indonesia",
+  "live_desc": "Tujuan Training Lead Implementer ISO/IEC 20001 : Memahami dan menerapkan Sistem Manajemen Layanan TI (IT Service Management) berbasis ISO/IEC 20000-1:2011",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3053": {
+  "url": "https://itgid.org/training/isms-awareness-based-on-iso-27001/",
+  "http_ok": true,
+  "live_title": "ISMS AWARENESS BASED ON ISO/IEC 27001 - ITGID | IT Governance Indonesia",
+  "live_desc": "ISMS AWARENESS BASED ON ISO 27001 – Sistem Manajemen Keamanan Informasi berbasis ISO 27001 – Program Kesadaran Keamanan Informasi (Information Security Awareness) ini dimaksudkan untuk mendidik personil dalam organisasi/perusahaan tentang risiko yang melekat pada kerahasiaan, integritas, atau ketersediaan system dan data, dan bagaimana personil dapat mengambil bagian untuk membantu melindungi system ini dan data. Program ini dirancang untuk meningkatkan kesadaran tentang keamanan informasi (Information Security Awareness), praktek keamanan informasi yang baik, dan kebijakan terkait untuk membantu mencegah penyalahgunaan dan pengubahan informasi dan komputasi sistem yang sensitif. Mengadopsi perilaku yang melindungi informasi organisasi, keamanan personil, dan keamanan keluarga",
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3054": {
+  "url": "https://itgid.org/training/lead-implementer-iso-27001/",
+  "http_ok": true,
+  "live_title": "Lead Implementer ISO/IEC 27001 - ITGID | IT Governance Indonesia",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 20
+ },
+ "3055": {
+  "url": "https://itgid.org/training/cism-exam-preparation/",
+  "http_ok": true,
+  "live_title": "CISM Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "Training CISM – Certified Information Security Manager (CISM) adalah sertifikasi profesional untuk manajer keamanan informasi yang diberikan oleh ISACA. CISM bertujuan memberikan pengetahuan umum pada bidang keamanan informasi dan mencakup pengetahuan mengenai manajemen risiko informasi, tata kelola keamanan informasi, serta isu-isu praktis seperti pengembangan dan pengelolaan program keamanan informasi serta manajemen insiden. Untuk mendapatkan sertifikasi CISM, kandidat harus melalui ujian tulis sertifikasi serta memiliki pengalaman paling tidak lima tahun di bidang keamanan informasi. Biasanya, profesional yang telah memiliki sertifikasi CISA atau CISSP juga berupaya mendapatkan sertifikasi CISM. Program sertifikasi CISM dikembangkan khusus untuk manajer keamanan informasi yang berpengalaman dan mereka yang memiliki tanggung jawab manajemen keamanan informasi. CISM secara global diakui sebagai credential terkemuka untuk manajer keamanan informasi. CISM Bersertifikat Keamanan Informasi Kursus Manajer kami menyediakan siswa dengan pengetahuan dan kemampuan untuk mempersiapkan diakui secara global CISM 2011 ujian sertifikasi. Kursus ini akan membenamkan siswa menjadi subyek, dengan cakupan mendalam dari informasi yang meliputi lima domain yang membentuk “Body of Knowledge” untuk CISM 2011 ujian dan akan memberikan siswa alat untuk membangun keterampilan teknis mereka untuk mengelola , desain, mengawasi dan menilai keamanan informasi suatu perusahaan.",
+  "has_faq": false,
+  "h2_count": 21
+ },
+ "3056": {
+  "url": "https://itgid.org/training/cgeit-exam-preparation/",
+  "http_ok": true,
+  "live_title": "CGEIT Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "CGEIT ISACA – CGEIT (Certified in the Governance of Enterprise IT) adalah sertifikasi profesional yang dibentuk pada tahun 2007 oleh ISACA. Sertifikasi ini diperuntukkan bagi professional yang bertanggung jawab mengelola keselarasan, sebagai kontribusi dan dukungan Sistem / Teknologi Informasi guna mencapai tujuan bisnin melalui realisasi manfaat, pengelolaan sumber daya dan resiko serta pengukuran kinerja Teknologi / Sistem Informasi tersebut. CGEIT dirancang bagi profesional yang telah berpengalaman paling tidak 5 tahun di manajemen atau konsultasi tata kelola teknologi informasi di tingkatan korporasi serta berhasil melewati ujian tulis yang diadakan ISACA. Dengan mendapatkan sertifikasi CGEIT ini dapat meningkatkan IT Governance, sebagai keunggulan kompetitif yang membedakan dengan orang lain, meningkatkan kredibilitas, pengaruh dan pengakuan. Sampai saat ini sertifikasi CGEIT masih banyak dianggap perusahaan dan lembaga pemerintahan sebagai bagian dari tata kelola IT, karena dengan pengalaman dan pengetahuan dari sertifikasi itu dapat mendukung sekaligus memajukan tata kelola IT suatu perusahaan. Dengan kondisi jaman yang semua pekerjaan dilakukan secara mobile, Tata kelola TI adalah komponen kunci dari tata kelola dan kesuksesan suatu perusahaan.",
+  "has_faq": false,
+  "h2_count": 21
+ },
+ "3057": {
+  "url": "https://itgid.org/training/crisc-exam-preparation/",
+  "http_ok": true,
+  "live_title": "CRISC Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "CRISC Exam Preparation Program Certified in Risk and Information Systems Control (CRISC), yang disponsori oleh ISACA, mengakui berbagai profesional atas pengetahuan mereka tentang risiko perusahaan dan kemampuan mereka untuk merancang, menerapkan, memantau, dan memelihara kontrol sistem informasi (SI) untuk mengurangi risiko tersebut. Sertifikasi CRISC, disebut \"see-risk\", dirancang untuk profesional TI yang memiliki pengalaman langsung dalam identifikasi risiko, penilaian dan evaluasi risiko; respons risiko; pemantauan risiko; desain dan implementasi kontrol SI; dan pemantauan dan pemeliharaan kontrol SI. Penunjukan CRISC tidak hanya akan mengesahkan profesional yang memiliki pengetahuan dan pengalaman dalam mengidentifikasi dan mengevaluasi risiko yang spesifik untuk entitas, tetapi juga membantu mereka membantu perusahaan mencapai tujuan bisnis dengan merancang, menerapkan, memantau, dan memelihara kontrol SI berbasis risiko yang efisien dan efektif. Keterampilan teknis dan praktik yang dipromosikan dan dievaluasi oleh CRISC adalah dasar keberhasilan di bidang ini. Memiliki penunjukan CRISC menunjukkan keahlian dan merupakan dasar pengukuran dalam profesi ini. Dengan permintaan yang meningkat untuk para profesional yang memiliki keterampilan risiko dan kontrol, CRISC telah menempatkan dirinya sebagai program sertifikasi pilihan oleh individu dan perusahaan di seluruh dunia. Sertifikasi CRISC menandakan komitmen untuk melayani perusahaan dan profesi yang dipilih dengan keunggulan.",
+  "has_faq": false,
+  "h2_count": 21
+ },
+ "3058": {
+  "url": "https://itgid.org/training/cissp-exam-preparation/",
+  "http_ok": true,
+  "live_title": "CISSP Exam Preparation - ITGID | IT Governance Indonesia",
+  "live_desc": "Tujuan Program CISSP Exam Preparation-CISSP adalah Meningkatkan peran keamanan IT dalam meningkatkan kerahasiaan, integritas bagi perusahaan",
+  "has_faq": false,
+  "h2_count": 21
  }
 }
