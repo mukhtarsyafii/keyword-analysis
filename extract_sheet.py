@@ -22,7 +22,7 @@ COL_ALIASES = {
     "name": ("Nama LP / Halaman",),
     "kw_utama": ("Keyword Utama",),
     "vol_utama": ("Estimasi Volume",),          # first occurrence
-    "kw_target": ("Target Keyword",),
+    "kw_target": ("Target Keyword", "Keyword Sekunder"),
     "kw_info": ("Keyword Informasional", "Keyword informasional"),
     "url": ("URL",),
     "status": ("Status LP",),
@@ -41,6 +41,20 @@ CAT_RULES = {
                               "budaya kerja", "pensiun", "training need", "5r", "budaya")),
         ("Business Process & Strategi", ("business process", "balanced scorecard", "strategic", "strategi",
                                          "energy management", "environmental", "social accountability", "sa8000")),
+    ],
+    "ITGID": [
+        ("Audit & Assurance TI", ("cisa", "it audit", "audit ti", "it asset audit", "it governance audit",
+                                  "it security audit", "audit tata kelola", "togaf", "itil")),
+        ("Sertifikasi Keamanan Siber", ("cissp", "ceh", "cism", "ethical hacker", "cyber security", "keamanan siber",
+                                        "penetration", "pentest", "cloud security", "vulnerability")),
+        ("Tata Kelola & Risiko TI", ("cobit", "cgeit", "crisc", "it risk", "manajemen risiko", "iso 31000",
+                                     "it governance", "tata kelola", "it master plan", "indi 4.0",
+                                     "compliance", "identifikasi konteks")),
+        ("Keamanan Informasi ISO", ("iso 27001", "isms", "lead implementer iso/iec 27001", "security governance")),
+        ("BCM & Layanan TI", ("22301", "bcm", "bcp", "disaster recovery", "it bcp", "itsm", "20000",
+                              "20001", "it service", "it operation")),
+        ("Manajemen Proyek & Data", ("project management", "pmp", "agile", "data governance", "damabok",
+                                     "identification risk", "mitigation risk", "compliance ojk")),
     ],
 }
 DEFAULT_CATS = [
@@ -94,8 +108,10 @@ def parse_brand(rows, brand):
             weeks.append((j, f"2026W{int(m.group(1)[1:]):02d}"))
 
     ix = {f: col_idx(hdr, f) for f in COL_ALIASES}
-    # "Estimasi Volume" appears 3x: utama, target, info — take occurrences in order.
-    vol_idx = [i for i, h in enumerate([c.strip() for c in hdr]) if h == "Estimasi Volume"]
+    # Volume columns repeat per keyword group; tabs name them "Estimasi Volume"
+    # (GRC/IPQI) or plain "Volume" (ITGID) — match either, in order.
+    vol_idx = [i for i, h in enumerate([c.strip() for c in hdr])
+               if h in ("Estimasi Volume", "Volume")]
 
     out = []
     for r in rows[3:]:

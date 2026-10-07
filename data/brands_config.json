@@ -25,5 +25,14 @@
     "id_base": 2000,
     "focus": "Finance, Treasury, Accounting & Food Safety",
     "audience": "Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan."
+  },
+  {
+    "brand": "ITGID",
+    "gid": "1689687208",
+    "domain": "itgid.org",
+    "property": "https://itgid.org/",
+    "id_base": 2000,
+    "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security",
+    "audience": "IT manager, auditor TI, CISO, dan profesional tata kelola TI yang mengejar sertifikasi internasional."
   }
 ]

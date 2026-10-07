@@ -43,7 +43,7 @@ function check(label, fn) {
 check('init()', () => window.onload());
 check('brandNames has both brands', () => {
   const n = A.brandNames();
-  if (!n.includes('GRC Indonesia') || !n.includes('IPQI')) throw new Error(n.join(','));
+  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID')) throw new Error(n.join(','));
 });
 check('brandBar rendered', () => {
   if (!el('brandBar').innerHTML.includes('IPQI')) throw new Error('no IPQI pill');
@@ -61,6 +61,15 @@ check('setBrand(IPQI) scopes everything', () => {
   if (A.brows().some(p => p.brand !== 'IPQI')) throw new Error('scope leak');
   if (el('matrixBody').innerHTML.includes('grc-indonesia.com')) throw new Error('GRC row leaked');
   if (!el('brandSubtitle').textContent.includes('IPQI')) throw new Error('subtitle stale');
+});
+check('setBrand(ITGID) scopes everything', () => {
+  A.setBrand('ITGID');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'ITGID').length) throw new Error('scope leak');
+  if (A.brows().some(p => p.brand !== 'ITGID')) throw new Error('non-ITGID row');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('itgid.org')) throw new Error('no itgid row');
+  if (m.includes('grc-indonesia.com') || m.includes('ipqi.org')) throw new Error('other brand leaked');
+  A.setBrand('all');
 });
 check('setBrand back to all', () => {
   A.setBrand('all');
