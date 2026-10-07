@@ -1782,5 +1782,561 @@
    }
   ],
   "product_id": 3046
+ },
+ "4003": {
+  "product_name": "PC Hardware and Network Technical Support",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "hardware support",
+    "volume": 20,
+    "difficulty": 19,
+    "top_competitor": "cgtechnologies.com",
+    "top_position": 4,
+    "we_rank": 10
+   },
+   {
+    "keyword": "network hardware",
+    "volume": 90,
+    "difficulty": 24,
+    "top_competitor": "achdhoriftkj12.blogspot.com",
+    "top_position": 2,
+    "we_rank": 13
+   },
+   {
+    "keyword": "pc support",
+    "volume": 70,
+    "difficulty": 18,
+    "top_competitor": "pcsupport.lenovo.com",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "it hardware",
+    "volume": 70,
+    "difficulty": 19,
+    "top_competitor": "google.com",
+    "top_position": 1,
+    "we_rank": 23
+   },
+   {
+    "keyword": "network support",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "netacad.com",
+    "top_position": 1,
+    "we_rank": 4
+   }
+  ]
+ },
+ "4002": {
+  "product_name": "CISSP Exam Preparation",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "cissp",
+    "volume": 880,
+    "difficulty": 28,
+    "top_competitor": "isc2.org",
+    "top_position": 2,
+    "we_rank": 41
+   },
+   {
+    "keyword": "cissp certification",
+    "volume": 260,
+    "difficulty": 38,
+    "top_competitor": "isc2.org",
+    "top_position": 2,
+    "we_rank": 60
+   },
+   {
+    "keyword": "cissp exam",
+    "volume": 30,
+    "difficulty": 33,
+    "top_competitor": "informasi-training.com",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "cissp training",
+    "volume": 30,
+    "difficulty": 33,
+    "top_competitor": "theknowledgeacademy.com",
+    "top_position": 2,
+    "we_rank": 62
+   },
+   {
+    "keyword": "cissp adalah",
+    "volume": 70,
+    "difficulty": 20,
+    "top_competitor": "isc2.org",
+    "top_position": 1,
+    "we_rank": 80
+   }
+  ]
+ },
+ "4015": {
+  "product_name": "Introduction Google Big Query",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "bigquery",
+    "volume": 3600,
+    "difficulty": 43,
+    "top_competitor": "cloud.google.com",
+    "top_position": 2,
+    "we_rank": 23
+   },
+   {
+    "keyword": "google bigquery",
+    "volume": 1600,
+    "difficulty": 41,
+    "top_competitor": "dqlab.id",
+    "top_position": 1,
+    "we_rank": 24
+   },
+   {
+    "keyword": "google big query",
+    "volume": 1900,
+    "difficulty": 38,
+    "top_competitor": "cloud.google.com",
+    "top_position": 2,
+    "we_rank": 22
+   },
+   {
+    "keyword": "big query",
+    "volume": 1000,
+    "difficulty": 41,
+    "top_competitor": "cloud.google.com",
+    "top_position": 1,
+    "we_rank": 14
+   },
+   {
+    "keyword": "big quary",
+    "volume": 10,
+    "difficulty": 24,
+    "top_competitor": "youtube.com",
+    "top_position": 1,
+    "we_rank": 6
+   }
+  ]
+ },
+ "4001": {
+  "product_name": "Odoo Development Training",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "site:biztechacademy.id",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "training odoo",
+    "volume": 140,
+    "difficulty": 13,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 14
+   },
+   {
+    "keyword": "pelatihan odoo",
+    "volume": 50,
+    "difficulty": 27,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 11
+   },
+   {
+    "keyword": "odoo developer course",
+    "volume": 10,
+    "difficulty": 25,
+    "top_competitor": "arkana.co.id",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "odoo development training",
+    "volume": 10,
+    "difficulty": 13,
+    "top_competitor": "nusacodes.com",
+    "top_position": 2,
+    "we_rank": 9
+   }
+  ]
+ },
+ "4004": {
+  "product_name": "Cyber Security",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "site:biztechacademy.id",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "it security",
+    "volume": 720,
+    "difficulty": 20,
+    "top_competitor": "id.jobstreet.com",
+    "top_position": 2,
+    "we_rank": 52
+   },
+   {
+    "keyword": "biztech academy",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "linkedin.com",
+    "top_position": 3,
+    "we_rank": 1
+   },
+   {
+    "keyword": "site:biztechacademy.id -site:biztechacademy.id/marketing -site:biztechacademy.id/mtcna -site:biztechacademy.id/cgeit -site:biztechacademy.id/article -site:biztechacademy.id/metaverse -site:biztechacademy.id/kontak",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "site:biztechacademy.id/cyber-security",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   }
+  ]
+ },
+ "4006": {
+  "product_name": "CISM Exam Preparation",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "cism",
+    "volume": 320,
+    "difficulty": 14,
+    "top_competitor": "learningpeople.com",
+    "top_position": 4,
+    "we_rank": 2
+   },
+   {
+    "keyword": "sertifikasi cism exam preparation",
+    "volume": null,
+    "difficulty": 24,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 12
+   },
+   {
+    "keyword": "training cism",
+    "volume": 10,
+    "difficulty": 31,
+    "top_competitor": "itgid.org",
+    "top_position": 2,
+    "we_rank": 69
+   },
+   {
+    "keyword": "cism certification",
+    "volume": 90,
+    "difficulty": 34,
+    "top_competitor": "sg.indeed.com",
+    "top_position": 2,
+    "we_rank": 68
+   },
+   {
+    "keyword": "cism certified",
+    "volume": 90,
+    "difficulty": 34,
+    "top_competitor": "platform.qa.com",
+    "top_position": 2,
+    "we_rank": 70
+   }
+  ]
+ },
+ "4005": {
+  "product_name": "CISA Exam Preparation",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikasi cisa",
+    "volume": 260,
+    "difficulty": 28,
+    "top_competitor": "dibimbing.id",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
+    "keyword": "cisa certification",
+    "volume": 390,
+    "difficulty": 13,
+    "top_competitor": "careertraining.sdsu.edu",
+    "top_position": 4,
+    "we_rank": 67
+   },
+   {
+    "keyword": "cisa training",
+    "volume": 40,
+    "difficulty": 28,
+    "top_competitor": "niccs.cisa.gov",
+    "top_position": 2,
+    "we_rank": 62
+   },
+   {
+    "keyword": "certified information system auditor",
+    "volume": 1300,
+    "difficulty": 10,
+    "top_competitor": "sciencedirect.com",
+    "top_position": 2,
+    "we_rank": 61
+   },
+   {
+    "keyword": "cisa",
+    "volume": 1300,
+    "difficulty": 25,
+    "top_competitor": "isaca.org",
+    "top_position": 2,
+    "we_rank": 56
+   }
+  ]
+ },
+ "4010": {
+  "product_name": "ITIL v.4 Foundation",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "itil 4",
+    "volume": 260,
+    "difficulty": 39,
+    "top_competitor": "freshworks.com",
+    "top_position": 2,
+    "we_rank": 63
+   },
+   {
+    "keyword": "itil v4",
+    "volume": 480,
+    "difficulty": 15,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 83
+   },
+   {
+    "keyword": "site:biztechacademy.id",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "itil 4 foundation",
+    "volume": 70,
+    "difficulty": 28,
+    "top_competitor": "youtube.com",
+    "top_position": 2,
+    "we_rank": 51
+   },
+   {
+    "keyword": "itil v4 foundation",
+    "volume": 20,
+    "difficulty": 21,
+    "top_competitor": "itil.com",
+    "top_position": 1,
+    "we_rank": 50
+   }
+  ]
+ },
+ "4016": {
+  "product_name": "Internetworking Concept Fundamental",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "internetworking concept",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "studocu.com",
+    "top_position": 2,
+    "we_rank": 6
+   },
+   {
+    "keyword": "internet working concept",
+    "volume": 10,
+    "difficulty": 34,
+    "top_competitor": "inixindojogja.co.id",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "site:biztechacademy.id",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "internetworking",
+    "volume": 210,
+    "difficulty": 14,
+    "top_competitor": "slideshare.net",
+    "top_position": 2,
+    "we_rank": 10
+   },
+   {
+    "keyword": "internetworking concepts",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "studocu.com",
+    "top_position": 2,
+    "we_rank": 1
+   }
+  ]
+ },
+ "4008": {
+  "product_name": "CGEIT Exam Preparation",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "site:biztechacademy.id",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "cgeit",
+    "volume": 90,
+    "difficulty": 28,
+    "top_competitor": "caudit.edu.au",
+    "top_position": 4,
+    "we_rank": 36
+   },
+   {
+    "keyword": "site:biztechacademy.id/cgeit",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "cgeit adalah",
+    "volume": 20,
+    "difficulty": 20,
+    "top_competitor": "itgid.org",
+    "top_position": 2,
+    "we_rank": 12
+   }
+  ]
+ },
+ "4026": {
+  "product_name": "IT Project Management",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "biztech academy",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "linkedin.com",
+    "top_position": 3,
+    "we_rank": 1
+   },
+   {
+    "keyword": "it project",
+    "volume": 140,
+    "difficulty": 29,
+    "top_competitor": "umgc.edu",
+    "top_position": 4,
+    "we_rank": 56
+   },
+   {
+    "keyword": "biztech",
+    "volume": 70,
+    "difficulty": 32,
+    "top_competitor": "vokasi.unair.ac.id",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "it accademy",
+    "volume": 30,
+    "difficulty": 19,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 31
+   },
+   {
+    "keyword": "it programme management",
+    "volume": 20,
+    "difficulty": 19,
+    "top_competitor": "id.linkedin.com",
+    "top_position": 2,
+    "we_rank": 72
+   }
+  ]
+ },
+ "4007": {
+  "product_name": "Odoo Technical Training",
+  "brand": "Biztech Academy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "odoo technical training",
+    "volume": 10,
+    "difficulty": 21,
+    "top_competitor": "odoo.com",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
+    "keyword": "site:biztechacademy.id",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "site:biztechacademy.id -site:biztechacademy.id/marketing -site:biztechacademy.id/mtcna -site:biztechacademy.id/cgeit -site:biztechacademy.id/article -site:biztechacademy.id/metaverse -site:biztechacademy.id/kontak",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "odoo development training",
+    "volume": 10,
+    "difficulty": 13,
+    "top_competitor": "nusacodes.com",
+    "top_position": 2,
+    "we_rank": 50
+   },
+   {
+    "keyword": "odoo technical",
+    "volume": 10,
+    "difficulty": 22,
+    "top_competitor": "odoo.com",
+    "top_position": 1,
+    "we_rank": 7
+   }
+  ]
  }
 }

@@ -1798,5 +1798,669 @@
   "live_desc": "Tujuan Program CISSP Exam Preparation-CISSP adalah Meningkatkan peran keamanan IT dalam meningkatkan kerahasiaan, integritas bagi perusahaan",
   "has_faq": false,
   "h2_count": 21
+ },
+ "4001": {
+  "url": "https://biztechacademy.id/odoo-development-training/",
+  "http_ok": true,
+  "live_title": "Odoo Development Training - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4002": {
+  "url": "https://biztechacademy.id/cissp/",
+  "http_ok": true,
+  "live_title": "CISSP Exam Preparation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4003": {
+  "url": "https://biztechacademy.id/pc-hardware-and-network-technical-support-2/",
+  "http_ok": true,
+  "live_title": "PC Hardware and Network Technical Support - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4004": {
+  "url": "https://biztechacademy.id/cyber-security/",
+  "http_ok": true,
+  "live_title": "Cyber Security - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4005": {
+  "url": "https://biztechacademy.id/cisa/",
+  "http_ok": true,
+  "live_title": "CISA Exam Preparation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4006": {
+  "url": "https://biztechacademy.id/cism/",
+  "http_ok": true,
+  "live_title": "CISM Exam Preparation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4007": {
+  "url": "https://biztechacademy.id/odoo-technical-training/",
+  "http_ok": true,
+  "live_title": "Odoo Technical Training - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4008": {
+  "url": "https://biztechacademy.id/cgeit/",
+  "http_ok": true,
+  "live_title": "CGEIT Exam Preparation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4009": {
+  "url": "https://biztechacademy.id/cobit-2019/",
+  "http_ok": true,
+  "live_title": "COBIT 2019 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4010": {
+  "url": "https://biztechacademy.id/itil-v-4-foundation/",
+  "http_ok": true,
+  "live_title": "ITIL v.4 Foundation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4011": {
+  "url": "https://biztechacademy.id/it-masterplan/",
+  "http_ok": true,
+  "live_title": "IT Masterplan - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4012": {
+  "url": "https://biztechacademy.id/java-fundamental/",
+  "http_ok": true,
+  "live_title": "Java Fundamental - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4013": {
+  "url": "https://biztechacademy.id/mtcna/",
+  "http_ok": true,
+  "live_title": "MikroTik Certified Network Associate (MTCNA) - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4014": {
+  "url": "https://biztechacademy.id/cobit-5/",
+  "http_ok": true,
+  "live_title": "COBIT 5 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4015": {
+  "url": "https://biztechacademy.id/introduction-google-big-query/",
+  "http_ok": true,
+  "live_title": "Introduction Google Big Query - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4016": {
+  "url": "https://biztechacademy.id/internetworking-concept-fundamental-2/",
+  "http_ok": true,
+  "live_title": "Internetworking Concept Fundamental - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4017": {
+  "url": "https://biztechacademy.id/junior-linux-systems-administrator-entry-level-part-1-2/",
+  "http_ok": true,
+  "live_title": "Junior Linux Systems Administrator – Entry Level Part 1 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4018": {
+  "url": "https://biztechacademy.id/content-creator/",
+  "http_ok": true,
+  "live_title": "Content Creator - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4019": {
+  "url": "https://biztechacademy.id/mastering-figma-2/",
+  "http_ok": true,
+  "live_title": "Mastering Figma - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4020": {
+  "url": "https://biztechacademy.id/penetration-testing/",
+  "http_ok": true,
+  "live_title": "Penetration Testing - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4021": {
+  "url": "https://biztechacademy.id/odoo-crm-sales-module/",
+  "http_ok": true,
+  "live_title": "Odoo CRM & Sales Module - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4022": {
+  "url": "https://biztechacademy.id/togaf-9-2/",
+  "http_ok": true,
+  "live_title": "TOGAF 9.2 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4023": {
+  "url": "https://biztechacademy.id/agile-and-scrum-foundation/",
+  "http_ok": true,
+  "live_title": "Agile and Scrum Foundation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4024": {
+  "url": "https://biztechacademy.id/bigdata-with-hadoop-and-spark/",
+  "http_ok": true,
+  "live_title": "Bigdata with Hadoop and Spark - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4025": {
+  "url": "https://biztechacademy.id/analizing-data-with-power-bi/",
+  "http_ok": true,
+  "live_title": "Analizing Data with Power BI - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4026": {
+  "url": "https://biztechacademy.id/it-project-management/",
+  "http_ok": true,
+  "live_title": "IT Project Management - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4027": {
+  "url": "https://biztechacademy.id/junior-linux-systems-administrator-entry-level-part-2-2/",
+  "http_ok": true,
+  "live_title": "Junior Linux Systems Administrator – Entry Level Part 2 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4028": {
+  "url": "https://biztechacademy.id/odoo-functional-training/",
+  "http_ok": true,
+  "live_title": "Odoo Functional Training - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4029": {
+  "url": "https://biztechacademy.id/excel-foundation/",
+  "http_ok": true,
+  "live_title": "Excel Foundation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4030": {
+  "url": "https://biztechacademy.id/adobe-illustrator-essentials-2/",
+  "http_ok": true,
+  "live_title": "Adobe Illustrator Essentials - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4031": {
+  "url": "https://biztechacademy.id/product-designer-fundamental-ui-designer-ux-researcher/",
+  "http_ok": true,
+  "live_title": "Product Designer Fundamental (UI Designer, UX Researcher) - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4032": {
+  "url": "https://biztechacademy.id/phr-events/ai-iot/",
+  "http_ok": true,
+  "live_title": "AI & IOT - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4033": {
+  "url": "https://biztechacademy.id/mastering-linux-and-shell-programming-2/",
+  "http_ok": true,
+  "live_title": "Mastering Linux and Shell Programming - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4034": {
+  "url": "https://biztechacademy.id/phr-events/basic-java-programming/",
+  "http_ok": true,
+  "live_title": "Basic Java Programming - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4035": {
+  "url": "https://biztechacademy.id/docker-and-kubernetes-2/",
+  "http_ok": true,
+  "live_title": "Docker and Kubernetes - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4036": {
+  "url": "https://biztechacademy.id/microservices-with-docker-2/",
+  "http_ok": true,
+  "live_title": "Microservices with Docker - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4037": {
+  "url": "https://biztechacademy.id/developing-infographic/",
+  "http_ok": true,
+  "live_title": "Developing Infographic - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4038": {
+  "url": "https://biztechacademy.id/phr-events/data-visualization-excel-dashboard/",
+  "http_ok": true,
+  "live_title": "Data Visualization : Excel Dashboard - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4039": {
+  "url": "https://biztechacademy.id/data-analytics-and-machine-learning-with-phyton/",
+  "http_ok": true,
+  "live_title": "Data Analytics and Machine Learning with Phyton - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4040": {
+  "url": "https://biztechacademy.id/big-data-wrangling-with-phyton/",
+  "http_ok": true,
+  "live_title": "Big Data Wrangling with Phyton - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4041": {
+  "url": "https://biztechacademy.id/odoo-accounting-module/",
+  "http_ok": true,
+  "live_title": "Odoo Accounting Module - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4042": {
+  "url": "https://biztechacademy.id/zoho-crm-for-sales-representative/",
+  "http_ok": true,
+  "live_title": "ZOHO CRM for Sales Representative - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4043": {
+  "url": "https://biztechacademy.id/installation-storage-and-compute-with-windows-server/",
+  "http_ok": true,
+  "live_title": "Installation, Storage, and Compute with Windows Server - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4044": {
+  "url": "https://biztechacademy.id/phr-events/programming-next-js/",
+  "http_ok": true,
+  "live_title": "Programming Next JS - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4045": {
+  "url": "https://biztechacademy.id/internal-auditor-iso-iec-22301/",
+  "http_ok": true,
+  "live_title": "Internal Auditor ISO/IEC 22301 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4046": {
+  "url": "https://biztechacademy.id/lead-implementer-odoo-to-docker/",
+  "http_ok": true,
+  "live_title": "Lead Implementer Odoo to Docker - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4047": {
+  "url": "https://biztechacademy.id/phr-events/analizing-data-with-power-bi/",
+  "http_ok": true,
+  "live_title": "Analizing Data with Power BI - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4048": {
+  "url": "https://biztechacademy.id/phr-events/ducker-fundamental/",
+  "http_ok": true,
+  "live_title": "Ducker Fundamental - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4049": {
+  "url": "https://biztechacademy.id/managing-it-help-desk-2/",
+  "http_ok": true,
+  "live_title": "Managing IT Help Desk - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4050": {
+  "url": "https://biztechacademy.id/itsm-awareness-iso-iec-20001/",
+  "http_ok": true,
+  "live_title": "ITSM Awareness ISO/IEC 20001 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4051": {
+  "url": "https://biztechacademy.id/zoho-crm-for-developer/",
+  "http_ok": true,
+  "live_title": "ZOHO CRM for Developer - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4052": {
+  "url": "https://biztechacademy.id/it-drp/",
+  "http_ok": true,
+  "live_title": "IT Disaster Recovery Plan - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4053": {
+  "url": "https://biztechacademy.id/big-data-analysis-with-phyton/",
+  "http_ok": true,
+  "live_title": "Big Data Analysis with Phyton - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4054": {
+  "url": "https://biztechacademy.id/implement-hadoop-big-data/",
+  "http_ok": true,
+  "live_title": "Implement Hadoop Big Data - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4055": {
+  "url": "https://biztechacademy.id/orchestrating-containers-with-kubernetes-2/",
+  "http_ok": true,
+  "live_title": "Orchestrating Containers with Kubernetes - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4056": {
+  "url": "https://biztechacademy.id/crisc/",
+  "http_ok": true,
+  "live_title": "CRISC Exam Preparation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4057": {
+  "url": "https://biztechacademy.id/introduction-to-data-science/",
+  "http_ok": true,
+  "live_title": "Introduction to Data Science - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4058": {
+  "url": "https://biztechacademy.id/lead-implementer-iso-iec-20001/",
+  "http_ok": true,
+  "live_title": "Lead Implementer ISO/IEC 20001 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4059": {
+  "url": "https://biztechacademy.id/phyton-programming-introduction/",
+  "http_ok": true,
+  "live_title": "Phyton Programming Introduction - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4060": {
+  "url": "https://biztechacademy.id/awareness-iso-22301/",
+  "http_ok": true,
+  "live_title": "BCM Awareness ISO 22301 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4061": {
+  "url": "https://biztechacademy.id/awareness-iso-27001/",
+  "http_ok": true,
+  "live_title": "SMKI Awareness ISO/IEC 27001:2013 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4062": {
+  "url": "https://biztechacademy.id/it-audit/",
+  "http_ok": true,
+  "live_title": "IT Audit - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4063": {
+  "url": "https://biztechacademy.id/it-bcp/",
+  "http_ok": true,
+  "live_title": "IT Business Conitunity Plan - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4064": {
+  "url": "https://biztechacademy.id/it-risk-management/",
+  "http_ok": true,
+  "live_title": "IT Risk Management - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4065": {
+  "url": "https://biztechacademy.id/lead-auditor-iso-27001/",
+  "http_ok": true,
+  "live_title": "Lead Auditor ISO/IEC 27001 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4066": {
+  "url": "https://biztechacademy.id/lead-auditor-iso-iec-22301/",
+  "http_ok": true,
+  "live_title": "Lead Auditor ISO/IEC 22301 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4067": {
+  "url": "https://biztechacademy.id/lead-auditor-iso-iec-27001/",
+  "http_ok": true,
+  "live_title": "Internal Auditor ISO/IEC 27001 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4068": {
+  "url": "https://biztechacademy.id/lead-implementer-iso-iec-22301/",
+  "http_ok": true,
+  "live_title": "Lead Implementer ISO/IEC 22301 - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4069": {
+  "url": "https://biztechacademy.id/odoo-features-global-setting/",
+  "http_ok": true,
+  "live_title": "Odoo Features & Global Setting - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "4070": {
+  "url": "https://biztechacademy.id/phr-events/android-programming-with-kotlin/",
+  "http_ok": true,
+  "live_title": "Android Programming with Kotlin - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4071": {
+  "url": "https://biztechacademy.id/phr-events/basic-back-and-developer/",
+  "http_ok": true,
+  "live_title": "Basic Back and Developer - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4072": {
+  "url": "https://biztechacademy.id/phr-events/big-data-analysis-with-phyton/",
+  "http_ok": true,
+  "live_title": "Big Data Analysis with Phyton - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4073": {
+  "url": "https://biztechacademy.id/phr-events/big-data-analysis-with-python/",
+  "http_ok": true,
+  "live_title": "Big Data Analysis with Python - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4074": {
+  "url": "https://biztechacademy.id/phr-events/cyber-security-analysis/",
+  "http_ok": true,
+  "live_title": "Cyber Security Analysis - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4075": {
+  "url": "https://biztechacademy.id/phr-events/data-analytic-and-machine-learning-with-python/",
+  "http_ok": true,
+  "live_title": "Data Analytic and Machine Learning with Python - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4076": {
+  "url": "https://biztechacademy.id/phr-events/devops-foundation/",
+  "http_ok": true,
+  "live_title": "Devops Foundation - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4077": {
+  "url": "https://biztechacademy.id/phr-events/introduction-to-data-science/",
+  "http_ok": true,
+  "live_title": "Introduction to Data Science - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4078": {
+  "url": "https://biztechacademy.id/phr-events/linux-fundamental/",
+  "http_ok": true,
+  "live_title": "Linux Fundamental - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4079": {
+  "url": "https://biztechacademy.id/phr-events/my-sql-full-package/",
+  "http_ok": true,
+  "live_title": "My - SQL Full Package - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4080": {
+  "url": "https://biztechacademy.id/phr-events/network/",
+  "http_ok": true,
+  "live_title": "Network+ - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4081": {
+  "url": "https://biztechacademy.id/phr-events/privacy-and-data-protection-professional/",
+  "http_ok": true,
+  "live_title": "Privacy and Data Protection Professional - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4082": {
+  "url": "https://biztechacademy.id/phr-events/tableau-desktop/",
+  "http_ok": true,
+  "live_title": "Tableau Desktop - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "4083": {
+  "url": "https://biztechacademy.id/zoho-crm-for-administrator/",
+  "http_ok": true,
+  "live_title": "ZOHO CRM for Administrator - Biztech Academy",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 5
  }
 }

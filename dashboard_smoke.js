@@ -43,7 +43,7 @@ function check(label, fn) {
 check('init()', () => window.onload());
 check('brandNames has both brands', () => {
   const n = A.brandNames();
-  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID')) throw new Error(n.join(','));
+  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID') || !n.includes('Biztech Academy')) throw new Error(n.join(','));
 });
 check('brandBar rendered', () => {
   if (!el('brandBar').innerHTML.includes('IPQI')) throw new Error('no IPQI pill');
@@ -69,6 +69,15 @@ check('setBrand(ITGID) scopes everything', () => {
   const m = el('matrixBody').innerHTML;
   if (!m.includes('itgid.org')) throw new Error('no itgid row');
   if (m.includes('grc-indonesia.com') || m.includes('ipqi.org')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
+check('setBrand(Biztech Academy) scopes everything', () => {
+  A.setBrand('Biztech Academy');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'Biztech Academy').length) throw new Error('scope leak');
+  if (A.brows().some(p => p.brand !== 'Biztech Academy')) throw new Error('non-biztech row');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('biztechacademy.id')) throw new Error('no biztech row');
+  if (m.includes('itgid.org') || m.includes('ipqi.org')) throw new Error('other brand leaked');
   A.setBrand('all');
 });
 check('setBrand back to all', () => {

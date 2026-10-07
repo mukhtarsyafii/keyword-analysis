@@ -34,5 +34,14 @@
     "id_base": 3000,
     "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security",
     "audience": "IT manager, auditor TI, CISO, dan profesional tata kelola TI yang mengejar sertifikasi internasional."
+  },
+  {
+    "brand": "Biztech Academy",
+    "gid": "1067825045",
+    "domain": "biztechacademy.id",
+    "property": "https://biztechacademy.id/",
+    "id_base": 4000,
+    "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional",
+    "audience": "Fresh graduate, career switcher, dan staf IT yang ingin naik skill atau ambil sertifikasi."
   }
 ]
