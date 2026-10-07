@@ -22,6 +22,7 @@ SOURCES = [
     ("GRC Indonesia", "1bPPlmIp_PqfAvGm8B1P3sjXuOQRWGES_aR4DPx5iIqE"),
     ("IPQI",          "1IfLSGTtqaxB-lbfYGlaNbold9mP0NkNf8Xvq9EJ_Vow"),
     ("FS Institute",   "109ltasFINn8R6Et9V30L6F7piOtd90V_LHo0SvhIOGc"),
+    ("Proxsis Academy", "1Jo3CR5SU_yqNKr8M0oRV1JxaRm24OWkG245ETOfHHIg"),
 ]
 
 # GRC pakai "9/7/2026 15:54:59", IPQI pakai "2026-10-01 16:19:41".
