@@ -73,6 +73,15 @@ CAT_RULES = {
         ("Manajemen Proyek & Data", ("project management", "agile", "data governance", "cdmp",
                                      "bcdm", "service design", "it operation", "it business")),
     ],
+    "ICICERT": [
+        ("Keamanan Informasi & AI", ("27001", "27701", "42001")),
+        ("Manajemen & Tata Kelola", ("37001", "37301", "39001", "56001", "30401", "41001",
+                                      "21001", "18788", "44001", "46001", "37101", "20121")),
+        ("Rantai Pasok & Pangan", ("22000", "28000", "21500", "21502")),
+        ("BCM & Layanan TI", ("22301", "20000")),
+        ("Energi, Aset & K3", ("50001", "55001", "45001")),
+        ("Mutu & Lingkungan", ("9001", "14001", "13485", "assessment")),
+    ],
     "Biztech Academy": [
         ("Cyber Security", ("cissp", "cism", "ceh", "cyber security", "penetration", "network", "linux",
                             "firewall", "privacy", "data protection", "hacker")),

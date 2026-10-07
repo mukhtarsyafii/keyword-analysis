@@ -2878,5 +2878,569 @@
     "we_rank": 5
    }
   ]
+ },
+ "6003": {
+  "product_name": "Sertifikasi ISO 22000:2018 bersama ICICERT",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 22001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "translate.google.com",
+    "top_position": 4,
+    "we_rank": 13
+   },
+   {
+    "keyword": "iso 22001 adalah",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 2
+   },
+   {
+    "keyword": "22001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "qualios.com",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "iso 220001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "ascfoodsafety.com",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "iso 22001:2018",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "skmtraining.co.id",
+    "top_position": 1,
+    "we_rank": 3
+   }
+  ]
+ },
+ "6004": {
+  "product_name": "Sertifikasi ISO 14001:2026",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikasi iso 14001:2015",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "evodiaglobal.co.id",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "iso 14001:2015",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 16
+   },
+   {
+    "keyword": "sertifikat iso 14001",
+    "volume": 110,
+    "difficulty": 21,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 11
+   },
+   {
+    "keyword": "sertifikat iso 14001 adalah",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "ismstandar.co.id",
+    "top_position": 2,
+    "we_rank": 10
+   },
+   {
+    "keyword": "sertifikat manajemen lingkungan",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "ias-indonesia.org",
+    "top_position": 1,
+    "we_rank": 5
+   }
+  ]
+ },
+ "6002": {
+  "product_name": "Pelatihan Iso 55001 2014",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 55001",
+    "volume": 390,
+    "difficulty": 13,
+    "top_competitor": "translate.google.com",
+    "top_position": 2,
+    "we_rank": 14
+   },
+   {
+    "keyword": "iso 55001 adalah",
+    "volume": 110,
+    "difficulty": 14,
+    "top_competitor": "synapsis.id",
+    "top_position": 2,
+    "we_rank": 12
+   },
+   {
+    "keyword": "iso 55001:2014",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "id.scribd.com",
+    "top_position": 1,
+    "we_rank": 3
+   },
+   {
+    "keyword": "iso 55001 tentang apa",
+    "volume": 40,
+    "difficulty": 5,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 9
+   },
+   {
+    "keyword": "iso 550001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "cbqaglobal.com",
+    "top_position": 1,
+    "we_rank": 8
+   }
+  ]
+ },
+ "6010": {
+  "product_name": "Pelatihan ISO 37001 Lead Auditor - Bersertifikasi PECB",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "lead auditor iso 37001",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "crmsindonesia.org",
+    "top_position": 2,
+    "we_rank": 6
+   },
+   {
+    "keyword": "pelatihan lead auditor",
+    "volume": 10,
+    "difficulty": 25,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "pecb lead auditor",
+    "volume": 10,
+    "difficulty": 20,
+    "top_competitor": "pecb.com",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "pelatihan iso 37001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "phitagoras.co.id",
+    "top_position": 2,
+    "we_rank": 28
+   },
+   {
+    "keyword": "iso 37001 lead auditor training",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "i-rab.org",
+    "top_position": 1,
+    "we_rank": 6
+   }
+  ]
+ },
+ "6001": {
+  "product_name": "Sertifikasi ISO 37001:2025",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 37001:2025",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "robere.co.id",
+    "top_position": 1,
+    "we_rank": 11
+   },
+   {
+    "keyword": "iso 37001:2025 merupakan standar internasional untuk",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "wqa-apac.com",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "iso 37001:2025 merupakan standar internasional yang mengatur sistem manajemen apa?",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 9
+   },
+   {
+    "keyword": "training iso 37001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 9
+   },
+   {
+    "keyword": "37001 iso 2025",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "saiassurance.id",
+    "top_position": 2,
+    "we_rank": 2
+   }
+  ]
+ },
+ "6012": {
+  "product_name": "PECB Certified ISO/IEC 27001 Lead Implementer",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 27001 lead implementer training",
+    "volume": 10,
+    "difficulty": 12,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 35
+   },
+   {
+    "keyword": "pecb lead implementer",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "pecb.com",
+    "top_position": 1,
+    "we_rank": 3
+   },
+   {
+    "keyword": "pecb iso 27001 lead implementer",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "linkedin.com",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "implementer",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 6
+   },
+   {
+    "keyword": "iso/iec 27001:2022 lead implementer",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "itgid.org",
+    "top_position": 1,
+    "we_rank": 9
+   }
+  ]
+ },
+ "6005": {
+  "product_name": "Training Awareness ISO 9001:2015 Quality Management System",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "training awareness iso 9001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "robere.co.id",
+    "top_position": 3,
+    "we_rank": 2
+   },
+   {
+    "keyword": "iso 9001 awareness training",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "google.com",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "training iso 9001 versi 2015",
+    "volume": 50,
+    "difficulty": 9,
+    "top_competitor": "dckonsultan.com",
+    "top_position": 2,
+    "we_rank": 24
+   },
+   {
+    "keyword": "awareness iso 9001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "enhaiimandiri.com",
+    "top_position": 4,
+    "we_rank": 13
+   },
+   {
+    "keyword": "quality management system awareness training",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "academy.theknightsofsafety.com",
+    "top_position": 1,
+    "we_rank": 13
+   }
+  ]
+ },
+ "6020": {
+  "product_name": "ISO/IEC 27001 Lead Auditor",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikasi lead auditor iso 27001",
+    "volume": 10,
+    "difficulty": 26,
+    "top_competitor": "itgid.org",
+    "top_position": 2,
+    "we_rank": 14
+   },
+   {
+    "keyword": "iso 27001 lead auditor",
+    "volume": 50,
+    "difficulty": 21,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 12
+   },
+   {
+    "keyword": "site:icicert.com",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "certified iso 27001 lead auditor",
+    "volume": 40,
+    "difficulty": 22,
+    "top_competitor": "instagram.com",
+    "top_position": 2,
+    "we_rank": 25
+   },
+   {
+    "keyword": "iso 27001 lead auditor training and certification",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 66
+   }
+  ]
+ },
+ "6006": {
+  "product_name": "Sertifikasi ISO 22000:2018 bersama ICICERT",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikasi iso 22000",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "ias-indonesia.org",
+    "top_position": 2,
+    "we_rank": 14
+   },
+   {
+    "keyword": "sertifikat iso 22000",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 12
+   },
+   {
+    "keyword": "pelatihan iso 22000",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 16
+   },
+   {
+    "keyword": "training iso 22000",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "smartsertifikasi.co.id",
+    "top_position": 2,
+    "we_rank": 23
+   },
+   {
+    "keyword": "sertifikasi iso 22000:2018",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "ias-indonesia.org",
+    "top_position": 1,
+    "we_rank": 28
+   }
+  ]
+ },
+ "6009": {
+  "product_name": "ISO 55001:2024 adalah standar internasional untuk Asset Management System. Standar ini digunakan organisasi untuk membangun pendek",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 55001:2024",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "google.com",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "iso 55001 2024",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "evs.ee",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "55001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 8
+   },
+   {
+    "keyword": "iso 550001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "cbqaglobal.com",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "site:icicert.com",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   }
+  ]
+ },
+ "6007": {
+  "product_name": "ISO 39001:2012 adalah standar internasional untuk Road Traffic Safety Management System. Standar ini digunakan organisasi untuk me",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 39001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "iso.org",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "iso 39001 adalah",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "youtube.com",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "iso 39001:2012",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "scribd.com",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "39001",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "isotools.org",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
+    "keyword": "iso 39000",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "iso-sertifikasi.id",
+    "top_position": 1,
+    "we_rank": 9
+   }
+  ]
+ },
+ "6008": {
+  "product_name": "Sertifikasi Iso 22301 2019",
+  "brand": "ICICERT",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "konsultan dan sertifikasi iso 22301",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 13
+   },
+   {
+    "keyword": "konsultan iso 22301",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 18
+   },
+   {
+    "keyword": "iso 22301",
+    "volume": 590,
+    "difficulty": 29,
+    "top_competitor": "iso.org",
+    "top_position": 2,
+    "we_rank": 58
+   },
+   {
+    "keyword": "sertifikasi iso 22301",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 28
+   },
+   {
+    "keyword": "iso 22301 2019",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "iso.org",
+    "top_position": 1,
+    "we_rank": 47
+   }
+  ]
  }
 }

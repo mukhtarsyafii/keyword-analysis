@@ -52,5 +52,14 @@
     "id_base": 5000,
     "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security",
     "audience": "IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI."
+  },
+  {
+    "brand": "ICICERT",
+    "gid": "738183830",
+    "domain": "icicert.com",
+    "property": "https://icicert.com/",
+    "id_base": 6000,
+    "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000",
+    "audience": "QA/QC, auditor internal, SM manajemen, dan perusahaan yang mengejar sertifikasi ISO."
   }
 ]
