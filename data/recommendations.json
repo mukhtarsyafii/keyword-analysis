@@ -112,7 +112,7 @@
   },
   "prioritas": 1
  },
- "24": {
+ "39": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -122,7 +122,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk t",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi corporate dan Mengapa Penting bagi Perusahaan",
@@ -280,7 +280,7 @@
   },
   "prioritas": 1
  },
- "20": {
+ "11": {
   "masalah": [
    "Impresi tinggi (4,929) tetapi CTR hanya 0.2% — 4,919 tayangan tidak menghasilkan klik."
   ],
@@ -293,7 +293,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
+   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan ISO 37301 adalah program pelatihan Standar ISO & Kepatuhan dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan ISO 37301 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Pelatihan ISO 37301 dan Mengapa Penting bagi Perusahaan",
@@ -545,7 +545,7 @@
   },
   "prioritas": 5
  },
- "11": {
+ "20": {
   "masalah": [
    "Impresi tinggi (4,929) tetapi CTR hanya 0.2% — 4,919 tayangan tidak menghasilkan klik."
   ],
@@ -558,7 +558,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training sistem manajemen kepatuhan adalah program pelatihan AI & Data Governance dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training sistem manajemen kepatuhan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training sistem manajemen kepatuhan dan Mengapa Penting bagi Perusahaan",
@@ -652,7 +652,7 @@
   },
   "prioritas": 5
  },
- "39": {
+ "24": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -662,7 +662,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat unt",
+   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi fraud corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi fraud corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi fraud corporate dan Mengapa Penting bagi Perusahaan",
@@ -1057,7 +1057,7 @@
   },
   "prioritas": 5
  },
- "40": {
+ "43": {
   "masalah": [
    "Posisi terkini #20 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
@@ -1069,7 +1069,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan boardrooms governance bumn dan Mengapa Penting bagi Perusahaan",
@@ -1085,7 +1085,7 @@
   },
   "prioritas": 3
  },
- "43": {
+ "40": {
   "masalah": [
    "Posisi terkini #20 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
@@ -1097,7 +1097,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan direksi dan komisaris dan Mengapa Penting bagi Perusahaan",
@@ -1167,7 +1167,7 @@
   },
   "prioritas": 3
  },
- "44": {
+ "56": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1193,7 +1193,7 @@
   },
   "prioritas": 1
  },
- "56": {
+ "44": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -14819,7 +14819,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Operator Forklift - Synergy Solusi Group - Synergy Solusi",
-   "meta_description": "pelatihan operator forklift 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "meta_description": "pelatihan operator forklift di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan operator forklift?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan operator forklift adalah program pelatihan K3 & Keselamatan Kerja dari Synergy Solusi yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan operator forklift?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan operator forklift bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Synergy Solusi melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu pelatihan operator forklift dan Mengapa Penting bagi Perusahaan",
@@ -15119,7 +15119,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Pengelolaan Limbah B3 - Synergy Solusi Group - Synergy Solusi",
-   "meta_description": "pelatihan pengelolaan limbah b3 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi",
+   "meta_description": "pelatihan pengelolaan limbah b3 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim ",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan pengelolaan limbah b3?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan pengelolaan limbah b3 adalah program pelatihan Lingkungan & Energi dari Synergy Solusi yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan pengelolaan limbah b3?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan pengelolaan limbah b3 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Synergy Solusi melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu pelatihan pengelolaan limbah b3 dan Mengapa Penting bagi Perusahaan",
@@ -15573,7 +15573,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Migas - Synergy Solusi Group - Synergy Solusi",
-   "meta_description": "pelatihan migas 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "meta_description": "pelatihan migas di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan migas?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan migas adalah program pelatihan Migas & Petrotraining dari Synergy Solusi yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan migas?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan migas bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Synergy Solusi melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu pelatihan migas dan Mengapa Penting bagi Perusahaan",
