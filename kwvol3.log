@@ -1,0 +1,3 @@
+134 rows; first: [1, 'Sertifikasi ISO 37001:2025', 'training iso 37001', 21, '37001 iso 2025', 25, 'https://icicert.com/sertifikasi-iso-37001-2025', '', '', 'Aktif']
+wrote 134 rows | readback rows 134 | mismatch none
+WRITE=0

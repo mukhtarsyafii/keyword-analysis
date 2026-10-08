@@ -43,7 +43,7 @@ function check(label, fn) {
 check('init()', () => window.onload());
 check('brandNames has both brands', () => {
   const n = A.brandNames();
-  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID') || !n.includes('Biztech Academy') || !n.includes('IT Proxsis GRC') || !n.includes('ICICERT')) throw new Error(n.join(','));
+  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID') || !n.includes('Biztech Academy') || !n.includes('IT Proxsis GRC') || !n.includes('ICICERT') || !n.includes('Synergy Solusi')) throw new Error(n.join(','));
 });
 check('brandBar rendered', () => {
   if (!el('brandBar').innerHTML.includes('IPQI')) throw new Error('no IPQI pill');
@@ -94,6 +94,14 @@ check('setBrand(ICICERT) scopes everything', () => {
   const m = el('matrixBody').innerHTML;
   if (!m.includes('icicert.com')) throw new Error('no icicert row');
   if (m.includes('biztechacademy.id') || m.includes('it.proxsisgroup.com')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
+check('setBrand(Synergy Solusi) scopes everything', () => {
+  A.setBrand('Synergy Solusi');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'Synergy Solusi').length) throw new Error('scope leak');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('synergysolusi.com')) throw new Error('no synergy row');
+  if (m.includes('icicert.com') || m.includes('it.proxsisgroup.com')) throw new Error('other brand leaked');
   A.setBrand('all');
 });
 check('setBrand back to all', () => {

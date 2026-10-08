@@ -61,5 +61,14 @@
     "id_base": 6000,
     "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000",
     "audience": "QA/QC, auditor internal, SM manajemen, dan perusahaan yang mengejar sertifikasi ISO."
+  },
+  {
+    "brand": "Synergy Solusi",
+    "gid": "642436703",
+    "domain": "synergysolusi.com",
+    "property": "sc-domain:synergysolusi.com",
+    "id_base": 7000,
+    "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000",
+    "audience": "SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3."
   }
 ]
