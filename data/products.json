@@ -11,11 +11,11 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-fraud-management/",
   "status": "Aktif",
-  "total_impr": 747,
-  "total_clicks": 36,
-  "ctr": 4.82,
-  "avg_rank": 12.6,
-  "latest_rank": 11.4,
+  "total_impr": 754,
+  "total_clicks": 37,
+  "ctr": 4.91,
+  "avg_rank": 12.5,
+  "latest_rank": 9.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -296,6 +296,13 @@
     "clicks": 4,
     "ctr": 9.09,
     "rank": 11.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 7,
+    "clicks": 1,
+    "ctr": 14.29,
+    "rank": 9.1
    }
   ],
   "daily": [
@@ -1372,6 +1379,18 @@
     "impr": 8,
     "clicks": 0,
     "rank": 7.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 11
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 1,
+    "rank": 7.2
    }
   ],
   "id": 1
@@ -1388,11 +1407,11 @@
   "vol_info": "250",
   "url": "https://grc-indonesia.com/training-ai-governance/",
   "status": "Aktif",
-  "total_impr": 1302,
-  "total_clicks": 85,
-  "ctr": 6.53,
-  "avg_rank": 10.5,
-  "latest_rank": 13.2,
+  "total_impr": 1308,
+  "total_clicks": 86,
+  "ctr": 6.57,
+  "avg_rank": 10.7,
+  "latest_rank": 17.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -1673,6 +1692,13 @@
     "clicks": 3,
     "ctr": 6.38,
     "rank": 13.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 1,
+    "ctr": 16.67,
+    "rank": 17.1
    }
   ],
   "daily": [
@@ -2959,6 +2985,18 @@
     "impr": 7,
     "clicks": 0,
     "rank": 5.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 8.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 1,
+    "rank": 25.8
    }
   ],
   "id": 2
@@ -3536,11 +3574,11 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/",
   "status": "Aktif",
-  "total_impr": 57.0,
+  "total_impr": 58.0,
   "total_clicks": 3,
-  "ctr": 5.26,
-  "avg_rank": 7.6,
-  "latest_rank": 4.0,
+  "ctr": 5.17,
+  "avg_rank": 8.5,
+  "latest_rank": 17.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -3821,6 +3859,13 @@
     "clicks": 2,
     "ctr": 50.0,
     "rank": 4.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
    }
   ],
   "daily": [
@@ -3973,6 +4018,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 17
    }
   ],
   "id": 4
@@ -3989,11 +4040,11 @@
   "vol_info": "450",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 936.0,
+  "total_impr": 949.0,
   "total_clicks": 25.0,
-  "ctr": 2.67,
+  "ctr": 2.63,
   "avg_rank": 8.4,
-  "latest_rank": 9.9,
+  "latest_rank": 7.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -4274,6 +4325,13 @@
     "clicks": 1,
     "ctr": 2.78,
     "rank": 9.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
    }
   ],
   "daily": [
@@ -4948,9 +5006,21 @@
     "impr": 6,
     "clicks": 0,
     "rank": 6.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 6.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 8
    }
   ],
-  "id": 24
+  "id": 39
  },
  {
   "brand": "GRC Indonesia",
@@ -4964,11 +5034,11 @@
   "vol_info": "4,500",
   "url": "https://grc-indonesia.com/training-grafonomi-grafologi-dan-deteksi-uang-palsu/",
   "status": "Aktif",
-  "total_impr": 1092,
+  "total_impr": 1095,
   "total_clicks": 31,
-  "ctr": 2.84,
-  "avg_rank": 6.7,
-  "latest_rank": 5.0,
+  "ctr": 2.83,
+  "avg_rank": 6.6,
+  "latest_rank": 4.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -5249,6 +5319,13 @@
     "clicks": 2,
     "ctr": 7.41,
     "rank": 5.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.2
    }
   ],
   "daily": [
@@ -6481,6 +6558,18 @@
     "impr": 7,
     "clicks": 0,
     "rank": 3.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 4.5
    }
   ],
   "id": 6
@@ -6497,10 +6586,10 @@
   "vol_info": "2,500",
   "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko/",
   "status": "Aktif",
-  "total_impr": 3115,
-  "total_clicks": 25,
-  "ctr": 0.8,
-  "avg_rank": 12.6,
+  "total_impr": 3041,
+  "total_clicks": 24,
+  "ctr": 0.79,
+  "avg_rank": 12.5,
   "latest_rank": 7.3,
   "weeks": [
    {
@@ -6533,10 +6622,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 131,
-    "clicks": 2,
-    "ctr": 1.53,
-    "rank": 10.8
+    "impr": 57,
+    "clicks": 1,
+    "ctr": 1.75,
+    "rank": 8.9
    },
    {
     "w": "2026W06",
@@ -7730,11 +7819,11 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/pelatihan-risk-based-audit/",
   "status": "Aktif",
-  "total_impr": 367,
+  "total_impr": 376,
   "total_clicks": 16,
-  "ctr": 4.36,
-  "avg_rank": 15.3,
-  "latest_rank": 18.9,
+  "ctr": 4.26,
+  "avg_rank": 15.1,
+  "latest_rank": 9.9,
   "weeks": [
    {
     "w": "2026W01",
@@ -8015,6 +8104,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 18.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.9
    }
   ],
   "daily": [
@@ -8527,6 +8623,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 4.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 13.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 6.7
    }
   ],
   "id": 8
@@ -8543,11 +8651,11 @@
   "vol_info": "900",
   "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 151.0,
+  "total_impr": 153.0,
   "total_clicks": 11.0,
-  "ctr": 7.28,
-  "avg_rank": 9.8,
-  "latest_rank": 16.7,
+  "ctr": 7.19,
+  "avg_rank": 9.7,
+  "latest_rank": 4.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -8828,6 +8936,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 16.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.5
    }
   ],
   "daily": [
@@ -8974,6 +9089,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 51
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 8
    }
   ],
   "id": 9
@@ -8990,10 +9117,10 @@
   "vol_info": "3,000",
   "url": "https://grc-indonesia.com/pelatihan-risk-management-iso-31000/",
   "status": "Aktif",
-  "total_impr": 1651,
-  "total_clicks": 94,
-  "ctr": 5.69,
-  "avg_rank": 10.9,
+  "total_impr": 1635,
+  "total_clicks": 92,
+  "ctr": 5.63,
+  "avg_rank": 11.0,
   "latest_rank": 10.4,
   "weeks": [
    {
@@ -9026,10 +9153,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 51,
-    "clicks": 6,
-    "ctr": 11.76,
-    "rank": 8.0
+    "impr": 35,
+    "clicks": 4,
+    "ctr": 11.43,
+    "rank": 8.5
    },
    {
     "w": "2026W06",
@@ -10613,11 +10740,11 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 4929.0,
-  "total_clicks": 10,
-  "ctr": 0.2,
-  "avg_rank": 5.1,
-  "latest_rank": 9.7,
+  "total_impr": 5002.0,
+  "total_clicks": 13,
+  "ctr": 0.26,
+  "avg_rank": 5.2,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -10898,6 +11025,13 @@
     "clicks": 2,
     "ctr": 1.05,
     "rank": 9.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 73,
+    "clicks": 3,
+    "ctr": 4.11,
+    "rank": 9.0
    }
   ],
   "daily": [
@@ -11098,9 +11232,21 @@
     "impr": 27,
     "clicks": 0,
     "rank": 6.9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 37,
+    "clicks": 1,
+    "rank": 11.0
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 36,
+    "clicks": 2,
+    "rank": 7.0
    }
   ],
-  "id": 20
+  "id": 11
  },
  {
   "brand": "GRC Indonesia",
@@ -11114,10 +11260,10 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 2783,
-  "total_clicks": 112,
-  "ctr": 4.02,
-  "avg_rank": 11.8,
+  "total_impr": 2743,
+  "total_clicks": 110,
+  "ctr": 4.01,
+  "avg_rank": 11.7,
   "latest_rank": 11.0,
   "weeks": [
    {
@@ -11150,10 +11296,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 81,
-    "clicks": 3,
-    "ctr": 3.7,
-    "rank": 17.1
+    "impr": 41,
+    "clicks": 1,
+    "ctr": 2.44,
+    "rank": 15.5
    },
    {
     "w": "2026W06",
@@ -12732,10 +12878,10 @@
   "url": "https://grc-indonesia.com/icofr-intensive-training/",
   "status": "Aktif",
   "total_impr": 2666,
-  "total_clicks": 253,
-  "ctr": 9.49,
+  "total_clicks": 254,
+  "ctr": 9.53,
   "avg_rank": 9.5,
-  "latest_rank": 14.3,
+  "latest_rank": 8.9,
   "weeks": [
    {
     "w": "2026W01",
@@ -12767,10 +12913,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 58,
-    "clicks": 8,
-    "ctr": 13.79,
-    "rank": 11.1
+    "impr": 33,
+    "clicks": 7,
+    "ctr": 21.21,
+    "rank": 14.3
    },
    {
     "w": "2026W06",
@@ -13016,6 +13162,13 @@
     "clicks": 9,
     "ctr": 15.25,
     "rank": 14.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 25,
+    "clicks": 2,
+    "ctr": 8.0,
+    "rank": 8.9
    }
   ],
   "daily": [
@@ -14488,6 +14641,18 @@
     "impr": 5,
     "clicks": 1,
     "rank": 9.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 7.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 18,
+    "clicks": 2,
+    "rank": 10.2
    }
   ],
   "id": 13
@@ -14504,11 +14669,11 @@
   "vol_info": "1,800",
   "url": "https://grc-indonesia.com/pelatihan-key-risk-indicator-kri/",
   "status": "Aktif",
-  "total_impr": 1511.0,
+  "total_impr": 1535.0,
   "total_clicks": 11.0,
-  "ctr": 0.73,
-  "avg_rank": 13.5,
-  "latest_rank": 6.5,
+  "ctr": 0.72,
+  "avg_rank": 13.3,
+  "latest_rank": 5.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -14789,6 +14954,13 @@
     "clicks": 1,
     "ctr": 1.15,
     "rank": 6.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 24,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.4
    }
   ],
   "daily": [
@@ -14947,6 +15119,18 @@
     "impr": 6,
     "clicks": 0,
     "rank": 5.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 18,
+    "clicks": 0,
+    "rank": 6.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 4
    }
   ],
   "id": 14
@@ -14963,11 +15147,11 @@
   "vol_info": "2,200",
   "url": "https://grc-indonesia.com/pelatihan-legal-and-compliance-management/",
   "status": "Aktif",
-  "total_impr": 2244.0,
+  "total_impr": 2277.0,
   "total_clicks": 41.0,
-  "ctr": 1.83,
-  "avg_rank": 34.7,
-  "latest_rank": 14.4,
+  "ctr": 1.8,
+  "avg_rank": 34.1,
+  "latest_rank": 12.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -15248,6 +15432,13 @@
     "clicks": 7,
     "ctr": 7.78,
     "rank": 14.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 33,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
    }
   ],
   "daily": [
@@ -15400,6 +15591,18 @@
     "impr": 12,
     "clicks": 1,
     "rank": 5.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 17,
+    "clicks": 0,
+    "rank": 13.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 16,
+    "clicks": 0,
+    "rank": 10.4
    }
   ],
   "id": 15
@@ -15881,11 +16084,11 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp/",
   "status": "Aktif",
-  "total_impr": 2762.0,
-  "total_clicks": 42.0,
-  "ctr": 1.52,
-  "avg_rank": 7.7,
-  "latest_rank": 5.0,
+  "total_impr": 2812.0,
+  "total_clicks": 43.0,
+  "ctr": 1.53,
+  "avg_rank": 7.6,
+  "latest_rank": 3.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -16166,6 +16369,13 @@
     "clicks": 4,
     "ctr": 2.23,
     "rank": 5.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 50,
+    "clicks": 1,
+    "ctr": 2.0,
+    "rank": 3.7
    }
   ],
   "daily": [
@@ -16270,6 +16480,18 @@
     "impr": 22,
     "clicks": 1,
     "rank": 4.0
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 18,
+    "clicks": 0,
+    "rank": 4.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 32,
+    "clicks": 1,
+    "rank": 2.7
    }
   ],
   "id": 17
@@ -16286,11 +16508,11 @@
   "vol_info": "500",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-qcro-bnsp/",
   "status": "Aktif",
-  "total_impr": 3587.0,
+  "total_impr": 3641.0,
   "total_clicks": 19.0,
-  "ctr": 0.53,
+  "ctr": 0.52,
   "avg_rank": 8.7,
-  "latest_rank": 6.6,
+  "latest_rank": 6.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -16571,6 +16793,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 54,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
    }
   ],
   "daily": [
@@ -16663,6 +16892,18 @@
     "impr": 9,
     "clicks": 0,
     "rank": 5.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 24,
+    "clicks": 0,
+    "rank": 6.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 30,
+    "clicks": 0,
+    "rank": 5.4
    }
   ],
   "id": 18
@@ -16679,10 +16920,10 @@
   "vol_info": "350",
   "url": "https://grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp/",
   "status": "Aktif",
-  "total_impr": 3748.0,
+  "total_impr": 3797.0,
   "total_clicks": 15.0,
   "ctr": 0.4,
-  "avg_rank": 8.6,
+  "avg_rank": 8.5,
   "latest_rank": 5.6,
   "weeks": [
    {
@@ -16964,6 +17205,13 @@
     "clicks": 3,
     "ctr": 1.88,
     "rank": 5.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 49,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.6
    }
   ],
   "daily": [
@@ -17074,6 +17322,18 @@
     "impr": 18,
     "clicks": 1,
     "rank": 4.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 21,
+    "clicks": 0,
+    "rank": 4.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 28,
+    "clicks": 0,
+    "rank": 6.6
    }
   ],
   "id": 19
@@ -17090,11 +17350,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 4929.0,
-  "total_clicks": 10,
-  "ctr": 0.2,
-  "avg_rank": 5.1,
-  "latest_rank": 9.7,
+  "total_impr": 5002.0,
+  "total_clicks": 13,
+  "ctr": 0.26,
+  "avg_rank": 5.2,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -17375,6 +17635,13 @@
     "clicks": 2,
     "ctr": 1.05,
     "rank": 9.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 73,
+    "clicks": 3,
+    "ctr": 4.11,
+    "rank": 9.0
    }
   ],
   "daily": [
@@ -17575,9 +17842,21 @@
     "impr": 27,
     "clicks": 0,
     "rank": 6.9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 37,
+    "clicks": 1,
+    "rank": 11.0
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 36,
+    "clicks": 2,
+    "rank": 7.0
    }
   ],
-  "id": 11
+  "id": 20
  },
  {
   "brand": "GRC Indonesia",
@@ -17591,11 +17870,11 @@
   "vol_info": "3,500",
   "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/",
   "status": "Aktif",
-  "total_impr": 754.0,
-  "total_clicks": 15.0,
-  "ctr": 1.99,
+  "total_impr": 789.0,
+  "total_clicks": 16.0,
+  "ctr": 2.03,
   "avg_rank": 8.5,
-  "latest_rank": 6.9,
+  "latest_rank": 8.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -17876,6 +18155,13 @@
     "clicks": 6,
     "ctr": 5.13,
     "rank": 6.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 35,
+    "clicks": 1,
+    "ctr": 2.86,
+    "rank": 8.0
    }
   ],
   "daily": [
@@ -18046,6 +18332,18 @@
     "impr": 9,
     "clicks": 0,
     "rank": 6.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 29,
+    "clicks": 1,
+    "rank": 7.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 8.7
    }
   ],
   "id": 21
@@ -18062,9 +18360,9 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/integrasi-iso-31000-dengan-iso-9001/",
   "status": "Aktif",
-  "total_impr": 390,
+  "total_impr": 386,
   "total_clicks": 3,
-  "ctr": 0.77,
+  "ctr": 0.78,
   "avg_rank": 8.4,
   "latest_rank": 4.5,
   "weeks": [
@@ -18098,10 +18396,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 12,
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.7
+    "rank": 10.2
    },
    {
     "w": "2026W06",
@@ -19622,11 +19920,11 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 936.0,
+  "total_impr": 949.0,
   "total_clicks": 25.0,
-  "ctr": 2.67,
+  "ctr": 2.63,
   "avg_rank": 8.4,
-  "latest_rank": 9.9,
+  "latest_rank": 7.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -19907,6 +20205,13 @@
     "clicks": 1,
     "ctr": 2.78,
     "rank": 9.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
    }
   ],
   "daily": [
@@ -20581,9 +20886,21 @@
     "impr": 6,
     "clicks": 0,
     "rank": 6.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 6.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 8
    }
   ],
-  "id": 39
+  "id": 24
  },
  {
   "brand": "GRC Indonesia",
@@ -21008,11 +21325,11 @@
   "vol_info": "850",
   "url": "https://grc-indonesia.com/pelatihan-integrated-anti-fraud-management-system/",
   "status": "Aktif",
-  "total_impr": 104,
+  "total_impr": 116,
   "total_clicks": 7,
-  "ctr": 6.73,
-  "avg_rank": 13.6,
-  "latest_rank": 15.5,
+  "ctr": 6.03,
+  "avg_rank": 12.7,
+  "latest_rank": 8.9,
   "weeks": [
    {
     "w": "2026W35",
@@ -21055,6 +21372,13 @@
     "clicks": 4,
     "ctr": 14.81,
     "rank": 15.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.9
    }
   ],
   "daily": [
@@ -21171,6 +21495,18 @@
     "impr": 6,
     "clicks": 2,
     "rank": 14
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 8.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
   ],
   "id": 26
@@ -21187,11 +21523,11 @@
   "vol_info": "200",
   "url": "https://grc-indonesia.com/pelatihan-business-continuity-management-iso-22301-2019/",
   "status": "Aktif",
-  "total_impr": 276,
-  "total_clicks": 18,
-  "ctr": 6.52,
-  "avg_rank": 6.6,
-  "latest_rank": 8.1,
+  "total_impr": 316,
+  "total_clicks": 20,
+  "ctr": 6.33,
+  "avg_rank": 7.1,
+  "latest_rank": 9.8,
   "weeks": [
    {
     "w": "2026W35",
@@ -21234,6 +21570,13 @@
     "clicks": 9,
     "ctr": 10.23,
     "rank": 8.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 40,
+    "clicks": 2,
+    "ctr": 5.0,
+    "rank": 9.8
    }
   ],
   "daily": [
@@ -21416,6 +21759,18 @@
     "impr": 13,
     "clicks": 1,
     "rank": 6.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 22,
+    "clicks": 0,
+    "rank": 14.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 18,
+    "clicks": 2,
+    "rank": 5.3
    }
   ],
   "id": 27
@@ -21432,11 +21787,11 @@
   "vol_info": "100- 250",
   "url": "https://grc-indonesia.com/pelatihan-internal-control-testing/",
   "status": "Aktif",
-  "total_impr": 148,
-  "total_clicks": 3,
-  "ctr": 2.03,
-  "avg_rank": 8.6,
-  "latest_rank": 6.6,
+  "total_impr": 154,
+  "total_clicks": 4,
+  "ctr": 2.6,
+  "avg_rank": 7.7,
+  "latest_rank": 4.1,
   "weeks": [
    {
     "w": "2026W35",
@@ -21479,6 +21834,13 @@
     "clicks": 1,
     "ctr": 12.5,
     "rank": 6.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 1,
+    "ctr": 16.67,
+    "rank": 4.1
    }
   ],
   "daily": [
@@ -21607,6 +21969,18 @@
     "impr": 5,
     "clicks": 1,
     "rank": 4.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 1,
+    "rank": 4.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
    }
   ],
   "id": 28
@@ -21623,11 +21997,11 @@
   "vol_info": "150 -300",
   "url": "https://grc-indonesia.com/training-integrated-governance-risk-management-compliance-grc/",
   "status": "Aktif",
-  "total_impr": 77,
+  "total_impr": 85,
   "total_clicks": 5,
-  "ctr": 6.49,
-  "avg_rank": 8.1,
-  "latest_rank": 11.0,
+  "ctr": 5.88,
+  "avg_rank": 7.9,
+  "latest_rank": 7.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -21670,6 +22044,13 @@
     "clicks": 2,
     "ctr": 6.25,
     "rank": 11.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.3
    }
   ],
   "daily": [
@@ -21798,6 +22179,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 4.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 6.7
    }
   ],
   "id": 29
@@ -21814,11 +22207,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-penyusunan-anggaran-berbasis-risiko/",
   "status": "Aktif",
-  "total_impr": 66,
+  "total_impr": 69,
   "total_clicks": 2,
-  "ctr": 3.03,
-  "avg_rank": 8.0,
-  "latest_rank": 12.9,
+  "ctr": 2.9,
+  "avg_rank": 7.4,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -21861,6 +22254,13 @@
     "clicks": 1,
     "ctr": 5.56,
     "rank": 12.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
    }
   ],
   "daily": [
@@ -21959,6 +22359,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 25
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 5
    }
   ],
   "id": 30
@@ -21975,11 +22381,11 @@
   "vol_info": "100 – 300",
   "url": "https://grc-indonesia.com/pelatihan-implementasi-manajemen-risiko-bumn-per2-mbu-03-2023/",
   "status": "Aktif",
-  "total_impr": 130,
+  "total_impr": 135,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 7.4,
-  "latest_rank": 10.1,
+  "avg_rank": 7.3,
+  "latest_rank": 7.1,
   "weeks": [
    {
     "w": "2026W35",
@@ -22022,6 +22428,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.1
    }
   ],
   "daily": [
@@ -22120,6 +22533,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 9.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 3.2
    }
   ],
   "id": 31
@@ -22136,11 +22561,11 @@
   "vol_info": "200 - 450",
   "url": "https://grc-indonesia.com/pelatihan-rkap-berbasis-risiko/",
   "status": "Aktif",
-  "total_impr": 124,
+  "total_impr": 126,
   "total_clicks": 2,
-  "ctr": 1.61,
-  "avg_rank": 7.1,
-  "latest_rank": 7.3,
+  "ctr": 1.59,
+  "avg_rank": 6.6,
+  "latest_rank": 4.5,
   "weeks": [
    {
     "w": "2026W35",
@@ -22183,6 +22608,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.5
    }
   ],
   "daily": [
@@ -22305,6 +22737,12 @@
     "impr": 7,
     "clicks": 0,
     "rank": 3.9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 4.5
    }
   ],
   "id": 32
@@ -22321,11 +22759,11 @@
   "vol_info": "800-2.000",
   "url": "https://grc-indonesia.com/pelatihan-risk-control-self-assessment/",
   "status": "Aktif",
-  "total_impr": 485,
+  "total_impr": 511,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 7.6,
-  "latest_rank": 5.1,
+  "avg_rank": 7.3,
+  "latest_rank": 6.4,
   "weeks": [
    {
     "w": "2026W35",
@@ -22368,6 +22806,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 26,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.4
    }
   ],
   "daily": [
@@ -22478,6 +22923,18 @@
     "impr": 8,
     "clicks": 0,
     "rank": 3.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 15,
+    "clicks": 0,
+    "rank": 5.9
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 6.8
    }
   ],
   "id": 33
@@ -22494,11 +22951,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-good-corporate-governance-gcg-terbaik/",
   "status": "Aktif",
-  "total_impr": 215,
-  "total_clicks": 18,
-  "ctr": 8.37,
-  "avg_rank": 6.5,
-  "latest_rank": 8.1,
+  "total_impr": 242,
+  "total_clicks": 22,
+  "ctr": 9.09,
+  "avg_rank": 6.0,
+  "latest_rank": 4.1,
   "weeks": [
    {
     "w": "2026W35",
@@ -22541,6 +22998,13 @@
     "clicks": 6,
     "ctr": 8.22,
     "rank": 8.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 27,
+    "clicks": 4,
+    "ctr": 14.81,
+    "rank": 4.1
    }
   ],
   "daily": [
@@ -22693,6 +23157,18 @@
     "impr": 16,
     "clicks": 2,
     "rank": 6.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 21,
+    "clicks": 4,
+    "rank": 2.9
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 5.3
    }
   ],
   "id": 34
@@ -22709,11 +23185,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-manajemen-risiko-berbasis-data/",
   "status": "Aktif",
-  "total_impr": 47,
+  "total_impr": 50,
   "total_clicks": 1,
-  "ctr": 2.13,
-  "avg_rank": 16.5,
-  "latest_rank": 17.1,
+  "ctr": 2.0,
+  "avg_rank": 15.1,
+  "latest_rank": 9.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -22756,6 +23232,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 17.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.3
    }
   ],
   "daily": [
@@ -22848,6 +23331,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 4.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 9.3
    }
   ],
   "id": 35
@@ -22864,11 +23353,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-kepatuhan-apu-dan-ppt-untuk-perusahaan/",
   "status": "Aktif",
-  "total_impr": 115,
+  "total_impr": 117,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 7.1,
-  "latest_rank": 6.9,
+  "avg_rank": 6.9,
+  "latest_rank": 6.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -22911,6 +23400,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
    }
   ],
   "daily": [
@@ -23027,6 +23523,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 6
    }
   ],
   "id": 36
@@ -23043,11 +23545,11 @@
   "vol_info": "450-800",
   "url": "https://grc-indonesia.com/pelatihan-risiko-proyek-konstruksi/",
   "status": "Aktif",
-  "total_impr": 48,
+  "total_impr": 49,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 9.4,
-  "latest_rank": 6.2,
+  "avg_rank": 7.3,
+  "latest_rank": 1.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -23090,6 +23592,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
    }
   ],
   "daily": [
@@ -23176,6 +23685,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 1
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
    }
   ],
   "id": 37
@@ -23192,11 +23707,11 @@
   "vol_info": "100 - 250",
   "url": "https://grc-indonesia.com/sertifikasi-certified-governance-professional-cgp/",
   "status": "Aktif",
-  "total_impr": 2649,
-  "total_clicks": 26,
-  "ctr": 0.98,
-  "avg_rank": 7.2,
-  "latest_rank": 7.6,
+  "total_impr": 2855,
+  "total_clicks": 27,
+  "ctr": 0.95,
+  "avg_rank": 7.1,
+  "latest_rank": 6.7,
   "weeks": [
    {
     "w": "2026W35",
@@ -23239,6 +23754,13 @@
     "clicks": 7,
     "ctr": 1.11,
     "rank": 7.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 206,
+    "clicks": 1,
+    "ctr": 0.49,
+    "rank": 6.7
    }
   ],
   "daily": [
@@ -23385,6 +23907,18 @@
     "impr": 115,
     "clicks": 4,
     "rank": 7.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 108,
+    "clicks": 1,
+    "rank": 6.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 98,
+    "clicks": 0,
+    "rank": 6.8
    }
   ],
   "id": 38
@@ -23401,11 +23935,11 @@
   "vol_info": "300-600",
   "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
   "status": "Aktif",
-  "total_impr": 69,
+  "total_impr": 70,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 10.3,
-  "latest_rank": 19.7,
+  "avg_rank": 10.4,
+  "latest_rank": 11.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -23448,6 +23982,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 19.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
    }
   ],
   "daily": [
@@ -23540,9 +24081,15 @@
     "impr": 3,
     "clicks": 0,
     "rank": 30.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
    }
   ],
-  "id": 40
+  "id": 43
  },
  {
   "brand": "GRC Indonesia",
@@ -23556,11 +24103,11 @@
   "vol_info": "1,000",
   "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
   "status": "Aktif",
-  "total_impr": 69,
+  "total_impr": 70,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 10.3,
-  "latest_rank": 19.7,
+  "avg_rank": 10.4,
+  "latest_rank": 11.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -23603,6 +24150,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 19.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
    }
   ],
   "daily": [
@@ -23695,9 +24249,15 @@
     "impr": 3,
     "clicks": 0,
     "rank": 30.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
    }
   ],
-  "id": 43
+  "id": 40
  },
  {
   "brand": "GRC Indonesia",
@@ -23711,11 +24271,11 @@
   "vol_info": "150 - 300",
   "url": "https://grc-indonesia.com/pelatihan-ccgo-cgop-lsp-mks-indonesia/",
   "status": "Aktif",
-  "total_impr": 165,
-  "total_clicks": 7,
-  "ctr": 4.24,
-  "avg_rank": 7.9,
-  "latest_rank": 6.3,
+  "total_impr": 183,
+  "total_clicks": 8,
+  "ctr": 4.37,
+  "avg_rank": 7.6,
+  "latest_rank": 6.2,
   "weeks": [
    {
     "w": "2026W35",
@@ -23758,6 +24318,13 @@
     "clicks": 2,
     "ctr": 5.88,
     "rank": 6.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 18,
+    "clicks": 1,
+    "ctr": 5.56,
+    "rank": 6.2
    }
   ],
   "daily": [
@@ -23892,6 +24459,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 12.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 9,
+    "clicks": 0,
+    "rank": 5.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 9,
+    "clicks": 1,
+    "rank": 7.2
    }
   ],
   "id": 41
@@ -23908,11 +24487,11 @@
   "vol_info": "100 – 250",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-data-analytics-risk-management/",
   "status": "Aktif",
-  "total_impr": 74,
+  "total_impr": 84,
   "total_clicks": 6,
-  "ctr": 8.11,
-  "avg_rank": 15.3,
-  "latest_rank": 13.8,
+  "ctr": 7.14,
+  "avg_rank": 14.3,
+  "latest_rank": 11.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -23955,6 +24534,13 @@
     "clicks": 2,
     "ctr": 18.18,
     "rank": 13.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.3
    }
   ],
   "daily": [
@@ -24065,6 +24651,18 @@
     "impr": 2,
     "clicks": 1,
     "rank": 4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 13.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 8.8
    }
   ],
   "id": 42
@@ -24081,11 +24679,11 @@
   "vol_info": "500 - 1.200",
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "status": "Aktif",
-  "total_impr": 226,
+  "total_impr": 237,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.5,
-  "latest_rank": 5.9,
+  "avg_rank": 6.8,
+  "latest_rank": 7.4,
   "weeks": [
    {
     "w": "2026W35",
@@ -24128,6 +24726,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.4
    }
   ],
   "daily": [
@@ -24256,9 +24861,21 @@
     "impr": 11,
     "clicks": 0,
     "rank": 5.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 10.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 4.5
    }
   ],
-  "id": 44
+  "id": 56
  },
  {
   "brand": "GRC Indonesia",
@@ -24272,11 +24889,11 @@
   "vol_info": "1100",
   "url": "https://grc-indonesia.com/pelatihan-erm-fundamentals-sertifikasi-risk-officer-bnsp/",
   "status": "Aktif",
-  "total_impr": 226,
+  "total_impr": 237,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.5,
-  "latest_rank": 5.9,
+  "avg_rank": 6.8,
+  "latest_rank": 7.4,
   "weeks": [
    {
     "w": "2026W35",
@@ -24319,6 +24936,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.4
    }
   ],
   "daily": [
@@ -24447,9 +25071,21 @@
     "impr": 11,
     "clicks": 0,
     "rank": 5.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 10.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 4.5
    }
   ],
-  "id": 56
+  "id": 44
  },
  {
   "brand": "GRC Indonesia",
@@ -24463,11 +25099,11 @@
   "vol_info": "950",
   "url": "https://grc-indonesia.com/pelatihan-internal-control-testing-bumn/",
   "status": "Aktif",
-  "total_impr": 149,
+  "total_impr": 153,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 9.0,
-  "latest_rank": 10.0,
+  "avg_rank": 8.3,
+  "latest_rank": 6.2,
   "weeks": [
    {
     "w": "2026W35",
@@ -24510,6 +25146,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.2
    }
   ],
   "daily": [
@@ -24620,6 +25263,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 23
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 6.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 6
    }
   ],
   "id": 45
@@ -24636,11 +25291,11 @@
   "vol_info": "350 - 700",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-managing-legal-risk-iso-31022/",
   "status": "Aktif",
-  "total_impr": 66,
-  "total_clicks": 6,
-  "ctr": 9.09,
-  "avg_rank": 6.5,
-  "latest_rank": 8.1,
+  "total_impr": 87,
+  "total_clicks": 10,
+  "ctr": 11.49,
+  "avg_rank": 6.3,
+  "latest_rank": 5.9,
   "weeks": [
    {
     "w": "2026W35",
@@ -24683,6 +25338,13 @@
     "clicks": 2,
     "ctr": 7.69,
     "rank": 8.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 21,
+    "clicks": 4,
+    "ctr": 19.05,
+    "rank": 5.9
    }
   ],
   "daily": [
@@ -24781,6 +25443,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 7,
+    "clicks": 3,
+    "rank": 5.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 14,
+    "clicks": 1,
+    "rank": 6
    }
   ],
   "id": 46
@@ -24797,11 +25471,11 @@
   "vol_info": "300 - 700",
   "url": "https://grc-indonesia.com/sertifikasi/master-class-enterprise-risk-governance-qcro-qrgp-cerg/",
   "status": "Aktif",
-  "total_impr": 111,
+  "total_impr": 122,
   "total_clicks": 2,
-  "ctr": 1.8,
-  "avg_rank": 10.2,
-  "latest_rank": 8.8,
+  "ctr": 1.64,
+  "avg_rank": 9.1,
+  "latest_rank": 5.8,
   "weeks": [
    {
     "w": "2026W35",
@@ -24844,6 +25518,13 @@
     "clicks": 1,
     "ctr": 2.38,
     "rank": 8.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.8
    }
   ],
   "daily": [
@@ -24942,6 +25623,18 @@
     "impr": 5,
     "clicks": 0,
     "rank": 4.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 5.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 6.2
    }
   ],
   "id": 47
@@ -24958,11 +25651,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-pengambilan-keputusan-direksi-debiasing/",
   "status": "Aktif",
-  "total_impr": 49,
+  "total_impr": 56,
   "total_clicks": 1,
-  "ctr": 2.04,
-  "avg_rank": 12.8,
-  "latest_rank": 7.8,
+  "ctr": 1.79,
+  "avg_rank": 11.7,
+  "latest_rank": 8.2,
   "weeks": [
    {
     "w": "2026W35",
@@ -25005,6 +25698,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.2
    }
   ],
   "daily": [
@@ -25085,6 +25785,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 3.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 10.3
    }
   ],
   "id": 48
@@ -25101,10 +25813,10 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/risk-maturity-level/",
   "status": "Aktif",
-  "total_impr": 7309,
-  "total_clicks": 59,
-  "ctr": 0.81,
-  "avg_rank": 10.3,
+  "total_impr": 7207,
+  "total_clicks": 58,
+  "ctr": 0.8,
+  "avg_rank": 10.4,
   "latest_rank": 1.0,
   "weeks": [
    {
@@ -25137,10 +25849,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 182,
-    "clicks": 1,
-    "ctr": 0.55,
-    "rank": 8.8
+    "impr": 80,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
    },
    {
     "w": "2026W06",
@@ -26904,11 +27616,11 @@
   "vol_info": "320 - 590",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-manajemen-risiko-perbankan/",
   "status": "Aktif",
-  "total_impr": 241,
-  "total_clicks": 3,
-  "ctr": 1.24,
-  "avg_rank": 9.6,
-  "latest_rank": 10.8,
+  "total_impr": 277,
+  "total_clicks": 5,
+  "ctr": 1.81,
+  "avg_rank": 9.2,
+  "latest_rank": 8.1,
   "weeks": [
    {
     "w": "2026W35",
@@ -26951,6 +27663,13 @@
     "clicks": 1,
     "ctr": 1.82,
     "rank": 10.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 36,
+    "clicks": 2,
+    "ctr": 5.56,
+    "rank": 8.1
    }
   ],
   "daily": [
@@ -27073,6 +27792,18 @@
     "impr": 21,
     "clicks": 0,
     "rank": 11.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 21,
+    "clicks": 1,
+    "rank": 8.0
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 15,
+    "clicks": 1,
+    "rank": 8.2
    }
   ],
   "id": 50
@@ -27089,11 +27820,11 @@
   "vol_info": "1.4",
   "url": "https://grc-indonesia.com/pelatihan-risk-appetite-statement-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 27,
+  "total_impr": 38,
   "total_clicks": 4,
-  "ctr": 14.81,
-  "avg_rank": 7.1,
-  "latest_rank": 7.1,
+  "ctr": 10.53,
+  "avg_rank": 5.7,
+  "latest_rank": 4.2,
   "weeks": [
    {
     "w": "2026W35",
@@ -27136,6 +27867,13 @@
     "clicks": 4,
     "ctr": 14.81,
     "rank": 7.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.2
    }
   ],
   "daily": [
@@ -27180,6 +27918,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 2.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 6
    }
   ],
   "id": 51
@@ -27196,11 +27946,11 @@
   "vol_info": "200 - 450",
   "url": "https://grc-indonesia.com/pelatihan-risk-assessment-iso-31010-bia/",
   "status": "Aktif",
-  "total_impr": 21,
+  "total_impr": 26,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 11.0,
-  "latest_rank": 11.0,
+  "avg_rank": 8.9,
+  "latest_rank": 6.8,
   "weeks": [
    {
     "w": "2026W40",
@@ -27208,9 +27958,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.8
    }
   ],
-  "id": 52,
   "daily": [
    {
     "d": "2026-10-01",
@@ -27235,8 +27991,15 @@
     "impr": 10,
     "clicks": 0,
     "rank": 10.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 6.8
    }
-  ]
+  ],
+  "id": 52
  },
  {
   "brand": "GRC Indonesia",
@@ -27250,11 +28013,11 @@
   "vol_info": "123",
   "url": "https://grc-indonesia.com/pelatihan-risk-based-decision-making/",
   "status": "Aktif",
-  "total_impr": 16,
+  "total_impr": 18,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 12.1,
-  "latest_rank": 12.1,
+  "avg_rank": 7.8,
+  "latest_rank": 3.5,
   "weeks": [
    {
     "w": "2026W35",
@@ -27297,6 +28060,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.5
    }
   ],
   "daily": [
@@ -27329,6 +28099,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 2
    }
   ],
   "id": 53
@@ -27345,11 +28127,11 @@
   "vol_info": "212",
   "url": "https://grc-indonesia.com/pelatihan-risk-management-maturity-assessment-bumn-non-bumn/",
   "status": "Aktif",
-  "total_impr": 40,
+  "total_impr": 55,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.3,
-  "latest_rank": 6.3,
+  "avg_rank": 5.2,
+  "latest_rank": 4.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -27392,6 +28174,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 15,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
    }
   ],
   "daily": [
@@ -27430,6 +28219,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 8.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 3
    }
   ],
   "id": 54
@@ -27446,11 +28247,11 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/risk-management/",
   "status": "Draft",
-  "total_impr": 1860,
-  "total_clicks": 28,
-  "ctr": 1.51,
+  "total_impr": 1853,
+  "total_clicks": 27,
+  "ctr": 1.46,
   "avg_rank": 21.2,
-  "latest_rank": 24.0,
+  "latest_rank": 19.1,
   "weeks": [
    {
     "w": "2026W04",
@@ -27461,10 +28262,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 32,
-    "clicks": 1,
-    "ctr": 3.12,
-    "rank": 11.6
+    "impr": 15,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.9
    },
    {
     "w": "2026W06",
@@ -27710,6 +28511,13 @@
     "clicks": 1,
     "ctr": 3.57,
     "rank": 24.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.1
    }
   ],
   "daily": [
@@ -29146,6 +29954,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 31
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 23
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 15.2
    }
   ],
   "id": 55
@@ -29190,11 +30010,11 @@
   "vol_info": "2400",
   "url": "https://ipqi.org/pelatihan-fmea-failure-mode-and-effects-analysis-control-plan/",
   "status": "Aktif",
-  "total_impr": 431.0,
-  "total_clicks": 4.0,
-  "ctr": 0.93,
-  "avg_rank": 47.4,
-  "latest_rank": 0,
+  "total_impr": 504.0,
+  "total_clicks": 5.0,
+  "ctr": 0.99,
+  "avg_rank": 46.2,
+  "latest_rank": 8.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -29478,10 +30298,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 2.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": null
+    "impr": 75,
+    "clicks": 1,
+    "ctr": 1.33,
+    "rank": 8.0
    }
   ],
   "daily": [
@@ -29526,6 +30346,18 @@
     "impr": 17,
     "clicks": 0,
     "rank": 7.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 48,
+    "clicks": 0,
+    "rank": 8.1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 27,
+    "clicks": 1,
+    "rank": 7.9
    }
   ],
   "id": 1001
@@ -29542,7 +30374,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iso/",
   "status": "Aktif",
-  "total_impr": 248.0,
+  "total_impr": 243.0,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.9,
@@ -29578,10 +30410,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 19,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 8.3
+    "rank": 7.5
    },
    {
     "w": "2026W06",
@@ -30518,11 +31350,11 @@
   "vol_info": "320 - 720",
   "url": "https://ipqi.org/pelatihan-5s-workplace-organization-audit-system/",
   "status": "Aktif",
-  "total_impr": 5709.0,
+  "total_impr": 5782.0,
   "total_clicks": 12.0,
   "ctr": 0.21,
-  "avg_rank": 8.8,
-  "latest_rank": 5.6,
+  "avg_rank": 8.7,
+  "latest_rank": 5.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -30806,10 +31638,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 73,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 5.3
    }
   ],
   "daily": [
@@ -30848,6 +31680,18 @@
     "impr": 21,
     "clicks": 0,
     "rank": 5.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 30,
+    "clicks": 0,
+    "rank": 5.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 43,
+    "clicks": 0,
+    "rank": 5.3
    }
   ],
   "id": 1003
@@ -30864,11 +31708,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-5r/",
   "status": "Aktif",
-  "total_impr": 9298.0,
-  "total_clicks": 193.0,
-  "ctr": 2.08,
-  "avg_rank": 4.8,
-  "latest_rank": 0,
+  "total_impr": 9195.0,
+  "total_clicks": 192.0,
+  "ctr": 2.09,
+  "avg_rank": 4.7,
+  "latest_rank": 1.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -30900,10 +31744,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 200,
-    "clicks": 2,
-    "ctr": 1.0,
-    "rank": 4.6
+    "impr": 99,
+    "clicks": 1,
+    "ctr": 1.01,
+    "rank": 4.4
    },
    {
     "w": "2026W06",
@@ -31152,10 +31996,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 4.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 1.5
    }
   ],
   "daily": [
@@ -32694,6 +33538,12 @@
     "impr": 6,
     "clicks": 0,
     "rank": 1.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 1.5
    }
   ],
   "id": 1004
@@ -32710,11 +33560,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-leadership/",
   "status": "Aktif",
-  "total_impr": 761.0,
+  "total_impr": 748.0,
   "total_clicks": 5,
-  "ctr": 0.66,
-  "avg_rank": 9.7,
-  "latest_rank": 0,
+  "ctr": 0.67,
+  "avg_rank": 10.2,
+  "latest_rank": 29.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -32746,10 +33596,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 33,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 1.2
+    "rank": 1.0
    },
    {
     "w": "2026W06",
@@ -32998,10 +33848,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 1.0,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 29.4
    }
   ],
   "daily": [
@@ -34282,6 +35132,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 68
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 41.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 17.4
    }
   ],
   "id": 1005
@@ -34298,11 +35160,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/pelatihan-teknisi-kalibrasi-alat-ukur-iso-17025/",
   "status": "Aktif",
-  "total_impr": 408.0,
-  "total_clicks": 24.0,
-  "ctr": 5.88,
-  "avg_rank": 14.3,
-  "latest_rank": 8.9,
+  "total_impr": 444.0,
+  "total_clicks": 27.0,
+  "ctr": 6.08,
+  "avg_rank": 14.0,
+  "latest_rank": 4.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -34586,10 +35448,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": null
+    "impr": 36,
+    "clicks": 3,
+    "ctr": 8.33,
+    "rank": 4.5
    }
   ],
   "daily": [
@@ -34628,6 +35490,18 @@
     "impr": 8,
     "clicks": 0,
     "rank": 4.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 17,
+    "clicks": 1,
+    "rank": 6.1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 19,
+    "clicks": 2,
+    "rank": 2.8
    }
   ],
   "id": 1006
@@ -34644,11 +35518,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-project-management-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 521.0,
+  "total_impr": 525.0,
   "total_clicks": 1.0,
   "ctr": 0.19,
-  "avg_rank": 35.0,
-  "latest_rank": 2.7,
+  "avg_rank": 34.2,
+  "latest_rank": 7.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -34932,13 +35806,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 7.2
    }
   ],
-  "id": 1007,
   "daily": [
    {
     "d": "2026-10-01",
@@ -34951,8 +35824,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 7.2
    }
-  ]
+  ],
+  "id": 1007
  },
  {
   "brand": "IPQI",
@@ -34969,8 +35849,8 @@
   "total_impr": 588.0,
   "total_clicks": 18.0,
   "ctr": 3.06,
-  "avg_rank": 10.9,
-  "latest_rank": 0,
+  "avg_rank": 10.5,
+  "latest_rank": 6.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -35002,10 +35882,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 9,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 17.8
+    "rank": 7.2
    },
    {
     "w": "2026W06",
@@ -35254,10 +36134,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 4.0,
+    "impr": 9,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 6.2
    }
   ],
   "daily": [
@@ -36394,6 +37274,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 28.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 11.5
    }
   ],
   "id": 1008
@@ -36410,11 +37302,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iatf-16949/",
   "status": "Aktif",
-  "total_impr": 159.0,
+  "total_impr": 162.0,
   "total_clicks": 3,
-  "ctr": 1.89,
-  "avg_rank": 15.8,
-  "latest_rank": 10.0,
+  "ctr": 1.85,
+  "avg_rank": 15.6,
+  "latest_rank": 8.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -36698,10 +37590,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 8.2
    }
   ],
   "daily": [
@@ -37124,6 +38016,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 16.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 5.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
    }
   ],
   "id": 1009
@@ -37140,11 +38044,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-need-analysis/",
   "status": "Aktif",
-  "total_impr": 469.0,
+  "total_impr": 451.0,
   "total_clicks": 1,
-  "ctr": 0.21,
-  "avg_rank": 23.4,
-  "latest_rank": 0,
+  "ctr": 0.22,
+  "avg_rank": 23.3,
+  "latest_rank": 19.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -37428,10 +38332,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 24.0,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 19.8
    }
   ],
   "daily": [
@@ -38328,6 +39232,18 @@
     "impr": 5,
     "clicks": 0,
     "rank": 20.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 16.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 23
    }
   ],
   "id": 1010
@@ -38344,11 +39260,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iso-90012015/",
   "status": "Aktif",
-  "total_impr": 460.0,
+  "total_impr": 451.0,
   "total_clicks": 2,
-  "ctr": 0.43,
-  "avg_rank": 14.1,
-  "latest_rank": 0,
+  "ctr": 0.44,
+  "avg_rank": 14.2,
+  "latest_rank": 17.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -38380,10 +39296,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 9,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 18.7
+    "rank": 21.0
    },
    {
     "w": "2026W06",
@@ -38632,10 +39548,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 6.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 17.0
    }
   ],
   "daily": [
@@ -39898,6 +40814,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 12
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 17
    }
   ],
   "id": 1011
@@ -39914,11 +40836,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-balanced-scorecard/",
   "status": "Aktif",
-  "total_impr": 214.0,
-  "total_clicks": 14,
-  "ctr": 6.54,
-  "avg_rank": 13.2,
-  "latest_rank": 0,
+  "total_impr": 225.0,
+  "total_clicks": 15,
+  "ctr": 6.67,
+  "avg_rank": 12.9,
+  "latest_rank": 6.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -40202,10 +41124,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 4.0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": null
+    "impr": 15,
+    "clicks": 1,
+    "ctr": 6.67,
+    "rank": 6.5
    }
   ],
   "daily": [
@@ -40544,6 +41466,18 @@
     "impr": 11,
     "clicks": 2,
     "rank": 6.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 11,
+    "clicks": 0,
+    "rank": 6.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 1,
+    "rank": 6.2
    }
   ],
   "id": 1012
@@ -40560,11 +41494,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-warehouse-management/",
   "status": "Aktif",
-  "total_impr": 279.0,
+  "total_impr": 190.0,
   "total_clicks": 6.0,
-  "ctr": 2.15,
-  "avg_rank": 21.2,
-  "latest_rank": 0,
+  "ctr": 3.16,
+  "avg_rank": 20.3,
+  "latest_rank": 12.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -40596,10 +41530,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 5,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 28.5
+    "rank": 4.0
    },
    {
     "w": "2026W06",
@@ -40848,10 +41782,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 87.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 12.0
    }
   ],
   "daily": [
@@ -41508,6 +42442,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 23
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 12
    }
   ],
   "id": 1013
@@ -41524,11 +42464,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process/",
   "status": "Aktif",
-  "total_impr": 793.0,
+  "total_impr": 789.0,
   "total_clicks": 13,
-  "ctr": 1.64,
-  "avg_rank": 8.6,
-  "latest_rank": 0,
+  "ctr": 1.65,
+  "avg_rank": 8.3,
+  "latest_rank": 2.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -41560,10 +42500,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 4,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.3
+    "rank": 11.0
    },
    {
     "w": "2026W06",
@@ -41812,10 +42752,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 4.0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 2.3
    }
   ],
   "daily": [
@@ -43156,6 +44096,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 2.3
    }
   ],
   "id": 1014
@@ -43494,11 +44440,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-masa-persiapan-pensiun/",
   "status": "Aktif",
-  "total_impr": 1830.0,
-  "total_clicks": 24,
-  "ctr": 1.31,
-  "avg_rank": 21.4,
-  "latest_rank": 0,
+  "total_impr": 1814.0,
+  "total_clicks": 23,
+  "ctr": 1.27,
+  "avg_rank": 21.7,
+  "latest_rank": 27.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -43530,10 +44476,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 12,
-    "clicks": 1,
-    "ctr": 8.33,
-    "rank": 26.2
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 33.5
    },
    {
     "w": "2026W06",
@@ -43782,10 +44728,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 34.0,
+    "impr": 25,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 27.0
    }
   ],
   "daily": [
@@ -45174,6 +46120,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 13.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 20,
+    "clicks": 0,
+    "rank": 30.1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 24
    }
   ],
   "id": 1016
@@ -45190,11 +46148,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-creative-problem-solving/",
   "status": "Aktif",
-  "total_impr": 161.0,
+  "total_impr": 152.0,
   "total_clicks": 1,
-  "ctr": 0.62,
-  "avg_rank": 19.6,
-  "latest_rank": 0,
+  "ctr": 0.66,
+  "avg_rank": 19.1,
+  "latest_rank": 7.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -45226,10 +46184,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 9,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 17.5
+    "rank": 7.8
    },
    {
     "w": "2026W06",
@@ -45478,10 +46436,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 6.0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 7.5
    }
   ],
   "daily": [
@@ -45982,6 +46940,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 19
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 7.5
    }
   ],
   "id": 1017
@@ -45998,10 +46962,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-social-accountability-8000/",
   "status": "Aktif",
-  "total_impr": 163.0,
+  "total_impr": 162.0,
   "total_clicks": 2,
   "ctr": 1.23,
-  "avg_rank": 11.5,
+  "avg_rank": 11.6,
   "latest_rank": 7.5,
   "weeks": [
    {
@@ -46034,10 +46998,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 4,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 10.5
+    "rank": 11.8
    },
    {
     "w": "2026W06",
@@ -46854,11 +47818,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process-mapping/",
   "status": "Aktif",
-  "total_impr": 76.0,
+  "total_impr": 81.0,
   "total_clicks": 2,
-  "ctr": 2.63,
+  "ctr": 2.47,
   "avg_rank": 6.4,
-  "latest_rank": 4.5,
+  "latest_rank": 8.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -47142,10 +48106,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 8.7
    }
   ],
   "daily": [
@@ -47400,6 +48364,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 7.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 10
    }
   ],
   "id": 1019
@@ -48332,11 +49308,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-effective-communication-skill/",
   "status": "Aktif",
-  "total_impr": 235.0,
+  "total_impr": 240.0,
   "total_clicks": 1,
-  "ctr": 0.43,
-  "avg_rank": 33.1,
-  "latest_rank": 21.0,
+  "ctr": 0.42,
+  "avg_rank": 32.6,
+  "latest_rank": 12.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -48620,10 +49596,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 12.8
    }
   ],
   "daily": [
@@ -49226,6 +50202,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 11
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 13.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 12
    }
   ],
   "id": 1021
@@ -49242,11 +50230,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-awareness-quality-management/",
   "status": "Aktif",
-  "total_impr": 459.0,
+  "total_impr": 450.0,
   "total_clicks": 5,
-  "ctr": 1.09,
-  "avg_rank": 11.7,
-  "latest_rank": 0,
+  "ctr": 1.11,
+  "avg_rank": 11.5,
+  "latest_rank": 9.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -49278,10 +50266,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 11,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 20.4
+    "rank": 14.2
    },
    {
     "w": "2026W06",
@@ -49530,10 +50518,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 11.0,
+    "impr": 7,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 9.5
    }
   ],
   "daily": [
@@ -50538,6 +51526,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 10.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 10.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 8.7
    }
   ],
   "id": 1022
@@ -50554,10 +51554,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process-management/",
   "status": "Aktif",
-  "total_impr": 181.0,
+  "total_impr": 175.0,
   "total_clicks": 3.0,
-  "ctr": 1.66,
-  "avg_rank": 25.5,
+  "ctr": 1.71,
+  "avg_rank": 25.4,
   "latest_rank": 5.3,
   "weeks": [
    {
@@ -50590,10 +51590,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 10,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 17.3
+    "rank": 12.3
    },
    {
     "w": "2026W06",
@@ -51894,11 +52894,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-quality-function-deployment/",
   "status": "Aktif",
-  "total_impr": 214.0,
+  "total_impr": 197.0,
   "total_clicks": 2,
-  "ctr": 0.93,
+  "ctr": 1.02,
   "avg_rank": 12.1,
-  "latest_rank": 0,
+  "latest_rank": 16.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -51930,10 +52930,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 3,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.0
+    "rank": 5.0
    },
    {
     "w": "2026W06",
@@ -52182,10 +53182,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 18.0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 16.7
    }
   ],
   "daily": [
@@ -52992,6 +53992,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 13
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 16.7
    }
   ],
   "id": 1025
@@ -53008,11 +54014,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-lobbying-and-negotiation-skill/",
   "status": "Aktif",
-  "total_impr": 54.0,
+  "total_impr": 55.0,
   "total_clicks": 1,
-  "ctr": 1.85,
-  "avg_rank": 15.9,
-  "latest_rank": 7.0,
+  "ctr": 1.82,
+  "avg_rank": 15.6,
+  "latest_rank": 6.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -53296,10 +54302,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 6.0
    }
   ],
   "daily": [
@@ -53542,6 +54548,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 6
    }
   ],
   "id": 1026
@@ -53558,9 +54570,9 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-awareness-environmental-management-system/",
   "status": "Aktif",
-  "total_impr": 81.0,
+  "total_impr": 80.0,
   "total_clicks": 2,
-  "ctr": 2.47,
+  "ctr": 2.5,
   "avg_rank": 26.8,
   "latest_rank": 11.0,
   "weeks": [
@@ -53594,10 +54606,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 2,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 75.5
+    "rank": 75.0
    },
    {
     "w": "2026W06",
@@ -54952,11 +55964,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-green-belt-six-sigma/",
   "status": "Aktif",
-  "total_impr": 385.0,
+  "total_impr": 380.0,
   "total_clicks": 1,
   "ctr": 0.26,
-  "avg_rank": 23.3,
-  "latest_rank": 0,
+  "avg_rank": 23.2,
+  "latest_rank": 10.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -54988,10 +56000,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 7,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.4
+    "rank": 16.0
    },
    {
     "w": "2026W06",
@@ -55240,10 +56252,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 1.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 10.0
    }
   ],
   "daily": [
@@ -56266,6 +57278,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 76
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 10
    }
   ],
   "id": 1029
@@ -56622,10 +57640,10 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-total-productive-maintenance-tpm/",
   "status": "Aktif",
-  "total_impr": 147.0,
+  "total_impr": 142.0,
   "total_clicks": 1,
-  "ctr": 0.68,
-  "avg_rank": 10.4,
+  "ctr": 0.7,
+  "avg_rank": 10.5,
   "latest_rank": 20.0,
   "weeks": [
    {
@@ -56658,10 +57676,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 9,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.4
+    "rank": 12.5
    },
    {
     "w": "2026W06",
@@ -57508,11 +58526,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-kalibrasi-massa-suhu-dan-tekanan/",
   "status": "Aktif",
-  "total_impr": 463.0,
+  "total_impr": 456.0,
   "total_clicks": 3,
-  "ctr": 0.65,
-  "avg_rank": 9.9,
-  "latest_rank": 0,
+  "ctr": 0.66,
+  "avg_rank": 9.8,
+  "latest_rank": 4.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -57796,10 +58814,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 8.0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 4.0
    }
   ],
   "daily": [
@@ -58546,6 +59564,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
    }
   ],
   "id": 1032
@@ -59100,11 +60124,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-advanced-product-quality-planning-apqp/",
   "status": "Aktif",
-  "total_impr": 1145.0,
+  "total_impr": 1132.0,
   "total_clicks": 4.0,
   "ctr": 0.35,
-  "avg_rank": 9.4,
-  "latest_rank": 0,
+  "avg_rank": 9.3,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -59136,10 +60160,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 27,
+    "impr": 17,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 3.9
+    "rank": 3.6
    },
    {
     "w": "2026W06",
@@ -59388,10 +60412,10 @@
    },
    {
     "w": "2026W41",
-    "impr": 7.0,
+    "impr": 4,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 7.0
    }
   ],
   "daily": [
@@ -60702,6 +61726,12 @@
     "impr": 4,
     "clicks": 0,
     "rank": 5.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 7
    }
   ],
   "id": 1034
@@ -60718,11 +61748,11 @@
   "vol_info": "2.1",
   "url": "https://ipqi.org/pelatihan-sertifikasi-internal-auditor-iso-9001-2026/",
   "status": "Aktif",
-  "total_impr": 36,
-  "total_clicks": 2,
-  "ctr": 5.56,
-  "avg_rank": 6.7,
-  "latest_rank": 6.7,
+  "total_impr": 52,
+  "total_clicks": 3,
+  "ctr": 5.77,
+  "avg_rank": 6.8,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -60768,13 +61798,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": null
+    "impr": 16,
+    "clicks": 1,
+    "ctr": 6.25,
+    "rank": 7.0
    }
   ],
-  "id": 1035,
   "daily": [
    {
     "d": "2026-09-30",
@@ -60805,8 +61834,21 @@
     "impr": 13,
     "clicks": 0,
     "rank": 6.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 7.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 13,
+    "clicks": 1,
+    "rank": 6.3
    }
-  ]
+  ],
+  "id": 1035
  },
  {
   "brand": "IPQI",
@@ -60820,11 +61862,11 @@
   "vol_info": "2800",
   "url": "https://ipqi.org/pelatihan-iso-9001-2026-perbankan/",
   "status": "Aktif",
-  "total_impr": 17,
+  "total_impr": 20,
   "total_clicks": 1,
-  "ctr": 5.88,
-  "avg_rank": 5.3,
-  "latest_rank": 5.3,
+  "ctr": 5.0,
+  "avg_rank": 5.2,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -60870,13 +61912,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 5.0
    }
   ],
-  "id": 1036,
   "daily": [
    {
     "d": "2026-09-30",
@@ -60901,8 +61942,21 @@
     "impr": 4,
     "clicks": 0,
     "rank": 7.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 1036
  },
  {
   "brand": "IPQI",
@@ -60916,11 +61970,11 @@
   "vol_info": "2800",
   "url": "https://ipqi.org/pelatihan-maintenance-excellence-indonesia/",
   "status": "Aktif",
-  "total_impr": 10,
+  "total_impr": 16,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.9,
-  "latest_rank": 6.9,
+  "avg_rank": 8.2,
+  "latest_rank": 9.6,
   "weeks": [
    {
     "w": "2026W35",
@@ -60966,13 +62020,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 9.6
    }
   ],
-  "id": 1037,
   "daily": [
    {
     "d": "2026-09-30",
@@ -60997,8 +62050,21 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 9.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 10
    }
-  ]
+  ],
+  "id": 1037
  },
  {
   "brand": "IPQI",
@@ -61012,11 +62078,11 @@
   "vol_info": "3200",
   "url": "https://ipqi.org/pelatihan-oee-improvement-indonesia/",
   "status": "Aktif",
-  "total_impr": 3,
+  "total_impr": 5,
   "total_clicks": 1,
-  "ctr": 33.33,
-  "avg_rank": 5.0,
-  "latest_rank": 5.0,
+  "ctr": 20.0,
+  "avg_rank": 7.0,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -61062,21 +62128,27 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 9.0
    }
   ],
-  "id": 1038,
   "daily": [
    {
     "d": "2026-10-01",
     "impr": 3,
     "clicks": 1,
     "rank": 5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 1038
  },
  {
   "brand": "IPQI",
@@ -61090,11 +62162,11 @@
   "vol_info": "3400",
   "url": "https://ipqi.org/pelatihan-preventive-predictive-maintenance/",
   "status": "Aktif",
-  "total_impr": 22,
+  "total_impr": 32,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 7.1,
-  "latest_rank": 7.1,
+  "avg_rank": 7.9,
+  "latest_rank": 8.7,
   "weeks": [
    {
     "w": "2026W35",
@@ -61140,13 +62212,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 10,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 8.7
    }
   ],
-  "id": 1039,
   "daily": [
    {
     "d": "2026-09-30",
@@ -61171,8 +62242,21 @@
     "impr": 2,
     "clicks": 0,
     "rank": 5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 9.4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 8
    }
-  ]
+  ],
+  "id": 1039
  },
  {
   "brand": "IPQI",
@@ -61186,11 +62270,11 @@
   "vol_info": "3400",
   "url": "https://ipqi.org/pelatihan-demand-forecasting-excel-indonesia/",
   "status": "Aktif",
-  "total_impr": 4,
+  "total_impr": 6,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 13.2,
-  "latest_rank": 13.2,
+  "avg_rank": 9.6,
+  "latest_rank": 6.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -61236,13 +62320,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 6.0
    }
   ],
-  "id": 1040,
   "daily": [
    {
     "d": "2026-10-01",
@@ -61261,8 +62344,15 @@
     "impr": 2,
     "clicks": 0,
     "rank": 8.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 6
    }
-  ]
+  ],
+  "id": 1040
  },
  {
   "brand": "IPQI",
@@ -61276,11 +62366,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/pelatihan-lean-six-sigma-green-belt-indonesia/",
   "status": "Aktif",
-  "total_impr": 16,
-  "total_clicks": 2,
-  "ctr": 12.5,
-  "avg_rank": 6.1,
-  "latest_rank": 6.1,
+  "total_impr": 68,
+  "total_clicks": 5,
+  "ctr": 7.35,
+  "avg_rank": 5.8,
+  "latest_rank": 5.5,
   "weeks": [
    {
     "w": "2026W35",
@@ -61326,13 +62416,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": null
+    "impr": 52,
+    "clicks": 3,
+    "ctr": 5.77,
+    "rank": 5.5
    }
   ],
-  "id": 1041,
   "daily": [
    {
     "d": "2026-10-01",
@@ -61357,8 +62446,21 @@
     "impr": 10,
     "clicks": 2,
     "rank": 5.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 24,
+    "clicks": 1,
+    "rank": 5.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 28,
+    "clicks": 2,
+    "rank": 5.8
    }
-  ]
+  ],
+  "id": 1041
  },
  {
   "brand": "IPQI",
@@ -61372,11 +62474,11 @@
   "vol_info": "3200",
   "url": "https://ipqi.org/pelatihan-inventory-optimization-indonesia/",
   "status": "Aktif",
-  "total_impr": 2,
+  "total_impr": 3,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 6.5,
-  "latest_rank": 6.5,
+  "avg_rank": 6.2,
+  "latest_rank": 6.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -61422,13 +62524,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 6.0
    }
   ],
-  "id": 1042,
   "daily": [
    {
     "d": "2026-10-01",
@@ -61441,8 +62542,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 6
    }
-  ]
+  ],
+  "id": 1042
  },
  {
   "brand": "IPQI",
@@ -61456,11 +62564,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/pelatihan-shopfloor-leadership-indonesia/",
   "status": "Aktif",
-  "total_impr": 15,
+  "total_impr": 29,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 5.0,
-  "latest_rank": 5.0,
+  "avg_rank": 5.7,
+  "latest_rank": 6.3,
   "weeks": [
    {
     "w": "2026W35",
@@ -61506,13 +62614,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 6.3
    }
   ],
-  "id": 1043,
   "daily": [
    {
     "d": "2026-10-01",
@@ -61537,8 +62644,21 @@
     "impr": 6,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 5.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 7.1
    }
-  ]
+  ],
+  "id": 1043
  },
  {
   "brand": "IPQI",
@@ -61552,11 +62672,11 @@
   "vol_info": "-",
   "url": "https://ipqi.org/pelatihan-leadership-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 8,
+  "total_impr": 26,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 8.0,
-  "latest_rank": 8.0,
+  "avg_rank": 7.5,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W35",
@@ -61602,13 +62722,12 @@
    },
    {
     "w": "2026W41",
-    "impr": 0,
+    "impr": 18,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": null
+    "rank": 7.0
    }
   ],
-  "id": 1044,
   "daily": [
    {
     "d": "2026-10-03",
@@ -61621,8 +62740,21 @@
     "impr": 6,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 8
    }
-  ]
+  ],
+  "id": 1044
  },
  {
   "brand": "IPQI",
@@ -61636,11 +62768,11 @@
   "vol_info": "3400",
   "url": "https://ipqi.org/pelatihan-qcc-facilitator/",
   "status": "Aktif",
-  "total_impr": 15,
+  "total_impr": 23,
   "total_clicks": 1,
-  "ctr": 6.67,
-  "avg_rank": 13.6,
-  "latest_rank": 13.6,
+  "ctr": 4.35,
+  "avg_rank": 10.2,
+  "latest_rank": 6.8,
   "weeks": [
    {
     "w": "2026W40",
@@ -61648,9 +62780,15 @@
     "clicks": 1,
     "ctr": 6.67,
     "rank": 13.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.8
    }
   ],
-  "id": 1045,
   "daily": [
    {
     "d": "2026-10-01",
@@ -61669,8 +62807,21 @@
     "impr": 9,
     "clicks": 1,
     "rank": 8.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 9.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 4
    }
-  ]
+  ],
+  "id": 1045
  },
  {
   "brand": "IPQI",
@@ -61684,11 +62835,11 @@
   "vol_info": "1900",
   "url": "https://ipqi.org/pelatihan-8d-problem-solving-manufaktur/",
   "status": "Aktif",
-  "total_impr": 5,
+  "total_impr": 11,
   "total_clicks": 2,
-  "ctr": 40.0,
-  "avg_rank": 16.7,
-  "latest_rank": 16.7,
+  "ctr": 18.18,
+  "avg_rank": 11.6,
+  "latest_rank": 6.6,
   "weeks": [
    {
     "w": "2026W40",
@@ -61696,9 +62847,15 @@
     "clicks": 2,
     "ctr": 40.0,
     "rank": 16.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.6
    }
   ],
-  "id": 1046,
   "daily": [
    {
     "d": "2026-10-01",
@@ -61717,8 +62874,21 @@
     "impr": 3,
     "clicks": 2,
     "rank": 1
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 9.2
    }
-  ]
+  ],
+  "id": 1046
  },
  {
   "brand": "IPQI",
@@ -61732,11 +62902,11 @@
   "vol_info": "1900",
   "url": "https://ipqi.org/pelatihan-internal-auditor-iso-iec-17025/",
   "status": "Aktif",
-  "total_impr": 6,
+  "total_impr": 11,
   "total_clicks": 1,
-  "ctr": 16.67,
-  "avg_rank": 10.0,
-  "latest_rank": 10.0,
+  "ctr": 9.09,
+  "avg_rank": 9.6,
+  "latest_rank": 9.2,
   "weeks": [
    {
     "w": "2026W40",
@@ -61744,9 +62914,15 @@
     "clicks": 1,
     "ctr": 16.67,
     "rank": 10.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.2
    }
   ],
-  "id": 1047,
   "daily": [
    {
     "d": "2026-10-03",
@@ -61759,8 +62935,21 @@
     "impr": 5,
     "clicks": 1,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 9.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 1047
  },
  {
   "brand": "IPQI",
@@ -61774,11 +62963,11 @@
   "vol_info": "1900",
   "url": "https://ipqi.org/pelatihan-vda-6-3-process-auditor/",
   "status": "Aktif",
-  "total_impr": 2,
+  "total_impr": 12,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 3.0,
-  "latest_rank": 3.0,
+  "avg_rank": 4.5,
+  "latest_rank": 5.9,
   "weeks": [
    {
     "w": "2026W40",
@@ -61786,17 +62975,36 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.9
    }
   ],
-  "id": 1048,
   "daily": [
    {
     "d": "2026-10-04",
     "impr": 2,
     "clicks": 0,
     "rank": 3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 5.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 6
    }
-  ]
+  ],
+  "id": 1048
  },
  {
   "brand": "FS Institute",
@@ -61810,10 +63018,10 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training-sertifikasi-perbankan/",
   "status": "Mati",
-  "total_impr": 187.0,
+  "total_impr": 185.0,
   "total_clicks": 5.0,
-  "ctr": 2.67,
-  "avg_rank": 29.8,
+  "ctr": 2.7,
+  "avg_rank": 29.6,
   "latest_rank": 20.0,
   "weeks": [
    {
@@ -61846,10 +63054,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 4,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 48.8
+    "rank": 42.0
    },
    {
     "w": "2026W06",
@@ -62097,7 +63305,6 @@
     "rank": 0.0
    }
   ],
-  "id": 2001,
   "daily": [
    {
     "d": "2026-01-29",
@@ -62579,7 +63786,8 @@
     "clicks": 0,
     "rank": 10
    }
-  ]
+  ],
+  "id": 2001
  },
  {
   "brand": "FS Institute",
@@ -62596,8 +63804,8 @@
   "total_impr": 182.0,
   "total_clicks": 3,
   "ctr": 1.65,
-  "avg_rank": 40.3,
-  "latest_rank": 37.4,
+  "avg_rank": 39.0,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -62629,10 +63837,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 2,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 65.0
+    "rank": 50.0
    },
    {
     "w": "2026W06",
@@ -62878,6 +64086,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 37.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
    }
   ],
   "daily": [
@@ -63450,6 +64665,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 35
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 7
    }
   ],
   "id": 2002
@@ -63466,10 +64687,10 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training-treasury-for-non-dealers/",
   "status": "Aktif",
-  "total_impr": 100.0,
+  "total_impr": 99.0,
   "total_clicks": 3,
-  "ctr": 3.0,
-  "avg_rank": 6.8,
+  "ctr": 3.03,
+  "avg_rank": 6.9,
   "latest_rank": 2.0,
   "weeks": [
    {
@@ -63502,10 +64723,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 2,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 3.5
+    "rank": 6.0
    },
    {
     "w": "2026W06",
@@ -64504,11 +65725,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/basic-accounting/",
   "status": "Aktif",
-  "total_impr": 45,
+  "total_impr": 47,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 28.3,
-  "latest_rank": 17.8,
+  "avg_rank": 25.7,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -64789,6 +66010,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 17.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
    }
   ],
   "daily": [
@@ -64911,6 +66139,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 29.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 5
    }
   ],
   "id": 2005
@@ -64927,11 +66161,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/pelatihan-iso-37001-anti-bribery-management-system/",
   "status": "Aktif",
-  "total_impr": 73.0,
+  "total_impr": 75.0,
   "total_clicks": 3,
-  "ctr": 4.11,
-  "avg_rank": 33.7,
-  "latest_rank": 1.0,
+  "ctr": 4.0,
+  "avg_rank": 34.1,
+  "latest_rank": 47.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -65212,6 +66446,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 47.0
    }
   ],
   "daily": [
@@ -65472,6 +66713,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 47
    }
   ],
   "id": 2006
@@ -65488,11 +66735,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/cash-flow-management/",
   "status": "Aktif",
-  "total_impr": 137,
+  "total_impr": 139,
   "total_clicks": 1,
-  "ctr": 0.73,
-  "avg_rank": 23.7,
-  "latest_rank": 20.7,
+  "ctr": 0.72,
+  "avg_rank": 24.1,
+  "latest_rank": 27.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -65773,6 +67020,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 20.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.5
    }
   ],
   "daily": [
@@ -66051,6 +67305,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 24.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 27.5
    }
   ],
   "id": 2007
@@ -66067,11 +67327,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/strategic-cost-reduction-training/",
   "status": "Aktif",
-  "total_impr": 452.0,
+  "total_impr": 454.0,
   "total_clicks": 4,
   "ctr": 0.88,
-  "avg_rank": 24.0,
-  "latest_rank": 24.1,
+  "avg_rank": 24.5,
+  "latest_rank": 37.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -66103,10 +67363,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 7,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.0
+    "rank": 21.2
    },
    {
     "w": "2026W06",
@@ -66352,6 +67612,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 24.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 37.3
    }
   ],
   "daily": [
@@ -67416,6 +68683,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 14.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 39.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 35.3
    }
   ],
   "id": 2008
@@ -67432,11 +68711,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/advanced-excel-financial-reporting/",
   "status": "Aktif",
-  "total_impr": 84,
-  "total_clicks": 2,
-  "ctr": 2.38,
-  "avg_rank": 12.3,
-  "latest_rank": 7.2,
+  "total_impr": 85,
+  "total_clicks": 3,
+  "ctr": 3.53,
+  "avg_rank": 12.1,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -67717,6 +68996,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 1,
+    "ctr": 100.0,
+    "rank": 9.0
    }
   ],
   "daily": [
@@ -67953,6 +69239,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 4.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 1,
+    "rank": 9
    }
   ],
   "id": 2009
@@ -67969,11 +69261,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/cash-flow-optimization-management/",
   "status": "Aktif",
-  "total_impr": 41,
+  "total_impr": 42,
   "total_clicks": 1,
-  "ctr": 2.44,
-  "avg_rank": 15.2,
-  "latest_rank": 27.8,
+  "ctr": 2.38,
+  "avg_rank": 14.9,
+  "latest_rank": 11.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -68254,6 +69546,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 27.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
    }
   ],
   "daily": [
@@ -68412,6 +69711,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 6.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
    }
   ],
   "id": 2010
@@ -68428,11 +69733,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/cash-management/",
   "status": "Aktif",
-  "total_impr": 78,
+  "total_impr": 87,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 36.9,
-  "latest_rank": 34.7,
+  "avg_rank": 38.2,
+  "latest_rank": 52.9,
   "weeks": [
    {
     "w": "2026W01",
@@ -68713,6 +70018,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 34.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 52.9
    }
   ],
   "daily": [
@@ -68871,6 +70183,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 57.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 45.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 60
    }
   ],
   "id": 2011
@@ -68887,11 +70211,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/compliance-management-reporting/",
   "status": "Aktif",
-  "total_impr": 49,
+  "total_impr": 51,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 25.3,
-  "latest_rank": 6.0,
+  "avg_rank": 22.4,
+  "latest_rank": 11.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -69172,6 +70496,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
    }
   ],
   "daily": [
@@ -69264,6 +70595,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 11
    }
   ],
   "id": 2012
@@ -69280,11 +70617,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/finance-for-non-finance/",
   "status": "Aktif",
-  "total_impr": 146,
+  "total_impr": 154,
   "total_clicks": 1,
-  "ctr": 0.68,
-  "avg_rank": 24.5,
-  "latest_rank": 19.5,
+  "ctr": 0.65,
+  "avg_rank": 24.7,
+  "latest_rank": 26.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -69565,6 +70902,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 19.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 8,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 26.8
    }
   ],
   "daily": [
@@ -69897,6 +71241,18 @@
     "impr": 6,
     "clicks": 0,
     "rank": 2.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 52.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 1
    }
   ],
   "id": 2013
@@ -69913,11 +71269,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/financial-closing-acceleration/",
   "status": "Aktif",
-  "total_impr": 105,
+  "total_impr": 110,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 17.1,
-  "latest_rank": 9.0,
+  "avg_rank": 15.8,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -70198,6 +71554,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
    }
   ],
   "daily": [
@@ -70416,6 +71779,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 12.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 6
    }
   ],
   "id": 2014
@@ -70843,11 +72218,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/financial-data-business-intelligence/",
   "status": "Aktif",
-  "total_impr": 43,
+  "total_impr": 47,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 13.2,
-  "latest_rank": 10.6,
+  "avg_rank": 12.9,
+  "latest_rank": 10.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -71128,6 +72503,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.2
    }
   ],
   "daily": [
@@ -71268,6 +72650,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 10.2
    }
   ],
   "id": 2016
@@ -71284,11 +72672,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/financial-information-systems/",
   "status": "Aktif",
-  "total_impr": 168,
+  "total_impr": 177,
   "total_clicks": 1,
-  "ctr": 0.6,
-  "avg_rank": 29.8,
-  "latest_rank": 30.7,
+  "ctr": 0.56,
+  "avg_rank": 28.9,
+  "latest_rank": 22.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -71569,6 +72957,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 30.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.5
    }
   ],
   "daily": [
@@ -71847,6 +73242,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 16.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 26
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 19
    }
   ],
   "id": 2017
@@ -71863,11 +73270,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/financial-modeling/",
   "status": "Aktif",
-  "total_impr": 117,
+  "total_impr": 120,
   "total_clicks": 1,
-  "ctr": 0.85,
-  "avg_rank": 38.8,
-  "latest_rank": 12.2,
+  "ctr": 0.83,
+  "avg_rank": 37.5,
+  "latest_rank": 29.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -72148,6 +73555,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 29.2
    }
   ],
   "daily": [
@@ -72312,6 +73726,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 3.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 53.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 5
    }
   ],
   "id": 2018
@@ -73381,11 +74807,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/finance/strategic-cost-management/",
   "status": "Aktif",
-  "total_impr": 188,
+  "total_impr": 214,
   "total_clicks": 1,
-  "ctr": 0.53,
-  "avg_rank": 18.4,
-  "latest_rank": 28.5,
+  "ctr": 0.47,
+  "avg_rank": 18.3,
+  "latest_rank": 17.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -73666,6 +75092,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 28.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 26,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.7
    }
   ],
   "daily": [
@@ -73950,6 +75383,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 31.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 22.1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 16,
+    "clicks": 0,
+    "rank": 13.3
    }
   ],
   "id": 2022
@@ -74335,11 +75780,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/account-payable/",
   "status": "Aktif",
-  "total_impr": 87,
+  "total_impr": 92,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 16.1,
-  "latest_rank": 12.3,
+  "avg_rank": 15.8,
+  "latest_rank": 13.9,
   "weeks": [
    {
     "w": "2026W01",
@@ -74620,6 +76065,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.9
    }
   ],
   "daily": [
@@ -74814,6 +76266,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 23.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 18.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9.5
    }
   ],
   "id": 2024
@@ -74830,11 +76294,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/accounting-for-inventory/",
   "status": "Aktif",
-  "total_impr": 50,
+  "total_impr": 52,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 12.5,
-  "latest_rank": 6.8,
+  "avg_rank": 11.8,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -75115,6 +76579,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
    }
   ],
   "daily": [
@@ -75255,6 +76726,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 5
    }
   ],
   "id": 2025
@@ -75271,11 +76754,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/accounting-for-investment/",
   "status": "Aktif",
-  "total_impr": 130,
+  "total_impr": 131,
   "total_clicks": 3,
-  "ctr": 2.31,
-  "avg_rank": 15.2,
-  "latest_rank": 10.0,
+  "ctr": 2.29,
+  "avg_rank": 13.4,
+  "latest_rank": 1.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -75556,6 +77039,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
    }
   ],
   "daily": [
@@ -75804,6 +77294,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 8.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
    }
   ],
   "id": 2026
@@ -75820,11 +77316,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/accounting-for-non-accountants/",
   "status": "Aktif",
-  "total_impr": 51,
+  "total_impr": 52,
   "total_clicks": 1,
-  "ctr": 1.96,
-  "avg_rank": 28.7,
-  "latest_rank": 5.7,
+  "ctr": 1.92,
+  "avg_rank": 26.5,
+  "latest_rank": 11.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -76105,6 +77601,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
    }
   ],
   "daily": [
@@ -76257,6 +77760,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
    }
   ],
   "id": 2027
@@ -76273,11 +77782,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/accounting-systems-implementation/",
   "status": "Aktif",
-  "total_impr": 93,
+  "total_impr": 97,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 49.5,
-  "latest_rank": 42.9,
+  "avg_rank": 47.2,
+  "latest_rank": 28.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -76558,6 +78067,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 42.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.5
    }
   ],
   "daily": [
@@ -76770,6 +78286,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 75
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 12.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 44.5
    }
   ],
   "id": 2028
@@ -76786,11 +78314,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/administrasi-keuangan-perusahaan/",
   "status": "Aktif",
-  "total_impr": 48,
+  "total_impr": 51,
   "total_clicks": 1,
-  "ctr": 2.08,
-  "avg_rank": 14.7,
-  "latest_rank": 24.7,
+  "ctr": 1.96,
+  "avg_rank": 14.0,
+  "latest_rank": 9.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -77071,6 +78599,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 24.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.2
    }
   ],
   "daily": [
@@ -77205,6 +78740,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 57
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
   ],
   "id": 2029
@@ -77221,11 +78768,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/advanced-accounting/",
   "status": "Aktif",
-  "total_impr": 135,
+  "total_impr": 142,
   "total_clicks": 1,
-  "ctr": 0.74,
-  "avg_rank": 12.0,
-  "latest_rank": 6.1,
+  "ctr": 0.7,
+  "avg_rank": 11.5,
+  "latest_rank": 7.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -77506,6 +79053,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.8
    }
   ],
   "daily": [
@@ -77736,6 +79290,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 11
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 4.7
    }
   ],
   "id": 2030
@@ -77752,11 +79318,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/advanced-financial-accounting-excel/",
   "status": "Aktif",
-  "total_impr": 31,
+  "total_impr": 34,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 16.0,
-  "latest_rank": 8.0,
+  "avg_rank": 14.9,
+  "latest_rank": 6.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -78037,6 +79603,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.2
    }
   ],
   "daily": [
@@ -78159,6 +79732,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 7.5
    }
   ],
   "id": 2031
@@ -78622,11 +80207,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/basic-audit-finance/",
   "status": "Aktif",
-  "total_impr": 196,
+  "total_impr": 208,
   "total_clicks": 4,
-  "ctr": 2.04,
-  "avg_rank": 19.1,
-  "latest_rank": 15.1,
+  "ctr": 1.92,
+  "avg_rank": 18.3,
+  "latest_rank": 11.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -78907,6 +80492,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 15.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.5
    }
   ],
   "daily": [
@@ -79185,6 +80777,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 11.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 13.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 9.3
    }
   ],
   "id": 2033
@@ -79624,11 +81228,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/cost-accounting-perbankan/",
   "status": "Aktif",
-  "total_impr": 56,
+  "total_impr": 58,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 32.9,
-  "latest_rank": 16.1,
+  "avg_rank": 29.4,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -79909,6 +81513,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
    }
   ],
   "daily": [
@@ -79995,6 +81606,12 @@
     "impr": 4,
     "clicks": 0,
     "rank": 22.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 5
    }
   ],
   "id": 2035
@@ -80011,11 +81628,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/accounting/financial-modeling-accounting/",
   "status": "Aktif",
-  "total_impr": 128,
+  "total_impr": 133,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 31.8,
-  "latest_rank": 27.6,
+  "avg_rank": 30.4,
+  "latest_rank": 19.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -80296,6 +81913,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 27.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.0
    }
   ],
   "daily": [
@@ -80562,6 +82186,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 14.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 24
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 14
    }
   ],
   "id": 2036
@@ -81785,11 +83421,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/tax/corporate-tax-strategies-planning/",
   "status": "Aktif",
-  "total_impr": 50,
+  "total_impr": 51,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 23.5,
-  "latest_rank": 18.0,
+  "avg_rank": 21.8,
+  "latest_rank": 10.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -82070,6 +83706,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 18.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
    }
   ],
   "daily": [
@@ -82240,6 +83883,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 19
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 10
    }
   ],
   "id": 2040
@@ -82256,11 +83905,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/tax/strategic-tax-management/",
   "status": "Aktif",
-  "total_impr": 79,
+  "total_impr": 81,
   "total_clicks": 4,
-  "ctr": 5.06,
+  "ctr": 4.94,
   "avg_rank": 34.4,
-  "latest_rank": 29.0,
+  "latest_rank": 35.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -82541,6 +84190,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 29.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 35.0
    }
   ],
   "daily": [
@@ -82825,6 +84481,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 36
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 35
    }
   ],
   "id": 2041
@@ -82841,11 +84503,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/tax/tax-audit-preparation-defense/",
   "status": "Aktif",
-  "total_impr": 103,
+  "total_impr": 108,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 17.3,
-  "latest_rank": 10.1,
+  "avg_rank": 16.0,
+  "latest_rank": 6.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -83126,6 +84788,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.8
    }
   ],
   "daily": [
@@ -83356,6 +85025,12 @@
     "impr": 3,
     "clicks": 0,
     "rank": 8.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 6.8
    }
   ],
   "id": 2042
@@ -83372,11 +85047,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/tax/transfer-pricing-international-taxation/",
   "status": "Aktif",
-  "total_impr": 41,
+  "total_impr": 44,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 41.0,
-  "latest_rank": 33.4,
+  "avg_rank": 40.8,
+  "latest_rank": 39.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -83657,6 +85332,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 33.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 39.5
    }
   ],
   "daily": [
@@ -83809,6 +85491,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 27.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 53
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 26
    }
   ],
   "id": 2043
@@ -84170,11 +85864,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/banking/asset-liability-management/",
   "status": "Aktif",
-  "total_impr": 132,
+  "total_impr": 138,
   "total_clicks": 1,
-  "ctr": 0.76,
-  "avg_rank": 21.1,
-  "latest_rank": 10.7,
+  "ctr": 0.72,
+  "avg_rank": 19.6,
+  "latest_rank": 7.6,
   "weeks": [
    {
     "w": "2026W01",
@@ -84455,6 +86149,13 @@
     "clicks": 1,
     "ctr": 7.14,
     "rank": 10.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.6
    }
   ],
   "daily": [
@@ -84691,6 +86392,18 @@
     "impr": 3,
     "clicks": 0,
     "rank": 3.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 6.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9
    }
   ],
   "id": 2045
@@ -84707,11 +86420,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/banking/integritas-laporan-keuangan-bank-pojk-15-2024/",
   "status": "Aktif",
-  "total_impr": 43,
+  "total_impr": 46,
   "total_clicks": 1,
-  "ctr": 2.33,
-  "avg_rank": 8.7,
-  "latest_rank": 8.3,
+  "ctr": 2.17,
+  "avg_rank": 8.8,
+  "latest_rank": 9.3,
   "weeks": [
    {
     "w": "2026W01",
@@ -84992,6 +86705,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.3
    }
   ],
   "daily": [
@@ -85120,6 +86840,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 9.3
    }
   ],
   "id": 2046
@@ -85136,11 +86862,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/strategy/balanced-scorecard/",
   "status": "Aktif",
-  "total_impr": 101,
+  "total_impr": 112,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 27.4,
-  "latest_rank": 7.0,
+  "avg_rank": 23.8,
+  "latest_rank": 6.2,
   "weeks": [
    {
     "w": "2026W01",
@@ -85421,6 +87147,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.2
    }
   ],
   "daily": [
@@ -85585,6 +87318,18 @@
     "impr": 7,
     "clicks": 0,
     "rank": 5.9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 4.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 7.8
    }
   ],
   "id": 2047
@@ -85601,11 +87346,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/strategy/business-corporate-plan-roadmap/",
   "status": "Aktif",
-  "total_impr": 176,
+  "total_impr": 187,
   "total_clicks": 1,
-  "ctr": 0.57,
-  "avg_rank": 11.7,
-  "latest_rank": 9.6,
+  "ctr": 0.53,
+  "avg_rank": 11.2,
+  "latest_rank": 7.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -85886,6 +87631,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 11,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.5
    }
   ],
   "daily": [
@@ -86176,6 +87928,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 10
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 6.7
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 8.4
    }
   ],
   "id": 2048
@@ -86531,11 +88295,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/strategy/strategic-planning-execution/",
   "status": "Aktif",
-  "total_impr": 112,
+  "total_impr": 118,
   "total_clicks": 1,
-  "ctr": 0.89,
-  "avg_rank": 11.7,
-  "latest_rank": 5.0,
+  "ctr": 0.85,
+  "avg_rank": 10.9,
+  "latest_rank": 4.1,
   "weeks": [
    {
     "w": "2026W01",
@@ -86816,6 +88580,13 @@
     "clicks": 1,
     "ctr": 5.26,
     "rank": 5.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.1
    }
   ],
   "daily": [
@@ -87088,6 +88859,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 3.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 6.2
    }
   ],
   "id": 2050
@@ -87104,11 +88887,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/strategy/strategy-business-unit-model/",
   "status": "Aktif",
-  "total_impr": 617,
+  "total_impr": 685,
   "total_clicks": 6,
-  "ctr": 0.97,
-  "avg_rank": 8.9,
-  "latest_rank": 7.6,
+  "ctr": 0.88,
+  "avg_rank": 8.8,
+  "latest_rank": 7.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -87389,6 +89172,13 @@
     "clicks": 2,
     "ctr": 1.39,
     "rank": 7.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 68,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.7
    }
   ],
   "daily": [
@@ -87739,6 +89529,18 @@
     "impr": 32,
     "clicks": 2,
     "rank": 6.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 38,
+    "clicks": 0,
+    "rank": 7.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 30,
+    "clicks": 0,
+    "rank": 7.9
    }
   ],
   "id": 2051
@@ -87755,11 +89557,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/international-financial-reporting-standards/",
   "status": "Aktif",
-  "total_impr": 44,
+  "total_impr": 45,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 28.3,
-  "latest_rank": 11.0,
+  "avg_rank": 25.3,
+  "latest_rank": 4.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -88040,6 +89842,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
    }
   ],
   "daily": [
@@ -88186,6 +89995,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 11
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
    }
   ],
   "id": 2052
@@ -88202,10 +90017,10 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-14-persediaan/",
   "status": "Aktif",
-  "total_impr": 307,
+  "total_impr": 337,
   "total_clicks": 6,
-  "ctr": 1.95,
-  "avg_rank": 10.1,
+  "ctr": 1.78,
+  "avg_rank": 9.9,
   "latest_rank": 8.7,
   "weeks": [
    {
@@ -88486,6 +90301,13 @@
     "impr": 68,
     "clicks": 1,
     "ctr": 1.47,
+    "rank": 8.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 30,
+    "clicks": 0,
+    "ctr": 0.0,
     "rank": 8.7
    }
   ],
@@ -88783,6 +90605,18 @@
     "impr": 12,
     "clicks": 1,
     "rank": 8.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 9,
+    "clicks": 0,
+    "rank": 8.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 21,
+    "clicks": 0,
+    "rank": 8.6
    }
   ],
   "id": 2053
@@ -88799,11 +90633,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-2-laporan-arus-kas/",
   "status": "Aktif",
-  "total_impr": 84,
+  "total_impr": 87,
   "total_clicks": 3,
-  "ctr": 3.57,
-  "avg_rank": 11.2,
-  "latest_rank": 7.9,
+  "ctr": 3.45,
+  "avg_rank": 10.9,
+  "latest_rank": 8.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -89084,6 +90918,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.8
    }
   ],
   "daily": [
@@ -89314,6 +91155,18 @@
     "impr": 1,
     "clicks": 0,
     "rank": 1
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 8.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
   ],
   "id": 2054
@@ -89330,11 +91183,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-57-kewajiban-kontinjensi/",
   "status": "Aktif",
-  "total_impr": 497,
+  "total_impr": 516,
   "total_clicks": 14,
-  "ctr": 2.82,
-  "avg_rank": 8.7,
-  "latest_rank": 6.6,
+  "ctr": 2.71,
+  "avg_rank": 8.4,
+  "latest_rank": 6.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -89615,6 +91468,13 @@
     "clicks": 1,
     "ctr": 2.5,
     "rank": 6.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 19,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.4
    }
   ],
   "daily": [
@@ -89923,6 +91783,18 @@
     "impr": 9,
     "clicks": 0,
     "rank": 8.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 12,
+    "clicks": 0,
+    "rank": 8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 4.9
    }
   ],
   "id": 2055
@@ -89939,11 +91811,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-69-agriculture/",
   "status": "Aktif",
-  "total_impr": 77,
+  "total_impr": 78,
   "total_clicks": 3,
-  "ctr": 3.9,
-  "avg_rank": 12.2,
-  "latest_rank": 4.9,
+  "ctr": 3.85,
+  "avg_rank": 11.8,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -90224,6 +92096,13 @@
     "clicks": 1,
     "ctr": 9.09,
     "rank": 4.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
    }
   ],
   "daily": [
@@ -90460,6 +92339,12 @@
     "impr": 3,
     "clicks": 1,
     "rank": 3.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
   ],
   "id": 2056
@@ -90476,11 +92361,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-71-instrumen-keuangan/",
   "status": "Aktif",
-  "total_impr": 282,
+  "total_impr": 292,
   "total_clicks": 3,
-  "ctr": 1.06,
+  "ctr": 1.03,
   "avg_rank": 9.7,
-  "latest_rank": 8.1,
+  "latest_rank": 10.4,
   "weeks": [
    {
     "w": "2026W01",
@@ -90761,6 +92646,13 @@
     "clicks": 1,
     "ctr": 3.57,
     "rank": 8.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.4
    }
   ],
   "daily": [
@@ -91063,6 +92955,18 @@
     "impr": 5,
     "clicks": 0,
     "rank": 6.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 13.1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 7.7
    }
   ],
   "id": 2057
@@ -91079,11 +92983,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-73-sewa/",
   "status": "Aktif",
-  "total_impr": 78,
+  "total_impr": 85,
   "total_clicks": 1,
-  "ctr": 1.28,
-  "avg_rank": 20.5,
-  "latest_rank": 8.1,
+  "ctr": 1.18,
+  "avg_rank": 19.6,
+  "latest_rank": 13.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -91364,6 +93268,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
    }
   ],
   "daily": [
@@ -91564,6 +93475,18 @@
     "impr": 4,
     "clicks": 0,
     "rank": 3.8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 23
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 3
    }
   ],
   "id": 2058
@@ -91580,11 +93503,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-74-kontrak-asuransi/",
   "status": "Aktif",
-  "total_impr": 74,
+  "total_impr": 78,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 9.9,
-  "latest_rank": 7.6,
+  "avg_rank": 9.6,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -91865,6 +93788,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
    }
   ],
   "daily": [
@@ -92113,6 +94043,18 @@
     "impr": 2,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 10
    }
   ],
   "id": 2059
@@ -92129,11 +94071,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-for-professional/",
   "status": "Aktif",
-  "total_impr": 55,
+  "total_impr": 56,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 14.5,
-  "latest_rank": 3.3,
+  "avg_rank": 13.5,
+  "latest_rank": 7.0,
   "weeks": [
    {
     "w": "2026W01",
@@ -92414,6 +94356,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
    }
   ],
   "daily": [
@@ -92614,6 +94563,12 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 7
    }
   ],
   "id": 2060
@@ -92630,11 +94585,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training/psak-ifrs/psak-update-implementation/",
   "status": "Aktif",
-  "total_impr": 45,
+  "total_impr": 48,
   "total_clicks": 1,
-  "ctr": 2.22,
-  "avg_rank": 24.8,
-  "latest_rank": 7.8,
+  "ctr": 2.08,
+  "avg_rank": 22.8,
+  "latest_rank": 8.7,
   "weeks": [
    {
     "w": "2026W01",
@@ -92915,6 +94870,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.7
    }
   ],
   "daily": [
@@ -93079,6 +95041,12 @@
     "impr": 2,
     "clicks": 0,
     "rank": 7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 8.7
    }
   ],
   "id": 2061
@@ -93095,11 +95063,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/grafonomi-for-banking/",
   "status": "Aktif",
-  "total_impr": 3054.0,
+  "total_impr": 3020.0,
   "total_clicks": 27,
-  "ctr": 0.88,
+  "ctr": 0.89,
   "avg_rank": 5.1,
-  "latest_rank": 4.2,
+  "latest_rank": 4.5,
   "weeks": [
    {
     "w": "2026W01",
@@ -93131,10 +95099,10 @@
    },
    {
     "w": "2026W05",
-    "impr": 89,
+    "impr": 29,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 5.0
+    "rank": 5.6
    },
    {
     "w": "2026W06",
@@ -93380,6 +95348,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 26,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.5
    }
   ],
   "daily": [
@@ -94858,6 +96833,18 @@
     "impr": 17,
     "clicks": 0,
     "rank": 2.1
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 13,
+    "clicks": 0,
+    "rank": 4.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 13,
+    "clicks": 0,
+    "rank": 4.6
    }
   ],
   "id": 2062
@@ -94874,11 +96861,11 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/business-acumen/",
   "status": "Aktif",
-  "total_impr": 815,
-  "total_clicks": 10,
-  "ctr": 1.23,
+  "total_impr": 837,
+  "total_clicks": 12,
+  "ctr": 1.43,
   "avg_rank": 10.1,
-  "latest_rank": 12.0,
+  "latest_rank": 9.8,
   "weeks": [
    {
     "w": "2026W01",
@@ -95159,6 +97146,13 @@
     "clicks": 1,
     "ctr": 1.16,
     "rank": 12.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 22,
+    "clicks": 2,
+    "ctr": 9.09,
+    "rank": 9.8
    }
   ],
   "daily": [
@@ -95773,6 +97767,18 @@
     "impr": 4,
     "clicks": 1,
     "rank": 9.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 9,
+    "clicks": 0,
+    "rank": 9.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 13,
+    "clicks": 2,
+    "rank": 10.5
    }
   ],
   "id": 2063
@@ -96839,18 +98845,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/ceh-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 2136,
+  "total_impr": 2117,
   "total_clicks": 26,
-  "ctr": 1.22,
-  "avg_rank": 20.8,
-  "latest_rank": 15.5,
+  "ctr": 1.23,
+  "avg_rank": 20.9,
+  "latest_rank": 27.7,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 61,
+    "impr": 38,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 14.9
+    "rank": 12.5
    },
    {
     "w": "2026W06",
@@ -97096,9 +99102,15 @@
     "clicks": 1,
     "ctr": 3.85,
     "rank": 15.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.7
    }
   ],
-  "id": 3001,
   "daily": [
    {
     "d": "2026-01-28",
@@ -98503,8 +100515,21 @@
     "impr": 4,
     "clicks": 0,
     "rank": 26.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 48.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 7
    }
-  ]
+  ],
+  "id": 3001
  },
  {
   "brand": "ITGID",
@@ -98518,18 +100543,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/pmp-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 11963,
-  "total_clicks": 59,
-  "ctr": 0.49,
+  "total_impr": 11970,
+  "total_clicks": 60,
+  "ctr": 0.5,
   "avg_rank": 14.0,
-  "latest_rank": 12.9,
+  "latest_rank": 12.4,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 114,
+    "impr": 57,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 12.5
+    "rank": 14.6
    },
    {
     "w": "2026W06",
@@ -98775,9 +100800,15 @@
     "clicks": 1,
     "ctr": 0.34,
     "rank": 12.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 64,
+    "clicks": 1,
+    "ctr": 1.56,
+    "rank": 12.4
    }
   ],
-  "id": 3002,
   "daily": [
    {
     "d": "2026-01-28",
@@ -100278,8 +102309,21 @@
     "impr": 37,
     "clicks": 0,
     "rank": 8.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 38,
+    "clicks": 1,
+    "rank": 15.4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 26,
+    "clicks": 0,
+    "rank": 9.5
    }
-  ]
+  ],
+  "id": 3002
  },
  {
   "brand": "ITGID",
@@ -100293,18 +102337,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-asset-audit/",
   "status": "Aktif",
-  "total_impr": 341,
+  "total_impr": 339,
   "total_clicks": 5,
   "ctr": 1.47,
-  "avg_rank": 45.4,
-  "latest_rank": 21.0,
+  "avg_rank": 44.3,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 14,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 26.7
+    "rank": 23.0
    },
    {
     "w": "2026W06",
@@ -100543,9 +102587,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 21.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
    }
   ],
-  "id": 3003,
   "daily": [
    {
     "d": "2026-01-29",
@@ -101368,8 +103418,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 32
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 3003
  },
  {
   "brand": "ITGID",
@@ -101383,18 +103440,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-governance-audit/",
   "status": "Aktif",
-  "total_impr": 519,
+  "total_impr": 512,
   "total_clicks": 6,
-  "ctr": 1.16,
-  "avg_rank": 23.0,
-  "latest_rank": 26.2,
+  "ctr": 1.17,
+  "avg_rank": 23.5,
+  "latest_rank": 36.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 27,
+    "impr": 17,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 28.7
+    "rank": 33.9
    },
    {
     "w": "2026W06",
@@ -101640,9 +103697,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 26.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 36.0
    }
   ],
-  "id": 3004,
   "daily": [
    {
     "d": "2026-01-28",
@@ -102753,8 +104816,21 @@
     "impr": 2,
     "clicks": 0,
     "rank": 5.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 38
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 34
    }
-  ]
+  ],
+  "id": 3004
  },
  {
   "brand": "ITGID",
@@ -102768,18 +104844,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-security-audit/",
   "status": "Aktif",
-  "total_impr": 2114,
+  "total_impr": 2108,
   "total_clicks": 15,
   "ctr": 0.71,
-  "avg_rank": 21.7,
-  "latest_rank": 21.4,
+  "avg_rank": 21.6,
+  "latest_rank": 13.7,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 49,
+    "impr": 31,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 17.3
+    "rank": 21.7
    },
    {
     "w": "2026W06",
@@ -103025,9 +105101,15 @@
     "clicks": 2,
     "ctr": 7.69,
     "rank": 21.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.7
    }
   ],
-  "id": 3005,
   "daily": [
    {
     "d": "2026-01-28",
@@ -104522,8 +106604,21 @@
     "impr": 2,
     "clicks": 0,
     "rank": 10.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 9,
+    "clicks": 0,
+    "rank": 14
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 13.3
    }
-  ]
+  ],
+  "id": 3005
  },
  {
   "brand": "ITGID",
@@ -104538,17 +106633,17 @@
   "url": "https://itgid.org/training/cobit-2019/",
   "status": "Aktif",
   "total_impr": 5736,
-  "total_clicks": 220,
-  "ctr": 3.84,
+  "total_clicks": 222,
+  "ctr": 3.87,
   "avg_rank": 14.1,
-  "latest_rank": 10.5,
+  "latest_rank": 8.4,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 129,
-    "clicks": 7,
-    "ctr": 5.43,
-    "rank": 23.9
+    "impr": 79,
+    "clicks": 6,
+    "ctr": 7.59,
+    "rank": 27.9
    },
    {
     "w": "2026W06",
@@ -104794,9 +106889,15 @@
     "clicks": 3,
     "ctr": 2.24,
     "rank": 10.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 50,
+    "clicks": 3,
+    "ctr": 6.0,
+    "rank": 8.4
    }
   ],
-  "id": 3006,
   "daily": [
    {
     "d": "2026-01-28",
@@ -106297,8 +108398,21 @@
     "impr": 8,
     "clicks": 1,
     "rank": 24.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 25,
+    "clicks": 3,
+    "rank": 9.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 25,
+    "clicks": 0,
+    "rank": 7.1
    }
-  ]
+  ],
+  "id": 3006
  },
  {
   "brand": "ITGID",
@@ -106312,18 +108426,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cissp-certified-information-systems-security-professional/",
   "status": "Aktif",
-  "total_impr": 6122,
+  "total_impr": 6039,
   "total_clicks": 21,
-  "ctr": 0.34,
-  "avg_rank": 52.7,
-  "latest_rank": 41.1,
+  "ctr": 0.35,
+  "avg_rank": 52.6,
+  "latest_rank": 52.1,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 270,
+    "impr": 174,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 31.6
+    "rank": 30.4
    },
    {
     "w": "2026W06",
@@ -106569,9 +108683,15 @@
     "clicks": 3,
     "ctr": 6.25,
     "rank": 41.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 52.1
    }
   ],
-  "id": 3007,
   "daily": [
    {
     "d": "2026-01-28",
@@ -108072,8 +110192,21 @@
     "impr": 4,
     "clicks": 0,
     "rank": 48
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 66.1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 38
    }
-  ]
+  ],
+  "id": 3007
  },
  {
   "brand": "ITGID",
@@ -108087,18 +110220,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/crisc-certified-risk-information-system-control/",
   "status": "Aktif",
-  "total_impr": 1050,
+  "total_impr": 1035,
   "total_clicks": 12,
-  "ctr": 1.14,
-  "avg_rank": 42.8,
-  "latest_rank": 29.0,
+  "ctr": 1.16,
+  "avg_rank": 42.5,
+  "latest_rank": 29.2,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 43,
+    "impr": 25,
     "clicks": 1,
-    "ctr": 2.33,
-    "rank": 29.0
+    "ctr": 4.0,
+    "rank": 31.9
    },
    {
     "w": "2026W06",
@@ -108344,9 +110477,15 @@
     "clicks": 2,
     "ctr": 9.09,
     "rank": 29.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 29.2
    }
   ],
-  "id": 3008,
   "daily": [
    {
     "d": "2026-01-28",
@@ -109661,8 +111800,21 @@
     "impr": 3,
     "clicks": 0,
     "rank": 4.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 19.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 39
    }
-  ]
+  ],
+  "id": 3008
  },
  {
   "brand": "ITGID",
@@ -109676,18 +111828,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cgeit-certified-in-the-governance-of-enterprise-it/",
   "status": "Aktif",
-  "total_impr": 2324,
+  "total_impr": 2295,
   "total_clicks": 10,
-  "ctr": 0.43,
-  "avg_rank": 39.1,
-  "latest_rank": 43.5,
+  "ctr": 0.44,
+  "avg_rank": 39.5,
+  "latest_rank": 54.1,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 65,
+    "impr": 27,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 36.5
+    "rank": 37.1
    },
    {
     "w": "2026W06",
@@ -109933,9 +112085,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 43.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 9,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 54.1
    }
   ],
-  "id": 3009,
   "daily": [
    {
     "d": "2026-01-28",
@@ -111406,8 +113564,21 @@
     "impr": 5,
     "clicks": 0,
     "rank": 30.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 48.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 59.3
    }
-  ]
+  ],
+  "id": 3009
  },
  {
   "brand": "ITGID",
@@ -111421,18 +113592,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cism-certified-information-security-manager/",
   "status": "Aktif",
-  "total_impr": 539,
-  "total_clicks": 1,
-  "ctr": 0.19,
-  "avg_rank": 40.4,
-  "latest_rank": 20.1,
+  "total_impr": 547,
+  "total_clicks": 2,
+  "ctr": 0.37,
+  "avg_rank": 40.1,
+  "latest_rank": 26.8,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 14,
+    "impr": 10,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 51.6
+    "rank": 52.3
    },
    {
     "w": "2026W06",
@@ -111678,9 +113849,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 20.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 12,
+    "clicks": 1,
+    "ctr": 8.33,
+    "rank": 26.8
    }
   ],
-  "id": 3010,
   "daily": [
    {
     "d": "2026-01-28",
@@ -112677,8 +114854,21 @@
     "impr": 4,
     "clicks": 0,
     "rank": 15
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 24.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 6,
+    "clicks": 1,
+    "rank": 28.7
    }
-  ]
+  ],
+  "id": 3010
  },
  {
   "brand": "ITGID",
@@ -112692,18 +114882,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cisa-certified-information-sistem-auditor/",
   "status": "Aktif",
-  "total_impr": 521,
+  "total_impr": 501,
   "total_clicks": 8,
-  "ctr": 1.54,
-  "avg_rank": 46.1,
-  "latest_rank": 61.7,
+  "ctr": 1.6,
+  "avg_rank": 47.6,
+  "latest_rank": 100.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 51,
+    "impr": 30,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 17.9
+    "rank": 19.6
    },
    {
     "w": "2026W06",
@@ -112949,9 +115139,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 61.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 100.0
    }
   ],
-  "id": 3011,
   "daily": [
    {
     "d": "2026-01-28",
@@ -113888,8 +116084,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 86
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 100
    }
-  ]
+  ],
+  "id": 3011
  },
  {
   "brand": "ITGID",
@@ -113903,18 +116106,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/data-governance-strategic/",
   "status": "Aktif",
-  "total_impr": 108,
+  "total_impr": 105,
   "total_clicks": 1,
-  "ctr": 0.93,
-  "avg_rank": 17.0,
+  "ctr": 0.95,
+  "avg_rank": 17.3,
   "latest_rank": 25.5,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 4,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 36.7
+    "rank": 49.0
    },
    {
     "w": "2026W06",
@@ -114162,7 +116365,6 @@
     "rank": 25.5
    }
   ],
-  "id": 3012,
   "daily": [
    {
     "d": "2026-01-29",
@@ -114524,7 +116726,8 @@
     "clicks": 0,
     "rank": 30
    }
-  ]
+  ],
+  "id": 3012
  },
  {
   "brand": "ITGID",
@@ -114538,18 +116741,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/togaf-certified/",
   "status": "Aktif",
-  "total_impr": 3134,
-  "total_clicks": 111,
-  "ctr": 3.54,
-  "avg_rank": 15.6,
-  "latest_rank": 9.3,
+  "total_impr": 3106,
+  "total_clicks": 112,
+  "ctr": 3.61,
+  "avg_rank": 15.3,
+  "latest_rank": 7.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 131,
+    "impr": 84,
     "clicks": 1,
-    "ctr": 0.76,
-    "rank": 27.6
+    "ctr": 1.19,
+    "rank": 25.7
    },
    {
     "w": "2026W06",
@@ -114795,9 +116998,15 @@
     "clicks": 3,
     "ctr": 5.17,
     "rank": 9.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 19,
+    "clicks": 1,
+    "ctr": 5.26,
+    "rank": 7.3
    }
   ],
-  "id": 3013,
   "daily": [
    {
     "d": "2026-01-28",
@@ -116292,8 +118501,21 @@
     "impr": 14,
     "clicks": 1,
     "rank": 10.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 6,
+    "clicks": 1,
+    "rank": 5.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 13,
+    "clicks": 0,
+    "rank": 9.5
    }
-  ]
+  ],
+  "id": 3013
  },
  {
   "brand": "ITGID",
@@ -116307,18 +118529,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/data-governance-practicioner/",
   "status": "Aktif",
-  "total_impr": 618,
-  "total_clicks": 31,
-  "ctr": 5.02,
-  "avg_rank": 20.9,
-  "latest_rank": 8.4,
+  "total_impr": 612,
+  "total_clicks": 30,
+  "ctr": 4.9,
+  "avg_rank": 21.1,
+  "latest_rank": 29.2,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 13,
-    "clicks": 1,
-    "ctr": 7.69,
-    "rank": 8.9
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
    },
    {
     "w": "2026W06",
@@ -116564,9 +118786,15 @@
     "clicks": 3,
     "ctr": 7.5,
     "rank": 8.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 29.2
    }
   ],
-  "id": 3014,
   "daily": [
    {
     "d": "2026-01-28",
@@ -117683,8 +119911,21 @@
     "impr": 5,
     "clicks": 0,
     "rank": 19.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 1
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 57.5
    }
-  ]
+  ],
+  "id": 3014
  },
  {
   "brand": "ITGID",
@@ -117698,18 +119939,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/data-governance-architecture/",
   "status": "Aktif",
-  "total_impr": 166,
-  "total_clicks": 3,
-  "ctr": 1.81,
-  "avg_rank": 16.3,
-  "latest_rank": 44.0,
+  "total_impr": 152,
+  "total_clicks": 2,
+  "ctr": 1.32,
+  "avg_rank": 16.1,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 36,
-    "clicks": 1,
-    "ctr": 2.78,
-    "rank": 27.8
+    "impr": 20,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 30.5
    },
    {
     "w": "2026W06",
@@ -117941,9 +120182,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 44.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
    }
   ],
-  "id": 3015,
   "daily": [
    {
     "d": "2026-01-28",
@@ -118382,8 +120629,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 44
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 3015
  },
  {
   "brand": "ITGID",
@@ -118481,7 +120735,6 @@
     "rank": 1.5
    }
   ],
-  "id": 3016,
   "daily": [
    {
     "d": "2026-02-05",
@@ -118585,7 +120838,8 @@
     "clicks": 0,
     "rank": 1.5
    }
-  ]
+  ],
+  "id": 3016
  },
  {
   "brand": "ITGID",
@@ -118599,18 +120853,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-project-management-officer/",
   "status": "Aktif",
-  "total_impr": 828,
+  "total_impr": 820,
   "total_clicks": 3,
-  "ctr": 0.36,
-  "avg_rank": 10.3,
-  "latest_rank": 22.3,
+  "ctr": 0.37,
+  "avg_rank": 10.2,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 18,
+    "impr": 9,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 11.3
+    "rank": 12.2
    },
    {
     "w": "2026W06",
@@ -118856,9 +121110,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 22.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
    }
   ],
-  "id": 3017,
   "daily": [
    {
     "d": "2026-01-28",
@@ -120059,8 +122319,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 5
    }
-  ]
+  ],
+  "id": 3017
  },
  {
   "brand": "ITGID",
@@ -120074,18 +122341,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-performance-project-management/",
   "status": "Aktif",
-  "total_impr": 43,
+  "total_impr": 42,
   "total_clicks": 0,
   "ctr": 0.0,
-  "avg_rank": 14.4,
+  "avg_rank": 14.7,
   "latest_rank": 6.8,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 3,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 9.0
+    "rank": 16.0
    },
    {
     "w": "2026W06",
@@ -120228,7 +122495,6 @@
     "rank": 6.8
    }
   ],
-  "id": 3018,
   "daily": [
    {
     "d": "2026-01-29",
@@ -120416,7 +122682,8 @@
     "clicks": 0,
     "rank": 3.5
    }
-  ]
+  ],
+  "id": 3018
  },
  {
   "brand": "ITGID",
@@ -120430,18 +122697,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-bcp/",
   "status": "Aktif",
-  "total_impr": 312,
+  "total_impr": 311,
   "total_clicks": 2,
   "ctr": 0.64,
-  "avg_rank": 17.2,
+  "avg_rank": 17.5,
   "latest_rank": 21.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 4,
+    "impr": 3,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 22.2
+    "rank": 30.8
    },
    {
     "w": "2026W06",
@@ -120689,7 +122956,6 @@
     "rank": 21.3
    }
   ],
-  "id": 3019,
   "daily": [
    {
     "d": "2026-01-29",
@@ -121585,7 +123851,8 @@
     "clicks": 0,
     "rank": 7
    }
-  ]
+  ],
+  "id": 3019
  },
  {
   "brand": "ITGID",
@@ -121599,18 +123866,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-operation/",
   "status": "Aktif",
-  "total_impr": 979,
+  "total_impr": 965,
   "total_clicks": 9,
-  "ctr": 0.92,
-  "avg_rank": 24.0,
-  "latest_rank": 13.7,
+  "ctr": 0.93,
+  "avg_rank": 25.2,
+  "latest_rank": 67.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 35,
+    "impr": 17,
     "clicks": 1,
-    "ctr": 2.86,
-    "rank": 33.6
+    "ctr": 5.88,
+    "rank": 36.0
    },
    {
     "w": "2026W06",
@@ -121856,9 +124123,15 @@
     "clicks": 1,
     "ctr": 10.0,
     "rank": 13.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 67.0
    }
   ],
-  "id": 3020,
   "daily": [
    {
     "d": "2026-01-28",
@@ -123137,8 +125410,21 @@
     "impr": 1,
     "clicks": 0,
     "rank": 15
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 83
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 51
    }
-  ]
+  ],
+  "id": 3020
  },
  {
   "brand": "ITGID",
@@ -123243,7 +125529,6 @@
     "rank": 4.0
    }
   ],
-  "id": 3021,
   "daily": [
    {
     "d": "2026-01-28",
@@ -123377,7 +125662,8 @@
     "clicks": 0,
     "rank": 4
    }
-  ]
+  ],
+  "id": 3021
  },
  {
   "brand": "ITGID",
@@ -123391,18 +125677,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/mitigation-risk/",
   "status": "Aktif",
-  "total_impr": 91,
+  "total_impr": 88,
   "total_clicks": 1,
-  "ctr": 1.1,
-  "avg_rank": 16.5,
+  "ctr": 1.14,
+  "avg_rank": 16.7,
   "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 4,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.7
+    "rank": 9.0
    },
    {
     "w": "2026W06",
@@ -123531,7 +125817,6 @@
     "rank": 9.0
    }
   ],
-  "id": 3022,
   "daily": [
    {
     "d": "2026-01-28",
@@ -123755,7 +126040,8 @@
     "clicks": 0,
     "rank": 9
    }
-  ]
+  ],
+  "id": 3022
  },
  {
   "brand": "ITGID",
@@ -123769,11 +126055,11 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/identification-risk/",
   "status": "Aktif",
-  "total_impr": 57,
+  "total_impr": 58,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 12.3,
-  "latest_rank": 14.0,
+  "latest_rank": 11.0,
   "weeks": [
    {
     "w": "2026W05",
@@ -123893,9 +126179,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 14.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
    }
   ],
-  "id": 3023,
   "daily": [
    {
     "d": "2026-01-29",
@@ -124046,8 +126338,15 @@
     "impr": 2,
     "clicks": 0,
     "rank": 10
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
    }
-  ]
+  ],
+  "id": 3023
  },
  {
   "brand": "ITGID",
@@ -124243,7 +126542,6 @@
     "rank": 8.0
    }
   ],
-  "id": 3024,
   "daily": [
    {
     "d": "2026-01-29",
@@ -124479,7 +126777,8 @@
     "clicks": 0,
     "rank": 8
    }
-  ]
+  ],
+  "id": 3024
  },
  {
   "brand": "ITGID",
@@ -124493,18 +126792,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/penetration-testing/",
   "status": "Aktif",
-  "total_impr": 4828,
+  "total_impr": 4806,
   "total_clicks": 17,
   "ctr": 0.35,
-  "avg_rank": 21.2,
-  "latest_rank": 25.4,
+  "avg_rank": 21.4,
+  "latest_rank": 29.6,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 99,
+    "impr": 59,
     "clicks": 2,
-    "ctr": 2.02,
-    "rank": 16.2
+    "ctr": 3.39,
+    "rank": 16.4
    },
    {
     "w": "2026W06",
@@ -124750,9 +127049,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 25.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 18,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 29.6
    }
   ],
-  "id": 3025,
   "daily": [
    {
     "d": "2026-01-28",
@@ -126229,8 +128534,21 @@
     "impr": 3,
     "clicks": 0,
     "rank": 9.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 42.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 16.5
    }
-  ]
+  ],
+  "id": 3025
  },
  {
   "brand": "ITGID",
@@ -126244,18 +128562,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cloud-security/",
   "status": "Aktif",
-  "total_impr": 397,
-  "total_clicks": 15,
-  "ctr": 3.78,
-  "avg_rank": 31.7,
-  "latest_rank": 13.9,
+  "total_impr": 393,
+  "total_clicks": 14,
+  "ctr": 3.56,
+  "avg_rank": 32.1,
+  "latest_rank": 40.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 8,
-    "clicks": 1,
-    "ctr": 12.5,
-    "rank": 12.4
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.2
    },
    {
     "w": "2026W06",
@@ -126494,9 +128812,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 40.0
    }
   ],
-  "id": 3026,
   "daily": [
    {
     "d": "2026-01-29",
@@ -127481,8 +129805,15 @@
     "impr": 2,
     "clicks": 0,
     "rank": 6.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 40
    }
-  ]
+  ],
+  "id": 3026
  },
  {
   "brand": "ITGID",
@@ -127496,18 +129827,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cyber-security/",
   "status": "Aktif",
-  "total_impr": 990,
+  "total_impr": 974,
   "total_clicks": 10,
-  "ctr": 1.01,
-  "avg_rank": 21.2,
+  "ctr": 1.03,
+  "avg_rank": 21.4,
   "latest_rank": 24.7,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 52,
+    "impr": 36,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 16.8
+    "rank": 23.6
    },
    {
     "w": "2026W06",
@@ -127755,7 +130086,6 @@
     "rank": 24.7
    }
   ],
-  "id": 3027,
   "daily": [
    {
     "d": "2026-01-28",
@@ -129113,7 +131443,8 @@
     "clicks": 0,
     "rank": 7.8
    }
-  ]
+  ],
+  "id": 3027
  },
  {
   "brand": "ITGID",
@@ -129127,18 +131458,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-security-governance/",
   "status": "Aktif",
-  "total_impr": 503,
-  "total_clicks": 9,
-  "ctr": 1.79,
+  "total_impr": 486,
+  "total_clicks": 8,
+  "ctr": 1.65,
   "avg_rank": 33.3,
   "latest_rank": 32.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 29,
-    "clicks": 1,
-    "ctr": 3.45,
-    "rank": 9.2
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.4
    },
    {
     "w": "2026W06",
@@ -129386,7 +131717,6 @@
     "rank": 32.3
    }
   ],
-  "id": 3028,
   "daily": [
    {
     "d": "2026-01-28",
@@ -130552,7 +132882,8 @@
     "clicks": 0,
     "rank": 8
    }
-  ]
+  ],
+  "id": 3028
  },
  {
   "brand": "ITGID",
@@ -130566,18 +132897,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/vulnerability-assessment-penetration-testing/",
   "status": "Aktif",
-  "total_impr": 730,
+  "total_impr": 720,
   "total_clicks": 4,
-  "ctr": 0.55,
-  "avg_rank": 22.7,
+  "ctr": 0.56,
+  "avg_rank": 22.8,
   "latest_rank": 26.4,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 15,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 15.4
+    "rank": 18.3
    },
    {
     "w": "2026W06",
@@ -130825,7 +133156,6 @@
     "rank": 26.4
    }
   ],
-  "id": 3029,
   "daily": [
    {
     "d": "2026-01-28",
@@ -131823,7 +134153,8 @@
     "clicks": 0,
     "rank": 5.3
    }
-  ]
+  ],
+  "id": 3029
  },
  {
   "brand": "ITGID",
@@ -131837,18 +134168,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-governance-framework-assessment/",
   "status": "Aktif",
-  "total_impr": 209,
+  "total_impr": 205,
   "total_clicks": 1,
-  "ctr": 0.48,
-  "avg_rank": 32.2,
+  "ctr": 0.49,
+  "avg_rank": 32.3,
   "latest_rank": 36.6,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 5,
+    "impr": 1,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 6.7
+    "rank": 13.0
    },
    {
     "w": "2026W06",
@@ -132096,7 +134427,6 @@
     "rank": 36.6
    }
   ],
-  "id": 3030,
   "daily": [
    {
     "d": "2026-01-28",
@@ -132650,7 +134980,8 @@
     "clicks": 0,
     "rank": 2.5
    }
-  ]
+  ],
+  "id": 3030
  },
  {
   "brand": "ITGID",
@@ -132664,18 +134995,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-risk-management/",
   "status": "Aktif",
-  "total_impr": 1072,
+  "total_impr": 1045,
   "total_clicks": 16,
-  "ctr": 1.49,
-  "avg_rank": 24.5,
-  "latest_rank": 14.3,
+  "ctr": 1.53,
+  "avg_rank": 24.4,
+  "latest_rank": 26.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 41,
+    "impr": 11,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 36.6
+    "rank": 34.0
    },
    {
     "w": "2026W06",
@@ -132921,9 +135252,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 14.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 26.3
    }
   ],
-  "id": 3031,
   "daily": [
    {
     "d": "2026-01-28",
@@ -134244,8 +136581,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 11
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 26.3
    }
-  ]
+  ],
+  "id": 3031
  },
  {
   "brand": "ITGID",
@@ -134259,18 +136603,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-compliance-ojk-bumn-pbi/",
   "status": "Aktif",
-  "total_impr": 766,
+  "total_impr": 748,
   "total_clicks": 1,
   "ctr": 0.13,
-  "avg_rank": 42.0,
-  "latest_rank": 16.3,
+  "avg_rank": 40.9,
+  "latest_rank": 6.7,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 51,
+    "impr": 30,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 46.2
+    "rank": 44.7
    },
    {
     "w": "2026W06",
@@ -134509,9 +136853,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 16.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 3,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.7
    }
   ],
-  "id": 3032,
   "daily": [
    {
     "d": "2026-01-28",
@@ -135688,8 +138038,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 10
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 6.7
    }
-  ]
+  ],
+  "id": 3032
  },
  {
   "brand": "ITGID",
@@ -135934,7 +138291,6 @@
     "rank": 13.2
    }
   ],
-  "id": 3033,
   "daily": [
    {
     "d": "2026-01-29",
@@ -136212,7 +138568,8 @@
     "clicks": 0,
     "rank": 22.5
    }
-  ]
+  ],
+  "id": 3033
  },
  {
   "brand": "ITGID",
@@ -136226,18 +138583,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/iso-20000-12018/",
   "status": "Aktif",
-  "total_impr": 2065,
-  "total_clicks": 66,
-  "ctr": 3.2,
-  "avg_rank": 21.9,
-  "latest_rank": 35.1,
+  "total_impr": 2039,
+  "total_clicks": 65,
+  "ctr": 3.19,
+  "avg_rank": 22.0,
+  "latest_rank": 27.8,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 92,
-    "clicks": 2,
-    "ctr": 2.17,
-    "rank": 9.8
+    "impr": 61,
+    "clicks": 1,
+    "ctr": 1.64,
+    "rank": 9.1
    },
    {
     "w": "2026W06",
@@ -136483,9 +138840,15 @@
     "clicks": 2,
     "ctr": 6.67,
     "rank": 35.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.8
    }
   ],
-  "id": 3034,
   "daily": [
    {
     "d": "2026-01-28",
@@ -137950,8 +140313,21 @@
     "impr": 1,
     "clicks": 0,
     "rank": 11
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 51.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
    }
-  ]
+  ],
+  "id": 3034
  },
  {
   "brand": "ITGID",
@@ -137965,18 +140341,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/iso-270012013/",
   "status": "Aktif",
-  "total_impr": 270,
+  "total_impr": 271,
   "total_clicks": 3,
   "ctr": 1.11,
-  "avg_rank": 18.7,
-  "latest_rank": 13.3,
+  "avg_rank": 18.5,
+  "latest_rank": 2.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 7,
+    "impr": 6,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 32.0
+    "rank": 38.7
    },
    {
     "w": "2026W06",
@@ -138215,9 +140591,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
    }
   ],
-  "id": 3035,
   "daily": [
    {
     "d": "2026-01-29",
@@ -138974,8 +141356,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 28
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 2
    }
-  ]
+  ],
+  "id": 3035
  },
  {
   "brand": "ITGID",
@@ -138989,11 +141378,11 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/indi-4-0/",
   "status": "Aktif",
-  "total_impr": 3086,
+  "total_impr": 3098,
   "total_clicks": 6,
   "ctr": 0.19,
-  "avg_rank": 18.1,
-  "latest_rank": 13.0,
+  "avg_rank": 17.9,
+  "latest_rank": 10.7,
   "weeks": [
    {
     "w": "2026W05",
@@ -139239,9 +141628,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 12,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.7
    }
   ],
-  "id": 3036,
   "daily": [
    {
     "d": "2026-02-01",
@@ -140382,8 +142777,21 @@
     "impr": 1,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 10.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 10.8
    }
-  ]
+  ],
+  "id": 3036
  },
  {
   "brand": "ITGID",
@@ -140397,18 +142805,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cisa-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 14896,
-  "total_clicks": 308,
-  "ctr": 2.07,
+  "total_impr": 14853,
+  "total_clicks": 304,
+  "ctr": 2.05,
   "avg_rank": 6.7,
-  "latest_rank": 6.2,
+  "latest_rank": 4.9,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 385,
-    "clicks": 7,
-    "ctr": 1.82,
-    "rank": 7.1
+    "impr": 182,
+    "clicks": 1,
+    "ctr": 0.55,
+    "rank": 8.6
    },
    {
     "w": "2026W06",
@@ -140654,9 +143062,15 @@
     "clicks": 7,
     "ctr": 1.79,
     "rank": 6.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 160,
+    "clicks": 2,
+    "ctr": 1.25,
+    "rank": 4.9
    }
   ],
-  "id": 3037,
   "daily": [
    {
     "d": "2026-01-28",
@@ -142157,8 +144571,21 @@
     "impr": 48,
     "clicks": 1,
     "rank": 5.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 83,
+    "clicks": 1,
+    "rank": 4.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 77,
+    "clicks": 1,
+    "rank": 5.5
    }
-  ]
+  ],
+  "id": 3037
  },
  {
   "brand": "ITGID",
@@ -142172,18 +144599,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cyber-security-essentials/",
   "status": "Aktif",
-  "total_impr": 8013,
-  "total_clicks": 157,
-  "ctr": 1.96,
+  "total_impr": 7937,
+  "total_clicks": 155,
+  "ctr": 1.95,
   "avg_rank": 17.9,
-  "latest_rank": 10.5,
+  "latest_rank": 11.7,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 301,
-    "clicks": 2,
-    "ctr": 0.66,
-    "rank": 34.7
+    "impr": 179,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 38.9
    },
    {
     "w": "2026W06",
@@ -142429,9 +144856,15 @@
     "clicks": 3,
     "ctr": 2.26,
     "rank": 10.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 46,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.7
    }
   ],
-  "id": 3038,
   "daily": [
    {
     "d": "2026-01-28",
@@ -143932,8 +146365,21 @@
     "impr": 14,
     "clicks": 0,
     "rank": 9.9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 17,
+    "clicks": 0,
+    "rank": 14.4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 29,
+    "clicks": 0,
+    "rank": 9.1
    }
-  ]
+  ],
+  "id": 3038
  },
  {
   "brand": "ITGID",
@@ -144115,7 +146561,6 @@
     "rank": 7.8
    }
   ],
-  "id": 3039,
   "daily": [
    {
     "d": "2026-01-31",
@@ -144327,7 +146772,8 @@
     "clicks": 0,
     "rank": 7.8
    }
-  ]
+  ],
+  "id": 3039
  },
  {
   "brand": "ITGID",
@@ -144341,18 +146787,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-disaster-recovery/",
   "status": "Aktif",
-  "total_impr": 382,
+  "total_impr": 385,
   "total_clicks": 5,
-  "ctr": 1.31,
-  "avg_rank": 21.3,
-  "latest_rank": 13.4,
+  "ctr": 1.3,
+  "avg_rank": 21.9,
+  "latest_rank": 32.1,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 18,
+    "impr": 14,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 34.9
+    "rank": 45.3
    },
    {
     "w": "2026W06",
@@ -144598,9 +147044,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 32.1
    }
   ],
-  "id": 3040,
   "daily": [
    {
     "d": "2026-01-28",
@@ -145471,8 +147923,21 @@
     "impr": 2,
     "clicks": 0,
     "rank": 9
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 35.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 29
    }
-  ]
+  ],
+  "id": 3040
  },
  {
   "brand": "ITGID",
@@ -145486,18 +147951,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-risk-management-system-based-on-iso-31000/",
   "status": "Aktif",
-  "total_impr": 539,
+  "total_impr": 544,
   "total_clicks": 4,
   "ctr": 0.74,
-  "avg_rank": 24.0,
-  "latest_rank": 23.0,
+  "avg_rank": 23.4,
+  "latest_rank": 13.7,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 7,
+    "impr": 2,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 24.5
+    "rank": 13.5
    },
    {
     "w": "2026W06",
@@ -145743,9 +148208,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 23.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 10,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.7
    }
   ],
-  "id": 3041,
   "daily": [
    {
     "d": "2026-01-28",
@@ -146796,8 +149267,21 @@
     "impr": 2,
     "clicks": 0,
     "rank": 17.5
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 5.5
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 21.9
    }
-  ]
+  ],
+  "id": 3041
  },
  {
   "brand": "ITGID",
@@ -146811,11 +149295,11 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/penetration-test/",
   "status": "Aktif",
-  "total_impr": 347,
+  "total_impr": 349,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 25.8,
-  "latest_rank": 17.3,
+  "latest_rank": 27.5,
   "weeks": [
    {
     "w": "2026W05",
@@ -147061,9 +149545,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 17.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.5
    }
   ],
-  "id": 3042,
   "daily": [
    {
     "d": "2026-01-31",
@@ -147784,8 +150274,21 @@
     "impr": 4,
     "clicks": 0,
     "rank": 8
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 49
    }
-  ]
+  ],
+  "id": 3042
  },
  {
   "brand": "ITGID",
@@ -147799,18 +150302,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cobit/",
   "status": "Aktif",
-  "total_impr": 6337,
-  "total_clicks": 157,
-  "ctr": 2.48,
-  "avg_rank": 19.3,
-  "latest_rank": 9.1,
+  "total_impr": 6378,
+  "total_clicks": 153,
+  "ctr": 2.4,
+  "avg_rank": 19.0,
+  "latest_rank": 8.5,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 127,
-    "clicks": 6,
-    "ctr": 4.72,
-    "rank": 20.2
+    "impr": 66,
+    "clicks": 1,
+    "ctr": 1.52,
+    "rank": 22.6
    },
    {
     "w": "2026W06",
@@ -148056,9 +150559,15 @@
     "clicks": 3,
     "ctr": 0.98,
     "rank": 9.1
+   },
+   {
+    "w": "2026W41",
+    "impr": 102,
+    "clicks": 1,
+    "ctr": 0.98,
+    "rank": 8.5
    }
   ],
-  "id": 3043,
   "daily": [
    {
     "d": "2026-01-28",
@@ -149559,8 +152068,21 @@
     "impr": 37,
     "clicks": 0,
     "rank": 6.6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 63,
+    "clicks": 1,
+    "rank": 6.9
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 39,
+    "clicks": 0,
+    "rank": 10.0
    }
-  ]
+  ],
+  "id": 3043
  },
  {
   "brand": "ITGID",
@@ -149574,18 +152096,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-audit/",
   "status": "Aktif",
-  "total_impr": 5809,
-  "total_clicks": 174,
-  "ctr": 3.0,
-  "avg_rank": 19.5,
-  "latest_rank": 17.0,
+  "total_impr": 5753,
+  "total_clicks": 173,
+  "ctr": 3.01,
+  "avg_rank": 19.7,
+  "latest_rank": 24.1,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 218,
-    "clicks": 4,
-    "ctr": 1.83,
-    "rank": 10.7
+    "impr": 111,
+    "clicks": 2,
+    "ctr": 1.8,
+    "rank": 11.4
    },
    {
     "w": "2026W06",
@@ -149831,9 +152353,15 @@
     "clicks": 2,
     "ctr": 1.42,
     "rank": 17.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 51,
+    "clicks": 1,
+    "ctr": 1.96,
+    "rank": 24.1
    }
   ],
-  "id": 3044,
   "daily": [
    {
     "d": "2026-01-28",
@@ -151334,8 +153862,21 @@
     "impr": 17,
     "clicks": 0,
     "rank": 13.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 27,
+    "clicks": 1,
+    "rank": 23.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 24,
+    "clicks": 0,
+    "rank": 24.5
    }
-  ]
+  ],
+  "id": 3044
  },
  {
   "brand": "ITGID",
@@ -151349,18 +153890,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-master-plan/",
   "status": "Aktif",
-  "total_impr": 1918,
+  "total_impr": 1914,
   "total_clicks": 12,
   "ctr": 0.63,
-  "avg_rank": 9.4,
-  "latest_rank": 7.8,
+  "avg_rank": 9.2,
+  "latest_rank": 5.1,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 50,
+    "impr": 28,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 16.5
+    "rank": 15.3
    },
    {
     "w": "2026W06",
@@ -151606,9 +154147,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 18,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.1
    }
   ],
-  "id": 3045,
   "daily": [
    {
     "d": "2026-01-28",
@@ -153097,8 +155644,21 @@
     "impr": 5,
     "clicks": 0,
     "rank": 4.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 10,
+    "clicks": 0,
+    "rank": 4.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 5.6
    }
-  ]
+  ],
+  "id": 3045
  },
  {
   "brand": "ITGID",
@@ -153112,18 +155672,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/it-project-management/",
   "status": "Aktif",
-  "total_impr": 4155,
+  "total_impr": 4144,
   "total_clicks": 58,
   "ctr": 1.4,
-  "avg_rank": 13.7,
-  "latest_rank": 14.8,
+  "avg_rank": 13.9,
+  "latest_rank": 17.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 129,
+    "impr": 80,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 21.7
+    "rank": 23.6
    },
    {
     "w": "2026W06",
@@ -153369,9 +155929,15 @@
     "clicks": 3,
     "ctr": 2.86,
     "rank": 14.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 38,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.3
    }
   ],
-  "id": 3046,
   "daily": [
    {
     "d": "2026-01-28",
@@ -154872,8 +157438,21 @@
     "impr": 15,
     "clicks": 0,
     "rank": 17.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 18,
+    "clicks": 0,
+    "rank": 19.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 20,
+    "clicks": 0,
+    "rank": 14.8
    }
-  ]
+  ],
+  "id": 3046
  },
  {
   "brand": "ITGID",
@@ -154887,18 +157466,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/itil-v4-foundation/",
   "status": "Aktif",
-  "total_impr": 10975,
-  "total_clicks": 176,
-  "ctr": 1.6,
-  "avg_rank": 17.0,
-  "latest_rank": 8.2,
+  "total_impr": 10819,
+  "total_clicks": 170,
+  "ctr": 1.57,
+  "avg_rank": 16.7,
+  "latest_rank": 7.1,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 442,
-    "clicks": 8,
-    "ctr": 1.81,
-    "rank": 36.2
+    "impr": 236,
+    "clicks": 1,
+    "ctr": 0.42,
+    "rank": 33.8
    },
    {
     "w": "2026W06",
@@ -155144,9 +157723,15 @@
     "clicks": 3,
     "ctr": 1.94,
     "rank": 8.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 50,
+    "clicks": 1,
+    "ctr": 2.0,
+    "rank": 7.1
    }
   ],
-  "id": 3047,
   "daily": [
    {
     "d": "2026-01-28",
@@ -156647,8 +159232,21 @@
     "impr": 18,
     "clicks": 1,
     "rank": 6.1
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 29,
+    "clicks": 1,
+    "rank": 4.6
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 21,
+    "clicks": 0,
+    "rank": 9.7
    }
-  ]
+  ],
+  "id": 3047
  },
  {
   "brand": "ITGID",
@@ -156662,11 +159260,11 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/togaf-9-2/",
   "status": "Aktif",
-  "total_impr": 401,
+  "total_impr": 403,
   "total_clicks": 6,
-  "ctr": 1.5,
-  "avg_rank": 18.5,
-  "latest_rank": 5.8,
+  "ctr": 1.49,
+  "avg_rank": 18.1,
+  "latest_rank": 3.0,
   "weeks": [
    {
     "w": "2026W05",
@@ -156919,9 +159517,15 @@
     "clicks": 1,
     "ctr": 11.11,
     "rank": 5.8
+   },
+   {
+    "w": "2026W41",
+    "impr": 2,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
    }
   ],
-  "id": 3048,
   "daily": [
    {
     "d": "2026-01-28",
@@ -157906,8 +160510,21 @@
     "impr": 2,
     "clicks": 1,
     "rank": 3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 4
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 2
    }
-  ]
+  ],
+  "id": 3048
  },
  {
   "brand": "ITGID",
@@ -157921,18 +160538,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/bcm-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 1038,
-  "total_clicks": 10,
-  "ctr": 0.96,
-  "avg_rank": 19.0,
-  "latest_rank": 13.9,
+  "total_impr": 1028,
+  "total_clicks": 9,
+  "ctr": 0.88,
+  "avg_rank": 18.7,
+  "latest_rank": 9.2,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 29,
-    "clicks": 1,
-    "ctr": 3.45,
-    "rank": 12.7
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.9
    },
    {
     "w": "2026W06",
@@ -158178,9 +160795,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.2
    }
   ],
-  "id": 3049,
   "daily": [
    {
     "d": "2026-01-28",
@@ -159561,8 +162184,21 @@
     "impr": 3,
     "clicks": 0,
     "rank": 10.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 5.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 13
    }
-  ]
+  ],
+  "id": 3049
  },
  {
   "brand": "ITGID",
@@ -159576,18 +162212,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/lead-implementer-iso-223012012/",
   "status": "Aktif",
-  "total_impr": 51,
+  "total_impr": 47,
   "total_clicks": 2,
-  "ctr": 3.92,
-  "avg_rank": 16.3,
+  "ctr": 4.26,
+  "avg_rank": 16.7,
   "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 9,
+    "impr": 5,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 41.5
+    "rank": 48.3
    },
    {
     "w": "2026W06",
@@ -159723,7 +162359,6 @@
     "rank": 5.0
    }
   ],
-  "id": 3050,
   "daily": [
    {
     "d": "2026-01-29",
@@ -159929,7 +162564,8 @@
     "clicks": 0,
     "rank": 5
    }
-  ]
+  ],
+  "id": 3050
  },
  {
   "brand": "ITGID",
@@ -159943,18 +162579,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/itsm-awareness-based-on-iso-20001/",
   "status": "Aktif",
-  "total_impr": 386,
+  "total_impr": 379,
   "total_clicks": 2,
-  "ctr": 0.52,
+  "ctr": 0.53,
   "avg_rank": 12.2,
-  "latest_rank": 8.9,
+  "latest_rank": 9.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 16,
+    "impr": 8,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 20.6
+    "rank": 23.6
    },
    {
     "w": "2026W06",
@@ -160200,9 +162836,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
    }
   ],
-  "id": 3051,
   "daily": [
    {
     "d": "2026-01-28",
@@ -161271,8 +163913,15 @@
     "impr": 4,
     "clicks": 0,
     "rank": 7.2
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
    }
-  ]
+  ],
+  "id": 3051
  },
  {
   "brand": "ITGID",
@@ -161286,18 +163935,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/lead-implementer-iso-iec-20001/",
   "status": "Aktif",
-  "total_impr": 2062,
+  "total_impr": 2014,
   "total_clicks": 15,
-  "ctr": 0.73,
-  "avg_rank": 13.7,
-  "latest_rank": 19.4,
+  "ctr": 0.74,
+  "avg_rank": 13.8,
+  "latest_rank": 18.6,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 112,
+    "impr": 59,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 7.6
+    "rank": 6.0
    },
    {
     "w": "2026W06",
@@ -161543,9 +164192,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 19.4
+   },
+   {
+    "w": "2026W41",
+    "impr": 5,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.6
    }
   ],
-  "id": 3052,
   "daily": [
    {
     "d": "2026-01-28",
@@ -162986,8 +165641,21 @@
     "impr": 1,
     "clicks": 0,
     "rank": 10
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 27.2
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 10
    }
-  ]
+  ],
+  "id": 3052
  },
  {
   "brand": "ITGID",
@@ -163001,18 +165669,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/isms-awareness-based-on-iso-27001/",
   "status": "Aktif",
-  "total_impr": 1151,
+  "total_impr": 1141,
   "total_clicks": 12,
-  "ctr": 1.04,
+  "ctr": 1.05,
   "avg_rank": 22.0,
   "latest_rank": 8.4,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 44,
+    "impr": 34,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.0
+    "rank": 14.0
    },
    {
     "w": "2026W06",
@@ -163260,7 +165928,6 @@
     "rank": 8.4
    }
   ],
-  "id": 3053,
   "daily": [
    {
     "d": "2026-01-28",
@@ -164582,7 +167249,8 @@
     "clicks": 0,
     "rank": 18
    }
-  ]
+  ],
+  "id": 3053
  },
  {
   "brand": "ITGID",
@@ -164596,18 +167264,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/lead-implementer-iso-27001/",
   "status": "Aktif",
-  "total_impr": 2404,
-  "total_clicks": 71,
-  "ctr": 2.95,
-  "avg_rank": 13.7,
-  "latest_rank": 20.2,
+  "total_impr": 2374,
+  "total_clicks": 73,
+  "ctr": 3.07,
+  "avg_rank": 13.9,
+  "latest_rank": 21.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 119,
+    "impr": 69,
     "clicks": 0,
     "ctr": 0.0,
-    "rank": 13.2
+    "rank": 13.6
    },
    {
     "w": "2026W06",
@@ -164853,9 +167521,15 @@
     "clicks": 1,
     "ctr": 2.5,
     "rank": 20.2
+   },
+   {
+    "w": "2026W41",
+    "impr": 20,
+    "clicks": 2,
+    "ctr": 10.0,
+    "rank": 21.3
    }
   ],
-  "id": 3054,
   "daily": [
    {
     "d": "2026-01-28",
@@ -166332,8 +169006,21 @@
     "impr": 8,
     "clicks": 0,
     "rank": 9.4
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 15,
+    "clicks": 2,
+    "rank": 18.8
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 23.8
    }
-  ]
+  ],
+  "id": 3054
  },
  {
   "brand": "ITGID",
@@ -166347,18 +169034,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cism-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 5380,
-  "total_clicks": 110,
-  "ctr": 2.04,
+  "total_impr": 5386,
+  "total_clicks": 109,
+  "ctr": 2.02,
   "avg_rank": 6.5,
-  "latest_rank": 6.6,
+  "latest_rank": 4.3,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 148,
-    "clicks": 4,
-    "ctr": 2.7,
-    "rank": 4.8
+    "impr": 81,
+    "clicks": 2,
+    "ctr": 2.47,
+    "rank": 5.8
    },
    {
     "w": "2026W06",
@@ -166604,9 +169291,15 @@
     "clicks": 4,
     "ctr": 2.23,
     "rank": 6.6
+   },
+   {
+    "w": "2026W41",
+    "impr": 73,
+    "clicks": 1,
+    "ctr": 1.37,
+    "rank": 4.3
    }
   ],
-  "id": 3055,
   "daily": [
    {
     "d": "2026-01-28",
@@ -168107,8 +170800,21 @@
     "impr": 18,
     "clicks": 0,
     "rank": 9.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 43,
+    "clicks": 1,
+    "rank": 4.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 30,
+    "clicks": 0,
+    "rank": 4.3
    }
-  ]
+  ],
+  "id": 3055
  },
  {
   "brand": "ITGID",
@@ -168122,18 +170828,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cgeit-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 2375,
-  "total_clicks": 84,
-  "ctr": 3.54,
-  "avg_rank": 6.1,
-  "latest_rank": 4.9,
+  "total_impr": 2365,
+  "total_clicks": 85,
+  "ctr": 3.59,
+  "avg_rank": 6.3,
+  "latest_rank": 9.6,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 48,
+    "impr": 25,
     "clicks": 1,
-    "ctr": 2.08,
-    "rank": 6.6
+    "ctr": 4.0,
+    "rank": 7.5
    },
    {
     "w": "2026W06",
@@ -168379,9 +171085,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.9
+   },
+   {
+    "w": "2026W41",
+    "impr": 13,
+    "clicks": 1,
+    "ctr": 7.69,
+    "rank": 9.6
    }
   ],
-  "id": 3056,
   "daily": [
    {
     "d": "2026-01-28",
@@ -169864,8 +172576,21 @@
     "impr": 6,
     "clicks": 0,
     "rank": 5.7
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 8,
+    "clicks": 0,
+    "rank": 3.9
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 5,
+    "clicks": 1,
+    "rank": 15.4
    }
-  ]
+  ],
+  "id": 3056
  },
  {
   "brand": "ITGID",
@@ -169879,18 +172604,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/crisc-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 1443,
+  "total_impr": 1425,
   "total_clicks": 29,
-  "ctr": 2.01,
-  "avg_rank": 13.0,
-  "latest_rank": 15.5,
+  "ctr": 2.04,
+  "avg_rank": 12.8,
+  "latest_rank": 5.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 40,
+    "impr": 21,
     "clicks": 1,
-    "ctr": 2.5,
-    "rank": 9.3
+    "ctr": 4.76,
+    "rank": 7.8
    },
    {
     "w": "2026W06",
@@ -170136,9 +172861,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 15.5
+   },
+   {
+    "w": "2026W41",
+    "impr": 1,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
    }
   ],
-  "id": 3057,
   "daily": [
    {
     "d": "2026-01-28",
@@ -171555,8 +174286,15 @@
     "impr": 1,
     "clicks": 0,
     "rank": 6
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 5
    }
-  ]
+  ],
+  "id": 3057
  },
  {
   "brand": "ITGID",
@@ -171570,18 +174308,18 @@
   "vol_info": "-",
   "url": "https://itgid.org/training/cissp-exam-preparation/",
   "status": "Aktif",
-  "total_impr": 4398,
-  "total_clicks": 92,
-  "ctr": 2.09,
+  "total_impr": 4367,
+  "total_clicks": 91,
+  "ctr": 2.08,
   "avg_rank": 11.8,
-  "latest_rank": 15.3,
+  "latest_rank": 13.0,
   "weeks": [
    {
     "w": "2026W05",
-    "impr": 138,
-    "clicks": 1,
-    "ctr": 0.72,
-    "rank": 13.1
+    "impr": 77,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.4
    },
    {
     "w": "2026W06",
@@ -171827,9 +174565,15 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 15.3
+   },
+   {
+    "w": "2026W41",
+    "impr": 30,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
    }
   ],
-  "id": 3058,
   "daily": [
    {
     "d": "2026-01-28",
@@ -173330,8 +176074,21 @@
     "impr": 10,
     "clicks": 0,
     "rank": 15.3
+   },
+   {
+    "d": "2026-10-05",
+    "impr": 17,
+    "clicks": 0,
+    "rank": 19.9
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 13,
+    "clicks": 0,
+    "rank": 6.1
    }
-  ]
+  ],
+  "id": 3058
  },
  {
   "brand": "ITGID",
