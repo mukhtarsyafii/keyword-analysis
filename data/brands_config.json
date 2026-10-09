@@ -70,5 +70,41 @@
     "id_base": 7000,
     "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000",
     "audience": "SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3."
+  },
+  {
+    "brand": "IEC Group",
+    "gid": "1871172352",
+    "domain": "environment-indonesia.com",
+    "property": "https://environment-indonesia.com/",
+    "id_base": 8000,
+    "focus": "Lingkungan & K3: amdal, UKL-UPL, persetujuan lingkungan, pelatihan ISO 14001/45001, sertifikasi BNSP",
+    "audience": "Praktisi lingkungan, SM K3, konsultan AMDAL, dan perusahaan yang butuh layanan lingkungan & pelatihan K3."
+  },
+  {
+    "brand": "Petrotraining OMC",
+    "gid": "1345247912",
+    "domain": "petrotrainingasia.com",
+    "property": "https://petrotrainingasia.com/",
+    "id_base": 9000,
+    "focus": "Migas: pelatihan & sertifikasi ahli pengendali pengeboran/perawatan sumur, K3 migas, BNSP",
+    "audience": "Operator, supervisor, dan teknisi migas yang butuh sertifikasi kompetensi Kemnaker/BNSP."
+  },
+  {
+    "brand": "Proxsis Sustainability",
+    "gid": "1503122147",
+    "domain": "sustainability.proxsisgroup.com",
+    "property": "sc-domain:proxsisgroup.com",
+    "id_base": 10000,
+    "focus": "ESG & keberlanjutan: pelatihan ESG, carbon management, sustainability report, ESG assurance",
+    "audience": "CSR/sustainability officer, manajemen perusahaan, dan auditor yang mengurus pelaporan ESG."
+  },
+  {
+    "brand": "ISC Safety School",
+    "gid": "1466899190",
+    "domain": "indonesiasafetycenter.org",
+    "property": "https://indonesiasafetycenter.org/",
+    "id_base": 11000,
+    "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)",
+    "audience": "Calon Ahli K3, HRD, dan perusahaan yang mengurus sertifikasi kompetensi K3 pekerja."
   }
-]
+  ]

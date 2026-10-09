@@ -126,21 +126,27 @@ def main():
         # that, so fetch one week at a time (max ~4k rows/week, safely under).
         rows = []
         cur = start
-        while cur <= end:
-            w_end = min(cur + datetime.timedelta(days=6), end)
-            body = {
-                "startDate": cur.isoformat(),
-                "endDate": w_end.isoformat(),
-                "dimensions": ["page", "date"],
-                "rowLimit": 25000,
-            }
-            site_q = urllib.parse.quote(site, safe="")
-            res = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
-                      token, "POST", body)
-            got = res.get("rows", [])
-            rows.extend(got)
-            print(f"  {site} {cur} .. {w_end}: {len(got)} rows")
-            cur = w_end + datetime.timedelta(days=1)
+        try:
+            while cur <= end:
+                w_end = min(cur + datetime.timedelta(days=6), end)
+                body = {
+                    "startDate": cur.isoformat(),
+                    "endDate": w_end.isoformat(),
+                    "dimensions": ["page", "date"],
+                    "rowLimit": 25000,
+                }
+                site_q = urllib.parse.quote(site, safe="")
+                res = api(f"webmasters/v3/sites/{site_q}/searchAnalytics/query",
+                          token, "POST", body)
+                got = res.get("rows", [])
+                rows.extend(got)
+                print(f"  {site} {cur} .. {w_end}: {len(got)} rows")
+                cur = w_end + datetime.timedelta(days=1)
+        except urllib.error.HTTPError as e:
+            # one property being forbidden (query permission) must not kill the
+            # whole refresh; that brand simply ships without GSC series this run.
+            print(f"WARN: {site} HTTP {e.code}; skip (brand tanpa data GSC run ini)")
+            continue
 
         print(f"fetched {len(rows)} page/date rows for {site} {start} .. {end}")
 

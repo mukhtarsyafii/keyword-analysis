@@ -117,6 +117,54 @@ CAT_RULES = {
         ("Design & Creative", ("figma", "adobe", "illustrator", "ui", "ux", "product designer",
                                "content creator", "infographic", "video")),
     ],
+    "IEC Group": [
+        ("Lingkungan (Amdal & Persetujuan)", ("amdal", "ukl", "upl", "persetujuan lingkungan", "sppl",
+                                              "dokumen lingkungan", "proper", "reklamasi",
+                                              "pengendalian pencemaran", "lingkungan")),
+        ("Pengelolaan Limbah", ("limbah", "b3", "waste", "insinerasi", "landfill")),
+        ("Energi & Emisi", ("energi", "emisi", "gas rumah kaca", "grk", "karbon", "co2", "net zero",
+                            "audit energi", "50001")),
+        ("K3 & Keselamatan Kerja", ("k3", "keselamatan", "hse", "safety", "45001", "ehs", "apd",
+                                    "emergency", "incident", "kecelakaan")),
+        ("ISO & Sistem Manajemen", ("iso", "14001", "9001", "sistem manajemen", "internal audit",
+                                    "lead auditor", "implementasi")),
+        ("Sertifikasi & Kompetensi", ("bnsp", "sertifikasi", "sertifikat", "kompetensi", "kemnaker")),
+    ],
+    "Petrotraining OMC": [
+        ("Migas Hulu & Pengeboran", ("pengeboran", "drilling", "sumur", "upstream", "well", "workover",
+                                     "seismic", "geofisika", "logging")),
+        ("Migas Hilir & Kilang", ("kilang", "refinery", "downstream", "pipeline", "tangi", "lng",
+                                  "tata gas", "saluran")),
+        ("K3 & Sertifikasi Migas", ("k3", "keselamatan", "hsse", "hse", "safety", "bnsp", "kemnaker",
+                                    "sertifikasi", "kompetensi", "ahli")),
+        ("Operasi & Produksi", ("operasi", "operating", "produksi", "production", "process",
+                                "maintenance", "instrumentasi", "metering")),
+        ("Manajemen & Teknik Migas", ("manajemen", "management", "psm", "hazop", "qra", "risiko",
+                                      "petroleum", "kontrak", "akuisisi", "reservoir", "injection")),
+    ],
+    "Proxsis Sustainability": [
+        ("ESG Dasar & Strategi", ("fundamental", "awareness", "strategy", "strategi", "roadmap",
+                                  "implementasi", "integration", "integrasi")),
+        ("Pelaporan ESG", ("report", "reporting", "pelaporan", "csr report", "gap analysis", "gri")),
+        ("Assurance & Rating", ("assurance", "verifikasi", "audit", "rating", "index", "indeks")),
+        ("Risiko & Iklim", ("risk", "risiko", "opportunity", "climate", "iklim")),
+        ("Carbon & Net Zero", ("carbon", "karbon", "net zero", "emisi", "footprint", "life cycle",
+                               "lca", "scope")),
+        ("CSR & Sosial", ("csr", "social", "tanggung jawab sosial", "community", "philanthropy",
+                          "program sosial")),
+    ],
+    "ISC Safety School": [
+        ("Ahli K3", ("ahli k3", "ahli keselamatan", "k3 konstruksi", "k3 umum", "muda", "madya")),
+        ("Higiene & Kesehatan Kerja", ("higiene", "kesehatan kerja", "ergonomi", "p3k", "pelindung")),
+        ("K3 Teknis & Operasi", ("jinjing", "scaffolding", "forlift", "forklift", "crane", "boiler",
+                                 "pesawat uap", "listrik", "bejana", "confined", "height", "fire",
+                                 "kebakaran", "hazop", "memadamkan", "angkutan", "kereta",
+                                 "telekomunikasi", "pertambangan")),
+        ("Investigasi Kecelakaan", ("accident", "investigasi", "investigation", "incident",
+                                    "kecelakaan")),
+        ("Sertifikasi & Dasar K3", ("bnsp", "sertifikasi", "sertifikat", "kompetensi", "smk3",
+                                    "umum", "dasar", "awareness")),
+    ],
 }
 DEFAULT_CATS = [
     ("Sertifikasi BNSP / Profesi", ("bnsp", "qrmo", "qrma", "qcro", "qrgp", "cgp", "qrmp", "ccgo", "sertifikasi")),
@@ -176,7 +224,9 @@ def parse_brand(rows, brand):
 
     out = []
     for r in rows[3:]:
-        if len(r) < 13 or not (r[ix["name"]] or "").strip():
+        # tracker tabs may carry only the 11 catalog columns (no weekly data yet),
+        # so gate on the name column existing rather than a fixed width.
+        if ix["name"] is None or ix["name"] >= len(r) or not r[ix["name"]].strip():
             continue
         if (r[ix["no"]] or "").strip().startswith(("💡", "Brand:")):
             continue

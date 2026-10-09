@@ -108,6 +108,13 @@ check('setBrand back to all', () => {
   A.setBrand('all');
   if (A.brows().length !== A.PRODUCTS.length) throw new Error('scope not restored');
 });
+check('setBrand new brands (IEC/Petro/ProxsisSust/ISC) scope everything', () => {
+  for (const b of ['IEC Group', 'Petrotraining OMC', 'Proxsis Sustainability', 'ISC Safety School']) {
+    A.setBrand(b);
+    if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === b).length) throw new Error('scope leak ' + b);
+    A.setBrand('all');
+  }
+});
 check('trends weekly series for IPQI', () => {
   A.setBrand('IPQI');
   const before = el('chartContainer').innerHTML;

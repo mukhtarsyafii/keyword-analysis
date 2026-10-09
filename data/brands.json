@@ -1,11 +1,27 @@
 [
  {
-  "brand": "Synergy Solusi",
-  "active_lp": 145,
-  "impr": 144335,
-  "clicks": 2995,
-  "ctr": "2.08%",
-  "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000"
+  "brand": "GRC Indonesia",
+  "active_lp": 56,
+  "impr": 61934,
+  "clicks": 1150,
+  "ctr": "1.86%",
+  "focus": "Governance, Risk, Compliance, Fraud & ISO"
+ },
+ {
+  "brand": "IPQI",
+  "active_lp": 48,
+  "impr": 26452,
+  "clicks": 366,
+  "ctr": "1.38%",
+  "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi"
+ },
+ {
+  "brand": "FS Institute",
+  "active_lp": 65,
+  "impr": 11031,
+  "clicks": 125,
+  "ctr": "1.13%",
+  "focus": "Finance, Treasury, Accounting & Food Safety"
  },
  {
   "brand": "ITGID",
@@ -16,28 +32,12 @@
   "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security"
  },
  {
-  "brand": "GRC Indonesia",
-  "active_lp": 56,
-  "impr": 61934.0,
-  "clicks": 1150.0,
-  "ctr": "1.86%",
-  "focus": "Governance, Risk, Compliance, Fraud & ISO"
- },
- {
-  "brand": "ICICERT",
-  "active_lp": 134,
-  "impr": 26537,
-  "clicks": 539,
-  "ctr": "2.03%",
-  "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000"
- },
- {
-  "brand": "IPQI",
-  "active_lp": 48,
-  "impr": 26452.0,
-  "clicks": 366.0,
-  "ctr": "1.38%",
-  "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi"
+  "brand": "Biztech Academy",
+  "active_lp": 83,
+  "impr": 10862,
+  "clicks": 121,
+  "ctr": "1.11%",
+  "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional"
  },
  {
   "brand": "IT Proxsis GRC",
@@ -48,19 +48,51 @@
   "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security"
  },
  {
-  "brand": "FS Institute",
-  "active_lp": 65,
-  "impr": 11031.0,
-  "clicks": 125.0,
-  "ctr": "1.13%",
-  "focus": "Finance, Treasury, Accounting & Food Safety"
+  "brand": "ICICERT",
+  "active_lp": 134,
+  "impr": 26537,
+  "clicks": 539,
+  "ctr": "2.03%",
+  "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000"
  },
  {
-  "brand": "Biztech Academy",
-  "active_lp": 83,
-  "impr": 10862,
-  "clicks": 121,
-  "ctr": "1.11%",
-  "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional"
+  "brand": "Synergy Solusi",
+  "active_lp": 145,
+  "impr": 144335,
+  "clicks": 2995,
+  "ctr": "2.08%",
+  "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000"
+ },
+ {
+  "brand": "IEC Group",
+  "active_lp": 98,
+  "impr": 0,
+  "clicks": 0,
+  "ctr": "0.00%",
+  "focus": "Lingkungan & K3: amdal, UKL-UPL, persetujuan lingkungan, pelatihan ISO 14001/45001, sertifikasi BNSP"
+ },
+ {
+  "brand": "Petrotraining OMC",
+  "active_lp": 48,
+  "impr": 0,
+  "clicks": 0,
+  "ctr": "0.00%",
+  "focus": "Migas: pelatihan & sertifikasi ahli pengendali pengeboran/perawatan sumur, K3 migas, BNSP"
+ },
+ {
+  "brand": "Proxsis Sustainability",
+  "active_lp": 22,
+  "impr": 0,
+  "clicks": 0,
+  "ctr": "0.00%",
+  "focus": "ESG & keberlanjutan: pelatihan ESG, carbon management, sustainability report, ESG assurance"
+ },
+ {
+  "brand": "ISC Safety School",
+  "active_lp": 85,
+  "impr": 0,
+  "clicks": 0,
+  "ctr": "0.00%",
+  "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)"
  }
 ]
