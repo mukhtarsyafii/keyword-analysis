@@ -5230,5 +5230,1261 @@
   "live_desc": null,
   "has_faq": false,
   "h2_count": 6
+ },
+ "8002": {
+  "url": "https://environment-indonesia.com/audit-energi/",
+  "http_ok": true,
+  "live_title": "Jasa Audit Energi Industri & Gedung | IEC",
+  "live_desc": "Jasa audit energi untuk memetakan baseline, pengguna energi utama, potensi penghematan, kelayakan awal, dan roadmap efisiensi industri atau gedung.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8003": {
+  "url": "https://environment-indonesia.com/konsultan-audit-kelistrikan/",
+  "http_ok": true,
+  "live_title": "Pelatihan Audit Kelistrikan | IEC",
+  "live_desc": "Audit teknis instalasi listrik. Target peserta: Industri, gedung, tambang.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8004": {
+  "url": "https://environment-indonesia.com/audit-lingkungan-hidup/",
+  "http_ok": true,
+  "live_title": "Audit Lingkungan Hidup - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8005": {
+  "url": "https://environment-indonesia.com/penyusunan-dokumen-evaluasi-lingkungan-hidup-delh-dan-dokumen-pengelolaan-lingkungan-hidup-dplh/",
+  "http_ok": true,
+  "live_title": "Penyusunan Dokumen Evaluasi Lingkungan Hidup (DELH) dan Dokumen Pengelolaan Lingkungan Hidup (DPLH) - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8007": {
+  "url": "https://environment-indonesia.com/jasa-pembuatan-perizinan-tps-b3/",
+  "http_ok": true,
+  "live_title": "Jasa Pembuatan Perizinan TPS B3 - IEC",
+  "live_desc": "Untuk bisa menyimpan limbah B3, perusahaan perlu memiliki dokumen izin TPS B3. Tata cara penyimpanan Limbah B3 harus tercantum di dalam dokumen lingkungan.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8009": {
+  "url": "https://environment-indonesia.com/konsultasi-implementasi-dan-sertifikasi-iso-14001-2015/",
+  "http_ok": true,
+  "live_title": "Konsultasi Implementasi dan Sertifikasi ISO 14001: 2015 - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8011": {
+  "url": "https://environment-indonesia.com/iso-50001/",
+  "http_ok": true,
+  "live_title": "Konsultasi ISO 50001:2018 & Sertifikasi | IEC",
+  "live_desc": "Konsultasi ISO 50001:2018 dari gap analysis, pengembangan EnMS, implementasi, audit internal hingga kesiapan sertifikasi bersama IEC.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8013": {
+  "url": "https://environment-indonesia.com/konsultasi-limbah-b3/",
+  "http_ok": true,
+  "live_title": "Konsultasi Pengelolaan Limbah B3 | IEC",
+  "live_desc": "Konsultasi limbah B3 untuk memetakan sumber, penyimpanan, pencatatan, pengangkutan, pengelolaan pihak ketiga, dokumen, risiko, dan action plan kepatuhan.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8015": {
+  "url": "https://environment-indonesia.com/konsultasi-persiapan-penilaian-proper/",
+  "http_ok": true,
+  "live_title": "Konsultasi Pendampingan PROPER 2026 | IEC",
+  "live_desc": "Pendampingan PROPER berbasis Permen LH/BPLH 7/2025: action plan, eviden, SIMPEL, mock assessment, verifikasi, dan klarifikasi.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8016": {
+  "url": "https://environment-indonesia.com/konsultasi-persiapan-penilaian-proper/",
+  "http_ok": true,
+  "live_title": "Konsultasi Pendampingan PROPER 2026 | IEC",
+  "live_desc": "Pendampingan PROPER berbasis Permen LH/BPLH 7/2025: action plan, eviden, SIMPEL, mock assessment, verifikasi, dan klarifikasi.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8017": {
+  "url": "https://environment-indonesia.com/penyusunan-laporan-implementasi-lingkungan/",
+  "http_ok": true,
+  "live_title": "Pemantauan & Pelaporan Lingkungan Hidup | IEC",
+  "live_desc": "Pendampingan pemantauan dan pelaporan lingkungan untuk mengonsolidasikan data RKL-RPL, hasil uji, eviden implementasi, evaluasi, dan tindak lanjut.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8018": {
+  "url": "https://environment-indonesia.com/pengurusan-dokumen-lingkungan-amdal-ukl-upl/",
+  "http_ok": true,
+  "live_title": "Pengurusan Dokumen Lingkungan: AMDAL & UKL UPL - IEC",
+  "live_desc": "Beberapa dokumen lingkungan yang umum dikenal adalah Amdal dan UKL UPL. Inti tujuan dokumen lingkungan adalah untuk memberikan perlindungan..",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8019": {
+  "url": "https://environment-indonesia.com/consultation/konsultasi-penyusunan-dokumen-lingkungan/",
+  "http_ok": true,
+  "live_title": "Konsultasi Penyusunan Dokumen Lingkungan - IEC",
+  "live_desc": "Konsultasi Penyusunan Dokumen Lingkungan bersama IEC. Pelatihan sertifikasi BNSP dan konsultasi lingkungan, energi, serta ESG untuk industri Indonesia.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8020": {
+  "url": "https://environment-indonesia.com/konsultasi-penyusunan-dokumen-ukl-upl/",
+  "http_ok": true,
+  "live_title": "Konsultasi Penyusunan Dokumen UKL-UPL - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8024": {
+  "url": "https://environment-indonesia.com/pengukuran-lingkungan-hidup/",
+  "http_ok": true,
+  "live_title": "Pengukuran Lingkungan Hidup - IEC",
+  "live_desc": "Pengukuran lingkungan hidup wajib dilakukan oleh perusahaan. Hal ini penting untuk memastikan kontrol dari dampak terhadap lingkungan yang ...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8025": {
+  "url": "https://environment-indonesia.com/pengukuran-lingkungan-kerja/",
+  "http_ok": true,
+  "live_title": "Pengukuran Lingkungan Kerja - IEC",
+  "live_desc": "Pengukuran lingkungan kerja ini penting untuk memastikan lingkungan kerja aman dan sehat. Patuhi regulasi dan lakukan secara berkala ...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8026": {
+  "url": "https://environment-indonesia.com/pengurusan-izin-terkait-pengelolaan-lingkungan-hidup/",
+  "http_ok": true,
+  "live_title": "Pengurusan Izin Lingkungan & Persetujuan Teknis | IEC",
+  "live_desc": "Pendampingan pemetaan dan pengurusan persetujuan lingkungan, persetujuan teknis, TPS Limbah B3, air limbah, emisi, serta kebutuhan izin terkait.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8027": {
+  "url": "https://environment-indonesia.com/jasa-pembuatan-persetujuan-teknis-emisi-pertek-emisi/",
+  "http_ok": true,
+  "live_title": "Jasa Pertek Emisi & Pendampingan Teknis | IEC",
+  "live_desc": "Jasa penyusunan Persetujuan Teknis Emisi: kajian teknis, pengujian, pengajuan, monitoring, dan pendampingan verifikasi bersama IEC.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8028": {
+  "url": "https://environment-indonesia.com/persetujuan-teknis-instalasi-pengolahan-air-limbah-pertek-ipal/",
+  "http_ok": true,
+  "live_title": "Persetujuan Teknis Instalasi Pengolahan Air Limbah (Pertek IPAL) - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8029": {
+  "url": "https://environment-indonesia.com/jasa-pembuatan-persetujuan-teknis-pemanfaatan-limbah-b3/",
+  "http_ok": true,
+  "live_title": "Jasa Pembuatan Persetujuan Teknis Pemanfaatan Limbah B3 - IEC",
+  "live_desc": "Persetujuan Teknis Pemanfaatan Limbah B3 diperlukan untuk bisa memanfaatkan kembali limbah B3 hasil usaha agar tidak membahayakan lingkungan",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8031": {
+  "url": "https://environment-indonesia.com/jasa-penyusunan-rincian-teknis-tps-b3/",
+  "http_ok": true,
+  "live_title": "Jasa Penyusunan Rincian Teknis TPS B3 - IEC",
+  "live_desc": "Kegiatan usaha yang melibatkan pengumpulan, pemanfaatan LB3 dll. Harus menyusun Rincian Teknis TPS B3 dan mengintegrasikannya dengan ...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8033": {
+  "url": "https://environment-indonesia.com/surat-laik-operasi-ipal/",
+  "http_ok": true,
+  "live_title": "Jasa Pengurusan Surat Laik Operasi (SLO) IPAL - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8058": {
+  "url": "https://environment-indonesia.com/manajer-pemanfaatan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Manajer Pemanfaatan Limbah B3 Sertifikasi BNSP | IEC",
+  "live_desc": "Pelatihan Manajer Pemanfaatan Limbah B3 Sertifikasi BNSP. training MPFB3. Metode online/offline dan in-house bersama LSP mitra berlisensi BNSP.",
+  "has_faq": true,
+  "h2_count": 16
+ },
+ "8059": {
+  "url": "https://environment-indonesia.com/manajer-pengolahan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Manajer Pengolahan Limbah B3 Sertifikasi BNSP | IEC",
+  "live_desc": "Pelatihan Manajer Pengolahan Limbah B3 Sertifikasi BNSP. training MPLB3. Metode online/offline dan in-house bersama LSP mitra berlisensi BNSP.",
+  "has_faq": true,
+  "h2_count": 16
+ },
+ "8060": {
+  "url": "https://environment-indonesia.com/manajer-pengumpulan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Manajer Pengumpulan Limbah B3 Sertifikasi BNSP | IEC",
+  "live_desc": "Pelatihan Manajer Pengumpulan Limbah B3 Sertifikasi BNSP. training MPMB3. Metode online/offline dan in-house bersama LSP mitra berlisensi BNSP.",
+  "has_faq": true,
+  "h2_count": 16
+ },
+ "8061": {
+  "url": "https://environment-indonesia.com/operator-pengolahan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Operator Pengumpulan Limbah B3 Sertifikasi BNSP | IEC",
+  "live_desc": "Pelatihan Operator Pengumpulan Limbah B3 Sertifikasi BNSP. training OPM operator pengumpulan limbah B3. Metode online/offline dan in-house bersama LSP mitr",
+  "has_faq": true,
+  "h2_count": 16
+ },
+ "8062": {
+  "url": "https://environment-indonesia.com/operator-penyimpanan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Operator Penyimpanan Limbah B3 Sertifikasi BNSP | IEC",
+  "live_desc": "Pelatihan Operator Penyimpanan Limbah B3 Sertifikasi BNSP. training OPYB3 dan OPLB3. Metode online/offline dan in-house bersama LSP mitra berlisensi BNSP.",
+  "has_faq": true,
+  "h2_count": 16
+ },
+ "8063": {
+  "url": "https://environment-indonesia.com/training-bnsp-lingkungan/pengelolaan-limbah-b3/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi BNSP Pengelolaan Limbah B3 | IEC",
+  "live_desc": "Pilih skema BNSP Pengelolaan Limbah B3 sesuai jabatan dan aktivitas: MPLB3, MPMB3, MPFB3, Operator Penyimpanan, dan OPM Operator Pengumpulan.",
+  "has_faq": true,
+  "h2_count": 17
+ },
+ "8064": {
+  "url": "https://environment-indonesia.com/training-bnsp-lingkungan/",
+  "http_ok": true,
+  "live_title": "Training BNSP Lingkungan: Limbah, Air, Udara & LCA | IEC",
+  "live_desc": "Pilih skema BNSP lingkungan: Limbah B3 dan Non B3, pencemaran air dan udara, LCA, serta pengambilan contoh uji sesuai tugas peserta.",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "8066": {
+  "url": "https://environment-indonesia.com/training-proper/",
+  "http_ok": true,
+  "live_title": "Pelatihan PROPER 2026: Awareness, Hijau & Emas | IEC",
+  "live_desc": "Pelatihan PROPER 2026 berbasis Permen LH/BPLH 7/2025: Awareness serta persiapan Hijau-Emas, tersedia online, offline, dan in-house.",
+  "has_faq": true,
+  "h2_count": 19
+ },
+ "8067": {
+  "url": "https://environment-indonesia.com/training-dasar-dasar-amdal/",
+  "http_ok": true,
+  "live_title": "Pelatihan Dasar-Dasar AMDAL | IEC",
+  "live_desc": "Pelatihan dasar AMDAL untuk memahami screening, proses persetujuan lingkungan, komponen dokumen, dampak penting, RKL-RPL, serta peran tim proyek.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8068": {
+  "url": "https://environment-indonesia.com/energi-efisiensi/",
+  "http_ok": true,
+  "live_title": "EFISIENSI ENERGI (ENERGY EFFICIENCY)",
+  "live_desc": "Topik penghematan energi atau efisiensi energi dan keandalan sistem kelistrikan dalam menyuplai kebutuhan energy listrik saat ini menjadi ...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8069": {
+  "url": "https://environment-indonesia.com/training-green-building/",
+  "http_ok": true,
+  "live_title": "Pelatihan Green Building & Bangunan Hijau | IEC",
+  "live_desc": "Pelatihan Green Building untuk memahami kriteria bangunan hijau, efisiensi sumber daya, data emisi, tata kelola gedung, dan rencana penerapannya.",
+  "has_faq": true,
+  "h2_count": 11
+ },
+ "8070": {
+  "url": "https://environment-indonesia.com/internal-audit-keamanan-pangan/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Internal Audit Keamanan Pangan BNSP | IEC",
+  "live_desc": "Sertifikasi auditor internal food safety. Target peserta: QA, HSE, auditor internal.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8071": {
+  "url": "http://environment-indonesia.com/pelatihan-k3-lingkungan/",
+  "http_ok": true,
+  "live_title": "Pelatihan Keselamatan dan Kesehatan Kerja (K3) Lingkungan",
+  "live_desc": "Keselamatan dan Kesehatan Kerja (K3) Lingkungan - Sistem manajemen K3 lingkungan memberikan konsistensi bagi perusahaan untuk menangani...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8072": {
+  "url": "https://environment-indonesia.com/training-manajer-energi-industri-berdasarkan-skkni-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Manager Energi BNSP | IEC",
+  "live_desc": "Sertifikasi manajer energi industri. Target peserta: Energy manager perusahaan.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8073": {
+  "url": "https://environment-indonesia.com/material-safety-data-sheet/",
+  "http_ok": true,
+  "live_title": "Material Safety Data Sheet (MSDS) B3",
+  "live_desc": "Temukan informasi penting tentang Material Safety Data Sheet (MSDS) untuk bahan kimia di tempat kerja. Pelajari lebih lanjut tentang MSDS hari ini.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8074": {
+  "url": "https://environment-indonesia.com/training-operator-incinerator/",
+  "http_ok": true,
+  "live_title": "Training Operator Incinerator - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8075": {
+  "url": "https://environment-indonesia.com/operator-pengendalian-pencemaran-air-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Operator Pengendalian Pencemaran Air BNSP | IEC",
+  "live_desc": "Pelatihan Operator Pengendalian Pencemaran Air BNSP untuk memahami proses, pemantauan parameter, respons gangguan, bukti kerja, dan asesmen kompetensi.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8076": {
+  "url": "https://environment-indonesia.com/operator-pengendalian-pencemaran-udara-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan POIPPU BNSP 2026 | IEC",
+  "live_desc": "Pelatihan POIPPU BNSP untuk operasi, inspeksi, perawatan, K3 instalasi pengendalian emisi, jadwal, dan persiapan asesmen.",
+  "has_faq": true,
+  "h2_count": 12
+ },
+ "8077": {
+  "url": "https://environment-indonesia.com/pemantauan-dan-analisis-pengelolaan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Pemantauan & Analisis Limbah B3 BNSP | IEC",
+  "live_desc": "Sertifikasi pemantauan & analisis limbah B3. Target peserta: HSE staff, laboratorium.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8078": {
+  "url": "https://environment-indonesia.com/pelatihan-pemantauan-pengelolaan-lingkungan-hidup/",
+  "http_ok": true,
+  "live_title": "Pelatihan Pemantauan Pengelolaan Lingkungan Hidup - IEC",
+  "live_desc": "Ketika suatu perusahaan menerapkan perundangan lingkungan dan program lingkungan (seperti AMDAL, ISO 14001, PROPER d......",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8079": {
+  "url": "http://environment-indonesia.com/popal/",
+  "http_ok": true,
+  "live_title": "Pelatihan PPPA & POPAL BNSP 2026 | IEC",
+  "live_desc": "Bandingkan pelatihan PPPA dan POPAL BNSP, peran peserta, unit kompetensi, jadwal, persyaratan, metode kelas, dan pendaftaran di IEC.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8080": {
+  "url": "https://environment-indonesia.com/penanggung-jawab-pengendalian-pencemaran-air-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Operator Pengendalian Pencemaran Air BNSP | IEC",
+  "live_desc": "Pelatihan Operator Pengendalian Pencemaran Air BNSP untuk memahami proses, pemantauan parameter, respons gangguan, bukti kerja, dan asesmen kompetensi.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8081": {
+  "url": "https://environment-indonesia.com/penanggung-jawab-pengendalian-pencemaran-udara-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan PPPU BNSP 2026 | IEC",
+  "live_desc": "Pelatihan PPPU BNSP untuk evaluasi emisi, strategi pengendalian, pemantauan, bukti kerja, jadwal, dan persiapan asesmen.",
+  "has_faq": true,
+  "h2_count": 12
+ },
+ "8082": {
+  "url": "https://environment-indonesia.com/pengelolaan-higiene-sanitasi-makanan/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Pengelolaan Higiene Sanitasi Makanan BNSP | IEC",
+  "live_desc": "Pelatihan hygiene sanitasi. Target peserta: Karyawan F&B, HSE, pengawas makanan.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8083": {
+  "url": "https://environment-indonesia.com/pengelolaan-keamanan-pangan-berbasis-haccp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Pengelolaan Keamanan Pangan Berbasis HACCP BNSP | IEC",
+  "live_desc": "Pelatihan HACCP. Target peserta: QA, QC, HSE pangan.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8084": {
+  "url": "https://environment-indonesia.com/training-pengelolaan-limbah-b3/",
+  "http_ok": true,
+  "live_title": "Training Pengelolaan Limbah B3 - Environment Indonesia",
+  "live_desc": "Daftar Training Pengelolaan Limbah B3 sertifikasi BNSP dan non BNSP. Bergabung bersama 20ribu alumni sekarang juga!",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8085": {
+  "url": "http://environment-indonesia.com/pengelolaan-sampah/",
+  "http_ok": true,
+  "live_title": "Pengelolaan Sampah - IEC",
+  "live_desc": "Pengolahan sampah domestik (non bahan berbahaya dan beracun) merupakan salah satu aspek penting pengelolaan lingkungan baik dilingkungan perumahan, ...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8086": {
+  "url": "https://environment-indonesia.com/pengoperasian-instalasi-pengelolaan-limbah-b3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi BNSP Pengelolaan Limbah B3 | IEC",
+  "live_desc": "Pilih skema BNSP Pengelolaan Limbah B3 sesuai jabatan dan aktivitas: MPLB3, MPMB3, MPFB3, Operator Penyimpanan, dan OPM Operator Pengumpulan.",
+  "has_faq": true,
+  "h2_count": 17
+ },
+ "8087": {
+  "url": "https://environment-indonesia.com/penjamah-makanan-food-handler/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Penjamah Makanan (Food Handler) BNSP | IEC",
+  "live_desc": "Sertifikasi food handler. Target peserta: Karyawan F&B, katering, restoran, pabrik pangan.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8088": {
+  "url": "https://environment-indonesia.com/izin-lingkungan-amdal-ukl-upl-dll/",
+  "http_ok": true,
+  "live_title": "Pelatihan Penyusunan AMDAL dan UKL-UPL | IEC",
+  "live_desc": "Workshop penyusunan AMDAL dan UKL-UPL berbasis studi kasus, screening kegiatan, struktur dokumen, matriks pengelolaan, pemantauan, dan review draft.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8089": {
+  "url": "https://environment-indonesia.com/training-pplh-peraturan-perundangan-lingkungan-hidup-dan-tata-cara-pemenuhannya/",
+  "http_ok": true,
+  "live_title": "Training PPLH (Peraturan Perundangan Lingkungan Hidup) dan Tata Cara Pemenuhannya - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8090": {
+  "url": "https://environment-indonesia.com/training-operator-pengambil-contoh-air-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan dan Sertifikasi Petugas Pengambil Contoh Air BNSP | IEC",
+  "live_desc": "Sertifikasi petugas sampling air. Target peserta: Laboratorium lingkungan, HSE.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8091": {
+  "url": "https://environment-indonesia.com/training-proper-hijau-emas/",
+  "http_ok": true,
+  "live_title": "Pelatihan PROPER 2026: Awareness, Hijau & Emas | IEC",
+  "live_desc": "Pelatihan PROPER 2026 berbasis Permen LH/BPLH 7/2025: Awareness serta persiapan Hijau-Emas, tersedia online, offline, dan in-house.",
+  "has_faq": true,
+  "h2_count": 19
+ },
+ "8092": {
+  "url": "https://environment-indonesia.com/prosedur-perizinan-izin-lingkungan/",
+  "http_ok": true,
+  "live_title": "Prosedur Perizinan Izin Lingkungan",
+  "live_desc": "Pahami tahapan persyaratan perizinan (persetujuan lingkungan & teknis), serta cara mengajukan permohonan izin lingkungan untuk perusahan Anda",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8094": {
+  "url": "https://indonesiasafetycenter.org/tanggung-jawab-sosial/",
+  "http_ok": true,
+  "live_title": "TANGGUNG JAWAB SOSIAL - Indonesia Safety Center",
+  "live_desc": "Ikuti Training TANGGUNG JAWAB SOSIAL. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "8095": {
+  "url": "https://environment-indonesia.com/pelatihan-teknik-sampling/",
+  "http_ok": true,
+  "live_title": "TEKNIK SAMPLING - IEC",
+  "live_desc": "Pelatihan ini dimaksudkan untuk memberi pembekalan tentang teknik sampling, preparasi, quality control dan pelaporan hasil sampling. Oleh karena itu...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8096": {
+  "url": "https://environment-indonesia.com/pelatihan-wastewater-treatment-plant/",
+  "http_ok": true,
+  "live_title": "Pelatihan Wastewater Treatment Plant (WWTP)",
+  "live_desc": "Pelatihan WWTP atau IPAL diberikan kepada seseorang yang bertanggung jawab untuk mengevaluasi sistem IPAL sehingga akan mendapatkan...",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "8097": {
+  "url": "https://indonesiasafetycenter.org/csr-iso-26000/",
+  "http_ok": true,
+  "live_title": "CSR ISO 26000 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training CSR ISO 26000. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "8098": {
+  "url": "https://indonesiasafetycenter.org/training-awareness-iso-26000/",
+  "http_ok": true,
+  "live_title": "Training Awareness ISO 26000 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training ISO 26000 AWARENESS . Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "9002": {
+  "url": "https://petrotrainingasia.com/ahli-pengendali-pengeboran-migas/",
+  "http_ok": true,
+  "live_title": "Ahli Pengendali Pengeboran Migas - Petro Training Asia",
+  "live_desc": "Detail Kebutuhan personil pemegang jabatan tenaga teknik khusus (TTK) yang mempunyai kompetensi kerja standar sektor industri migas, makin dirasakan karena sifat industri migas yang padat teknologi, padat modal dan berisiko bahaya yang tinggi. Kompetensi kerja personil ini merupakan persyaratan minimal yang harus dipenuhi oleh pemegang jabatan TTK sektor industri migas, sub sektor industri migas hulu",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "9003": {
+  "url": "https://petrotrainingasia.com/pelatihan-ahli-pengendali-perawatan-sumur/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli Pengendali Perawatan Sumur | PetroTraining Asia",
+  "live_desc": "Pelatihan Ahli Pengendali Perawatan Sumur. Personel ahli pengendali perawatan sumur perlu merencanakan dan memantau pekerjaan sesuai kondisi sumur dan tim.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9009": {
+  "url": "https://petrotrainingasia.com/pelatihan-crane/",
+  "http_ok": true,
+  "live_title": "Pelatihan Inspektur Crane Sertifikasi BNSP | PetroTraining Asia",
+  "live_desc": "Pelatihan Inspektur Crane Sertifikasi BNSP. Inspeksi crane memerlukan pemeriksaan kondisi alat, pencatatan temuan, dan keputusan tindak lanjut yang jelas.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9011": {
+  "url": "https://petrotrainingasia.com/loading-master-bnsp/",
+  "http_ok": true,
+  "live_title": "Loading Master BNSP | PetroTraining Asia",
+  "live_desc": "Loading Master BNSP. Koordinasi transfer muatan membutuhkan persiapan operasi, komunikasi antarpihak, dan pemantauan proses.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9012": {
+  "url": "https://petrotrainingasia.com/offshore-oil-and-gas-safety/",
+  "http_ok": true,
+  "live_title": "Pelatihan Keselamatan Offshore Migas | PetroTraining Asia",
+  "live_desc": "Pelatihan Keselamatan Offshore Migas. Pekerjaan offshore membutuhkan pemahaman bahaya lingkungan kerja, komunikasi, dan kesiapan darurat.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9014": {
+  "url": "https://petrotrainingasia.com/oil-and-gas-hazard-awareness/",
+  "http_ok": true,
+  "live_title": "Pelatihan Kesadaran Bahaya Migas | PetroTraining Asia",
+  "live_desc": "Pelatihan Kesadaran Bahaya Migas. Program awareness membantu personel mengenali sumber bahaya pada pekerjaan migas dan cara melaporkan perubahan kondisi.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9015": {
+  "url": "https://petrotrainingasia.com/produksi-migas/",
+  "http_ok": true,
+  "live_title": "Operator Produksi Migas - Petro Training Asia",
+  "live_desc": "Detail Operator Produksi Migas Kebutuhan personil pemegang jabatan tenaga teknik khusus (TTK) yang mempunyai kompetensi kerja standar sektor industri migas, makin dirasakan karena sifat industri migas yang padat teknologi, padat modal dan berisiko bahaya yang tinggi. Kompetensi kerja personil ini merupakan persyaratan minimal yang harus dipenuhi oleh pemegang jabatan TTK sektor industri migas, sub sektor",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "9017": {
+  "url": "https://petrotrainingasia.com/operator-crane-bnsp/",
+  "http_ok": true,
+  "live_title": "Operator Crane BNSP | PetroTraining Asia",
+  "live_desc": "Operator Crane BNSP. Pengoperasian crane menuntut pemeriksaan awal, komunikasi kru, dan pelaksanaan pengangkatan sesuai rencana kerja.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9018": {
+  "url": "https://petrotrainingasia.com/training-operator-forklift-2/",
+  "http_ok": true,
+  "live_title": "Training Operator Forklift | PetroTraining Asia",
+  "live_desc": "Training Operator Forklift. Operator forklift perlu memeriksa alat, memahami kondisi area, dan memindahkan beban dengan komunikasi yang jelas.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9020": {
+  "url": "https://petrotrainingasia.com/operator-k3-migas-bnsp/",
+  "http_ok": true,
+  "live_title": "Operator K3 Migas BNSP - Petro Training Asia",
+  "live_desc": "Sertifikasi Operator K3 Migas BNSP di Petro Training Asia. Jadwal 2026 tersedia, kelas publik & in-house, sertifikat kompetensi BNSP diakui industri migas.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9021": {
+  "url": "https://petrotrainingasia.com/petugas-pengambilan-contoh-minyak-dan-gas-bumi/",
+  "http_ok": true,
+  "live_title": "Petugas Pengambilan Contoh Minyak dan Gas Bumi - Petro Training Asia",
+  "live_desc": "Sertifikasi Petugas Pengambil Contoh Minyak & Gas Bumi Industri Minyak dan Gas berupa asesmen atau uji kompetensi diadakan dengan unit-unit kompetensi sebagai berikut:",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "9022": {
+  "url": "https://petrotrainingasia.com/operator-perawatan-sumur/",
+  "http_ok": true,
+  "live_title": "Operator Perawatan Sumur | PetroTraining Asia",
+  "live_desc": "Operator Perawatan Sumur. Operator perawatan sumur mendukung pelaksanaan kegiatan lapangan melalui pemeriksaan, komunikasi, dan pencatatan yang cermat.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9024": {
+  "url": "https://petrotrainingasia.com/pemenuhan-csms-untuk-kontraktor-menjadi-vendor-migas/",
+  "http_ok": true,
+  "live_title": "Pelatihan CSMS bagi Kontraktor Migas | PetroTraining Asia",
+  "live_desc": "Pelatihan CSMS bagi Kontraktor Migas. Lihat fokus program, syarat peserta, dan konsultasikan jadwal dengan PetroTraining Asia.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9025": {
+  "url": "https://petrotrainingasia.com/product/pengawas-instrumentasi/",
+  "http_ok": true,
+  "live_title": "Pengawas Instrumentasi BNSP - Petro Training Asia",
+  "live_desc": "Berdasarkan Keputusan Menteri Tenaga Kerja Dan Transmigrasi Nomor: KEP.119/MEN/IV/2009 Tentang Penetapan Standar Kompetensi Kerja Nasional Indonesia Sektor Industri Minyak Dan Gas Bumi Serta Panas Bumi Sub Sektor Industri Minyak Dan Gas Bumi Hulu Hilir (Supporting) Bidang Instrumentasi Subbidang Perawatan Peralatan Instrumentasi dan Subbidang Kalibrasi mempunyai tujuan yaitu pengembangan Sumber Daya Manusia (SDM) yang bergerak dalam",
+  "has_faq": false,
+  "h2_count": 3
+ },
+ "9026": {
+  "url": "https://petrotrainingasia.com/pengawas-k3-migas-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Katek/Wakatek Migas | Petro Training Asia",
+  "live_desc": "Pahami 4 unit SKKNI Katek/Wakatek Migas sesuai Kepmenaker 166/2024, proses pelatihan, asesmen kompetensi, serta penetapan jabatan yang terpisah dan jelas.",
+  "has_faq": true,
+  "h2_count": 13
+ },
+ "9028": {
+  "url": "https://petrotrainingasia.com/pengawas-operator-produksi-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Pengawas Operasi Produksi BNSP | PetroTraining Asia",
+  "live_desc": "Pelatihan Pengawas Operasi Produksi BNSP. Lihat fokus program, syarat peserta, dan konsultasikan jadwal dengan PetroTraining Asia.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9029": {
+  "url": "https://petrotrainingasia.com/pengawas-perawatan-sumur/",
+  "http_ok": true,
+  "live_title": "Pengawas Perawatan Sumur | PetroTraining Asia",
+  "live_desc": "Pengawas Perawatan Sumur. Pengawas perawatan sumur perlu mengoordinasikan personel, peralatan, dan pengendalian risiko selama pekerjaan.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9030": {
+  "url": "https://petrotrainingasia.com/pelatihan-pengawas-k3-migas/",
+  "http_ok": true,
+  "live_title": "Pelatihan Pengawas Utama K3 Migas - Petro Training Asia",
+  "live_desc": "Pengawas Utama K3 Migas | Kebutuhan personil pemegang jabatan tenaga teknik khusus (TTK) yang mempunyai kompetensi kerja standar sektor industri migas, makin dirasakan karena sifat industri migas yang padat teknologi, padat modal dan berisiko bahaya yang tinggi. Kompetensi kerja personil ini merupakan persyaratan minimal yang harus dipenuhi oleh pemegang jabatan TTK sektor industri migas, sub",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "9037": {
+  "url": "https://petrotrainingasia.com/pippe-fitter/",
+  "http_ok": true,
+  "live_title": "Pipe Fitter - Petro Training Asia",
+  "live_desc": "Pelatihan Pipe Fitter Industri Minyak dan Gas dilakukan untuk peserta dan calon asesi yang sudah mempunyai kualifikasi.",
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "9038": {
+  "url": "https://petrotrainingasia.com/rigger-bnsp/",
+  "http_ok": true,
+  "live_title": "Training Rigger BNSP & Juru Ikat | PetroTraining",
+  "live_desc": "Training Rigger BNSP untuk pengikatan beban, inspeksi alat bantu angkat, komunikasi signalman, dan pengendalian beban.",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "9039": {
+  "url": "https://petrotrainingasia.com/risk-assessment-tools-for-oil-and-gas/",
+  "http_ok": true,
+  "live_title": "Pelatihan Risk Assessment Industri Migas | PetroTraining Asia",
+  "live_desc": "Pelatihan Risk Assessment Industri Migas. Lihat fokus program, syarat peserta, dan konsultasikan jadwal dengan PetroTraining Asia.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9040": {
+  "url": "https://petrotrainingasia.com/training-supervisor-perawatan-mekanik-bnsp/",
+  "http_ok": true,
+  "live_title": "Training Supervisor Perawatan Mekanik BNSP | PetroTraining Asia",
+  "live_desc": "Training Supervisor Perawatan Mekanik BNSP. Lihat fokus program, syarat peserta, dan konsultasikan jadwal dengan PetroTraining Asia.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9041": {
+  "url": "https://petrotrainingasia.com/tata-cara-penanganan-oil-spill/",
+  "http_ok": true,
+  "live_title": "Pelatihan Penanganan Oil Spill | PetroTraining Asia",
+  "live_desc": "Pelatihan Penanganan Oil Spill. Respons oil spill memerlukan kesiapan peralatan, komunikasi, dan pengendalian agar dampak kejadian dapat dibatasi.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9042": {
+  "url": "https://petrotrainingasia.com/product/teknisi-instrumentasi-bnsp/",
+  "http_ok": true,
+  "live_title": "Training Instrumentasi BNSP - Petro Training Asia",
+  "live_desc": "Training Instrumentasi BNSP untuk teknisi kalibrasi, kontrol, dan maintenance industri. Jadwal 2026, syarat, biaya, dan in-house.",
+  "has_faq": true,
+  "h2_count": 10
+ },
+ "9044": {
+  "url": "https://petrotrainingasia.com/teknisi-listrik-migas/",
+  "http_ok": true,
+  "live_title": "Teknisi Listrik Migas - Petro Training Asia",
+  "live_desc": "Detail Kebutuhan personil pemegang jabatan tenaga teknik khusus (TTK) yang mempunyai kompetensi kerja standar sektor industri migas, makin dirasakan karena sifat industri migas yang padat teknologi, padat modal dan berisiko bahaya yang tinggi. Kompetensi kerja personil ini merupakan persyaratan minimal yang harus dipenuhi oleh pemegang jabatan TTK sektor industri migas, sub sektor industri migas hulu",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "9045": {
+  "url": "https://petrotrainingasia.com/training-teknisi-perawatan-mekanik-bnsp/",
+  "http_ok": true,
+  "live_title": "Training Teknisi Perawatan Mekanik BNSP | PetroTraining Asia",
+  "live_desc": "Training Teknisi Perawatan Mekanik BNSP. Perawatan peralatan mekanik membutuhkan pemeriksaan, pelaksanaan kerja, dan dokumentasi yang tertib.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "9047": {
+  "url": "https://petrotrainingasia.com/sertifikasi-welding-inspector/",
+  "http_ok": true,
+  "live_title": "Sertifikasi Welding Inspector - Petro Training Asia",
+  "live_desc": "Latar Belakang Sertifikasi Welding Inspector Sertifikasi Welding Inspector - Kebutuhan personel pemegang jabatan tenaga teknik khusus (TTK) yang mempunyai kompetensi standar kerja standar kerja sektor industri migas, semakin dirasakan karena sifat industri migas yang padat teknologi, modal padat dan berisiko bahaya yang tinggi. Kompetensi kerja personil ini merupakan persyaratan minimal yang harus dipenuhi oleh pemegang",
+  "has_faq": false,
+  "h2_count": 18
+ },
+ "10017": {
+  "url": "https://indonesiasafetycenter.org/csr-corporate-social-responsibility/",
+  "http_ok": true,
+  "live_title": "CSR (Corporate Social Responsibility) - Indonesia Safety Center",
+  "live_desc": "Ikuti Training CSR. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "10018": {
+  "url": "https://sustainability.proxsisgroup.com/pelatihan-esg-fundamental-strategi-bisnis-berkelanjutan/",
+  "http_ok": true,
+  "live_title": "Pelatihan ESG Fundamental – Strategi Bisnis Berkelanjutan - Sustainability Proxsis Group",
+  "live_desc": "Kuasai dasar Environmental, Social & Governance (ESG) untuk memperkuat reputasi, menarik investor, dan memastikan keberlanjutan ..",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "10019": {
+  "url": "https://sustainability.proxsisgroup.com/esg-reporting-assurance/",
+  "http_ok": true,
+  "live_title": "Jasa ESG Reporting & Assurance Indonesia | Proxsis",
+  "live_desc": "Susun laporan keberlanjutan GRI, ISSB/IFRS S2, dan POJK 51 bersama konsultan ESG berpengalaman. Assurance kredibel dan terverifikasi independen.",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "10020": {
+  "url": "https://sustainability.proxsisgroup.com/esg-risk-opportunity-management/",
+  "http_ok": true,
+  "live_title": "Manajemen Risiko ESG | ESG Risk & Opportunity | Proxsis",
+  "live_desc": "Identifikasi, ukur, dan kelola risiko ESG material perusahaan Anda. Pendekatan terstruktur berbasis data dari konsultan ESG berpengalaman.",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "10021": {
+  "url": "https://sustainability.proxsisgroup.com/pelatihan-awareness-esg-sustainability/",
+  "http_ok": true,
+  "live_title": "Pelatihan Awareness ESG & Sustainability | Proxsis",
+  "live_desc": "Tingkatkan pemahaman ESG tim Anda dalam 2 hari pelatihan intensif. Batch Juli & Agustus 2026. Instruktur berpengalaman. Daftar sekarang.",
+  "has_faq": false,
+  "h2_count": 17
+ },
+ "10022": {
+  "url": "https://environment-indonesia.com/",
+  "http_ok": true,
+  "live_title": "Pelatihan & Konsultan Lingkungan, Energi, ESG di Indonesia | IEC",
+  "live_desc": "Pelatihan sertifikasi BNSP, konsultasi PROPER KLHK, ISO 14001, ISO 50001, dan ESG untuk industri Indonesia sejak 2018. Jakarta-Surabaya. Konsultasi gratis.",
+  "has_faq": false,
+  "h2_count": 12
+ },
+ "11005": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-k3-madya-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli K3 Madya BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Ahli K3 Madya BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11006": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-k3-muda-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli K3 Muda BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Ahli K3 Muda BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11007": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-k3-umum-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli K3 Umum BNSP: Jadwal & Biaya | ISC",
+  "live_desc": "Persiapkan kompetensi Ahli K3 Umum BNSP bersama ISC. Lihat materi SKKNI, jadwal 2026, biaya online/offline, dan dokumen untuk verifikasi asesmen.",
+  "has_faq": true,
+  "h2_count": 14
+ },
+ "11008": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-k3-utama-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli K3 Utama BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Ahli K3 Utama BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11010": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-madya-ruang-terbatas-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli Madya Ruang Terbatas BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Ahli Madya Ruang Terbatas BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11011": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-muda-k3-konstruksi-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli Muda K3 Konstruksi BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Ahli Muda K3 Konstruksi BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11012": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-muda-ruang-terbatas-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Ahli Muda Ruang Terbatas BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Ahli Muda Ruang Terbatas BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11013": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-ahli-utama-k3-konstruksi-bnsp/",
+  "http_ok": true,
+  "live_title": "Ahli Utama K3 Konstruksi BNSP | ISC",
+  "live_desc": "Tingkatkan kompetensi strategis K3 konstruksi melalui Pelatihan Ahli Utama K3 Konstruksi BNSP bersama Indonesia Safety Center.",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11016": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-auditor-k3-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Auditor K3 BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Auditor K3 BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11017": {
+  "url": "https://indonesiasafetycenter.org/training-awareness-smk3-pp-50-2012/",
+  "http_ok": true,
+  "live_title": "Training Awareness SMK3 PP 50/2012 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Awareness SMK3. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11018": {
+  "url": "https://indonesiasafetycenter.org/training/training-basic-fire-fighting/",
+  "http_ok": true,
+  "live_title": "Training Basic Fire Fighting - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Basic Fire Fighting. Sertifikat 100% Terbit. Dipercaya oleh 2400+ Perusahaan dan bergabung bersama 20000+ Alumni di...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11019": {
+  "url": "https://indonesiasafetycenter.org/basic-safety-training/",
+  "http_ok": true,
+  "live_title": "Basic Safety Training: Jadwal & Biaya Pelatihan K3 | ISC",
+  "live_desc": "Bangun dasar K3 melalui Basic Safety Training 2 hari. Lihat materi, jadwal 2026, biaya kelas online dan offline, serta konsultasi in-house bersama ISC.",
+  "has_faq": true,
+  "h2_count": 14
+ },
+ "11020": {
+  "url": "https://indonesiasafetycenter.org/behaviour-based-safety/",
+  "http_ok": true,
+  "live_title": "Training Behaviour Based Safety (BBS) - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Behaviour Based Safety. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000 HSE Alumni di ISC Safety School...",
+  "has_faq": true,
+  "h2_count": 11
+ },
+ "11021": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-contractor-safety-management-system-csms-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Contractor Safety Management System (CSMS) BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Contractor Safety Management System (CSMS) BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11022": {
+  "url": "https://indonesiasafetycenter.org/training-disaster-management-plan/",
+  "http_ok": true,
+  "live_title": "Training Disaster Management Plan - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Disaster Management Plan. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11024": {
+  "url": "https://indonesiasafetycenter.org/training-basic-electrical-safety/",
+  "http_ok": true,
+  "live_title": "Training Basic Electrical Safety - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Basic Electrical Safety. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000 HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11025": {
+  "url": "https://indonesiasafetycenter.org/emergency-response-plan-2/",
+  "http_ok": true,
+  "live_title": "Training Emergency Response Plan - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Emergency Response Plan. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Expert ...",
+  "has_faq": true,
+  "h2_count": 11
+ },
+ "11026": {
+  "url": "https://indonesiasafetycenter.org/ergonomi-assessment/",
+  "http_ok": true,
+  "live_title": "Ergonomi Assessment - Indonesia Safety Center",
+  "live_desc": "Ikuti Training ERGONOMI ASSESSMENT . Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11028": {
+  "url": "https://indonesiasafetycenter.org/training/training-fire-risk-assessment/",
+  "http_ok": true,
+  "live_title": "Training Fire Risk Assessment - Indonesia Safety Center",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11030": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-first-aid-migas/",
+  "http_ok": true,
+  "live_title": "Pelatihan First Aid Migas | ISC",
+  "live_desc": "Pelajari pertolongan pertama di industri migas melalui pelatihan praktis untuk meningkatkan kesiapsiagaan dan respons terhadap keadaan darurat.",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11031": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-hazops-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan HAZOPs BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training HAZOPs BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11032": {
+  "url": "https://indonesiasafetycenter.org/training-hazard-identification-risk-assessment-risk-control-hirarc/",
+  "http_ok": true,
+  "live_title": "Training Hazard Identification Risk Assessment & Risk Control (HIRARC)",
+  "live_desc": "Ikuti Training Hazard Identification Risk Assessment & Risk Control (HIRARC). Sertifikat 100% Terbit. Dipercaya oleh 2400+ Perusahaan ...",
+  "has_faq": true,
+  "h2_count": 11
+ },
+ "11034": {
+  "url": "https://indonesiasafetycenter.org/incident-command-system/",
+  "http_ok": true,
+  "live_title": null,
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 0
+ },
+ "11035": {
+  "url": "https://indonesiasafetycenter.org/incident-command-system/",
+  "http_ok": true,
+  "live_title": null,
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 0
+ },
+ "11036": {
+  "url": "https://indonesiasafetycenter.org/training-internal-audit-smk3/",
+  "http_ok": true,
+  "live_title": "Training Internal Audit SMK3 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Internal Audit SMK3. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11037": {
+  "url": "https://indonesiasafetycenter.org/training-operator-gas-tester-bnsp/",
+  "http_ok": true,
+  "live_title": "Training Operator Gas Tester BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Operator Gas Tester BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11038": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-operator-k3-umum-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Operator K3 Umum BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Operator K3 Umum BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11039": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-operator-scaffolding-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Operator Scaffolding BNSP - Indonesia Safety Center",
+  "live_desc": "Indonesia Safety Center (ISC): pusat pelatihan K3/HSE terpercaya sejak 2003. 50+ program sertifikasi BNSP & Kemnaker, 20.000+ alumni, online & offline.",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11044": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-pengawas-k3-bekerja-di-ketinggian-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Pengawas K3 Bekerja di Ketinggian BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Pengawas K3 Bekerja di Ketinggian BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11045": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-pengawas-scaffolding-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Pengawas Scaffolding BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Pengawas Scaffolding BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11048": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-perancang-scaffolding-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Perancang Scaffolding BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Perancang Scaffolding BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11049": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-petugas-k3-fasilitas-kesehatan-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Petugas K3 Fasilitas Kesehatan BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Petugas K3 Fasilitas Kesehatan BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11050": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-petugas-penanganan-h2s-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Petugas Penanganan H2S BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Petugas Penanganan H2S BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11051": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-quality-control-scaffolding-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Quality Control Scaffolding BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Quality Control Scaffolding BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11052": {
+  "url": "https://indonesiasafetycenter.org/training-safety-accountability-program-for-organization/",
+  "http_ok": true,
+  "live_title": "Training Safety Accountability Program for Organization - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Safety Accountability Program for Organization. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung sekarang...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11053": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-safety-inspector-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Safety Inspector BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Safety Inspector BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11054": {
+  "url": "https://indonesiasafetycenter.org/training-safety-leadership/",
+  "http_ok": true,
+  "live_title": "Training Safety Leadership - Indonesia Safety Center",
+  "live_desc": "Ikuti Safety Leadership. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ Alumni ...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11055": {
+  "url": "https://indonesiasafetycenter.org/training-safety-maturity-level/",
+  "http_ok": true,
+  "live_title": "Training Safety Maturity Level - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Safety Maturity Level. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11056": {
+  "url": "https://indonesiasafetycenter.org/training-safety-risk-assessment-tools/",
+  "http_ok": true,
+  "live_title": "Training Safety Risk Assessment Tools - Indonesia Safety Center",
+  "live_desc": "Sistem Manajemen Kesehatan dan Keselamatan Kerja yang baik membutuhkan organisasi yang dapat mengidentifikasi risiko di tempat kerja, maka...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11059": {
+  "url": "https://petrotrainingasia.com/teknik-investigasi-dan-analisis-dalam-kecelakaan/",
+  "http_ok": true,
+  "live_title": "Pelatihan Investigasi Kecelakaan | PetroTraining Asia",
+  "live_desc": "Pelatihan Investigasi Kecelakaan. Lihat fokus program, syarat peserta, dan konsultasikan jadwal dengan PetroTraining Asia.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "11060": {
+  "url": "https://petrotrainingasia.com/teknik-pelaporan-investigasi-kecelakaan/",
+  "http_ok": true,
+  "live_title": "Pelatihan Pelaporan Investigasi Kecelakaan | PetroTraining Asia",
+  "live_desc": "Pelatihan Pelaporan Investigasi Kecelakaan. Lihat fokus program, syarat peserta, dan konsultasikan jadwal dengan PetroTraining Asia.",
+  "has_faq": true,
+  "h2_count": 8
+ },
+ "11061": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-teknisi-k3-bekerja-di-ketinggian-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Teknisi K3 Bekerja di Ketinggian BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Teknisi K3 Bekerja di Ketinggian BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11062": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-teknisi-k3-umum-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Teknisi K3 Umum BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Teknisi K3 umum BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11063": {
+  "url": "https://indonesiasafetycenter.org/pelatihan-teknisi-ruang-terbatas-bnsp/",
+  "http_ok": true,
+  "live_title": "Pelatihan Teknisi Ruang Terbatas BNSP - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Teknisi Ruang Terbatas BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11064": {
+  "url": "https://indonesiasafetycenter.org/training-awareness-integrated-qhse-management-system/",
+  "http_ok": true,
+  "live_title": "Training Awareness Integrated QHSE Management System - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Awareness Integrated QHSE Management System. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11065": {
+  "url": "https://indonesiasafetycenter.org/training-internal-audit-integrated-qhse-management-system/",
+  "http_ok": true,
+  "live_title": "Training Internal Audit Integrated QHSE Management System - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Internal Audit Integrated QHSE Management System. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11066": {
+  "url": "https://environment-indonesia.com/training-iso-14001/",
+  "http_ok": true,
+  "live_title": "Pelatihan ISO 14001 Awareness | IEC",
+  "live_desc": "Pelatihan ISO 14001 Awareness untuk menyamakan pemahaman tim tentang sistem manajemen lingkungan, aspek-dampak, kepatuhan, kontrol, dan perbaikan.",
+  "has_faq": true,
+  "h2_count": 16
+ },
+ "11067": {
+  "url": "https://environment-indonesia.com/training-internal-audit-iso-14001-2015-sistem-manajemen-lingkungan-hidup/",
+  "http_ok": true,
+  "live_title": "Training Internal Audit ISO 14001:2015 Sistem Manajemen Lingkungan Hidup - IEC",
+  "live_desc": null,
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "11068": {
+  "url": "https://environment-indonesia.com/training-penyusunan-standar-operating-procedure-sop-iso-14001/",
+  "http_ok": true,
+  "live_title": "Pelatihan Penyusunan SOP ISO 14001 - IEC",
+  "live_desc": "Salah upaya untuk menerapkan praktek manajerial yang ramah lingkungan adalah dengan menerapkan ISO14001 : 2015 Environment Management.......",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "11070": {
+  "url": "https://environment-indonesia.com/training-internal-audit-iso-22000/",
+  "http_ok": true,
+  "live_title": "Training Internal Audit ISO 22000 - IEC",
+  "live_desc": "Audit Internal merupakan persyaratan mutlak yang harus dilaksanakan sebelum adanya audit eksternal. Audit adalah proses pemeriksaan do....",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "11072": {
+  "url": "https://indonesiasafetycenter.org/iso-28001-awareness/",
+  "http_ok": true,
+  "live_title": "ISO 28001 Awareness | Indonesia Safety Center",
+  "live_desc": "Pelajari konsep dan persyaratan ISO 28001 untuk memahami sistem manajemen keamanan rantai pasok serta penerapannya di organisasi.",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11073": {
+  "url": "https://indonesiasafetycenter.org/iso-28001-internal-audit/",
+  "http_ok": true,
+  "live_title": "ISO 28001 Internal Audit - Indonesia Safety Center",
+  "live_desc": "Ikuti Training ISO 28001 Internal Audit. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11074": {
+  "url": "https://indonesiasafetycenter.org/iso-28001-konsultasi/",
+  "http_ok": true,
+  "live_title": "ISO 28001 Konsultasi - Indonesia Safety Center",
+  "live_desc": "Ikuti Training ISO 28001 Konsultasi. Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan 20.000+ HSE Alumni di ISC...",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11075": {
+  "url": "https://synergysolusi.com/layanan/isc-safety-school/awareness-iso-45001",
+  "http_ok": true,
+  "live_title": "Awareness ISO 45001 - Synergy Solusi Group",
+  "live_desc": "Training awareness ISO 45001:2018 sebelumnya, yaitu OHSAS 18001:2007 yang khusus menangani permasalahan terkait dengan kesehatan dan keselamatan karyawan.",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11076": {
+  "url": "https://synergysolusi.com/english/services/intepretasi-internal-audit-iso-450012018",
+  "http_ok": true,
+  "live_title": "PELATIHAN INTEPRETASI DAN INTERNAL AUDIT ISO 45001:2018 - Synergy Solusi Group",
+  "live_desc": "Citra ini telah mempersiapkan pelatihan intepretasi dan internal audit ISO 45001:2018 untuk mencetak auditor internal yang bertanggungjawab",
+  "has_faq": false,
+  "h2_count": 7
+ },
+ "11077": {
+  "url": "https://environment-indonesia.com/articles/iso-50001-sistem-manajemen-energi/",
+  "http_ok": true,
+  "live_title": "ISO 50001 SISTEM MANAJEMEN ENERGI - Indonesia Environment & Energy Center",
+  "live_desc": "Sistem manajemen energi membantu organisasi mengintegrasikan tanggung jawab mereka ke suatu sistem manajemen yang holistik, dan mengambil...",
+  "has_faq": false,
+  "h2_count": 3
+ },
+ "11078": {
+  "url": "https://environment-indonesia.com/training-iso-50001/",
+  "http_ok": true,
+  "live_title": "Pelatihan ISO 50001 Manajer Energi BNSP 2026 — IEC",
+  "live_desc": "Pelatihan Manajer Energi di Industri & Bangunan Gedung sesuai SKKNI BNSP. ISO 50001 sistem manajemen energi. Online & offline Jakarta. Investasi mulai Rp 13 juta.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "11079": {
+  "url": "http://environment-indonesia.com/training-iso-50001/",
+  "http_ok": true,
+  "live_title": "Pelatihan ISO 50001 Manajer Energi BNSP 2026 — IEC",
+  "live_desc": "Pelatihan Manajer Energi di Industri & Bangunan Gedung sesuai SKKNI BNSP. ISO 50001 sistem manajemen energi. Online & offline Jakarta. Investasi mulai Rp 13 juta.",
+  "has_faq": true,
+  "h2_count": 15
+ },
+ "11081": {
+  "url": "https://indonesiasafetycenter.org/training-penyusunan-standar-operasional-prosedur-sop/",
+  "http_ok": true,
+  "live_title": "Training Penyusunan Standar Operasional Prosedur (SOP) - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Penyusunan Standar Operasional Prosedur (SOP). Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan. Bergabung dengan ...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11082": {
+  "url": "https://indonesiasafetycenter.org/training-standar-audit-berdasarkan-iso-190112018/",
+  "http_ok": true,
+  "live_title": "Training Standar Audit Berdasarkan ISO 19011:2018 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Standar Audit Berdasarkan ISO 19011:2018 Sertifikat 100% Terbit. Dipercaya oleh 2400+ perusahaan...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11083": {
+  "url": "https://indonesiasafetycenter.org/internal-audit-sistem-manajemen-pengamanan-perkapolri-no-24-tahun-2007/",
+  "http_ok": true,
+  "live_title": "Internal Audit Sistem Pengamanan | ISC",
+  "live_desc": "Pelajari internal audit Sistem Manajemen Pengamanan berdasarkan Perkapolri No. 24 Tahun 2007 untuk evaluasi kepatuhan dan perbaikan organisasi.",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "11084": {
+  "url": "https://indonesiasafetycenter.org/training-sistem-manajemen-k3-pertambangan-berdasarkan-permen-esdm-no-38-tahun-2014/",
+  "http_ok": true,
+  "live_title": "Training Sistem Manajemen K3 Pertambangan Berdasarkan PERMEN ESDM No.38 Tahun 2014 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Sistem Manajemen K3 Pertambangan berdasarkan PERMEN ESDM No.38 Tahun 2014. Sertifikat 100% Terbit. Dipercaya oleh 2400+ PT...",
+  "has_faq": false,
+  "h2_count": 11
+ },
+ "11085": {
+  "url": "https://indonesiasafetycenter.org/training-sistem-manajemen-keselamatan-perkeretaapian-berdasarkan-permenhub-no-69-tahun-2018/",
+  "http_ok": true,
+  "live_title": "Training Sistem Manajemen Keselamatan Perkeretaapian Berdasarkan PERMENHUB No 69 Tahun 2018 - Indonesia Safety Center",
+  "live_desc": "Ikuti Training Sistem Manajemen Keselamatan Perkeretaapian berdasarkan Permenhub No. 69 Tahun 2018. Dipercaya oleh 2400+ perusahaan...",
+  "has_faq": false,
+  "h2_count": 11
  }
 }
