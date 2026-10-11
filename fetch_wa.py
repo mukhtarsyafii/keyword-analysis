@@ -23,6 +23,10 @@ SOURCES = [
     ("IPQI",          "1IfLSGTtqaxB-lbfYGlaNbold9mP0NkNf8Xvq9EJ_Vow"),
     ("FS Institute",   "109ltasFINn8R6Et9V30L6F7piOtd90V_LHo0SvhIOGc"),
     ("Proxsis Academy", "1Jo3CR5SU_yqNKr8M0oRV1JxaRm24OWkG245ETOfHHIg"),
+    ("Synergy Solusi", "1fsIfXJPCvg80wtGnSuY82XCWzV4ktxD_JC7IAX64gqk"),   # export CSV diblokir; pakai Sheets API
+    ("Synergy Solusi (arsip)", "1Pk8BUwA4tDQJUqEqkPq6YuQqVQhn6gP7s9WbZOSQ9Bs"),  # 15k baris lama (Des25-)
+    ("IT Proxsis GRC", "1ZnjkW66HSVGqXM6cwLbKVmgcts_3j_G0jnLTsLZdUik"),   # prefix IT, it.proxsisgroup.com
+    ("Proxsis Sustainability", "1iL4UMo4Q0GluP0V-0OoO_IOtYA7Ga9el-TBviGqCLUM"),  # prefix SUS (+DF digitalfinger.id)
 ]
 
 # GRC pakai "9/7/2026 15:54:59", IPQI pakai "2026-10-01 16:19:41".
@@ -54,15 +58,43 @@ def parse_ts(s):
     return None
 
 
+def api_rows(sid):
+    """Sheets API (token OAuth Hermes) -> list[dict]; utk sheet yg export-nya diblokir."""
+    try:
+        import json as _json, requests
+        t = _json.load(open(os.path.expanduser("~/.hermes/google_token.json")))
+        tok = requests.post("https://oauth2.googleapis.com/token", data={
+            "client_id": t["client_id"], "client_secret": t["client_secret"],
+            "refresh_token": t["refresh_token"], "grant_type": "refresh_token"},
+            timeout=30).json()["access_token"]
+        meta = requests.get(
+            f"https://sheets.googleapis.com/v4/spreadsheets/{sid}",
+            params={"fields": "sheets.properties.title"},
+            headers={"Authorization": "Bearer " + tok}, timeout=30).json()
+        tab = meta["sheets"][0]["properties"]["title"]
+        vals = requests.get(
+            f"https://sheets.googleapis.com/v4/spreadsheets/{sid}/values/'{tab}'!A1:ZZ",
+            headers={"Authorization": "Bearer " + tok}, timeout=120).json().get("values", [])
+        if len(vals) < 2:
+            return None
+        hdr = vals[0]
+        return [dict(zip(hdr, row + [""] * (len(hdr) - len(row)))) for row in vals[1:]]
+    except Exception:
+        return None
+
+
 def fetch(sid):
     # gid=0 kadang 400 utk sheet baru; tanpa gid = sheet pertama (sama saja)
     url = f"https://docs.google.com/spreadsheets/d/{sid}/export?format=csv"
     r = subprocess.run(["curl", "-sL", "--max-time", "90", url],
                        capture_output=True, text=True, timeout=120)
     txt = r.stdout or ""
-    if not txt.strip() or txt.lstrip().startswith("<"):
+    if txt.strip() and not txt.lstrip().startswith("<"):
+        return list(csv.DictReader(io.StringIO(txt)))
+    rows = api_rows(sid)
+    if rows is None:
         sys.exit(f"Sheet {sid} tidak terbaca (permission berubah / export diblokir)")
-    return list(csv.DictReader(io.StringIO(txt)))
+    return rows
 
 
 def main():

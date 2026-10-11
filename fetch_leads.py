@@ -24,6 +24,7 @@ Usage:
   python3 fetch_leads.py --no-odoo  # lewati langkah SO dari Odoo
 """
 import argparse, csv, io, json, os, re, subprocess, sys
+from fetch_wa import api_rows
 from collections import defaultdict
 from datetime import datetime
 
@@ -35,8 +36,13 @@ WA_SOURCES = [
     ("IPQI",          "1IfLSGTtqaxB-lbfYGlaNbold9mP0NkNf8Xvq9EJ_Vow"),
     ("FS Institute",  "109ltasFINn8R6Et9V30L6F7piOtd90V_LHo0SvhIOGc"),
     ("Proxsis Academy", "1Jo3CR5SU_yqNKr8M0oRV1JxaRm24OWkG245ETOfHHIg"),
+    ("Synergy Solusi", "1fsIfXJPCvg80wtGnSuY82XCWzV4ktxD_JC7IAX64gqk"),
+    ("Synergy Solusi (arsip)", "1Pk8BUwA4tDQJUqEqkPq6YuQqVQhn6gP7s9WbZOSQ9Bs"),
+    ("IT Proxsis GRC", "1ZnjkW66HSVGqXM6cwLbKVmgcts_3j_G0jnLTsLZdUik"),
+    ("Proxsis Sustainability", "1iL4UMo4Q0GluP0V-0OoO_IOtYA7Ga9el-TBviGqCLUM"),
 ]
 NEED_SID = "1l9yPZl2v-Zwym9swERGeTpW3ykx_wejQTu-Nwr-j7E0"   # Academy GRC Need Mirror
+MAIN_NEED_SID = "1t4MY7nLrdZDQRQeR6DPMrSjsNQ0-eAyiome3Z2hiHeE"  # DIGITAL MARKETING SSG 2026
 NEED_TAB = "Need Tracking - New"
 NEED_RANGE = f"'{NEED_TAB}'!A3:AZ"
 # kolom (0-based) — sama dengan need_data.py Academy
@@ -45,7 +51,9 @@ COL = dict(date=0, company=1, brand=2, pipeline=4, status=5, name=7,
            brand2=23)
 CODE_RE = re.compile(r"([A-Z]{2,6}\d*[AOSLE]-[A-Za-z0-9]{4,6})", re.I)
 ODOO_ENV = "/opt/ads/ssg/.env"
-CRM_TEAMS = [1369, 1370, 1368, 1134, 1135]   # GRC, IPQI, FSI Training, ITGID Assess/Training
+CRM_TEAMS = [1369, 1370, 1368, 1134, 1135,          # GRC, IPQI, FSI, ITGID
+               1183, 1182, 1178, 1388, 1265,          # Synergy Jakarta/Surabaya/BPP/Cikarang/Mkt SSG
+               1152, 1262, 1373, 1374]                # PGS ITGRC, IEC Training W/E/Cons
 GSHEET_TOKEN = os.path.expanduser("~/.hermes/google_token.json")
 
 NOT_QUALIFIED = ("lost", "-", "", "pre leads", "pre hot oppo")
@@ -125,9 +133,13 @@ def load_wa_codes():
         out = subprocess.run(["curl", "-sL", "--max-time", "120", url],
                              capture_output=True, text=True, timeout=150).stdout
         if not out.strip() or out.lstrip().startswith("<"):
-            print(f"WARN: WA log {brand} tidak terbaca")
-            continue
-        for row in csv.DictReader(io.StringIO(out)):
+            rows = api_rows(sid)          # export diblokir -> Sheets API
+            if rows is None:
+                print(f"WARN: WA log {brand} tidak terbaca")
+                continue
+        else:
+            rows = list(csv.DictReader(io.StringIO(out)))
+        for row in rows:
             if (row.get("event") or "").strip() != "wa_click":
                 continue
             code = (row.get("code") or "").strip()
@@ -145,7 +157,37 @@ def load_need_rows():
     vals = gsheet_values(NEED_SID, NEED_RANGE)
     if not vals:
         print("WARN: Need mirror tidak terbaca; lead = 0")
-        return []
+        rows = []
+    else:
+        rows = _parse_need(vals)
+    # Need Sheet utama SSG (tab Create Need digital 2026) — header baris 1,
+    # kolom berbeda: Date,Source,...,Status Need,Catatan,Week,Month,Ket,Lead ID.
+    main = gsheet_values(MAIN_NEED_SID, "'Create Need digital 2026'!A1:AZ")
+    if main and len(main) > 1:
+        hdr = [h.strip() for h in main[0]]
+        def ci(*names):
+            for n in names:
+                if n in hdr: return hdr.index(n)
+            return None
+        idx = dict(date=ci("Date"), company=ci("Company Name"), brand=ci("Need Category"),
+                   status=ci("Status Need"), name=ci("Contact Name"), phone=ci("Phone"),
+                   email=ci("Email"), kode=ci("Ket"))
+        for row in main[1:]:
+            def g(key):
+                i = idx.get(key)
+                return (str(row[i]).strip() if i is not None and len(row) > i else "")
+            m = CODE_RE.search(g("kode"))
+            rows.append({
+                "date": parse_date(g("date")),
+                "company": g("company"), "brand": g("brand"),
+                "status": g("status"), "name": g("name"),
+                "phone": norm_phone(g("phone")), "email": g("email").lower().strip(),
+                "kode": m.group(1) if m else g("kode"),
+            })
+    return rows
+
+
+def _parse_need(vals):
     rows = []
     for r in vals:
         def g(i):
