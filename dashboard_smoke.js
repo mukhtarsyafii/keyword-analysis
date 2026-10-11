@@ -43,7 +43,7 @@ function check(label, fn) {
 check('init()', () => window.onload());
 check('brandNames has both brands', () => {
   const n = A.brandNames();
-  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID')) throw new Error(n.join(','));
+  if (!n.includes('GRC Indonesia') || !n.includes('IPQI') || !n.includes('ITGID') || !n.includes('Biztech Academy') || !n.includes('IT Proxsis GRC') || !n.includes('ICICERT') || !n.includes('Synergy Solusi')) throw new Error(n.join(','));
 });
 check('brandBar rendered', () => {
   if (!el('brandBar').innerHTML.includes('IPQI')) throw new Error('no IPQI pill');
@@ -71,9 +71,49 @@ check('setBrand(ITGID) scopes everything', () => {
   if (m.includes('grc-indonesia.com') || m.includes('ipqi.org')) throw new Error('other brand leaked');
   A.setBrand('all');
 });
+check('setBrand(Biztech Academy) scopes everything', () => {
+  A.setBrand('Biztech Academy');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'Biztech Academy').length) throw new Error('scope leak');
+  if (A.brows().some(p => p.brand !== 'Biztech Academy')) throw new Error('non-biztech row');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('biztechacademy.id')) throw new Error('no biztech row');
+  if (m.includes('itgid.org') || m.includes('ipqi.org')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
+check('setBrand(IT Proxsis GRC) scopes everything', () => {
+  A.setBrand('IT Proxsis GRC');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'IT Proxsis GRC').length) throw new Error('scope leak');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('it.proxsisgroup.com')) throw new Error('no proxsis row');
+  if (m.includes('biztechacademy.id') || m.includes('itgid.org')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
+check('setBrand(ICICERT) scopes everything', () => {
+  A.setBrand('ICICERT');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'ICICERT').length) throw new Error('scope leak');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('icicert.com')) throw new Error('no icicert row');
+  if (m.includes('biztechacademy.id') || m.includes('it.proxsisgroup.com')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
+check('setBrand(Synergy Solusi) scopes everything', () => {
+  A.setBrand('Synergy Solusi');
+  if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === 'Synergy Solusi').length) throw new Error('scope leak');
+  const m = el('matrixBody').innerHTML;
+  if (!m.includes('synergysolusi.com')) throw new Error('no synergy row');
+  if (m.includes('icicert.com') || m.includes('it.proxsisgroup.com')) throw new Error('other brand leaked');
+  A.setBrand('all');
+});
 check('setBrand back to all', () => {
   A.setBrand('all');
   if (A.brows().length !== A.PRODUCTS.length) throw new Error('scope not restored');
+});
+check('setBrand new brands (IEC/Petro/ProxsisSust/ISC) scope everything', () => {
+  for (const b of ['IEC Group', 'Petrotraining OMC', 'Proxsis Sustainability', 'ISC Safety School']) {
+    A.setBrand(b);
+    if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === b).length) throw new Error('scope leak ' + b);
+    A.setBrand('all');
+  }
 });
 check('trends weekly series for IPQI', () => {
   A.setBrand('IPQI');
