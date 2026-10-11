@@ -33,6 +33,8 @@ DATA = os.path.join(HERE, "data")
 WA_SOURCES = [
     ("GRC Indonesia", "1bPPlmIp_PqfAvGm8B1P3sjXuOQRWGES_aR4DPx5iIqE"),
     ("IPQI",          "1IfLSGTtqaxB-lbfYGlaNbold9mP0NkNf8Xvq9EJ_Vow"),
+    ("FS Institute",  "109ltasFINn8R6Et9V30L6F7piOtd90V_LHo0SvhIOGc"),
+    ("Proxsis Academy", "1Jo3CR5SU_yqNKr8M0oRV1JxaRm24OWkG245ETOfHHIg"),
 ]
 NEED_SID = "1l9yPZl2v-Zwym9swERGeTpW3ykx_wejQTu-Nwr-j7E0"   # Academy GRC Need Mirror
 NEED_TAB = "Need Tracking - New"
@@ -43,7 +45,7 @@ COL = dict(date=0, company=1, brand=2, pipeline=4, status=5, name=7,
            brand2=23)
 CODE_RE = re.compile(r"([A-Z]{2,6}\d*[AOSLE]-[A-Za-z0-9]{4,6})", re.I)
 ODOO_ENV = "/opt/ads/ssg/.env"
-CRM_TEAMS = [1369, 1370]          # GRC Training, IPQI Training
+CRM_TEAMS = [1369, 1370, 1368, 1134, 1135]   # GRC, IPQI, FSI Training, ITGID Assess/Training
 GSHEET_TOKEN = os.path.expanduser("~/.hermes/google_token.json")
 
 NOT_QUALIFIED = ("lost", "-", "", "pre leads", "pre hot oppo")
@@ -118,7 +120,8 @@ def load_wa_codes():
     """kode -> {page, ts} dari kedua sheet WA log."""
     codes = {}
     for brand, sid in WA_SOURCES:
-        url = f"https://docs.google.com/spreadsheets/d/{sid}/export?format=csv&gid=0"
+        # gid=0 kadang 400 utk sheet baru; tanpa gid = sheet pertama
+        url = f"https://docs.google.com/spreadsheets/d/{sid}/export?format=csv"
         out = subprocess.run(["curl", "-sL", "--max-time", "120", url],
                              capture_output=True, text=True, timeout=150).stdout
         if not out.strip() or out.lstrip().startswith("<"):
@@ -173,8 +176,8 @@ def odoo_crm_index():
             if "=" in line and not line.startswith("#"):
                 k, v = line.split("=", 1)
                 env[k] = v.strip().strip('"').strip("'")
-        url, db, u, key = (env["ODOO_URL"], env["ODOO_DB"],
-                           env["ODOO_USERNAME"], env["ODOO_API_KEY"])
+        url, db, u = env["ODOO_URL"], env["ODOO_DB"], env["ODOO_USERNAME"]
+        key = env.get("ODOO_API_KEY_NEW") or env.get("ODOO_API_KEY")
         uid = xmlrpc.client.ServerProxy(url + "/xmlrpc/2/common").authenticate(db, u, key, {})
         if not uid:
             print("WARN: Odoo auth gagal; SO = 0")
