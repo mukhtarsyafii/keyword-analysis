@@ -140,6 +140,7 @@ HTML = r"""<!DOCTYPE html>
               <th class="px-3 py-3 font-semibold w-10">#<i class="th-info" data-tip="Nomor urut program di sheet tracker brand masing-masing.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[230px]">Program Layanan<i class="th-info" data-tip="Nama landing page / program pelatihan beserta URL live-nya. Satu program = satu halaman.">i</i></th>
               <th class="px-3 py-3 font-semibold min-w-[150px]">Kategori / Status<i class="th-info" data-tip="Kategori dikelompokkan otomatis dari nama program &amp; keyword utama. Status: Aktif = LP sudah live, Draft = belum tayang.">i</i></th>
+              <th class="px-3 py-3 font-semibold min-w-[170px]">Target Keyword<i class="th-info" data-tip="Keyword yang dibidik halaman ini (kolom Target Keyword / Keyword Sekunder di sheet tracker brand). '-' = belum diisi di sheet.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Impresi<i class="th-info" data-tip="Jumlah kali halaman muncul di hasil pencarian Google, di luar pencarian brand sendiri. Sumber: Google Search Console. Mengikuti filter Periode di atas (default: kumulatif seluruh minggu yang tersedia).">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">Klik<i class="th-info" data-tip="Jumlah kunjungan dari hasil pencarian organik Google ke halaman tersebut. Sumber: Google Search Console.">i</i></th>
               <th class="px-3 py-3 font-semibold text-right">CTR<i class="th-info" data-tip="Click-Through Rate = Klik ÷ Impresi × 100%. Hijau ≥5%, biru ≥2%, merah kalau impresi &gt;1.000 tapi CTR &lt;1% (halaman muncul tapi jarang diklik).">i</i></th>
@@ -804,6 +805,7 @@ function renderMatrix(){
         ${p.url?`<a href="${esc(p.url)}" target="_blank" class="text-[11px] text-blue-400/80 hover:text-blue-300 truncate block max-w-xs">${esc(p.url)}</a>`:'<span class="text-[10px] text-amber-400/70 italic">Belum ada URL live</span>'}
       </td>
       <td class="px-3 py-3"><div class="text-xs text-slate-400">${esc(p.category)}</div>${currentBrand==='all'&&p.brand?`<div class="text-[10px] text-sky-400/80 font-semibold mt-0.5">${esc(p.brand)}</div>`:''}<div class="mt-1 flex gap-1">${badge}${prBadge}</div></td>
+      <td class="px-3 py-3"><div class="text-xs text-slate-300" title="${esc(p.kw_target||'')}">${p.kw_target?esc(p.kw_target):'<span class="text-slate-600">-</span>'}</div></td>
       <td class="px-3 py-3 text-right font-mono text-xs">${fmt(mImp(p))}</td>
       <td class="px-3 py-3 text-right font-mono text-xs font-semibold text-blue-400">${mClick(p)}</td>
       <td class="px-3 py-3 text-right font-mono text-xs ${ctrColor}">${mCtr(p)}%</td>
