@@ -153,6 +153,14 @@ CAT_RULES = {
         ("CSR & Sosial", ("csr", "social", "tanggung jawab sosial", "community", "philanthropy",
                           "program sosial")),
     ],
+    "ISO Center": [
+        ("ISO 9001 — Mutu", ("9001", "mutu", "quality", "pelanggan", "cp")),
+        ("ISO 14001 & 45001 — Lingkungan & K3", ("14001", "45001", "lingkungan", "k3", "ehs", "keselamatan")),
+        ("ISO 55001 — Aset & Fasilitas", ("55001", "aset", "asset", "maintenance", "fasilitas")),
+        ("IT Governance (ISO 38500)", ("38500", "it governance", "itgi", "cobit", "itil")),
+        ("Manajemen Risiko & Audit", ("31000", "audit", "auditor", "risiko", "risk")),
+        ("ISO Fundamentals & Awareness", ("awareness", "fundamental", "dasar", "internal auditor")),
+    ],
     "Proxsis Strategy": [
         ("Business Strategy", ("business strategy", "strategic planning", "enterprise strategic", "restructuring",
                                "balanced scorecard", "performance management", "merger", "acquisition", "due diligence",
