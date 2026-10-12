@@ -1,50 +1,50 @@
 [
  {
   "brand": "GRC Indonesia",
-  "active_lp": 56,
-  "impr": 61934,
-  "clicks": 1150,
-  "ctr": "1.86%",
+  "active_lp": 55,
+  "impr": 64391,
+  "clicks": 1217,
+  "ctr": "1.89%",
   "focus": "Governance, Risk, Compliance, Fraud & ISO"
  },
  {
   "brand": "IPQI",
   "active_lp": 48,
-  "impr": 26452,
-  "clicks": 366,
-  "ctr": "1.38%",
+  "impr": 26508,
+  "clicks": 368,
+  "ctr": "1.39%",
   "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi"
  },
  {
   "brand": "FS Institute",
-  "active_lp": 65,
-  "impr": 11031,
-  "clicks": 125,
+  "active_lp": 64,
+  "impr": 11833,
+  "clicks": 134,
   "ctr": "1.13%",
   "focus": "Finance, Treasury, Accounting & Food Safety"
  },
  {
   "brand": "ITGID",
-  "active_lp": 59,
-  "impr": 129363,
-  "clicks": 2177,
-  "ctr": "1.68%",
+  "active_lp": 58,
+  "impr": 131413,
+  "clicks": 2227,
+  "ctr": "1.69%",
   "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security"
  },
  {
   "brand": "Biztech Academy",
   "active_lp": 83,
-  "impr": 10862,
-  "clicks": 121,
-  "ctr": "1.11%",
+  "impr": 11070,
+  "clicks": 124,
+  "ctr": "1.12%",
   "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional"
  },
  {
   "brand": "IT Proxsis GRC",
   "active_lp": 67,
-  "impr": 11987,
-  "clicks": 147,
-  "ctr": "1.23%",
+  "impr": 12010,
+  "clicks": 142,
+  "ctr": "1.18%",
   "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security"
  },
  {
@@ -65,34 +65,42 @@
  },
  {
   "brand": "IEC Group",
-  "active_lp": 98,
-  "impr": 0,
-  "clicks": 0,
-  "ctr": "0.00%",
+  "active_lp": 61,
+  "impr": 10744,
+  "clicks": 91,
+  "ctr": "0.85%",
   "focus": "Lingkungan & K3: amdal, UKL-UPL, persetujuan lingkungan, pelatihan ISO 14001/45001, sertifikasi BNSP"
  },
  {
   "brand": "Petrotraining OMC",
-  "active_lp": 48,
-  "impr": 0,
-  "clicks": 0,
-  "ctr": "0.00%",
+  "active_lp": 27,
+  "impr": 50734,
+  "clicks": 449,
+  "ctr": "0.89%",
   "focus": "Migas: pelatihan & sertifikasi ahli pengendali pengeboran/perawatan sumur, K3 migas, BNSP"
  },
  {
   "brand": "Proxsis Sustainability",
-  "active_lp": 22,
-  "impr": 0,
-  "clicks": 0,
-  "ctr": "0.00%",
+  "active_lp": 6,
+  "impr": 17278,
+  "clicks": 284,
+  "ctr": "1.64%",
   "focus": "ESG & keberlanjutan: pelatihan ESG, carbon management, sustainability report, ESG assurance"
  },
  {
-  "brand": "ISC Safety School",
-  "active_lp": 85,
+  "brand": "Proxsis Strategy",
+  "active_lp": 19,
   "impr": 0,
   "clicks": 0,
   "ctr": "0.00%",
+  "focus": "Konsultan manajemen: business strategy, productivity & quality, GRC, business resilience"
+ },
+ {
+  "brand": "ISC Safety School",
+  "active_lp": 63,
+  "impr": 244910,
+  "clicks": 3168,
+  "ctr": "1.29%",
   "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)"
  }
 ]

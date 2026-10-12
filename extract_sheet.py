@@ -153,6 +153,16 @@ CAT_RULES = {
         ("CSR & Sosial", ("csr", "social", "tanggung jawab sosial", "community", "philanthropy",
                           "program sosial")),
     ],
+    "Proxsis Strategy": [
+        ("Business Strategy", ("business strategy", "strategic planning", "enterprise strategic", "restructuring",
+                               "balanced scorecard", "performance management", "merger", "acquisition", "due diligence",
+                               "feasibility", "project management", "pmo")),
+        ("Productivity & Quality", ("business process", "bpm", "sop", "standard operating", "policy guideline",
+                                    "corporate policy", "productivity", "quality")),
+        ("Governance Risk & Compliance", ("grc", "governance", "risk management", "enterprise risk", "regulatory",
+                                          "compliance", "integrated governance")),
+        ("Business Resilience", ("continuity", "bcms", "bcp", "contingency", "resilience", "recovery")),
+    ],
     "ISC Safety School": [
         ("Ahli K3", ("ahli k3", "ahli keselamatan", "k3 konstruksi", "k3 umum", "muda", "madya")),
         ("Higiene & Kesehatan Kerja", ("higiene", "kesehatan kerja", "ergonomi", "p3k", "pelindung")),
