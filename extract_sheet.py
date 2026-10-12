@@ -161,6 +161,13 @@ CAT_RULES = {
         ("Manajemen Risiko & Audit", ("31000", "audit", "auditor", "risiko", "risk")),
         ("ISO Fundamentals & Awareness", ("awareness", "fundamental", "dasar", "internal auditor")),
     ],
+    "Proxsis HR": [
+        ("Leadership & Manajerial", ("leadership", "manajerial", "kepemimpinan", "supervisor", "manager", "direksi", "coaching", "mentoring")),
+        ("Komunikasi & Presentasi", ("komunikasi", "presentasi", "public speaking", "negosiasi", "consulting", "selling", "sales", "customer")),
+        ("Problem Solving & Analytical", ("problem solving", "design thinking", "analytical", "critical", "kreatif", "inovasi", "data")),
+        ("HR & Behavioral", ("behavioral", "interview", "hr", "kompetensi", "talent", "assessment", "rekrutmen", "psychology")),
+        ("Productivity & Collaboration", ("kolaborasi", "team", "efektif", "produktiv", "time management", "excel", "komunikasi efektif")),
+    ],
     "Proxsis Strategy": [
         ("Business Strategy", ("business strategy", "strategic planning", "enterprise strategic", "restructuring",
                                "balanced scorecard", "performance management", "merger", "acquisition", "due diligence",

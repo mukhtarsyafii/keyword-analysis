@@ -109,7 +109,7 @@ check('setBrand back to all', () => {
   if (A.brows().length !== A.PRODUCTS.length) throw new Error('scope not restored');
 });
 check('setBrand new brands (IEC/Petro/ProxsisSust/ISC) scope everything', () => {
-  for (const b of ['IEC Group', 'Petrotraining OMC', 'Proxsis Sustainability', 'Proxsis Strategy', 'ISO Center', 'ISC Safety School']) {
+  for (const b of ['IEC Group', 'Petrotraining OMC', 'Proxsis Sustainability', 'Proxsis Strategy', 'Proxsis HR', 'ISO Center', 'ISC Safety School']) {
     A.setBrand(b);
     if (A.brows().length !== A.PRODUCTS.filter(p => p.brand === b).length) throw new Error('scope leak ' + b);
     A.setBrand('all');
