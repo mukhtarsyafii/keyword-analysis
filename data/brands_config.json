@@ -1,137 +1,152 @@
 [
-  {
-    "brand": "GRC Indonesia",
-    "gid": "844447021",
-    "domain": "grc-indonesia.com",
-    "property": "https://grc-indonesia.com/",
-    "id_base": 0,
-    "focus": "Governance, Risk, Compliance, Fraud & ISO",
-    "audience": "Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi."
-  },
-  {
-    "brand": "IPQI",
-    "gid": "1195768283",
-    "domain": "ipqi.org",
-    "property": "https://ipqi.org/",
-    "id_base": 1000,
-    "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
-    "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, maintenance, dan continuous improvement manufaktur."
-  },
-  {
-    "brand": "FS Institute",
-    "gid": "1719586467",
-    "domain": "fs-institute.org",
-    "property": "https://fs-institute.org/",
-    "id_base": 2000,
-    "focus": "Finance, Treasury, Accounting & Food Safety",
-    "audience": "Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan."
-  },
-  {
-    "brand": "ITGID",
-    "gid": "1689687208",
-    "domain": "itgid.org",
-    "property": "https://itgid.org/",
-    "id_base": 3000,
-    "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security",
-    "audience": "IT manager, auditor TI, CISO, dan profesional tata kelola TI yang mengejar sertifikasi internasional."
-  },
-  {
-    "brand": "Biztech Academy",
-    "gid": "1067825045",
-    "domain": "biztechacademy.id",
-    "property": "https://biztechacademy.id/",
-    "id_base": 4000,
-    "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional",
-    "audience": "Fresh graduate, career switcher, dan staf IT yang ingin naik skill atau ambil sertifikasi."
-  },
-  {
-    "brand": "IT Proxsis GRC",
-    "gid": "1892690756",
-    "domain": "it.proxsisgroup.com",
-    "property": "https://it.proxsisgroup.com/",
-    "id_base": 5000,
-    "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security",
-    "audience": "IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI."
-  },
-  {
-    "brand": "ICICERT",
-    "gid": "738183830",
-    "domain": "icicert.com",
-    "property": "https://icicert.com/",
-    "id_base": 6000,
-    "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000",
-    "audience": "QA/QC, auditor internal, SM manajemen, dan perusahaan yang mengejar sertifikasi ISO."
-  },
-  {
-    "brand": "Synergy Solusi",
-    "gid": "642436703",
-    "domain": "synergysolusi.com",
-    "property": "sc-domain:synergysolusi.com",
-    "id_base": 7000,
-    "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000",
-    "audience": "SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3."
-  },
-  {
-    "brand": "IEC Group",
-    "gid": "1871172352",
-    "domain": "environment-indonesia.com",
-    "property": "https://environment-indonesia.com/",
-    "id_base": 8000,
-    "focus": "Lingkungan & K3: amdal, UKL-UPL, persetujuan lingkungan, pelatihan ISO 14001/45001, sertifikasi BNSP",
-    "audience": "Praktisi lingkungan, SM K3, konsultan AMDAL, dan perusahaan yang butuh layanan lingkungan & pelatihan K3."
-  },
-  {
-    "brand": "Petrotraining OMC",
-    "gid": "1345247912",
-    "domain": "petrotrainingasia.com",
-    "property": "https://petrotrainingasia.com/",
-    "id_base": 9000,
-    "focus": "Migas: pelatihan & sertifikasi ahli pengendali pengeboran/perawatan sumur, K3 migas, BNSP",
-    "audience": "Operator, supervisor, dan teknisi migas yang butuh sertifikasi kompetensi Kemnaker/BNSP."
-  },
-  {
-    "brand": "Proxsis Sustainability",
-    "gid": "1503122147",
-    "domain": "sustainability.proxsisgroup.com",
-    "property": "sc-domain:proxsisgroup.com",
-    "id_base": 10000,
-    "focus": "ESG & keberlanjutan: pelatihan ESG, carbon management, sustainability report, ESG assurance",
-    "audience": "CSR/sustainability officer, manajemen perusahaan, dan auditor yang mengurus pelaporan ESG."
-  },
-  {
-    "brand": "Proxsis Strategy",
-    "gid": "809715056",
-    "domain": "strategy.proxsisgroup.com",
-    "property": "https://strategy.proxsisgroup.com/",
-    "id_base": 12000,
-    "focus": "Konsultan manajemen: business strategy, productivity & quality, GRC, business resilience",
-    "audience": "Direksi, PMO, dan kepala divisi yang butuh consulting strategy/proses/GRC/BCM."
-    },
-    {
-    "brand": "ISO Center",
-    "gid": "1373291993",
-    "domain": "isoindonesiacenter.com",
-    "property": "https://isoindonesiacenter.com/",
-    "id_base": 13000,
-    "focus": "Training & awareness ISO: 9001, 14001, 45001, 55001, IT governance (ISO 38500)",
-    "audience": "Manajemen mutu/QHSE dan IT governance yang butuh awareness training ISO."
-    },
-    {
-    "brand": "Proxsis HR",
-    "gid": "1709308007",
-    "domain": "hr.proxsisgroup.com",
-    "property": "https://hr.proxsisgroup.com/",
-    "id_base": 14000,
-    "focus": "Soft skill & HR training: leadership, komunikasi, problem solving, selling, behavioral interview",
-    "audience": "HR/People Development yang cari pelatihan soft skill & manajerial untuk karyawan."
-    },
-    {
-    "brand": "ISC Safety School",
-    "gid": "1466899190",
-    "domain": "indonesiasafetycenter.org",
-    "property": "https://indonesiasafetycenter.org/",
-    "id_base": 11000,
-    "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)",
-    "audience": "Calon Ahli K3, HRD, dan perusahaan yang mengurus sertifikasi kompetensi K3 pekerja."
-  }
-  ]
+ {
+  "brand": "GRC Indonesia",
+  "gid": "844447021",
+  "domain": "grc-indonesia.com",
+  "property": "https://grc-indonesia.com/",
+  "id_base": 0,
+  "focus": "Governance, Risk, Compliance, Fraud & ISO",
+  "audience": "Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.",
+  "ga4_property_id": "254539330"
+ },
+ {
+  "brand": "IPQI",
+  "gid": "1195768283",
+  "domain": "ipqi.org",
+  "property": "https://ipqi.org/",
+  "id_base": 1000,
+  "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi",
+  "audience": "Engineer produksi, supervisor shopfloor, tim QA/QC, maintenance, dan continuous improvement manufaktur.",
+  "ga4_property_id": "254471342"
+ },
+ {
+  "brand": "FS Institute",
+  "gid": "1719586467",
+  "domain": "fs-institute.org",
+  "property": "https://fs-institute.org/",
+  "id_base": 2000,
+  "focus": "Finance, Treasury, Accounting & Food Safety",
+  "audience": "Staf finance, treasury, accounting, auditor internal, dan manajemen perusahaan yang butuh pelatihan keuangan & kepatuhan.",
+  "ga4_property_id": "329802653"
+ },
+ {
+  "brand": "ITGID",
+  "gid": "1689687208",
+  "domain": "itgid.org",
+  "property": "https://itgid.org/",
+  "id_base": 3000,
+  "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security",
+  "audience": "IT manager, auditor TI, CISO, dan profesional tata kelola TI yang mengejar sertifikasi internasional.",
+  "ga4_property_id": "254575404"
+ },
+ {
+  "brand": "Biztech Academy",
+  "gid": "1067825045",
+  "domain": "biztechacademy.id",
+  "property": "https://biztechacademy.id/",
+  "id_base": 4000,
+  "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional",
+  "audience": "Fresh graduate, career switcher, dan staf IT yang ingin naik skill atau ambil sertifikasi.",
+  "ga4_property_id": "292293690"
+ },
+ {
+  "brand": "IT Proxsis GRC",
+  "gid": "1892690756",
+  "domain": "it.proxsisgroup.com",
+  "property": "https://it.proxsisgroup.com/",
+  "id_base": 5000,
+  "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security",
+  "audience": "IT manager, auditor TI, CISO, risk & compliance officer yang butuh pelatihan dan sertifikasi tata kelola TI.",
+  "ga4_property_id": "352173639"
+ },
+ {
+  "brand": "ICICERT",
+  "gid": "738183830",
+  "domain": "icicert.com",
+  "property": "https://icicert.com/",
+  "id_base": 6000,
+  "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000",
+  "audience": "QA/QC, auditor internal, SM manajemen, dan perusahaan yang mengejar sertifikasi ISO.",
+  "ga4_property_id": "254513936"
+ },
+ {
+  "brand": "Synergy Solusi",
+  "gid": "642436703",
+  "domain": "synergysolusi.com",
+  "property": "sc-domain:synergysolusi.com",
+  "id_base": 7000,
+  "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000",
+  "audience": "SM HSE/K3, HRD yang mengurus sertifikasi pekerja, dan perusahaan migas/manufaktur yang butuh pelatihan K3.",
+  "ga4_property_id": "256425543"
+ },
+ {
+  "brand": "IEC Group",
+  "gid": "1871172352",
+  "domain": "environment-indonesia.com",
+  "property": "https://environment-indonesia.com/",
+  "id_base": 8000,
+  "focus": "Lingkungan & K3: amdal, UKL-UPL, persetujuan lingkungan, pelatihan ISO 14001/45001, sertifikasi BNSP",
+  "audience": "Praktisi lingkungan, SM K3, konsultan AMDAL, dan perusahaan yang butuh layanan lingkungan & pelatihan K3.",
+  "ga4_property_id": "254492810"
+ },
+ {
+  "brand": "Petrotraining OMC",
+  "gid": "1345247912",
+  "domain": "petrotrainingasia.com",
+  "property": "https://petrotrainingasia.com/",
+  "id_base": 9000,
+  "focus": "Migas: pelatihan & sertifikasi ahli pengendali pengeboran/perawatan sumur, K3 migas, BNSP",
+  "audience": "Operator, supervisor, dan teknisi migas yang butuh sertifikasi kompetensi Kemnaker/BNSP.",
+  "ga4_property_id": "256448579"
+ },
+ {
+  "brand": "Proxsis Sustainability",
+  "gid": "1503122147",
+  "domain": "sustainability.proxsisgroup.com",
+  "property": "sc-domain:proxsisgroup.com",
+  "id_base": 10000,
+  "focus": "ESG & keberlanjutan: pelatihan ESG, carbon management, sustainability report, ESG assurance",
+  "audience": "CSR/sustainability officer, manajemen perusahaan, dan auditor yang mengurus pelaporan ESG.",
+  "ga4_property_id": null
+ },
+ {
+  "brand": "Proxsis Strategy",
+  "gid": "809715056",
+  "domain": "strategy.proxsisgroup.com",
+  "property": "https://strategy.proxsisgroup.com/",
+  "id_base": 12000,
+  "focus": "Konsultan manajemen: business strategy, productivity & quality, GRC, business resilience",
+  "audience": "Direksi, PMO, dan kepala divisi yang butuh consulting strategy/proses/GRC/BCM.",
+  "ga4_property_id": "405038495"
+ },
+ {
+  "brand": "ISO Center",
+  "gid": "1373291993",
+  "domain": "isoindonesiacenter.com",
+  "property": "https://isoindonesiacenter.com/",
+  "id_base": 13000,
+  "focus": "Training & awareness ISO: 9001, 14001, 45001, 55001, IT governance (ISO 38500)",
+  "audience": "Manajemen mutu/QHSE dan IT governance yang butuh awareness training ISO.",
+  "ga4_property_id": "256420598"
+ },
+ {
+  "brand": "Proxsis HR",
+  "gid": "1709308007",
+  "domain": "hr.proxsisgroup.com",
+  "property": "https://hr.proxsisgroup.com/",
+  "id_base": 14000,
+  "focus": "Soft skill & HR training: leadership, komunikasi, problem solving, selling, behavioral interview",
+  "audience": "HR/People Development yang cari pelatihan soft skill & manajerial untuk karyawan.",
+  "ga4_property_id": "396642535"
+ },
+ {
+  "brand": "ISC Safety School",
+  "gid": "1466899190",
+  "domain": "indonesiasafetycenter.org",
+  "property": "https://indonesiasafetycenter.org/",
+  "id_base": 11000,
+  "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)",
+  "audience": "Calon Ahli K3, HRD, dan perusahaan yang mengurus sertifikasi kompetensi K3 pekerja.",
+  "ga4_property_id": "256448112"
+ }
+]
