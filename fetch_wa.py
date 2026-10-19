@@ -27,6 +27,7 @@ SOURCES = [
     ("Synergy Solusi (arsip)", "1Pk8BUwA4tDQJUqEqkPq6YuQqVQhn6gP7s9WbZOSQ9Bs"),  # 15k baris lama (Des25-)
     ("IT Proxsis GRC", "1ZnjkW66HSVGqXM6cwLbKVmgcts_3j_G0jnLTsLZdUik"),   # prefix IT, it.proxsisgroup.com
     ("Proxsis Sustainability", "1iL4UMo4Q0GluP0V-0OoO_IOtYA7Ga9el-TBviGqCLUM"),  # prefix SUS (+DF digitalfinger.id)
+    ("Proxsis HR", "1ZBmU2wUL9vQqykfdx7q84geYRmH9qVRKZVYyg2Y3Vrg"),  # prefix PHR, hr.proxsisgroup.com
 ]
 
 # GRC pakai "9/7/2026 15:54:59", IPQI pakai "2026-10-01 16:19:41".

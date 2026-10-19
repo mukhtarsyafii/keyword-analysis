@@ -40,6 +40,7 @@ WA_SOURCES = [
     ("Synergy Solusi (arsip)", "1Pk8BUwA4tDQJUqEqkPq6YuQqVQhn6gP7s9WbZOSQ9Bs"),
     ("IT Proxsis GRC", "1ZnjkW66HSVGqXM6cwLbKVmgcts_3j_G0jnLTsLZdUik"),
     ("Proxsis Sustainability", "1iL4UMo4Q0GluP0V-0OoO_IOtYA7Ga9el-TBviGqCLUM"),
+    ("Proxsis HR", "1ZBmU2wUL9vQqykfdx7q84geYRmH9qVRKZVYyg2Y3Vrg"),  # prefix PHR, hr.proxsisgroup.com
 ]
 NEED_SID = "1l9yPZl2v-Zwym9swERGeTpW3ykx_wejQTu-Nwr-j7E0"   # Academy GRC Need Mirror
 MAIN_NEED_SID = "1t4MY7nLrdZDQRQeR6DPMrSjsNQ0-eAyiome3Z2hiHeE"  # DIGITAL MARKETING SSG 2026
@@ -53,7 +54,8 @@ CODE_RE = re.compile(r"([A-Z]{2,6}\d*[AOSLE]-[A-Za-z0-9]{4,6})", re.I)
 ODOO_ENV = "/opt/ads/ssg/.env"
 CRM_TEAMS = [1369, 1370, 1368, 1134, 1135,          # GRC, IPQI, FSI, ITGID
                1183, 1182, 1178, 1388, 1265,          # Synergy Jakarta/Surabaya/BPP/Cikarang/Mkt SSG
-               1152, 1262, 1373, 1374]                # PGS ITGRC, IEC Training W/E/Cons
+               1152, 1262, 1373, 1374,                # PGS ITGRC, IEC Training W/E/Cons
+               1385, 1386, 1387, 1161, 1162, 1164]    # PHR: Softskill/HR Skill/Sertifikasi/Cons/MS/T
 GSHEET_TOKEN = os.path.expanduser("~/.hermes/google_token.json")
 
 NOT_QUALIFIED = ("lost", "-", "", "pre leads", "pre hot oppo")
