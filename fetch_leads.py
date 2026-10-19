@@ -44,6 +44,8 @@ WA_SOURCES = [
 ]
 NEED_SID = "1l9yPZl2v-Zwym9swERGeTpW3ykx_wejQTu-Nwr-j7E0"   # Academy GRC Need Mirror
 MAIN_NEED_SID = "1t4MY7nLrdZDQRQeR6DPMrSjsNQ0-eAyiome3Z2hiHeE"  # DIGITAL MARKETING SSG 2026
+PHR_NEED_SID = "1kuwPnXhMxFcE5gs9vzk3aTGSiPJyUx6gaD_dFyOB4-o"  # WORKSHEET PHRT 2026
+PHR_NEED_TAB = "'NEED MONITORING 2026'!A2:AZ"   # header baris 1; kode=KODE UNIK
 NEED_TAB = "Need Tracking - New"
 NEED_RANGE = f"'{NEED_TAB}'!A3:AZ"
 # kolom (0-based) — sama dengan need_data.py Academy
@@ -81,11 +83,11 @@ def iso_week(d):
 
 
 def parse_date(s):
-    """'9/14/2026 7:27:15' | '2026-09-14' | '14/09/2026' -> date."""
+    """'9/14/2026 7:27:15' | '2026-09-14' | '14/09/2026' | '01 Jan 2026' -> date."""
     s = str(s or "").strip()
     if not s:
         return None
-    d = s.split(" ")[0].split("T")[0]
+    d = s.split(" ")[0].split("T")[0] if "/" in s or "-" in s else s
     p = re.split(r"[/.\-]", d)
     if len(p) == 3:
         try:
@@ -96,7 +98,12 @@ def parse_date(s):
             if len(p[2]) == 4:          # DD/MM/YYYY
                 return datetime(int(p[2]), int(p[1]), int(p[0])).date()
         except ValueError:
-            return None
+            pass
+    for fmt in ("%d %b %Y", "%d %B %Y", "%d-%b-%Y", "%d-%B-%Y"):   # sheet PHR
+        try:
+            return datetime.strptime(s, fmt).date()
+        except ValueError:
+            continue
     return None
 
 
@@ -186,6 +193,23 @@ def load_need_rows():
                 "phone": norm_phone(g("phone")), "email": g("email").lower().strip(),
                 "kode": m.group(1) if m else g("kode"),
             })
+    # WORKSHEET PHRT 2026 tab 'NEED MONITORING 2026' — header baris 1, kode di
+    # kolom 'KODE UNIK' (berkurung [PHR4A-xxxx]), status di 'Status'.
+    phr = gsheet_values(PHR_NEED_SID, PHR_NEED_TAB)
+    for r in phr or []:
+        def gp(i):
+            return (str(r[i]).replace("[", "").replace("]", "").strip()
+                    if len(r) > i and r[i] is not None else "")
+        kode = gp(22)
+        if not kode:
+            continue
+        m = CODE_RE.search(kode)
+        rows.append({
+            "date": parse_date(gp(4)), "company": gp(8), "brand": "Proxsis HR",
+            "status": gp(15), "name": gp(7),
+            "phone": norm_phone(gp(11)), "email": gp(12).lower().strip(),
+            "kode": m.group(1) if m else kode,
+        })
     return rows
 
 
