@@ -382,7 +382,7 @@
   "brand": "GRC Indonesia"
  },
  "20": {
-  "product_name": "Pelatihan Compliance System Management ISO 37301",
+  "product_name": "Training Sistem Manajemen Kepatuhan",
   "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
@@ -429,7 +429,7 @@
   ]
  },
  "11": {
-  "product_name": "Training Sistem Manajemen Kepatuhan",
+  "product_name": "Pelatihan Compliance System Management ISO 37301",
   "brand": "GRC Indonesia",
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
@@ -583,19 +583,19 @@
     "we_rank": 2
    },
    {
-    "keyword": "pelatihan 5r",
-    "volume": 40,
-    "difficulty": 19,
-    "top_competitor": "mkacademy.id",
-    "top_position": 1,
-    "we_rank": 2
-   },
-   {
     "keyword": "pelatihan 5r adalah",
     "volume": 30,
     "difficulty": 14,
     "top_competitor": "belajark3.com",
     "top_position": 4,
+    "we_rank": 2
+   },
+   {
+    "keyword": "pelatihan 5r",
+    "volume": 40,
+    "difficulty": 19,
+    "top_competitor": "mkacademy.id",
+    "top_position": 1,
     "we_rank": 2
    },
    {
@@ -842,12 +842,12 @@
     "we_rank": 8
    },
    {
-    "keyword": "lean",
-    "volume": 5400,
-    "difficulty": 21,
-    "top_competitor": "lean.org",
-    "top_position": 3,
-    "we_rank": 10
+    "keyword": "training lean",
+    "volume": 30,
+    "difficulty": 25,
+    "top_competitor": "jogja-training.com",
+    "top_position": 1,
+    "we_rank": 7
    }
   ]
  },
@@ -920,20 +920,20 @@
     "we_rank": 15
    },
    {
+    "keyword": "quality management system awareness training",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "academy.theknightsofsafety.com",
+    "top_position": 1,
+    "we_rank": 47
+   },
+   {
     "keyword": "quality management training",
     "volume": 10,
     "difficulty": 17,
     "top_competitor": "phitagoras.co.id",
     "top_position": 1,
     "we_rank": 10
-   },
-   {
-    "keyword": "quality management system awareness training",
-    "volume": 10,
-    "difficulty": 5,
-    "top_competitor": "academy.theknightsofsafety.com",
-    "top_position": 1,
-    "we_rank": 42
    },
    {
     "keyword": "quality awareness",
@@ -1052,7 +1052,7 @@
     "difficulty": 31,
     "top_competitor": "talenta.co",
     "top_position": 2,
-    "we_rank": 20
+    "we_rank": 21
    },
    {
     "keyword": "training needs analysis",
@@ -1102,20 +1102,20 @@
     "we_rank": 9
    },
    {
-    "keyword": "gelar qrgp",
-    "volume": 30,
-    "difficulty": 18,
-    "top_competitor": "registrasi.ppm-manajemen.ac.id",
-    "top_position": 4,
-    "we_rank": 8
-   },
-   {
     "keyword": "qrgp adalah",
     "volume": 110,
     "difficulty": 18,
     "top_competitor": "instagram.com",
     "top_position": 2,
     "we_rank": 1
+   },
+   {
+    "keyword": "gelar qrgp",
+    "volume": 30,
+    "difficulty": 18,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 4,
+    "we_rank": 8
    },
    {
     "keyword": "qrgp gelar apa",
@@ -1377,6 +1377,14 @@
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
+    "keyword": "itil 4 foundation",
+    "volume": 70,
+    "difficulty": 28,
+    "top_competitor": "youtube.com",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
     "keyword": "itil training",
     "volume": 40,
     "difficulty": 30,
@@ -1385,20 +1393,12 @@
     "we_rank": 10
    },
    {
-    "keyword": "itil 4 foundation",
-    "volume": 70,
-    "difficulty": 28,
-    "top_competitor": "youtube.com",
-    "top_position": 2,
-    "we_rank": 8
-   },
-   {
     "keyword": "itil 4",
     "volume": 260,
     "difficulty": 39,
     "top_competitor": "freshworks.com",
     "top_position": 2,
-    "we_rank": 36
+    "we_rank": 37
    },
    {
     "keyword": "itil course",
@@ -1429,7 +1429,7 @@
     "difficulty": 55,
     "top_competitor": "-",
     "top_position": null,
-    "we_rank": 10
+    "we_rank": 9
    },
    {
     "keyword": "course cyber security",
@@ -1539,7 +1539,7 @@
     "difficulty": 20,
     "top_competitor": "destcert.com",
     "top_position": 2,
-    "we_rank": 65
+    "we_rank": 64
    },
    {
     "keyword": "certified information systems security professional cissp",
@@ -1586,7 +1586,7 @@
     "difficulty": 16,
     "top_competitor": "pustaka.ut.ac.id",
     "top_position": 2,
-    "we_rank": 18
+    "we_rank": 17
    },
    {
     "keyword": "it audit adalah",
@@ -1620,20 +1620,20 @@
     "we_rank": 2
    },
    {
-    "keyword": "cobit 2019 foundation",
-    "volume": 20,
-    "difficulty": 26,
-    "top_competitor": "academy.capgemini.com",
-    "top_position": 2,
-    "we_rank": 6
-   },
-   {
     "keyword": "cobit 2019 certification",
     "volume": 20,
     "difficulty": 25,
     "top_competitor": "sitespower.com",
     "top_position": 2,
     "we_rank": 7
+   },
+   {
+    "keyword": "cobit 2019 foundation",
+    "volume": 20,
+    "difficulty": 26,
+    "top_competitor": "academy.capgemini.com",
+    "top_position": 2,
+    "we_rank": 6
    },
    {
     "keyword": "training cobit 2019",
@@ -1691,12 +1691,12 @@
     "we_rank": 6
    },
    {
-    "keyword": "cism.",
-    "volume": 320,
-    "difficulty": 41,
-    "top_competitor": "coursera.org",
-    "top_position": 2,
-    "we_rank": 5
+    "keyword": "information security management certification",
+    "volume": 10,
+    "difficulty": 22,
+    "top_competitor": "isaca.org",
+    "top_position": 1,
+    "we_rank": 2
    }
   ]
  },
@@ -1730,20 +1730,20 @@
     "we_rank": 10
    },
    {
-    "keyword": "penetration testing",
-    "volume": 1600,
-    "difficulty": 54,
-    "top_competitor": "github.com",
-    "top_position": 3,
-    "we_rank": 13
-   },
-   {
     "keyword": "kursus penetration testing",
     "volume": 10,
     "difficulty": 35,
     "top_competitor": "-",
     "top_position": null,
     "we_rank": 13
+   },
+   {
+    "keyword": "penetration testing",
+    "volume": 1600,
+    "difficulty": 54,
+    "top_competitor": "github.com",
+    "top_position": 3,
+    "we_rank": 14
    }
   ]
  },
@@ -1837,7 +1837,7 @@
     "difficulty": 31,
     "top_competitor": "-",
     "top_position": null,
-    "we_rank": 31
+    "we_rank": 30
    }
   ]
  },
@@ -1941,14 +1941,6 @@
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
-    "keyword": "bigquery adalah",
-    "volume": 90,
-    "difficulty": 22,
-    "top_competitor": "suhu.co.id",
-    "top_position": 2,
-    "we_rank": 28
-   },
-   {
     "keyword": "google big query",
     "volume": 1900,
     "difficulty": 38,
@@ -1979,6 +1971,14 @@
     "top_competitor": "cloud.google.com",
     "top_position": 2,
     "we_rank": 21
+   },
+   {
+    "keyword": "bigquery google",
+    "volume": 1600,
+    "difficulty": 46,
+    "top_competitor": "cloud.google.com",
+    "top_position": 1,
+    "we_rank": 28
    }
   ]
  },
@@ -1988,20 +1988,20 @@
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
-    "keyword": "training odoo",
-    "volume": 140,
-    "difficulty": 13,
-    "top_competitor": "-",
-    "top_position": null,
-    "we_rank": 13
-   },
-   {
     "keyword": "site:biztechacademy.id",
     "volume": null,
     "difficulty": 30,
     "top_competitor": "-",
     "top_position": null,
     "we_rank": 1
+   },
+   {
+    "keyword": "training odoo",
+    "volume": 140,
+    "difficulty": 13,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 12
    },
    {
     "keyword": "pelatihan odoo",
@@ -2181,7 +2181,7 @@
     "difficulty": 39,
     "top_competitor": "freshworks.com",
     "top_position": 2,
-    "we_rank": 63
+    "we_rank": 64
    },
    {
     "keyword": "itil v4",
@@ -2189,7 +2189,7 @@
     "difficulty": 15,
     "top_competitor": "google.com",
     "top_position": 2,
-    "we_rank": 59
+    "we_rank": 58
    },
    {
     "keyword": "itil 4 foundation",
@@ -3816,7 +3816,7 @@
     "difficulty": 20,
     "top_competitor": "instagram.com",
     "top_position": 2,
-    "we_rank": 7
+    "we_rank": 8
    },
    {
     "keyword": "welding inspector sertifikasi",
@@ -3866,20 +3866,20 @@
     "we_rank": 2
    },
    {
-    "keyword": "fitter tambang",
-    "volume": null,
-    "difficulty": null,
-    "top_competitor": "glints.com",
-    "top_position": 1,
-    "we_rank": 10
-   },
-   {
     "keyword": "sertifikasi fitter",
     "volume": 30,
     "difficulty": 18,
     "top_competitor": "proglat.kemnaker.go.id",
     "top_position": 1,
     "we_rank": 4
+   },
+   {
+    "keyword": "fitter tambang",
+    "volume": null,
+    "difficulty": null,
+    "top_competitor": "glints.com",
+    "top_position": 1,
+    "we_rank": 10
    }
   ]
  },
@@ -4054,20 +4054,20 @@
     "we_rank": 5
    },
    {
-    "keyword": "pelatihan tot",
-    "volume": 260,
-    "difficulty": 10,
-    "top_competitor": "hanosen.com",
-    "top_position": 5,
-    "we_rank": 4
-   },
-   {
     "keyword": "pelatihan tot sertifikasi bnsp",
     "volume": null,
     "difficulty": 4,
     "top_competitor": "instagram.com",
     "top_position": 4,
     "we_rank": 2
+   },
+   {
+    "keyword": "pelatihan tot",
+    "volume": 260,
+    "difficulty": 10,
+    "top_competitor": "hanosen.com",
+    "top_position": 5,
+    "we_rank": 4
    }
   ]
  },
@@ -4140,14 +4140,6 @@
     "we_rank": 10
    },
    {
-    "keyword": "sertifikasi hr bnsp",
-    "volume": 390,
-    "difficulty": 11,
-    "top_competitor": "hracademy.id",
-    "top_position": 2,
-    "we_rank": 10
-   },
-   {
     "keyword": "sertifikasi bnsp hr staff",
     "volume": 50,
     "difficulty": 22,
@@ -4156,12 +4148,20 @@
     "we_rank": 10
    },
    {
-    "keyword": "sertifikasi hrd",
+    "keyword": "sertifikasi hr bnsp",
     "volume": 390,
     "difficulty": 11,
-    "top_competitor": "-",
-    "top_position": null,
-    "we_rank": 51
+    "top_competitor": "hracademy.id",
+    "top_position": 2,
+    "we_rank": 10
+   },
+   {
+    "keyword": "hr staff sertifikasi bnsp",
+    "volume": 10,
+    "difficulty": 20,
+    "top_competitor": "bnsp.go.id",
+    "top_position": 1,
+    "we_rank": 13
    }
   ]
  },
@@ -4195,20 +4195,20 @@
     "we_rank": 6
    },
    {
-    "keyword": "tugas supervisor hrd",
-    "volume": 40,
-    "difficulty": 13,
-    "top_competitor": "id.jobstreet.com",
-    "top_position": 2,
-    "we_rank": 38
-   },
-   {
     "keyword": "pelatihan supervisor",
     "volume": 50,
     "difficulty": 28,
     "top_competitor": "kpiconsultancy.com",
     "top_position": 2,
     "we_rank": 70
+   },
+   {
+    "keyword": "tugas supervisor hrd",
+    "volume": 40,
+    "difficulty": 13,
+    "top_competitor": "id.jobstreet.com",
+    "top_position": 2,
+    "we_rank": 35
    }
   ]
  },
@@ -4218,6 +4218,14 @@
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
+    "keyword": "training design thinking",
+    "volume": 70,
+    "difficulty": 27,
+    "top_competitor": "designthinkingacademy.id",
+    "top_position": 2,
+    "we_rank": 15
+   },
+   {
     "keyword": "training inovasi",
     "volume": 70,
     "difficulty": 20,
@@ -4226,20 +4234,12 @@
     "we_rank": 48
    },
    {
-    "keyword": "training design thinking",
-    "volume": 70,
-    "difficulty": 27,
-    "top_competitor": "designthinkingacademy.id",
-    "top_position": 2,
-    "we_rank": 16
-   },
-   {
     "keyword": "design thinking training",
     "volume": 70,
     "difficulty": 27,
     "top_competitor": "expertindo-training.com",
     "top_position": 1,
-    "we_rank": 11
+    "we_rank": 10
    },
    {
     "keyword": "pelatihan design thinking",
@@ -4247,12 +4247,12 @@
     "difficulty": 17,
     "top_competitor": "registrasi.ppm-manajemen.ac.id",
     "top_position": 2,
-    "we_rank": 3
+    "we_rank": 2
    },
    {
     "keyword": "design thinking certification",
-    "volume": null,
-    "difficulty": null,
+    "volume": 20,
+    "difficulty": 30,
     "top_competitor": "designthinkingacademy.id",
     "top_position": 1,
     "we_rank": 27
@@ -4278,7 +4278,7 @@
     "difficulty": 12,
     "top_competitor": "myorangt.com",
     "top_position": 2,
-    "we_rank": 35
+    "we_rank": 34
    },
    {
     "keyword": "l&d strategy",
@@ -4286,7 +4286,7 @@
     "difficulty": 18,
     "top_competitor": "-",
     "top_position": null,
-    "we_rank": 26
+    "we_rank": 25
    },
    {
     "keyword": "pelatihan learning and development",
@@ -4317,7 +4317,7 @@
     "difficulty": 14,
     "top_competitor": "shrm.org",
     "top_position": 2,
-    "we_rank": 25
+    "we_rank": 28
    },
    {
     "keyword": "strategic workforce planning",
@@ -4325,7 +4325,7 @@
     "difficulty": 24,
     "top_competitor": "shrm.org",
     "top_position": 1,
-    "we_rank": 18
+    "we_rank": 17
    },
    {
     "keyword": "strategic workforce planning adalah",
@@ -4336,20 +4336,20 @@
     "we_rank": 7
    },
    {
-    "keyword": "workforce planning analytics",
-    "volume": 10,
-    "difficulty": 13,
-    "top_competitor": "talentics.id",
-    "top_position": 2,
-    "we_rank": 20
-   },
-   {
     "keyword": "workforce planning adalah",
     "volume": 170,
     "difficulty": 11,
     "top_competitor": "talenta.co",
     "top_position": 2,
     "we_rank": 18
+   },
+   {
+    "keyword": "strategic workforce planning training",
+    "volume": 10,
+    "difficulty": 24,
+    "top_competitor": "jicsi.co.id",
+    "top_position": 1,
+    "we_rank": 6
    }
   ]
  },
@@ -4411,7 +4411,7 @@
     "difficulty": 13,
     "top_competitor": "registrasi.ppm-manajemen.ac.id",
     "top_position": 1,
-    "we_rank": 8
+    "we_rank": 9
    },
    {
     "keyword": "hr for non hr training",
@@ -4419,15 +4419,7 @@
     "difficulty": 20,
     "top_competitor": "otc.com.my",
     "top_position": 1,
-    "we_rank": 14
-   },
-   {
-    "keyword": "training hr for non hr",
-    "volume": 30,
-    "difficulty": 15,
-    "top_competitor": "diotraining.com",
-    "top_position": 2,
-    "we_rank": 8
+    "we_rank": 11
    },
    {
     "keyword": "site:hr.proxsisgroup.com/hr-skill",
@@ -4444,6 +4436,14 @@
     "top_competitor": "training.malaysiahrforum.com",
     "top_position": 1,
     "we_rank": 6
+   },
+   {
+    "keyword": "site:hr.proxsisgroup.com/hr-skill/hr-for-non-hr-training",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
    }
   ]
  },
@@ -4474,7 +4474,7 @@
     "difficulty": 16,
     "top_competitor": "gemilang-training.com",
     "top_position": 1,
-    "we_rank": 17
+    "we_rank": 18
    },
    {
     "keyword": "problem solving and decision making",
@@ -4500,20 +4500,20 @@
   "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
   "competitor_keywords": [
    {
-    "keyword": "training agile",
-    "volume": 20,
-    "difficulty": 27,
-    "top_competitor": "agile-academy.com",
-    "top_position": 1,
-    "we_rank": 34
-   },
-   {
     "keyword": "pelatihan agile leadership",
     "volume": 10,
     "difficulty": 12,
     "top_competitor": "ppm-manajemen.ac.id",
     "top_position": 2,
     "we_rank": 14
+   },
+   {
+    "keyword": "training agile",
+    "volume": 20,
+    "difficulty": 27,
+    "top_competitor": "agile-academy.com",
+    "top_position": 1,
+    "we_rank": 35
    },
    {
     "keyword": "training agile leadership",
@@ -4602,20 +4602,20 @@
     "we_rank": 2
    },
    {
-    "keyword": "training kalibrasi alat ukur",
-    "volume": 50,
-    "difficulty": 10,
-    "top_competitor": "kelasinstruktur.com",
-    "top_position": 2,
-    "we_rank": 2
-   },
-   {
     "keyword": "pelatihan kalibrasi alat ukur",
     "volume": 40,
     "difficulty": 16,
     "top_competitor": "jogja-training.com",
     "top_position": 2,
     "we_rank": 3
+   },
+   {
+    "keyword": "training kalibrasi alat ukur",
+    "volume": 50,
+    "difficulty": 10,
+    "top_competitor": "kelasinstruktur.com",
+    "top_position": 2,
+    "we_rank": 2
    },
    {
     "keyword": "training kalibrasi",
@@ -4649,20 +4649,20 @@
     "we_rank": 10
    },
    {
-    "keyword": "fmea lebih bersifat",
-    "volume": null,
-    "difficulty": 12,
-    "top_competitor": "kwikkiangie.ac.id",
-    "top_position": 2,
-    "we_rank": 8
-   },
-   {
     "keyword": "training fmea",
     "volume": 30,
     "difficulty": 21,
     "top_competitor": "tuv.com",
     "top_position": 2,
     "we_rank": 4
+   },
+   {
+    "keyword": "fmea lebih bersifat",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "kwikkiangie.ac.id",
+    "top_position": 2,
+    "we_rank": 8
    },
    {
     "keyword": "apa itu fmea analysis",
@@ -5061,7 +5061,7 @@
     "difficulty": 16,
     "top_competitor": "fdcapital.co.uk",
     "top_position": 2,
-    "we_rank": 29
+    "we_rank": 30
    },
    {
     "keyword": "site:fs-institute.org",
@@ -5147,7 +5147,7 @@
     "difficulty": 20,
     "top_competitor": "researchgate.net",
     "top_position": 2,
-    "we_rank": 50
+    "we_rank": 49
    },
    {
     "keyword": "fs institute",
@@ -5502,15 +5502,7 @@
     "difficulty": 33,
     "top_competitor": "sda.pu.go.id",
     "top_position": 1,
-    "we_rank": 10
-   },
-   {
-    "keyword": "perbedaan delh dan dplh",
-    "volume": 30,
-    "difficulty": 5,
-    "top_competitor": "lensalingkungan.com",
-    "top_position": 1,
-    "we_rank": 9
+    "we_rank": 11
    },
    {
     "keyword": "delh dan dplh adalah",
@@ -5519,6 +5511,14 @@
     "top_competitor": "desasiraman.gunungkidulkab.go.id",
     "top_position": 1,
     "we_rank": 7
+   },
+   {
+    "keyword": "perbedaan delh dan dplh",
+    "volume": 30,
+    "difficulty": 5,
+    "top_competitor": "lensalingkungan.com",
+    "top_position": 1,
+    "we_rank": 9
    }
   ]
  },
@@ -5533,7 +5533,7 @@
     "difficulty": 16,
     "top_competitor": "dlh.batam.go.id",
     "top_position": 3,
-    "we_rank": 5
+    "we_rank": 6
    },
    {
     "keyword": "dokumen lingkungan",
@@ -5560,12 +5560,12 @@
     "we_rank": 10
    },
    {
-    "keyword": "dokumen lingkungan adalah",
-    "volume": 40,
-    "difficulty": 13,
-    "top_competitor": "dlh.batam.go.id",
-    "top_position": 1,
-    "we_rank": 9
+    "keyword": "upl artinya",
+    "volume": 110,
+    "difficulty": 19,
+    "top_competitor": "id.linkedin.com",
+    "top_position": 2,
+    "we_rank": 1
    }
   ]
  },
@@ -5607,12 +5607,12 @@
     "we_rank": 6
    },
    {
-    "keyword": "izin tps limbah b3",
-    "volume": 140,
-    "difficulty": 26,
-    "top_competitor": "id.scribd.com",
-    "top_position": 2,
-    "we_rank": 15
+    "keyword": "tps limbah",
+    "volume": 110,
+    "difficulty": 21,
+    "top_competitor": "dlh.slemankab.go.id",
+    "top_position": 1,
+    "we_rank": 3
    }
   ]
  },
@@ -5643,7 +5643,7 @@
     "difficulty": 35,
     "top_competitor": "indonesianexport.org",
     "top_position": 1,
-    "we_rank": 83
+    "we_rank": 82
    },
    {
     "keyword": "msds b3",
@@ -5721,7 +5721,7 @@
     "difficulty": 9,
     "top_competitor": "youtube.com",
     "top_position": 2,
-    "we_rank": 19
+    "we_rank": 20
    },
    {
     "keyword": "welder inspector",
@@ -5988,7 +5988,7 @@
     "difficulty": 21,
     "top_competitor": "sertifikasi-kemnaker.com",
     "top_position": 2,
-    "we_rank": 3
+    "we_rank": 4
    }
   ]
  },
@@ -6011,6 +6011,14 @@
     "difficulty": 23,
     "top_competitor": "instagram.com",
     "top_position": 4,
+    "we_rank": 6
+   },
+   {
+    "keyword": "hdd driling",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "indoprecast.com",
+    "top_position": 1,
     "we_rank": 6
    },
    {
@@ -6331,20 +6339,20 @@
     "we_rank": 7
    },
    {
+    "keyword": "solusi esg",
+    "volume": null,
+    "difficulty": 17,
+    "top_competitor": "esgsolusi.id",
+    "top_position": 1,
+    "we_rank": 30
+   },
+   {
     "keyword": "esg training",
     "volume": 70,
     "difficulty": 35,
     "top_competitor": "the-esg-institute.org",
     "top_position": 2,
     "we_rank": 42
-   },
-   {
-    "keyword": "esg fundamentals",
-    "volume": 10,
-    "difficulty": 31,
-    "top_competitor": "crmsindonesia.org",
-    "top_position": 1,
-    "we_rank": 3
    }
   ]
  },
@@ -6439,6 +6447,1391 @@
     "top_competitor": "petersonindonesia.com",
     "top_position": 1,
     "we_rank": 28
+   }
+  ]
+ },
+ "8031": {
+  "product_name": "Rincian Teknis TPS B3",
+  "brand": "IEC Group",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "tps b3 adalah",
+    "volume": 140,
+    "difficulty": 13,
+    "top_competitor": "dlh.slemankab.go.id",
+    "top_position": 4,
+    "we_rank": 7
+   },
+   {
+    "keyword": "tps limbah b3",
+    "volume": 720,
+    "difficulty": 11,
+    "top_competitor": "pertalindo.or.id",
+    "top_position": 3,
+    "we_rank": 1
+   },
+   {
+    "keyword": "tps limbah b3 adalah",
+    "volume": 90,
+    "difficulty": 6,
+    "top_competitor": "pertalindo.or.id",
+    "top_position": 4,
+    "we_rank": 4
+   },
+   {
+    "keyword": "contoh tps limbah b3",
+    "volume": 170,
+    "difficulty": 14,
+    "top_competitor": "id.scribd.com",
+    "top_position": 3,
+    "we_rank": 5
+   },
+   {
+    "keyword": "tulisan tps limbah b3",
+    "volume": 140,
+    "difficulty": 22,
+    "top_competitor": "fr.scribd.com",
+    "top_position": 1,
+    "we_rank": 1
+   }
+  ]
+ },
+ "8027": {
+  "product_name": "Pertek Emisi",
+  "brand": "IEC Group",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "pertek emisi",
+    "volume": 260,
+    "difficulty": 11,
+    "top_competitor": "dislhk.ntbprov.go.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "pertek emisi adalah",
+    "volume": 90,
+    "difficulty": 14,
+    "top_competitor": "instagram.com",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "pertek emisi boiler",
+    "volume": 20,
+    "difficulty": 15,
+    "top_competitor": "id.scribd.com",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "pertek emisi udara",
+    "volume": 30,
+    "difficulty": 14,
+    "top_competitor": "id.scribd.com",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "persetujuan teknis emisi",
+    "volume": 30,
+    "difficulty": 13,
+    "top_competitor": "dislhk.ntbprov.go.id",
+    "top_position": 1,
+    "we_rank": 19
+   }
+  ]
+ },
+ "8004": {
+  "product_name": "Audit Lingkungan Hidup",
+  "brand": "IEC Group",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "audit lingkungan",
+    "volume": 320,
+    "difficulty": 14,
+    "top_competitor": "pustaka.ut.ac.id",
+    "top_position": 2,
+    "we_rank": 3
+   },
+   {
+    "keyword": "permen lh 3 tahun 2013",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "wasdal.jakarta.go.id",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "audit lingkungan hidup",
+    "volume": 110,
+    "difficulty": 14,
+    "top_competitor": "amdalnet.kemenlh.go.id",
+    "top_position": 1,
+    "we_rank": 3
+   },
+   {
+    "keyword": "auditor lingkungan",
+    "volume": 320,
+    "difficulty": 8,
+    "top_competitor": "akualita.com",
+    "top_position": 2,
+    "we_rank": 4
+   },
+   {
+    "keyword": "perusahaan apa saja",
+    "volume": 140,
+    "difficulty": 14,
+    "top_competitor": "apindokaltara.com",
+    "top_position": 2,
+    "we_rank": 2
+   }
+  ]
+ },
+ "10025": {
+  "product_name": "Executive Sustainability Assessment",
+  "brand": "Proxsis Sustainability",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "executive recommendation",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "linkedin.com",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
+    "keyword": "proxsis.com",
+    "volume": 40,
+    "difficulty": 33,
+    "top_competitor": "id.linkedin.com",
+    "top_position": 1,
+    "we_rank": 249
+   }
+  ]
+ },
+ "10023": {
+  "product_name": "Carbon Data Readiness Assessment",
+  "brand": "Proxsis Sustainability",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "tco₂e",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "consupedia.com",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "14064 nomor apa",
+    "volume": 1600,
+    "difficulty": 13,
+    "top_competitor": "facebook.com",
+    "top_position": 1,
+    "we_rank": 24
+   }
+  ]
+ },
+ "10024": {
+  "product_name": "ESG Self Assessment Review",
+  "brand": "Proxsis Sustainability",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "esg self-assessment",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "linkedin.com",
+    "top_position": 1,
+    "we_rank": 18
+   },
+   {
+    "keyword": "esg self-assessment solutions",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "linkedin.com",
+    "top_position": 1,
+    "we_rank": 24
+   },
+   {
+    "keyword": "esg assessment",
+    "volume": 10,
+    "difficulty": 24,
+    "top_competitor": "rina.org",
+    "top_position": 1,
+    "we_rank": 5
+   }
+  ]
+ },
+ "10026": {
+  "product_name": "Asesmen Dokumen Lingkungan",
+  "brand": "Proxsis Sustainability",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "dokumen esg",
+    "volume": 10,
+    "difficulty": 28,
+    "top_competitor": "lindungihutan.com",
+    "top_position": 1,
+    "we_rank": 8
+   }
+  ]
+ },
+ "12002": {
+  "product_name": "Business Process Management",
+  "brand": "Proxsis Strategy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": []
+ },
+ "12009": {
+  "product_name": "Project Management Office",
+  "brand": "Proxsis Strategy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": []
+ },
+ "12007": {
+  "product_name": "Feasibility Study",
+  "brand": "Proxsis Strategy",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": []
+ },
+ "13024": {
+  "product_name": "ISO 27001 Information Security",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 27001",
+    "volume": 6600,
+    "difficulty": 11,
+    "top_competitor": "el.iti.ac.id",
+    "top_position": 2,
+    "we_rank": 2
+   },
+   {
+    "keyword": "iso 27001 tentang apa",
+    "volume": 590,
+    "difficulty": 31,
+    "top_competitor": "nsq.co.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "iso 27001 adalah",
+    "volume": 1600,
+    "difficulty": 35,
+    "top_competitor": "sucofindo.co.id",
+    "top_position": 4,
+    "we_rank": 2
+   },
+   {
+    "keyword": "iso27001",
+    "volume": 6600,
+    "difficulty": 43,
+    "top_competitor": "mitraberdaya.id",
+    "top_position": 1,
+    "we_rank": 2
+   },
+   {
+    "keyword": "iso/iec 27001",
+    "volume": 480,
+    "difficulty": 29,
+    "top_competitor": "iso.org",
+    "top_position": 1,
+    "we_rank": 2
+   }
+  ]
+ },
+ "13018": {
+  "product_name": "TRAINING ISO 9001 : 2015 AWARENESS & INTERNAL ...",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "training iso 9001",
+    "volume": 260,
+    "difficulty": 18,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 2,
+    "we_rank": 20
+   },
+   {
+    "keyword": "training iso 9001 versi 2015",
+    "volume": 50,
+    "difficulty": 9,
+    "top_competitor": "dckonsultan.com",
+    "top_position": 2,
+    "we_rank": 10
+   },
+   {
+    "keyword": "iso 9001 training",
+    "volume": 110,
+    "difficulty": 20,
+    "top_competitor": "lrqa.com",
+    "top_position": 2,
+    "we_rank": 26
+   },
+   {
+    "keyword": "training internal auditor iso 9001",
+    "volume": 70,
+    "difficulty": 23,
+    "top_competitor": "lrqa.com",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "iso 9001 internal auditor training",
+    "volume": 70,
+    "difficulty": 23,
+    "top_competitor": "dckonsultan.com",
+    "top_position": 1,
+    "we_rank": 6
+   }
+  ]
+ },
+ "13004": {
+  "product_name": "Training Awareness ISO 9001:2015",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "training awareness adalah",
+    "volume": 70,
+    "difficulty": 13,
+    "top_competitor": "dckonsultan.com",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "awareness iso 9001",
+    "volume": 70,
+    "difficulty": 27,
+    "top_competitor": "enhaiimandiri.com",
+    "top_position": 4,
+    "we_rank": 10
+   },
+   {
+    "keyword": "training awareness",
+    "volume": 40,
+    "difficulty": 23,
+    "top_competitor": "alpconsulting.co.id",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "training awareness iso 9001",
+    "volume": 30,
+    "difficulty": 22,
+    "top_competitor": "icicert.com",
+    "top_position": 2,
+    "we_rank": 11
+   },
+   {
+    "keyword": "iso awareness adalah",
+    "volume": 10,
+    "difficulty": 14,
+    "top_competitor": "mitraberdaya.id",
+    "top_position": 2,
+    "we_rank": 12
+   }
+  ]
+ },
+ "13012": {
+  "product_name": "Mengenal Statistical Process Control (SPC): Fungsi, Alat, dan Contoh Penerapannya di Industri Manufaktur",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "ppic",
+    "volume": 8100,
+    "difficulty": 14,
+    "top_competitor": "id.jobstreet.com",
+    "top_position": 3,
+    "we_rank": 10
+   },
+   {
+    "keyword": "pelatihan ppic",
+    "volume": 70,
+    "difficulty": 25,
+    "top_competitor": "berdiklat.com",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "training ppic",
+    "volume": 50,
+    "difficulty": 23,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 1,
+    "we_rank": 11
+   },
+   {
+    "keyword": "pelatihan ppic gratis",
+    "volume": 20,
+    "difficulty": 20,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "ppic training",
+    "volume": 30,
+    "difficulty": 26,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 14
+   }
+  ]
+ },
+ "13023": {
+  "product_name": "ISO 45001 - ISOCENTER INDONESIA",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "site:isoindonesiacenter.com",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "iso 45001",
+    "volume": 6600,
+    "difficulty": 21,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 72
+   },
+   {
+    "keyword": "iso 45001 training",
+    "volume": 90,
+    "difficulty": 24,
+    "top_competitor": "google.com",
+    "top_position": 3,
+    "we_rank": 2
+   },
+   {
+    "keyword": "iso 45001 2018",
+    "volume": 1000,
+    "difficulty": 17,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "sertifikat iso 45001",
+    "volume": 140,
+    "difficulty": 7,
+    "top_competitor": "ias-indonesia.org",
+    "top_position": 4,
+    "we_rank": 13
+   }
+  ]
+ },
+ "13013": {
+  "product_name": "Training Warehouse Management & Distribution System",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "training gudang",
+    "volume": 30,
+    "difficulty": 19,
+    "top_competitor": "diotraining.com",
+    "top_position": 2,
+    "we_rank": 43
+   },
+   {
+    "keyword": "training warehouse management",
+    "volume": 140,
+    "difficulty": 9,
+    "top_competitor": "diotraining.com",
+    "top_position": 2,
+    "we_rank": 28
+   },
+   {
+    "keyword": "warehouse management & distribution system",
+    "volume": 10,
+    "difficulty": 15,
+    "top_competitor": "ratama.co.id",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "pelatihan distribusi",
+    "volume": null,
+    "difficulty": 17,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 2
+   },
+   {
+    "keyword": "training manajemen gudang",
+    "volume": 10,
+    "difficulty": 23,
+    "top_competitor": "diotraining.com",
+    "top_position": 2,
+    "we_rank": 51
+   }
+  ]
+ },
+ "13002": {
+  "product_name": "Pelatihan ISO 55001:2014 - Sistem Manajemen Aset",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 55001",
+    "volume": 390,
+    "difficulty": 13,
+    "top_competitor": "translate.google.com",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "55001",
+    "volume": 20,
+    "difficulty": 32,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 3
+   },
+   {
+    "keyword": "iso 55000",
+    "volume": 210,
+    "difficulty": 32,
+    "top_competitor": "perpus.utmj.ac.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "site:isoindonesiacenter.com",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "iso 55001:2014",
+    "volume": 20,
+    "difficulty": 21,
+    "top_competitor": "id.scribd.com",
+    "top_position": 1,
+    "we_rank": 5
+   }
+  ]
+ },
+ "13019": {
+  "product_name": "TRAINING BCM Awareness Based on ISO 22301​",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "business continuity management awareness",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 11
+   },
+   {
+    "keyword": "training bcm",
+    "volume": 10,
+    "difficulty": 23,
+    "top_competitor": "dsbanking.com",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "bcm training",
+    "volume": 10,
+    "difficulty": 30,
+    "top_competitor": "translate.google.com",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "iso 22301 training",
+    "volume": 10,
+    "difficulty": 20,
+    "top_competitor": "phitagoras.co.id",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "bcm awareness",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "mitraberdaya.id",
+    "top_position": 2,
+    "we_rank": 2
+   }
+  ]
+ },
+ "13022": {
+  "product_name": "Training Menjadi QMR ISO 9001 yang efektif (Certified ...",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "admin qmr adalah",
+    "volume": 40,
+    "difficulty": 13,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "qmr singkatan dari",
+    "volume": 20,
+    "difficulty": 13,
+    "top_competitor": "it.scribd.com",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "qmr adalah",
+    "volume": 260,
+    "difficulty": 11,
+    "top_competitor": "kc.umn.ac.id",
+    "top_position": 4,
+    "we_rank": 25
+   },
+   {
+    "keyword": "training iso",
+    "volume": 210,
+    "difficulty": 13,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 2,
+    "we_rank": 14
+   },
+   {
+    "keyword": "training iso surabaya",
+    "volume": 10,
+    "difficulty": 22,
+    "top_competitor": "bizplus.id",
+    "top_position": 1,
+    "we_rank": 13
+   }
+  ]
+ },
+ "13010": {
+  "product_name": "Training Statistical Process Control (SPC)",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "statistical process control spc",
+    "volume": 480,
+    "difficulty": 6,
+    "top_competitor": "its.ac.id",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "training spc",
+    "volume": 40,
+    "difficulty": 12,
+    "top_competitor": "phitagoras.co.id",
+    "top_position": 2,
+    "we_rank": 16
+   },
+   {
+    "keyword": "statistical process control adalah",
+    "volume": 170,
+    "difficulty": 16,
+    "top_competitor": "journalweb.org",
+    "top_position": 2,
+    "we_rank": 58
+   },
+   {
+    "keyword": "kepanjangan spc",
+    "volume": 140,
+    "difficulty": 14,
+    "top_competitor": "sentrasconsulting.com",
+    "top_position": 2,
+    "we_rank": 56
+   },
+   {
+    "keyword": "arti spc",
+    "volume": 90,
+    "difficulty": 19,
+    "top_competitor": "mutuinstitute.com",
+    "top_position": 1,
+    "we_rank": 4
+   }
+  ]
+ },
+ "13007": {
+  "product_name": "Training Awareness ISO 27001:2013",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "iso 27001:2013",
+    "volume": 90,
+    "difficulty": 23,
+    "top_competitor": "amtivo-indonesia.com",
+    "top_position": 1,
+    "we_rank": 59
+   },
+   {
+    "keyword": "awareness iso 27001",
+    "volume": 20,
+    "difficulty": 22,
+    "top_competitor": "fei-training.co.id",
+    "top_position": 2,
+    "we_rank": 14
+   },
+   {
+    "keyword": "pengertian security awareness training",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "id.linkedin.com",
+    "top_position": 1,
+    "we_rank": 37
+   },
+   {
+    "keyword": "iso 27001 awareness training",
+    "volume": 10,
+    "difficulty": 12,
+    "top_competitor": "phitagoras.co.id",
+    "top_position": 1,
+    "we_rank": 8
+   },
+   {
+    "keyword": "iso 27001 security awareness training",
+    "volume": 10,
+    "difficulty": 5,
+    "top_competitor": "pecb.com",
+    "top_position": 1,
+    "we_rank": 10
+   }
+  ]
+ },
+ "13009": {
+  "product_name": "Training Root Cause Analysis Technique",
+  "brand": "ISO Center",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "rcat",
+    "volume": 40,
+    "difficulty": 31,
+    "top_competitor": "tradingview.com",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "site:isoindonesiacenter.com",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 1
+   },
+   {
+    "keyword": "rcat training",
+    "volume": 10,
+    "difficulty": 18,
+    "top_competitor": "safetycloud.co.za",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "root cause analysis training",
+    "volume": 50,
+    "difficulty": 11,
+    "top_competitor": "pusdiklatplatindo.co.id",
+    "top_position": 2,
+    "we_rank": 13
+   },
+   {
+    "keyword": "+\"rcat-components\"",
+    "volume": null,
+    "difficulty": 30,
+    "top_competitor": "researchgate.net",
+    "top_position": 1,
+    "we_rank": 8
+   }
+  ]
+ },
+ "14036": {
+  "product_name": "Training Need Analysis (TNA) & Training Evaluation (TE)",
+  "brand": "Proxsis HR",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "tna training",
+    "volume": 1000,
+    "difficulty": 11,
+    "top_competitor": "hrdspot.com",
+    "top_position": 2,
+    "we_rank": 40
+   },
+   {
+    "keyword": "training need analysis training malaysia",
+    "volume": null,
+    "difficulty": 4,
+    "top_competitor": "mefacademy.mef.org.my",
+    "top_position": 1,
+    "we_rank": 88
+   },
+   {
+    "keyword": "tna training malaysia",
+    "volume": null,
+    "difficulty": 12,
+    "top_competitor": "trainingasia.com.my",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "training need assesment",
+    "volume": 70,
+    "difficulty": 16,
+    "top_competitor": "repositori-ditjen-nakes.kemkes.go.id",
+    "top_position": 1,
+    "we_rank": 43
+   },
+   {
+    "keyword": "training need analysis",
+    "volume": 1300,
+    "difficulty": 31,
+    "top_competitor": "talenta.co",
+    "top_position": 2,
+    "we_rank": 13
+   }
+  ]
+ },
+ "11019": {
+  "product_name": "Basic Safety Training",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "safety",
+    "volume": 40500,
+    "difficulty": 44,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "basic safety training",
+    "volume": 880,
+    "difficulty": 15,
+    "top_competitor": "dkp.jatimprov.go.id",
+    "top_position": 4,
+    "we_rank": 2
+   },
+   {
+    "keyword": "bst adalah",
+    "volume": 1300,
+    "difficulty": 27,
+    "top_competitor": "google.com",
+    "top_position": 2,
+    "we_rank": 6
+   },
+   {
+    "keyword": "bst itu apa",
+    "volume": 480,
+    "difficulty": 13,
+    "top_competitor": "diklatbenoa.com",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "apa itu bst",
+    "volume": 720,
+    "difficulty": 16,
+    "top_competitor": "pgnlng.co.id",
+    "top_position": 2,
+    "we_rank": 6
+   }
+  ]
+ },
+ "11032": {
+  "product_name": "HIRARC/HIRADC",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "hirarc",
+    "volume": 1300,
+    "difficulty": 31,
+    "top_competitor": "pelatihank3kemenaker.com",
+    "top_position": 5,
+    "we_rank": 4
+   },
+   {
+    "keyword": "hirarc adalah",
+    "volume": 720,
+    "difficulty": 12,
+    "top_competitor": "eprints.pktj.ac.id",
+    "top_position": 4,
+    "we_rank": 7
+   },
+   {
+    "keyword": "hirac adalah",
+    "volume": 480,
+    "difficulty": 12,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 2,
+    "we_rank": 9
+   },
+   {
+    "keyword": "hazard identification adalah",
+    "volume": 210,
+    "difficulty": 14,
+    "top_competitor": "ejurnal.itenas.ac.id",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
+    "keyword": "hirac k3",
+    "volume": 140,
+    "difficulty": 19,
+    "top_competitor": "ahlik3.co.id",
+    "top_position": 1,
+    "we_rank": 4
+   }
+  ]
+ },
+ "11077": {
+  "product_name": "ISO 50001 Audit Energi",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": []
+ },
+ "11020": {
+  "product_name": "Behaviour Based Safety (BBS)",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "behavior based safety",
+    "volume": 480,
+    "difficulty": 23,
+    "top_competitor": "media.neliti.com",
+    "top_position": 3,
+    "we_rank": 7
+   },
+   {
+    "keyword": "behaviour based safety",
+    "volume": 9900,
+    "difficulty": 29,
+    "top_competitor": "etd.repository.ugm.ac.id",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
+    "keyword": "bbs safety",
+    "volume": 480,
+    "difficulty": 17,
+    "top_competitor": "synergysolusi.com",
+    "top_position": 5,
+    "we_rank": 4
+   },
+   {
+    "keyword": "be safety",
+    "volume": 480,
+    "difficulty": 29,
+    "top_competitor": "besafety.hu",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "bbs adalah",
+    "volume": 880,
+    "difficulty": 11,
+    "top_competitor": "synergysolusi.com",
+    "top_position": 4,
+    "we_rank": 3
+   }
+  ]
+ },
+ "11039": {
+  "product_name": "Operator Scaffolding",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikat scaffolding",
+    "volume": 590,
+    "difficulty": 8,
+    "top_competitor": "mediaedutama.co.id",
+    "top_position": 4,
+    "we_rank": 5
+   },
+   {
+    "keyword": "operator scaffolding",
+    "volume": 140,
+    "difficulty": 9,
+    "top_competitor": "belajark3.com",
+    "top_position": 4,
+    "we_rank": 5
+   },
+   {
+    "keyword": "operator scaffolding adalah",
+    "volume": 40,
+    "difficulty": 13,
+    "top_competitor": "lsp-tambangminerba.co.id",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "sertifikat scaffolder",
+    "volume": 590,
+    "difficulty": 9,
+    "top_competitor": "pelatihan-indonesia.id",
+    "top_position": 4,
+    "we_rank": 11
+   },
+   {
+    "keyword": "sertifikasi scaffolder",
+    "volume": 590,
+    "difficulty": 19,
+    "top_competitor": "arthasafetyindonesia.co.id",
+    "top_position": 2,
+    "we_rank": 9
+   }
+  ]
+ },
+ "11084": {
+  "product_name": "Sistem Manajemen K3 Pertambangan (Permen ESDM 38/2014)",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikasi k3 pertambangan",
+    "volume": 140,
+    "difficulty": 9,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 2,
+    "we_rank": 7
+   },
+   {
+    "keyword": "pelatihan k3 pertambangan",
+    "volume": 70,
+    "difficulty": 23,
+    "top_competitor": "saranak3.co.id",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "k3 tambang",
+    "volume": 260,
+    "difficulty": 9,
+    "top_competitor": "sentrasconsulting.com",
+    "top_position": 2,
+    "we_rank": 11
+   },
+   {
+    "keyword": "pelatihan k3 tambang",
+    "volume": 50,
+    "difficulty": 23,
+    "top_competitor": "arthasafetyindonesia.co.id",
+    "top_position": 2,
+    "we_rank": 5
+   },
+   {
+    "keyword": "sertifikasi k3 tambang",
+    "volume": 110,
+    "difficulty": 8,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 2,
+    "we_rank": 8
+   }
+  ]
+ },
+ "11048": {
+  "product_name": "Perancang Scaffolding",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "pelatihan scaffolding",
+    "volume": 140,
+    "difficulty": 10,
+    "top_competitor": "proglat.kemnaker.go.id",
+    "top_position": 2,
+    "we_rank": 10
+   },
+   {
+    "keyword": "sertifikat scaffolding",
+    "volume": 590,
+    "difficulty": 8,
+    "top_competitor": "mediaedutama.co.id",
+    "top_position": 4,
+    "we_rank": 5
+   },
+   {
+    "keyword": "k3 scaffolding",
+    "volume": 70,
+    "difficulty": 22,
+    "top_competitor": "mutiaramutusertifikasi.com",
+    "top_position": 2,
+    "we_rank": 17
+   },
+   {
+    "keyword": "training scaffolding",
+    "volume": 50,
+    "difficulty": 20,
+    "top_competitor": "midiatama.co.id",
+    "top_position": 1,
+    "we_rank": 7
+   },
+   {
+    "keyword": "scaffolding engineer",
+    "volume": 40,
+    "difficulty": 19,
+    "top_competitor": "id.jobstreet.com",
+    "top_position": 1,
+    "we_rank": 4
+   }
+  ]
+ },
+ "11038": {
+  "product_name": "Operator K3 Umum",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "operator k3 umum",
+    "volume": 90,
+    "difficulty": 10,
+    "top_competitor": "registrasi.ppm-manajemen.ac.id",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "operator k3",
+    "volume": 170,
+    "difficulty": 9,
+    "top_competitor": "belajark3.com",
+    "top_position": 4,
+    "we_rank": 5
+   },
+   {
+    "keyword": "operator k3 umum adalah",
+    "volume": 20,
+    "difficulty": 6,
+    "top_competitor": "ahlik3.co.id",
+    "top_position": 2,
+    "we_rank": 6
+   },
+   {
+    "keyword": "k3 operator",
+    "volume": 50,
+    "difficulty": 20,
+    "top_competitor": "patrarijaya.co.id",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "operator k3 adalah",
+    "volume": 70,
+    "difficulty": 14,
+    "top_competitor": "akualita.com",
+    "top_position": 2,
+    "we_rank": 7
+   }
+  ]
+ },
+ "11021": {
+  "product_name": "CSMS",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "sertifikasi csms",
+    "volume": 70,
+    "difficulty": 24,
+    "top_competitor": "garudasystrain.co.id",
+    "top_position": 2,
+    "we_rank": 8
+   },
+   {
+    "keyword": "training csms",
+    "volume": 40,
+    "difficulty": 23,
+    "top_competitor": "akualita.com",
+    "top_position": 1,
+    "we_rank": 6
+   },
+   {
+    "keyword": "sertifikat csms",
+    "volume": 260,
+    "difficulty": 9,
+    "top_competitor": "mahakainstitute.com",
+    "top_position": 4,
+    "we_rank": 14
+   },
+   {
+    "keyword": "pelatihan csms",
+    "volume": 40,
+    "difficulty": 23,
+    "top_competitor": "gemilang-training.com",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "training csms bnsp",
+    "volume": 20,
+    "difficulty": 22,
+    "top_competitor": "phitagoras.co.id",
+    "top_position": 2,
+    "we_rank": 6
+   }
+  ]
+ },
+ "11056": {
+  "product_name": "Safety Risk Assessment Tools",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "safety risk management adalah",
+    "volume": 70,
+    "difficulty": 6,
+    "top_competitor": "fanruan.com",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "safety assessment adalah",
+    "volume": 40,
+    "difficulty": 13,
+    "top_competitor": "synergysolusi.com",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "safety risk assessment",
+    "volume": 30,
+    "difficulty": 22,
+    "top_competitor": "synergysolusi.com",
+    "top_position": 1,
+    "we_rank": 5
+   },
+   {
+    "keyword": "tools risk",
+    "volume": 10,
+    "difficulty": 23,
+    "top_competitor": "cyberarrow.io",
+    "top_position": 1,
+    "we_rank": 25
+   },
+   {
+    "keyword": "safety risk",
+    "volume": 40,
+    "difficulty": 18,
+    "top_competitor": "synergysolusi.com",
+    "top_position": 1,
+    "we_rank": 6
+   }
+  ]
+ },
+ "11064": {
+  "product_name": "Awareness Integrated QHSE Management System",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "distributor qhse",
+    "volume": null,
+    "difficulty": 17,
+    "top_competitor": "facebook.com",
+    "top_position": 1,
+    "we_rank": 31
+   },
+   {
+    "keyword": "jual qhse",
+    "volume": null,
+    "difficulty": 17,
+    "top_competitor": "-",
+    "top_position": null,
+    "we_rank": 18
+   },
+   {
+    "keyword": "qhse management system",
+    "volume": 30,
+    "difficulty": 18,
+    "top_competitor": "pelatihan-indonesia.id",
+    "top_position": 1,
+    "we_rank": 9
+   },
+   {
+    "keyword": "integrated training adalah",
+    "volume": 20,
+    "difficulty": 13,
+    "top_competitor": "mahakainstitute.com",
+    "top_position": 1,
+    "we_rank": 4
+   },
+   {
+    "keyword": "training awareness",
+    "volume": 40,
+    "difficulty": 23,
+    "top_competitor": "alpconsulting.co.id",
+    "top_position": 1,
+    "we_rank": 8
+   }
+  ]
+ },
+ "11054": {
+  "product_name": "Safety Leadership",
+  "brand": "ISC Safety School",
+  "source": "GSC queries + Ubersuggest SERP (id/Indonesia)",
+  "competitor_keywords": [
+   {
+    "keyword": "safety leadership",
+    "volume": 170,
+    "difficulty": 13,
+    "top_competitor": "synergysolusi.com",
+    "top_position": 3,
+    "we_rank": 8
+   },
+   {
+    "keyword": "safety learning indonesia",
+    "volume": 50,
+    "difficulty": 19,
+    "top_competitor": "instagram.com",
+    "top_position": 1,
+    "we_rank": 10
+   },
+   {
+    "keyword": "safety leadership training",
+    "volume": 50,
+    "difficulty": 22,
+    "top_competitor": "freshconsultant.co.id",
+    "top_position": 1,
+    "we_rank": 2
+   },
+   {
+    "keyword": "training safety leadership",
+    "volume": 50,
+    "difficulty": 22,
+    "top_competitor": "allsys-solutions.com",
+    "top_position": 2,
+    "we_rank": 1
+   },
+   {
+    "keyword": "safety training",
+    "volume": 140,
+    "difficulty": 9,
+    "top_competitor": "diotraining.com",
+    "top_position": 5,
+    "we_rank": 8
    }
   ]
  }

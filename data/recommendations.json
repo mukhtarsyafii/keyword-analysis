@@ -105,7 +105,7 @@
   },
   "prioritas": 1
  },
- "24": {
+ "39": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -115,7 +115,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk t",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi corporate dan Mengapa Penting bagi Perusahaan",
@@ -159,7 +159,7 @@
  },
  "7": {
   "masalah": [
-   "Impresi tinggi (3,115) tetapi CTR hanya 0.8% — 3,090 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,040) tetapi CTR hanya 0.82% — 3,015 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -214,14 +214,12 @@
  },
  "9": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Framework GRC (Governance Risk Compliance)\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Integrasi ES-GRC Bersertifikat - GRC Indonesia",
    "meta_description": "Training enterprise security GRC terintegrasi di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house:",
@@ -238,7 +236,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "10": {
   "masalah": [
@@ -271,9 +269,9 @@
   },
   "prioritas": 1
  },
- "20": {
+ "11": {
   "masalah": [
-   "Impresi tinggi (5,416) tetapi CTR hanya 0.33% — 5,398 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,462) tetapi CTR hanya 0.33% — 5,444 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -284,7 +282,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
+   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan ISO 37301 adalah program pelatihan Standar ISO & Kepatuhan dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan ISO 37301 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Pelatihan ISO 37301 dan Mengapa Penting bagi Perusahaan",
@@ -358,7 +356,7 @@
  },
  "14": {
   "masalah": [
-   "Impresi tinggi (1,704) tetapi CTR hanya 0.7% — 1,692 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,711) tetapi CTR hanya 0.7% — 1,699 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -387,7 +385,7 @@
  },
  "15": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #33) — masih di halaman 2+ Google."
+   "Posisi terkini #13 (rata-rata periode #33) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Tugas compliance officer di perusahaan\" ke halaman transaksional ini."
@@ -444,7 +442,7 @@
  },
  "17": {
   "masalah": [
-   "Impresi tinggi (3,165) tetapi CTR hanya 1.58% — 3,115 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,214) tetapi CTR hanya 1.59% — 3,163 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -473,7 +471,7 @@
  },
  "18": {
   "masalah": [
-   "Impresi tinggi (4,027) tetapi CTR hanya 0.55% — 4,005 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,055) tetapi CTR hanya 0.57% — 4,032 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -502,7 +500,7 @@
  },
  "19": {
   "masalah": [
-   "Impresi tinggi (4,092) tetapi CTR hanya 0.49% — 4,072 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,138) tetapi CTR hanya 0.56% — 4,115 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -529,9 +527,9 @@
   },
   "prioritas": 5
  },
- "11": {
+ "20": {
   "masalah": [
-   "Impresi tinggi (5,416) tetapi CTR hanya 0.33% — 5,398 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,462) tetapi CTR hanya 0.33% — 5,444 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -542,7 +540,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training sistem manajemen kepatuhan adalah program pelatihan AI & Data Governance dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training sistem manajemen kepatuhan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training sistem manajemen kepatuhan dan Mengapa Penting bagi Perusahaan",
@@ -560,12 +558,14 @@
  },
  "21": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"Klausul ISO 37001 anti penyuapan\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Sistem Manajemen Anti Penyuapan ISO 37001 - GRC Indonesia",
    "meta_description": "Training sistem manajemen anti penyuapan (SMAP) di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-hous",
@@ -582,7 +582,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "22": {
   "masalah": [
@@ -636,7 +636,7 @@
   },
   "prioritas": 5
  },
- "39": {
+ "24": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -646,7 +646,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat unt",
+   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi fraud corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi fraud corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi fraud corporate dan Mengapa Penting bagi Perusahaan",
@@ -664,14 +664,12 @@
  },
  "25": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #7) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Apa itu ISO 31022?\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Managing Legal Risk Based On ISO 31022 - GRC Indonesia",
    "meta_description": "Manajemen Risiko Hukum di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -688,7 +686,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "26": {
   "masalah": [
@@ -770,7 +768,7 @@
  },
  "29": {
   "masalah": [
-   "Posisi terkini #24 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #15 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"apa itu integrated grc\" ke halaman transaksional ini."
@@ -798,14 +796,12 @@
  },
  "30": {
   "masalah": [
-   "Posisi terkini #15 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Cara Mengintegrasikan Risk Appetite dalam Budgeting\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Penyusunan Anggaran Berbasis Risiko - GRC Indonesia",
    "meta_description": "Pelatihan Risk Based Budgeting di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -822,7 +818,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "31": {
   "masalah": [
@@ -1008,7 +1004,7 @@
  },
  "38": {
   "masalah": [
-   "Impresi tinggi (4,262) tetapi CTR hanya 0.84% — 4,226 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,406) tetapi CTR hanya 0.82% — 4,370 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -1035,17 +1031,19 @@
   },
   "prioritas": 5
  },
- "40": {
+ "43": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #23 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"tanggung jawab fidusia direksi bumn\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan boardrooms governance bumn dan Mengapa Penting bagi Perusahaan",
@@ -1059,19 +1057,21 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
- "43": {
+ "40": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #23 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"peran dewan komisaris dalam tata kelola perusahaan\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan direksi dan komisaris dan Mengapa Penting bagi Perusahaan",
@@ -1085,7 +1085,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "41": {
   "masalah": [
@@ -1141,7 +1141,7 @@
   },
   "prioritas": 3
  },
- "44": {
+ "56": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1167,7 +1167,7 @@
   },
   "prioritas": 1
  },
- "56": {
+ "44": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1299,8 +1299,8 @@
  },
  "49": {
   "masalah": [
-   "Impresi tinggi (7,095) tetapi CTR hanya 0.83% — 7,036 tayangan tidak menghasilkan klik.",
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.83% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (7,040) tetapi CTR hanya 0.81% — 6,983 tayangan tidak menghasilkan klik.",
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.81% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -1434,7 +1434,7 @@
  },
  "54": {
   "masalah": [
-   "Posisi terkini #20 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Posisi terkini #12 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"template maturity assessment tool manajemen risiko\" ke halaman transaksional ini."
@@ -1570,7 +1570,7 @@
  },
  "1003": {
   "masalah": [
-   "Impresi tinggi (6,192) tetapi CTR hanya 0.31% — 6,173 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,221) tetapi CTR hanya 0.31% — 6,202 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -1599,7 +1599,7 @@
  },
  "1004": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.05% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.11% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -1759,7 +1759,7 @@
  },
  "1010": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Posisi terkini #18 (rata-rata periode #23) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -1813,14 +1813,12 @@
  },
  "1012": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #13) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Balanced Scorecard - IPQI Training Center - IPQI",
    "meta_description": "bsc hr di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -1837,11 +1835,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1013": {
   "masalah": [
-   "Posisi terkini #53 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #32 (rata-rata periode #21) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -1869,7 +1867,7 @@
  },
  "1014": {
   "masalah": [
-   "Impresi tinggi (818) tetapi CTR hanya 1.59% — 805 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (830) tetapi CTR hanya 1.57% — 817 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -1926,8 +1924,8 @@
  },
  "1016": {
   "masalah": [
-   "Impresi tinggi (1,870) tetapi CTR hanya 1.28% — 1,846 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #27 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,900) tetapi CTR hanya 1.37% — 1,874 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #24 (rata-rata periode #21) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -1958,7 +1956,7 @@
  },
  "1017": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Posisi terkini #28 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -1986,7 +1984,7 @@
  },
  "1018": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.23% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.22% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -2092,12 +2090,14 @@
  },
  "1022": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #20 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Awareness Quality Management - IPQI",
    "meta_description": "quality awareness adalah di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -2114,7 +2114,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "1023": {
   "masalah": [
@@ -2196,12 +2196,14 @@
  },
  "1026": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.75% — posisi bagus terbuang karena snippet lemah."
+   "Posisi terkini #18 (rata-rata periode #15) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Lobbying and Negotiation Skill - IPQI",
    "meta_description": "indonesia quality institution di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -2218,11 +2220,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 3
  },
  "1027": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #26) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #27) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -2276,10 +2278,10 @@
  },
  "1029": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.26% — posisi bagus terbuang karena snippet lemah."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Lanjutkan pemantauan mingguan."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -2298,7 +2300,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "1030": {
   "masalah": [
@@ -2408,12 +2410,10 @@
  },
  "1034": {
   "masalah": [
-   "Impresi tinggi (1,154) tetapi CTR hanya 0.35% — 1,150 tayangan tidak menghasilkan klik.",
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.35% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (1,142) tetapi CTR hanya 0.35% — 1,138 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
@@ -2439,12 +2439,14 @@
  },
  "1035": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #7) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"prinsip audit internal berdasarkan iso 19011 2018\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Pelatihan Internal Auditor ISO 9001:2026 - IPQI",
    "meta_description": "Pelatihan dan sertifikasi internal auditor ISO 9001:2026, 2 hari, 60% simulasi audit proses bank. Mulai Rp4,5 juta. Daftar via WhatsApp.",
@@ -2461,7 +2463,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "1036": {
   "masalah": [
@@ -2517,7 +2519,7 @@
  },
  "1038": {
   "masalah": [
-   "Posisi terkini #32 (rata-rata periode #16) — masih di halaman 2+ Google."
+   "Posisi terkini #18 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"cara menghitung overall equipment effectiveness oee\" ke halaman transaksional ini."
@@ -2623,7 +2625,7 @@
  },
  "1042": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"cara menghitung safety stock dan reorder point excel\" ke halaman transaksional ini."
@@ -2703,7 +2705,7 @@
  },
  "1045": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"tugas dan peran fasilitator qcc\" ke halaman transaksional ini."
@@ -2837,7 +2839,7 @@
  },
  "2002": {
   "masalah": [
-   "Posisi terkini #33 (rata-rata periode #40) — masih di halaman 2+ Google."
+   "Posisi terkini #33 (rata-rata periode #39) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -2971,7 +2973,7 @@
  },
  "2007": {
   "masalah": [
-   "Posisi terkini #14 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #15 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3053,7 +3055,7 @@
  },
  "2010": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #15) — masih di halaman 2+ Google."
+   "Posisi terkini #12 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3137,14 +3139,12 @@
  },
  "2013": {
   "masalah": [
-   "Posisi terkini #16 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Finance For Non Finance 2026 - FS Institute",
    "meta_description": "literasi keuangan untuk non finance di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi ti",
@@ -3161,7 +3161,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "2014": {
   "masalah": [
@@ -3245,7 +3245,7 @@
  },
  "2017": {
   "masalah": [
-   "Posisi terkini #20 (rata-rata periode #28) — masih di halaman 2+ Google."
+   "Posisi terkini #18 (rata-rata periode #28) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3273,7 +3273,7 @@
  },
  "2018": {
   "masalah": [
-   "Posisi terkini #72 (rata-rata periode #41) — masih di halaman 2+ Google."
+   "Posisi terkini #77 (rata-rata periode #42) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3379,7 +3379,7 @@
  },
  "2022": {
   "masalah": [
-   "Posisi terkini #25 (rata-rata periode #21) — masih di halaman 2+ Google."
+   "Posisi terkini #26 (rata-rata periode #21) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3515,7 +3515,7 @@
  },
  "2027": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.39% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.37% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -3541,7 +3541,7 @@
  },
  "2028": {
   "masalah": [
-   "Posisi terkini #29 (rata-rata periode #46) — masih di halaman 2+ Google."
+   "Posisi terkini #31 (rata-rata periode #46) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3595,14 +3595,12 @@
  },
  "2030": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Advanced Accounting 2026 - FS Institute",
    "meta_description": "akuntansi lanjutan perusahaan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -3619,7 +3617,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "2031": {
   "masalah": [
@@ -3727,14 +3725,12 @@
  },
  "2035": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #28) — masih di halaman 2+ Google."
+   "Peringkat #2 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Cost Accounting Perbankan 2026 - FS Institute",
    "meta_description": "akuntansi biaya perbankan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -3751,7 +3747,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "2036": {
   "masalah": [
@@ -3889,7 +3885,7 @@
  },
  "2041": {
   "masalah": [
-   "Posisi terkini #47 (rata-rata periode #35) — masih di halaman 2+ Google."
+   "Posisi terkini #26 (rata-rata periode #34) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3943,7 +3939,7 @@
  },
  "2043": {
   "masalah": [
-   "Posisi terkini #28 (rata-rata periode #41) — masih di halaman 2+ Google."
+   "Posisi terkini #29 (rata-rata periode #41) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3997,12 +3993,14 @@
  },
  "2045": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "TRAINING ASSET LIABILITY MANAGEMENT (ALMA) - FS Institute",
    "meta_description": "Training ALMA Melaksanakan kebijakan manajemen aktiva dan pasiva (ALM) secara efektif2 dan Mengelola fungsi ALM",
@@ -4019,7 +4017,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "2046": {
   "masalah": [
@@ -4049,14 +4047,12 @@
  },
  "2047": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Balanced Scorecard 2026 - FS Institute",
    "meta_description": "implementasi balanced scorecard kpi di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -4073,7 +4069,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "2048": {
   "masalah": [
@@ -4155,7 +4151,7 @@
  },
  "2051": {
   "masalah": [
-   "Impresi tinggi (964) tetapi CTR hanya 0.93% — 955 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (980) tetapi CTR hanya 0.92% — 971 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -4394,10 +4390,10 @@
  },
  "2060": {
   "masalah": [
-   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.45% — posisi bagus terbuang karena snippet lemah."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Lanjutkan pemantauan mingguan."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -4416,18 +4412,16 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "2061": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #21) — masih di halaman 2+ Google."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.85% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi PSAK Update & Implementation 2026 - FS Institute",
    "meta_description": "implementasi psak terkini di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -4444,11 +4438,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "2062": {
   "masalah": [
-   "Impresi tinggi (3,240) tetapi CTR hanya 0.93% — 3,210 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,252) tetapi CTR hanya 0.92% — 3,222 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -4477,8 +4471,8 @@
  },
  "2063": {
   "masalah": [
-   "Impresi tinggi (940) tetapi CTR hanya 1.28% — 928 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #13 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Impresi tinggi (953) tetapi CTR hanya 1.26% — 941 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #12 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -4535,12 +4529,14 @@
  },
  "2065": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #18 (rata-rata periode #18) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Manajemen Risiko Terpadu dengan ISO 31000:2009 dan ISO 9001:2015 - FS Institute",
    "meta_description": "Dalam pelatihan manajemen risiko terpadu, Anda akan mempelajari bagaimana memadukan ISO 9001 dengan ISO 31000 guna membantu organisasi",
@@ -4557,12 +4553,12 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "3001": {
   "masalah": [
-   "Impresi tinggi (2,117) tetapi CTR hanya 1.23% — 2,091 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #35 (rata-rata periode #21) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,127) tetapi CTR hanya 1.22% — 2,101 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #29 (rata-rata periode #21) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -4593,7 +4589,7 @@
  },
  "3002": {
   "masalah": [
-   "Impresi tinggi (12,084) tetapi CTR hanya 0.5% — 12,023 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (12,324) tetapi CTR hanya 0.5% — 12,262 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -4648,7 +4644,7 @@
  },
  "3004": {
   "masalah": [
-   "Posisi terkini #48 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Posisi terkini #26 (rata-rata periode #23) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4676,8 +4672,8 @@
  },
  "3005": {
   "masalah": [
-   "Impresi tinggi (2,169) tetapi CTR hanya 0.74% — 2,153 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #26 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,109) tetapi CTR hanya 0.76% — 2,093 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #40 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -4708,7 +4704,7 @@
  },
  "3006": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #14) — masih di halaman 2+ Google."
+   "Posisi terkini #12 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4736,8 +4732,8 @@
  },
  "3007": {
   "masalah": [
-   "Impresi tinggi (6,139) tetapi CTR hanya 0.33% — 6,119 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #41 (rata-rata periode #52) — masih di halaman 2+ Google."
+   "Impresi tinggi (6,151) tetapi CTR hanya 0.34% — 6,130 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #32 (rata-rata periode #52) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -4768,8 +4764,8 @@
  },
  "3008": {
   "masalah": [
-   "Impresi tinggi (1,054) tetapi CTR hanya 1.23% — 1,041 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #25 (rata-rata periode #42) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,023) tetapi CTR hanya 1.27% — 1,010 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #15 (rata-rata periode #41) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -4800,8 +4796,8 @@
  },
  "3009": {
   "masalah": [
-   "Impresi tinggi (2,365) tetapi CTR hanya 0.55% — 2,352 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #57 (rata-rata periode #40) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,361) tetapi CTR hanya 0.55% — 2,348 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #56 (rata-rata periode #40) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -4832,7 +4828,7 @@
  },
  "3010": {
   "masalah": [
-   "Posisi terkini #36 (rata-rata periode #40) — masih di halaman 2+ Google."
+   "Posisi terkini #29 (rata-rata periode #40) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4860,7 +4856,7 @@
  },
  "3011": {
   "masalah": [
-   "Posisi terkini #67 (rata-rata periode #47) — masih di halaman 2+ Google."
+   "Posisi terkini #38 (rata-rata periode #47) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4916,7 +4912,7 @@
  },
  "3013": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #15) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #15) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4944,14 +4940,12 @@
  },
  "3014": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #20) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Data Governance Practicioner - ITGID | IT Governance Indonesia - ITGID",
    "meta_description": "training data governance di ITGID. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -4968,7 +4962,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "3015": {
   "masalah": [
@@ -5113,8 +5107,8 @@
  },
  "3020": {
   "masalah": [
-   "Impresi tinggi (995) tetapi CTR hanya 1.11% — 984 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #40 (rata-rata periode #25) — masih di halaman 2+ Google."
+   "Impresi tinggi (965) tetapi CTR hanya 1.04% — 955 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #40 (rata-rata periode #26) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -5257,8 +5251,8 @@
  },
  "3025": {
   "masalah": [
-   "Impresi tinggi (4,953) tetapi CTR hanya 0.36% — 4,935 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #32 (rata-rata periode #21) — masih di halaman 2+ Google."
+   "Impresi tinggi (4,885) tetapi CTR hanya 0.35% — 4,868 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #20 (rata-rata periode #21) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -5289,7 +5283,7 @@
  },
  "3026": {
   "masalah": [
-   "Posisi terkini #80 (rata-rata periode #34) — masih di halaman 2+ Google."
+   "Posisi terkini #79 (rata-rata periode #34) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -5317,7 +5311,7 @@
  },
  "3027": {
   "masalah": [
-   "Impresi tinggi (1,016) tetapi CTR hanya 0.98% — 1,006 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (967) tetapi CTR hanya 0.83% — 959 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -5372,7 +5366,7 @@
  },
  "3029": {
   "masalah": [
-   "Posisi terkini #22 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Posisi terkini #26 (rata-rata periode #23) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -5428,7 +5422,7 @@
  },
  "3031": {
   "masalah": [
-   "Impresi tinggi (1,072) tetapi CTR hanya 1.49% — 1,056 tayangan tidak menghasilkan klik.",
+   "Impresi tinggi (1,060) tetapi CTR hanya 1.51% — 1,044 tayangan tidak menghasilkan klik.",
    "Posisi terkini #72 (rata-rata periode #26) — masih di halaman 2+ Google."
   ],
   "solusi": [
@@ -5516,7 +5510,7 @@
  },
  "3034": {
   "masalah": [
-   "Posisi terkini #37 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #20 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -5544,7 +5538,7 @@
  },
  "3035": {
   "masalah": [
-   "Posisi terkini #20 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Posisi terkini #20 (rata-rata periode #18) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -5572,8 +5566,8 @@
  },
  "3036": {
   "masalah": [
-   "Impresi tinggi (3,132) tetapi CTR hanya 0.22% — 3,125 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #11 (rata-rata periode #18) — masih di halaman 2+ Google."
+   "Impresi tinggi (3,142) tetapi CTR hanya 0.22% — 3,135 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #11 (rata-rata periode #17) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -5630,17 +5624,14 @@
  },
  "3038": {
   "masalah": [
-   "Impresi tinggi (8,313) tetapi CTR hanya 1.98% — 8,148 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #13 (rata-rata periode #17) — masih di halaman 2+ Google."
+   "Impresi tinggi (8,178) tetapi CTR hanya 1.98% — 8,016 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
   ],
   "perbaikan": {
    "meta_title": "Cyber Security Training - ITGID | IT Governance Indonesia - ITGID",
@@ -5688,7 +5679,7 @@
  },
  "3040": {
   "masalah": [
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.24% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.55% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -5818,7 +5809,7 @@
  },
  "3045": {
   "masalah": [
-   "Impresi tinggi (2,011) tetapi CTR hanya 0.65% — 1,998 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,993) tetapi CTR hanya 0.7% — 1,979 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -5847,7 +5838,7 @@
  },
  "3046": {
   "masalah": [
-   "Impresi tinggi (4,373) tetapi CTR hanya 1.26% — 4,318 tayangan tidak menghasilkan klik.",
+   "Impresi tinggi (4,356) tetapi CTR hanya 1.33% — 4,298 tayangan tidak menghasilkan klik.",
    "Posisi terkini #12 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
@@ -5879,7 +5870,7 @@
  },
  "3047": {
   "masalah": [
-   "Impresi tinggi (11,207) tetapi CTR hanya 1.63% — 11,024 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (10,943) tetapi CTR hanya 1.71% — 10,756 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -5908,7 +5899,7 @@
  },
  "3048": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #18) — masih di halaman 2+ Google."
+   "Posisi terkini #12 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -5936,8 +5927,8 @@
  },
  "3049": {
   "masalah": [
-   "Impresi tinggi (1,089) tetapi CTR hanya 0.92% — 1,079 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #22 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,071) tetapi CTR hanya 0.93% — 1,061 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #20 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -6020,7 +6011,7 @@
  },
  "3052": {
   "masalah": [
-   "Impresi tinggi (2,091) tetapi CTR hanya 0.72% — 2,076 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,042) tetapi CTR hanya 0.69% — 2,028 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -6049,8 +6040,8 @@
  },
  "3053": {
   "masalah": [
-   "Impresi tinggi (1,165) tetapi CTR hanya 1.03% — 1,153 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #31 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,177) tetapi CTR hanya 1.02% — 1,165 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #44 (rata-rata periode #24) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -6081,7 +6072,7 @@
  },
  "3054": {
   "masalah": [
-   "Posisi terkini #16 (rata-rata periode #14) — masih di halaman 2+ Google."
+   "Posisi terkini #24 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -6187,7 +6178,7 @@
  },
  "3058": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -6325,8 +6316,8 @@
  },
  "4002": {
   "masalah": [
-   "Impresi tinggi (1,017) tetapi CTR hanya 0.49% — 1,012 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #54 (rata-rata periode #35) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,022) tetapi CTR hanya 0.49% — 1,017 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #54 (rata-rata periode #36) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -6357,7 +6348,7 @@
  },
  "4003": {
   "masalah": [
-   "Impresi tinggi (1,148) tetapi CTR hanya 0.09% — 1,147 tayangan tidak menghasilkan klik.",
+   "Impresi tinggi (1,150) tetapi CTR hanya 0.09% — 1,149 tayangan tidak menghasilkan klik.",
    "Posisi terkini #49 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
@@ -6389,7 +6380,7 @@
  },
  "4004": {
   "masalah": [
-   "Posisi terkini #55 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Posisi terkini #53 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -6445,7 +6436,7 @@
  },
  "4006": {
   "masalah": [
-   "Posisi terkini #68 (rata-rata periode #44) — masih di halaman 2+ Google."
+   "Posisi terkini #56 (rata-rata periode #44) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -6499,14 +6490,12 @@
  },
  "4008": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #15) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi CGEIT Exam Preparation 2026 - Biztech Academy",
    "meta_description": "cgeit adalah di Biztech Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -6523,7 +6512,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "4009": {
   "masalah": [
@@ -6555,7 +6544,7 @@
  },
  "4010": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #34) — masih di halaman 2+ Google."
+   "Posisi terkini #34 (rata-rata periode #34) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -6583,7 +6572,7 @@
  },
  "4011": {
   "masalah": [
-   "Posisi terkini #50 (rata-rata periode #38) — masih di halaman 2+ Google."
+   "Posisi terkini #50 (rata-rata periode #39) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -6689,7 +6678,7 @@
  },
  "4015": {
   "masalah": [
-   "Impresi tinggi (890) tetapi CTR hanya 0.11% — 889 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (846) tetapi CTR hanya 0.12% — 845 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -6770,14 +6759,12 @@
  },
  "4018": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #13) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Content Creator 2026 - Biztech Academy",
    "meta_description": "training content creator di Biztech Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -6794,7 +6781,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "4019": {
   "masalah": [
@@ -6826,7 +6813,7 @@
  },
  "4020": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.38% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.2% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -7014,7 +7001,7 @@
  },
  "4027": {
   "masalah": [
-   "Posisi terkini #39 (rata-rata periode #13) — masih di halaman 2+ Google."
+   "Posisi terkini #39 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -7762,7 +7749,7 @@
  },
  "4055": {
   "masalah": [
-   "Posisi terkini #45 (rata-rata periode #54) — masih di halaman 2+ Google."
+   "Posisi terkini #45 (rata-rata periode #52) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -8558,8 +8545,8 @@
  },
  "5001": {
   "masalah": [
-   "Impresi tinggi (3,405) tetapi CTR hanya 0.18% — 3,399 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #72 (rata-rata periode #58) — masih di halaman 2+ Google."
+   "Impresi tinggi (3,467) tetapi CTR hanya 0.17% — 3,461 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #67 (rata-rata periode #58) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -8618,8 +8605,8 @@
  },
  "5003": {
   "masalah": [
-   "Impresi tinggi (2,126) tetapi CTR hanya 1.22% — 2,100 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #20 (rata-rata periode #17) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,094) tetapi CTR hanya 1.29% — 2,067 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #14 (rata-rata periode #17) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -8706,8 +8693,8 @@
  },
  "5006": {
   "masalah": [
-   "Impresi tinggi (822) tetapi CTR hanya 0.61% — 817 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #20 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Impresi tinggi (826) tetapi CTR hanya 0.61% — 821 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #21 (rata-rata periode #24) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -8738,7 +8725,7 @@
  },
  "5007": {
   "masalah": [
-   "Posisi terkini #52 (rata-rata periode #40) — masih di halaman 2+ Google."
+   "Posisi terkini #49 (rata-rata periode #40) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -8766,12 +8753,14 @@
  },
  "5008": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "CEH Exam Preparation - IT Proxsis Group - IT Proxsis GRC",
    "meta_description": "exam ceh di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -8788,11 +8777,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "5009": {
   "masalah": [
-   "Posisi terkini #39 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #33 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -8820,7 +8809,7 @@
  },
  "5010": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #16) — masih di halaman 2+ Google."
+   "Posisi terkini #10 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -9032,14 +9021,12 @@
  },
  "5018": {
   "masalah": [
-   "Posisi terkini #49 (rata-rata periode #25) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Enterprise Architecture - IT Proxsis Group - IT Proxsis GRC",
    "meta_description": "architecture ti di IT Proxsis GRC. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -9056,7 +9043,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "5019": {
   "masalah": [
@@ -9114,7 +9101,7 @@
  },
  "5021": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #18) — masih di halaman 2+ Google."
+   "Posisi terkini #12 (rata-rata periode #17) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -13941,7 +13928,7 @@
  },
  "7001": {
   "masalah": [
-   "Impresi tinggi (16,214) tetapi CTR hanya 0.74% — 16,094 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (16,283) tetapi CTR hanya 0.74% — 16,163 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -13998,7 +13985,7 @@
  },
  "7003": {
   "masalah": [
-   "Impresi tinggi (13,423) tetapi CTR hanya 0.83% — 13,312 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (13,692) tetapi CTR hanya 0.8% — 13,583 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14027,7 +14014,7 @@
  },
  "7004": {
   "masalah": [
-   "Impresi tinggi (8,230) tetapi CTR hanya 1.37% — 8,117 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (8,194) tetapi CTR hanya 1.37% — 8,082 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14084,7 +14071,7 @@
  },
  "7006": {
   "masalah": [
-   "Impresi tinggi (11,368) tetapi CTR hanya 1.22% — 11,229 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (11,352) tetapi CTR hanya 1.23% — 11,212 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14113,7 +14100,7 @@
  },
  "7007": {
   "masalah": [
-   "Impresi tinggi (7,669) tetapi CTR hanya 1.24% — 7,574 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (7,636) tetapi CTR hanya 1.15% — 7,548 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14194,7 +14181,7 @@
  },
  "7010": {
   "masalah": [
-   "Impresi tinggi (2,481) tetapi CTR hanya 0.85% — 2,460 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,476) tetapi CTR hanya 0.85% — 2,455 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14223,7 +14210,7 @@
  },
  "7011": {
   "masalah": [
-   "Impresi tinggi (6,802) tetapi CTR hanya 1.93% — 6,671 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,762) tetapi CTR hanya 1.92% — 6,632 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14252,7 +14239,7 @@
  },
  "7012": {
   "masalah": [
-   "Impresi tinggi (1,596) tetapi CTR hanya 1.38% — 1,574 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,574) tetapi CTR hanya 1.4% — 1,552 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14281,7 +14268,7 @@
  },
  "7013": {
   "masalah": [
-   "Impresi tinggi (4,316) tetapi CTR hanya 1.37% — 4,257 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,253) tetapi CTR hanya 1.39% — 4,194 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14310,7 +14297,7 @@
  },
  "7014": {
   "masalah": [
-   "Impresi tinggi (19,475) tetapi CTR hanya 0.4% — 19,397 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (18,743) tetapi CTR hanya 0.4% — 18,668 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14339,8 +14326,8 @@
  },
  "7015": {
   "masalah": [
-   "Impresi tinggi (3,910) tetapi CTR hanya 1.33% — 3,858 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #17 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Impresi tinggi (3,765) tetapi CTR hanya 1.38% — 3,713 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #19 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -14397,7 +14384,7 @@
  },
  "7017": {
   "masalah": [
-   "Impresi tinggi (2,468) tetapi CTR hanya 1.3% — 2,436 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,436) tetapi CTR hanya 1.27% — 2,405 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14426,7 +14413,7 @@
  },
  "7018": {
   "masalah": [
-   "Impresi tinggi (1,228) tetapi CTR hanya 1.3% — 1,212 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,225) tetapi CTR hanya 1.31% — 1,209 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14455,7 +14442,7 @@
  },
  "7019": {
   "masalah": [
-   "Impresi tinggi (1,077) tetapi CTR hanya 1.86% — 1,057 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,076) tetapi CTR hanya 1.86% — 1,056 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14510,10 +14497,12 @@
  },
  "7021": {
   "masalah": [
-   "Impresi tinggi (1,056) tetapi CTR hanya 1.8% — 1,037 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,083) tetapi CTR hanya 1.66% — 1,065 tayangan tidak menghasilkan klik.",
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.66% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
@@ -14617,7 +14606,7 @@
  },
  "7025": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Posisi terkini #16 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -14645,7 +14634,7 @@
  },
  "7026": {
   "masalah": [
-   "Impresi tinggi (871) tetapi CTR hanya 1.03% — 862 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (844) tetapi CTR hanya 1.07% — 835 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -14804,8 +14793,8 @@
  },
  "7032": {
   "masalah": [
-   "Impresi tinggi (1,507) tetapi CTR hanya 0.0% — 1,507 tayangan tidak menghasilkan klik.",
-   "1,507 impresi, 0 klik. Snippet tidak meyakinkan sama sekali."
+   "Impresi tinggi (1,463) tetapi CTR hanya 0.0% — 1,463 tayangan tidak menghasilkan klik.",
+   "1,463 impresi, 0 klik. Snippet tidak meyakinkan sama sekali."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -14861,12 +14850,14 @@
  },
  "7034": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #13) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Operator Forklift - Synergy Solusi Group - Synergy Solusi",
    "meta_description": "Keputusan Meteri Tenaga Kerja tentang Pesawat Angkat dan Angkut. Salah satu pesawat angkat angkut adalah forklift, dan perlu operator..",
@@ -14883,16 +14874,18 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "7035": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Basic Safety Training - Synergy Solusi Group - Synergy Solusi",
    "meta_description": "pelatihan basic safety 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -14909,19 +14902,16 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "7036": {
   "masalah": [
-   "Impresi tinggi (810) tetapi CTR hanya 0.37% — 807 tayangan tidak menghasilkan klik."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Ahli K3 Umum - Synergy Solusi Group - Synergy Solusi",
    "meta_description": "ahli k3 umum di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -14938,7 +14928,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "7037": {
   "masalah": [
@@ -14994,14 +14984,12 @@
  },
  "7039": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #7) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Petugas Peran Kebakaran Tingkat D Sertifikasi Kemenaker RI - Synergy Solusi Group - Synergy Solusi",
    "meta_description": "pelatihan petugas peran kebakaran tingkat d kemenaker ri 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jad",
@@ -15018,11 +15006,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "7040": {
   "masalah": [
-   "Posisi terkini #37 (rata-rata periode #34) — masih di halaman 2+ Google."
+   "Posisi terkini #37 (rata-rata periode #33) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -15076,8 +15064,8 @@
  },
  "7042": {
   "masalah": [
-   "Impresi tinggi (954) tetapi CTR hanya 1.89% — 936 tayangan tidak menghasilkan klik.",
-   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.89% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (903) tetapi CTR hanya 1.88% — 886 tayangan tidak menghasilkan klik.",
+   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.88% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -15133,14 +15121,12 @@
  },
  "7044": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #8) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Basic Mechanical Electrical Safety - Synergy Solusi Group - Synergy Solusi",
    "meta_description": "pelatihan basic mechanical electrical safety 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house s",
@@ -15157,7 +15143,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "7045": {
   "masalah": [
@@ -15213,8 +15199,8 @@
  },
  "7047": {
   "masalah": [
-   "Impresi tinggi (1,378) tetapi CTR hanya 1.67% — 1,355 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #60 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,317) tetapi CTR hanya 1.67% — 1,295 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #59 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -15401,12 +15387,10 @@
  },
  "7054": {
   "masalah": [
-   "636 impresi, 0 klik. Snippet tidak meyakinkan sama sekali.",
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "618 impresi, 0 klik. Snippet tidak meyakinkan sama sekali."
   ],
   "solusi": [
-   "Tulis ulang meta description dengan angka konkret (durasi, jumlah peserta, sertifikat) dan CTA eksplisit.",
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Tulis ulang meta description dengan angka konkret (durasi, jumlah peserta, sertifikat) dan CTA eksplisit."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -16063,14 +16047,12 @@
  },
  "7079": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Operator Penggerak Mula Kelas 1 (DP 30%) - Synergy Solusi Group - Synergy Solusi",
    "meta_description": "pelatihan operator penggerak mula kelas 1 2025 di Synergy Solusi. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
@@ -16087,7 +16069,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "7080": {
   "masalah": [
@@ -16789,7 +16771,7 @@
  },
  "7106": {
   "masalah": [
-   "Peringkat #2 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -16815,7 +16797,7 @@
  },
  "7107": {
   "masalah": [
-   "Posisi terkini #36 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -17869,12 +17851,16 @@
  },
  "8002": {
   "masalah": [
-   "Posisi terkini #48 (rata-rata periode #58) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,961) tetapi CTR hanya 0.95% — 2,933 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #48 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
   "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
    "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
   ],
   "perbaikan": {
@@ -17893,11 +17879,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "8003": {
   "masalah": [
-   "Posisi terkini #47 (rata-rata periode #47) — masih di halaman 2+ Google."
+   "Posisi terkini #28 (rata-rata periode #13) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -17925,12 +17911,15 @@
  },
  "8004": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (4,090) tetapi CTR hanya 1.71% — 4,020 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Audit Lingkungan Hidup - IEC 2026 - IEC Group",
    "meta_description": "audit lingkungan hidup 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -17947,12 +17936,12 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8005": {
   "masalah": [
-   "Impresi tinggi (839) tetapi CTR hanya 1.07% — 830 tayangan tidak menghasilkan klik.",
-   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.07% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (6,620) tetapi CTR hanya 1.34% — 6,531 tayangan tidak menghasilkan klik.",
+   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.34% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -18010,12 +17999,15 @@
  },
  "8007": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (3,600) tetapi CTR hanya 1.11% — 3,560 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Jasa Pembuatan Perizinan TPS B3 - IEC 2026 - IEC Group",
    "meta_description": "Untuk bisa menyimpan limbah B3, perusahaan perlu memiliki dokumen izin TPS B3. Tata cara penyimpanan Limbah B3 harus tercantum di dalam dokumen lingkungan.",
@@ -18032,7 +18024,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8008": {
   "masalah": [
@@ -18118,12 +18110,16 @@
  },
  "8011": {
   "masalah": [
-   "Posisi terkini #85 (rata-rata periode #31) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,223) tetapi CTR hanya 0.33% — 1,219 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #85 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
   "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
    "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
   ],
   "perbaikan": {
@@ -18142,7 +18138,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "8012": {
   "masalah": [
@@ -18228,12 +18224,15 @@
  },
  "8015": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (812) tetapi CTR hanya 0.12% — 811 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Konsultasi Pendampingan PROPER 2026 | IEC - IEC Group",
    "meta_description": "konsultasi proper klhk 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -18250,16 +18249,19 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8016": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (812) tetapi CTR hanya 0.12% — 811 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Konsultasi Pendampingan PROPER 2026 | IEC - IEC Group",
    "meta_description": "manajemen energi non sertifikasi 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -18276,7 +18278,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8017": {
   "masalah": [
@@ -18306,12 +18308,15 @@
  },
  "8018": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (3,760) tetapi CTR hanya 0.08% — 3,757 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Pengurusan Dokumen Lingkungan: AMDAL & UKL UPL - IEC - IEC Group",
    "meta_description": "pembuatan persetujuan lingkungan amdal 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman i",
@@ -18328,7 +18333,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8019": {
   "masalah": [
@@ -18468,12 +18473,17 @@
  },
  "8024": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.39% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (1,232) tetapi CTR hanya 0.97% — 1,220 tayangan tidak menghasilkan klik.",
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.97% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Pengukuran Lingkungan Hidup - IEC - IEC Group",
    "meta_description": "Pengukuran lingkungan hidup wajib dilakukan oleh perusahaan. Hal ini penting untuk memastikan kontrol dari dampak terhadap lingkungan yang ...",
@@ -18494,12 +18504,15 @@
  },
  "8025": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (3,046) tetapi CTR hanya 1.18% — 3,010 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Pengukuran Lingkungan Kerja - IEC - IEC Group",
    "meta_description": "Pengukuran lingkungan kerja ini penting untuk memastikan lingkungan kerja aman dan sehat. Patuhi regulasi dan lakukan secara berkala ...",
@@ -18516,7 +18529,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8026": {
   "masalah": [
@@ -18546,12 +18559,17 @@
  },
  "8027": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.44% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (5,007) tetapi CTR hanya 0.54% — 4,980 tayangan tidak menghasilkan klik.",
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.54% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Jasa Pertek Emisi & Pendampingan Teknis | IEC - IEC Group",
    "meta_description": "pertek emisi 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -18572,7 +18590,7 @@
  },
  "8028": {
   "masalah": [
-   "Impresi tinggi (1,582) tetapi CTR hanya 1.33% — 1,561 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (20,010) tetapi CTR hanya 1.61% — 19,687 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -18601,12 +18619,15 @@
  },
  "8029": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (2,360) tetapi CTR hanya 0.64% — 2,345 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Jasa Pembuatan Persetujuan Teknis Pemanfaatan Limbah B3 - IEC - IEC Group",
    "meta_description": "pertek pemanfaatan limbah b3 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kam",
@@ -18623,7 +18644,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8030": {
   "masalah": [
@@ -18655,12 +18676,17 @@
  },
  "8031": {
   "masalah": [
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.28% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (6,984) tetapi CTR hanya 0.44% — 6,953 tayangan tidak menghasilkan klik.",
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.44% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Jasa Penyusunan Rincian Teknis TPS B3 - IEC 2026 - IEC Group",
    "meta_description": "Kegiatan usaha yang melibatkan pengumpulan, pemanfaatan LB3 dll. Harus menyusun Rincian Teknis TPS B3 dan mengintegrasikannya dengan ...",
@@ -18709,12 +18735,17 @@
  },
  "8033": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.08% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (7,116) tetapi CTR hanya 1.78% — 6,989 tayangan tidak menghasilkan klik.",
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.78% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Jasa Pengurusan Surat Laik Operasi (SLO) IPAL - IEC - IEC Group",
    "meta_description": "surat laik operasi ipal 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -19567,7 +19598,7 @@
  },
  "8064": {
   "masalah": [
-   "Posisi terkini #25 (rata-rata periode #20) — masih di halaman 2+ Google."
+   "Posisi terkini #16 (rata-rata periode #17) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -19675,12 +19706,17 @@
  },
  "8068": {
   "masalah": [
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.55% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (1,312) tetapi CTR hanya 0.3% — 1,308 tayangan tidak menghasilkan klik.",
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.3% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi EFISIENSI ENERGI (ENERGY EFFICIENCY) - IEC Group",
    "meta_description": "Topik penghematan energi atau efisiensi energi dan keandalan sistem kelistrikan dalam menyuplai kebutuhan energy listrik saat ini menjadi ...",
@@ -19701,7 +19737,7 @@
  },
  "8069": {
   "masalah": [
-   "Posisi terkini #40 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #40 (rata-rata periode #13) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -19807,7 +19843,7 @@
  },
  "8073": {
   "masalah": [
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.72% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 2.36% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -19911,7 +19947,7 @@
  },
  "8077": {
   "masalah": [
-   "Posisi terkini #29 (rata-rata periode #43) — masih di halaman 2+ Google."
+   "Posisi terkini #29 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -19939,7 +19975,7 @@
  },
  "8078": {
   "masalah": [
-   "Posisi terkini #31 (rata-rata periode #31) — masih di halaman 2+ Google."
+   "Posisi terkini #31 (rata-rata periode #20) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -20045,7 +20081,7 @@
  },
  "8082": {
   "masalah": [
-   "Posisi terkini #34 (rata-rata periode #34) — masih di halaman 2+ Google."
+   "Posisi terkini #34 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -20099,7 +20135,7 @@
  },
  "8084": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #13) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -20179,7 +20215,7 @@
  },
  "8087": {
   "masalah": [
-   "Impresi tinggi (852) tetapi CTR hanya 0.59% — 847 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (17,200) tetapi CTR hanya 0.29% — 17,150 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20286,7 +20322,7 @@
  },
  "8091": {
   "masalah": [
-   "Posisi terkini #14 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Posisi terkini #14 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -20314,12 +20350,15 @@
  },
  "8092": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (1,018) tetapi CTR hanya 1.18% — 1,006 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Prosedur Perizinan Izin Lingkungan - IEC Group",
    "meta_description": "prosedur perizinan izin lingkungan 2026 di IEC Group. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -20336,7 +20375,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8093": {
   "masalah": [
@@ -20368,7 +20407,7 @@
  },
  "8094": {
   "masalah": [
-   "Impresi tinggi (5,266) tetapi CTR hanya 0.11% — 5,260 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,348) tetapi CTR hanya 0.11% — 5,342 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20397,12 +20436,15 @@
  },
  "8095": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (971) tetapi CTR hanya 0.82% — 963 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi TEKNIK SAMPLING - IEC 2026 - IEC Group",
    "meta_description": "Pelatihan ini dimaksudkan untuk memberi pembekalan tentang teknik sampling, preparasi, quality control dan pelaporan hasil sampling. Oleh karena itu...",
@@ -20419,11 +20461,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "8096": {
   "masalah": [
-   "Posisi terkini #18 (rata-rata periode #17) — masih di halaman 2+ Google."
+   "Posisi terkini #18 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -20451,7 +20493,7 @@
  },
  "8097": {
   "masalah": [
-   "Impresi tinggi (4,231) tetapi CTR hanya 1.61% — 4,163 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,326) tetapi CTR hanya 1.62% — 4,256 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20480,7 +20522,7 @@
  },
  "8098": {
   "masalah": [
-   "Impresi tinggi (1,680) tetapi CTR hanya 0.83% — 1,666 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,711) tetapi CTR hanya 0.82% — 1,697 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20537,7 +20579,7 @@
  },
  "9002": {
   "masalah": [
-   "Impresi tinggi (2,128) tetapi CTR hanya 1.03% — 2,106 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,140) tetapi CTR hanya 1.07% — 2,117 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20732,7 +20774,7 @@
  },
  "9009": {
   "masalah": [
-   "Impresi tinggi (2,954) tetapi CTR hanya 1.83% — 2,900 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,022) tetapi CTR hanya 1.85% — 2,966 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20789,7 +20831,7 @@
  },
  "9011": {
   "masalah": [
-   "Posisi terkini #55 (rata-rata periode #14) — masih di halaman 2+ Google."
+   "Posisi terkini #42 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -20817,7 +20859,7 @@
  },
  "9012": {
   "masalah": [
-   "Impresi tinggi (1,623) tetapi CTR hanya 0.25% — 1,619 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,616) tetapi CTR hanya 0.25% — 1,612 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20874,7 +20916,7 @@
  },
  "9014": {
   "masalah": [
-   "Impresi tinggi (810) tetapi CTR hanya 0.74% — 804 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (805) tetapi CTR hanya 0.75% — 799 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20903,7 +20945,7 @@
  },
  "9015": {
   "masalah": [
-   "Impresi tinggi (996) tetapi CTR hanya 1.51% — 981 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (995) tetapi CTR hanya 1.61% — 979 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -20960,7 +21002,7 @@
  },
  "9017": {
   "masalah": [
-   "Impresi tinggi (7,233) tetapi CTR hanya 0.53% — 7,195 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (7,191) tetapi CTR hanya 0.51% — 7,154 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -21095,7 +21137,7 @@
  },
  "9022": {
   "masalah": [
-   "Impresi tinggi (1,919) tetapi CTR hanya 1.04% — 1,899 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,914) tetapi CTR hanya 1.1% — 1,893 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -21152,7 +21194,7 @@
  },
  "9024": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #11) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -21260,8 +21302,8 @@
  },
  "9028": {
   "masalah": [
-   "Impresi tinggi (945) tetapi CTR hanya 1.69% — 929 tayangan tidak menghasilkan klik.",
-   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.69% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (955) tetapi CTR hanya 1.78% — 938 tayangan tidak menghasilkan klik.",
+   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.78% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -21511,7 +21553,7 @@
  },
  "9037": {
   "masalah": [
-   "Impresi tinggi (3,471) tetapi CTR hanya 0.78% — 3,444 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,390) tetapi CTR hanya 0.77% — 3,364 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -21540,8 +21582,8 @@
  },
  "9038": {
   "masalah": [
-   "Impresi tinggi (4,268) tetapi CTR hanya 0.7% — 4,238 tayangan tidak menghasilkan klik.",
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.7% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (4,250) tetapi CTR hanya 0.71% — 4,220 tayangan tidak menghasilkan klik.",
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.71% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -21597,7 +21639,7 @@
  },
  "9040": {
   "masalah": [
-   "Impresi tinggi (1,814) tetapi CTR hanya 1.43% — 1,788 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,810) tetapi CTR hanya 1.44% — 1,784 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -21626,7 +21668,7 @@
  },
  "9041": {
   "masalah": [
-   "Impresi tinggi (3,660) tetapi CTR hanya 0.74% — 3,633 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,698) tetapi CTR hanya 0.73% — 3,671 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -21709,7 +21751,7 @@
  },
  "9044": {
   "masalah": [
-   "Impresi tinggi (1,630) tetapi CTR hanya 0.98% — 1,614 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,639) tetapi CTR hanya 0.98% — 1,623 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -21738,14 +21780,12 @@
  },
  "9045": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #7) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknisi Perawatan Mekanik BNSP | PetroTraining Asia - Petrotraining OMC",
    "meta_description": "Training Teknisi Perawatan Mekanik BNSP. Perawatan peralatan mekanik membutuhkan pemeriksaan, pelaksanaan kerja, dan dokumentasi yang tertib.",
@@ -21762,7 +21802,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "9046": {
   "masalah": [
@@ -21794,7 +21834,7 @@
  },
  "9047": {
   "masalah": [
-   "Impresi tinggi (13,606) tetapi CTR hanya 0.36% — 13,557 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (13,615) tetapi CTR hanya 0.35% — 13,568 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -22299,8 +22339,8 @@
  },
  "10017": {
   "masalah": [
-   "Impresi tinggi (3,899) tetapi CTR hanya 0.54% — 3,878 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #13 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Impresi tinggi (3,962) tetapi CTR hanya 0.53% — 3,941 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #12 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -22331,7 +22371,7 @@
  },
  "10018": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #23 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -22359,12 +22399,10 @@
  },
  "10019": {
   "masalah": [
-   "Impresi tinggi (1,564) tetapi CTR hanya 1.79% — 1,536 tayangan tidak menghasilkan klik.",
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.79% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (1,541) tetapi CTR hanya 1.82% — 1,513 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
@@ -22390,17 +22428,14 @@
  },
  "10020": {
   "masalah": [
-   "Impresi tinggi (1,841) tetapi CTR hanya 1.3% — 1,817 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #11 (rata-rata periode #13) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,833) tetapi CTR hanya 1.25% — 1,810 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
   ],
   "perbaikan": {
    "meta_title": "Manajemen Risiko ESG | ESG Risk & Opportunity | Proxsis - Proxsis Sustainability",
@@ -22448,7 +22483,7 @@
  },
  "10022": {
   "masalah": [
-   "Impresi tinggi (42,532) tetapi CTR hanya 0.36% — 42,380 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (129,645) tetapi CTR hanya 0.31% — 129,240 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -23075,12 +23110,14 @@
  },
  "13001": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #21 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Awareness ISO 14001:2015 - ISOCENTER INDONESIA - ISO Center",
    "meta_description": "iso 14001 awareness training di ISO Center. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -23097,7 +23134,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "13002": {
   "masalah": [
@@ -23129,12 +23166,14 @@
  },
  "13003": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #18 (rata-rata periode #18) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Training IT Governance - ISOCENTER INDONESIA - ISO Center",
    "meta_description": "iso 38500 it governance di ISO Center. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -23151,18 +23190,21 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "13004": {
   "masalah": [
-   "Impresi tinggi (3,355) tetapi CTR hanya 1.58% — 3,302 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,363) tetapi CTR hanya 1.55% — 3,311 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #13 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
   ],
   "perbaikan": {
    "meta_title": "Training Awareness ISO 9001:2015 - ISOCENTER INDONESIA - ISO Center",
@@ -23238,12 +23280,15 @@
  },
  "13007": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (920) tetapi CTR hanya 1.96% — 902 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Training Awareness ISO 27001:2013 - ISOCENTER INDONESIA - ISO Center",
    "meta_description": "awareness training adalah di ISO Center. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -23260,11 +23305,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "13008": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Posisi terkini #10 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -23292,14 +23337,17 @@
  },
  "13009": {
   "masalah": [
-   "Impresi tinggi (900) tetapi CTR hanya 1.33% — 888 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (905) tetapi CTR hanya 1.33% — 893 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #14 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
   ],
   "perbaikan": {
    "meta_title": "Training Root Cause Analysis Technique - ISOCENTER INDONESIA - ISO Center",
@@ -23321,7 +23369,7 @@
  },
  "13010": {
   "masalah": [
-   "Impresi tinggi (1,126) tetapi CTR hanya 0.62% — 1,119 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,121) tetapi CTR hanya 0.62% — 1,114 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -23350,8 +23398,8 @@
  },
  "13011": {
   "masalah": [
-   "Impresi tinggi (903) tetapi CTR hanya 1.22% — 892 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #26 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Impresi tinggi (899) tetapi CTR hanya 1.33% — 887 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #31 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -23382,7 +23430,7 @@
  },
  "13012": {
   "masalah": [
-   "Posisi terkini #23 (rata-rata periode #17) — masih di halaman 2+ Google."
+   "Posisi terkini #15 (rata-rata periode #17) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -23410,7 +23458,7 @@
  },
  "13013": {
   "masalah": [
-   "Impresi tinggi (2,397) tetapi CTR hanya 0.92% — 2,375 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,354) tetapi CTR hanya 0.93% — 2,332 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -23465,10 +23513,10 @@
  },
  "13015": {
   "masalah": [
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 2.79% — posisi bagus terbuang karena snippet lemah."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Lanjutkan pemantauan mingguan."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -23487,16 +23535,18 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "13016": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #34 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Training Internal Quality Audit QMS ISO 9001:2015 - ISOCENTER INDONESIA - ISO Center",
    "meta_description": "iso 9001 internal auditor training di ISO Center. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -23513,11 +23563,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "13017": {
   "masalah": [
-   "Posisi terkini #59 (rata-rata periode #56) — masih di halaman 2+ Google."
+   "Posisi terkini #59 (rata-rata periode #55) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -23545,12 +23595,14 @@
  },
  "13018": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #13 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "TRAINING ISO 9001 : 2015 AWARENESS & INTERNAL AUDIT​ - ISOCENTER INDONESIA - ISO Center",
    "meta_description": "pelatihan iso 9001 di ISO Center. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -23567,11 +23619,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "13019": {
   "masalah": [
-   "Posisi terkini #26 (rata-rata periode #13) — masih di halaman 2+ Google."
+   "Posisi terkini #27 (rata-rata periode #13) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -23599,14 +23651,12 @@
  },
  "13020": {
   "masalah": [
-   "Posisi terkini #53 (rata-rata periode #27) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "TRAINING ISO 9001 : 2015 AWARENESS & INTERNAL AUDIT​ - ISOCENTER INDONESIA - ISO Center",
    "meta_description": "iso 9001 : 2015 awareness & internal di ISO Center. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -23623,7 +23673,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "13021": {
   "masalah": [
@@ -23655,7 +23705,7 @@
  },
  "13022": {
   "masalah": [
-   "Impresi tinggi (1,238) tetapi CTR hanya 1.29% — 1,222 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,236) tetapi CTR hanya 1.21% — 1,221 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -23684,8 +23734,8 @@
  },
  "13023": {
   "masalah": [
-   "Impresi tinggi (2,605) tetapi CTR hanya 1.88% — 2,556 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #47 (rata-rata periode #25) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,578) tetapi CTR hanya 1.86% — 2,530 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #38 (rata-rata periode #25) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -23768,8 +23818,8 @@
  },
  "14002": {
   "masalah": [
-   "681 impresi, 0 klik. Snippet tidak meyakinkan sama sekali.",
-   "Posisi terkini #48 (rata-rata periode #30) — masih di halaman 2+ Google."
+   "690 impresi, 0 klik. Snippet tidak meyakinkan sama sekali.",
+   "Posisi terkini #40 (rata-rata periode #32) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Tulis ulang meta description dengan angka konkret (durasi, jumlah peserta, sertifikat) dan CTA eksplisit.",
@@ -23798,7 +23848,7 @@
  },
  "14003": {
   "masalah": [
-   "Posisi terkini #55 (rata-rata periode #33) — masih di halaman 2+ Google."
+   "Posisi terkini #46 (rata-rata periode #32) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -23878,13 +23928,14 @@
  },
  "14006": {
   "masalah": [
-   "Posisi terkini #14 (rata-rata periode #16) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,212) tetapi CTR hanya 1.99% — 2,168 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
   ],
   "perbaikan": {
    "meta_title": "Sertifikasi Design Thinking Training 2026 - Proxsis HR",
@@ -23902,12 +23953,12 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "14007": {
   "masalah": [
-   "Impresi tinggi (2,064) tetapi CTR hanya 1.45% — 2,034 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #13 (rata-rata periode #21) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,073) tetapi CTR hanya 1.45% — 2,043 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #16 (rata-rata periode #21) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -23992,7 +24043,7 @@
  },
  "14010": {
   "masalah": [
-   "Posisi terkini #37 (rata-rata periode #28) — masih di halaman 2+ Google."
+   "Posisi terkini #13 (rata-rata periode #26) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -24020,7 +24071,7 @@
  },
  "14011": {
   "masalah": [
-   "Posisi terkini #15 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -24048,7 +24099,7 @@
  },
  "14012": {
   "masalah": [
-   "Posisi terkini #23 (rata-rata periode #18) — masih di halaman 2+ Google."
+   "Posisi terkini #13 (rata-rata periode #17) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -24208,7 +24259,7 @@
  },
  "14018": {
   "masalah": [
-   "Impresi tinggi (5,186) tetapi CTR hanya 1.52% — 5,107 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,168) tetapi CTR hanya 1.59% — 5,086 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -24237,7 +24288,7 @@
  },
  "14019": {
   "masalah": [
-   "Posisi terkini #20 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #22 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -24395,10 +24446,10 @@
  },
  "14025": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.72% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -24417,18 +24468,16 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "14026": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #20) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Konsultasi Learning & Competency - Proxsis HR",
    "meta_description": "Solusi konsultasi manajemen HR dari Proxsis HR. Kami membantu konsultasi Learning & Competency human capital perusahaan agar sejalan dengan target bisnis.",
@@ -24445,7 +24494,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "14027": {
   "masalah": [
@@ -24475,14 +24524,12 @@
  },
  "14028": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Konsultasi Work Load Analysis 2026 - Proxsis HR",
    "meta_description": "Ketahui efektivitas jumlah karyawan Anda secara presisi dengan Konsultasi Analisis Beban Kerja / Work Load Analysis (WLA) dari Proxsis HR.",
@@ -24499,12 +24546,12 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "14029": {
   "masalah": [
-   "Impresi tinggi (1,731) tetapi CTR hanya 1.68% — 1,702 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #31 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,721) tetapi CTR hanya 1.69% — 1,692 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #22 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -24535,14 +24582,12 @@
  },
  "14030": {
   "masalah": [
-   "Posisi terkini #36 (rata-rata periode #31) — masih di halaman 2+ Google."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.66% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Corporate Culture 2026 - Proxsis HR",
    "meta_description": "Bentuk nilai inti organisasi Anda melalui layanan konsultasi Budaya Perusahaan (Corporate Culture) dari Proxsis HR untuk tingkatkan engagement karyawan.",
@@ -24559,11 +24604,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "14031": {
   "masalah": [
-   "Posisi terkini #38 (rata-rata periode #51) — masih di halaman 2+ Google."
+   "Posisi terkini #21 (rata-rata periode #50) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -24591,10 +24636,10 @@
  },
  "14032": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -24613,7 +24658,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "14033": {
   "masalah": [
@@ -24695,8 +24740,8 @@
  },
  "14036": {
   "masalah": [
-   "Impresi tinggi (7,222) tetapi CTR hanya 1.48% — 7,115 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #39 (rata-rata periode #24) — masih di halaman 2+ Google."
+   "Impresi tinggi (7,191) tetapi CTR hanya 1.45% — 7,087 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #31 (rata-rata periode #25) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -24839,7 +24884,7 @@
  },
  "11005": {
   "masalah": [
-   "Impresi tinggi (977) tetapi CTR hanya 1.84% — 959 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (987) tetapi CTR hanya 1.82% — 969 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25026,12 +25071,14 @@
  },
  "11012": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #14 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Ahli Muda Ruang Terbatas BNSP - Indonesia Safety Center - ISC Safety School",
    "meta_description": "Ikuti Training Ahli Muda Ruang Terbatas BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
@@ -25048,11 +25095,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "11013": {
   "masalah": [
-   "Impresi tinggi (1,098) tetapi CTR hanya 1.55% — 1,081 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,118) tetapi CTR hanya 1.52% — 1,101 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25163,7 +25210,7 @@
  },
  "11017": {
   "masalah": [
-   "Impresi tinggi (2,421) tetapi CTR hanya 1.49% — 2,385 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,454) tetapi CTR hanya 1.51% — 2,417 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25218,7 +25265,7 @@
  },
  "11019": {
   "masalah": [
-   "Impresi tinggi (58,542) tetapi CTR hanya 1.42% — 57,709 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (60,289) tetapi CTR hanya 1.43% — 59,426 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25247,7 +25294,7 @@
  },
  "11020": {
   "masalah": [
-   "Impresi tinggi (13,621) tetapi CTR hanya 1.52% — 13,414 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (13,867) tetapi CTR hanya 1.54% — 13,653 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25516,7 +25563,7 @@
  },
  "11030": {
   "masalah": [
-   "Impresi tinggi (3,723) tetapi CTR hanya 0.62% — 3,700 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,798) tetapi CTR hanya 0.63% — 3,774 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25571,7 +25618,7 @@
  },
  "11032": {
   "masalah": [
-   "Impresi tinggi (56,082) tetapi CTR hanya 0.26% — 55,934 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (56,963) tetapi CTR hanya 0.27% — 56,811 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25680,8 +25727,8 @@
  },
  "11036": {
   "masalah": [
-   "Impresi tinggi (1,776) tetapi CTR hanya 0.73% — 1,763 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #18 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,834) tetapi CTR hanya 0.76% — 1,820 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #13 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -25738,7 +25785,7 @@
  },
  "11038": {
   "masalah": [
-   "Impresi tinggi (5,249) tetapi CTR hanya 0.51% — 5,222 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,418) tetapi CTR hanya 0.5% — 5,391 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -25767,15 +25814,12 @@
  },
  "11039": {
   "masalah": [
-   "Impresi tinggi (12,196) tetapi CTR hanya 1.98% — 11,954 tayangan tidak menghasilkan klik."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Operator Scaffolding BNSP - Indonesia Safety Center - ISC Safety School",
    "meta_description": "operator scaffolding 2026 di ISC Safety School. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -25792,7 +25836,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "11040": {
   "masalah": [
@@ -25908,7 +25952,7 @@
  },
  "11044": {
   "masalah": [
-   "Posisi terkini #32 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #26 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -25936,7 +25980,7 @@
  },
  "11045": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -26020,7 +26064,7 @@
  },
  "11048": {
   "masalah": [
-   "Impresi tinggi (6,175) tetapi CTR hanya 1.73% — 6,068 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,284) tetapi CTR hanya 1.81% — 6,170 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26049,12 +26093,14 @@
  },
  "11049": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #10 (rata-rata periode #7) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Petugas K3 Fasilitas Kesehatan BNSP - Indonesia Safety Center - ISC Safety School",
    "meta_description": "Ikuti Training Petugas K3 Fasilitas Kesehatan BNSP. Sertifikat 100% Terbit. Bergabung bersama 20.000 Alumni lainnya di ISC Safety School",
@@ -26071,11 +26117,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "11050": {
   "masalah": [
-   "Impresi tinggi (2,104) tetapi CTR hanya 1.57% — 2,071 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,130) tetapi CTR hanya 1.55% — 2,097 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26130,7 +26176,7 @@
  },
  "11052": {
   "masalah": [
-   "Impresi tinggi (3,598) tetapi CTR hanya 0.94% — 3,564 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,608) tetapi CTR hanya 0.97% — 3,573 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26159,7 +26205,7 @@
  },
  "11053": {
   "masalah": [
-   "Impresi tinggi (4,538) tetapi CTR hanya 0.68% — 4,507 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,633) tetapi CTR hanya 0.71% — 4,600 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26214,7 +26260,7 @@
  },
  "11055": {
   "masalah": [
-   "Impresi tinggi (4,537) tetapi CTR hanya 1.01% — 4,491 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,692) tetapi CTR hanya 1.02% — 4,644 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26243,7 +26289,7 @@
  },
  "11056": {
   "masalah": [
-   "Impresi tinggi (4,940) tetapi CTR hanya 0.63% — 4,909 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (5,027) tetapi CTR hanya 0.62% — 4,996 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26328,7 +26374,7 @@
  },
  "11059": {
   "masalah": [
-   "Impresi tinggi (1,205) tetapi CTR hanya 0.58% — 1,198 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,191) tetapi CTR hanya 0.59% — 1,184 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26385,8 +26431,8 @@
  },
  "11061": {
   "masalah": [
-   "Impresi tinggi (3,234) tetapi CTR hanya 1.39% — 3,189 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #14 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Impresi tinggi (3,315) tetapi CTR hanya 1.36% — 3,270 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #13 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -26417,12 +26463,10 @@
  },
  "11062": {
   "masalah": [
-   "Impresi tinggi (1,027) tetapi CTR hanya 1.17% — 1,015 tayangan tidak menghasilkan klik.",
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 1.17% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (1,058) tetapi CTR hanya 1.13% — 1,046 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
@@ -26448,7 +26492,7 @@
  },
  "11063": {
   "masalah": [
-   "Impresi tinggi (1,410) tetapi CTR hanya 1.35% — 1,391 tayangan tidak menghasilkan klik.",
+   "Impresi tinggi (1,453) tetapi CTR hanya 1.38% — 1,433 tayangan tidak menghasilkan klik.",
    "Posisi terkini #16 (rata-rata periode #9) — masih di halaman 2+ Google."
   ],
   "solusi": [
@@ -26480,8 +26524,8 @@
  },
  "11064": {
   "masalah": [
-   "Impresi tinggi (4,742) tetapi CTR hanya 1.1% — 4,690 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #18 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Impresi tinggi (4,819) tetapi CTR hanya 1.1% — 4,766 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #14 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -26512,7 +26556,7 @@
  },
  "11065": {
   "masalah": [
-   "Impresi tinggi (2,460) tetapi CTR hanya 1.91% — 2,413 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,510) tetapi CTR hanya 1.99% — 2,460 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26569,7 +26613,7 @@
  },
  "11067": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #40) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #26) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -26651,12 +26695,16 @@
  },
  "11070": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,737) tetapi CTR hanya 1.27% — 1,715 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #12 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
   "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
    "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
   ],
   "perbaikan": {
@@ -26675,7 +26723,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 5
  },
  "11071": {
   "masalah": [
@@ -26785,15 +26833,12 @@
  },
  "11075": {
   "masalah": [
-   "Impresi tinggi (985) tetapi CTR hanya 1.83% — 967 tayangan tidak menghasilkan klik."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Awareness ISO 45001 - Synergy Solusi Group - ISC Safety School",
    "meta_description": "Training awareness ISO 45001:2018 sebelumnya, yaitu OHSAS 18001:2007 yang khusus menangani permasalahan terkait dengan kesehatan dan keselamatan karyawan.",
@@ -26810,11 +26855,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "11076": {
   "masalah": [
-   "Peringkat #3 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 2.86% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -26840,7 +26885,7 @@
  },
  "11077": {
   "masalah": [
-   "Impresi tinggi (6,717) tetapi CTR hanya 1.5% — 6,616 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (22,103) tetapi CTR hanya 1.74% — 21,718 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26869,7 +26914,7 @@
  },
  "11078": {
   "masalah": [
-   "Posisi terkini #38 (rata-rata periode #34) — masih di halaman 2+ Google."
+   "Posisi terkini #38 (rata-rata periode #24) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -26951,7 +26996,7 @@
  },
  "11081": {
   "masalah": [
-   "Impresi tinggi (4,181) tetapi CTR hanya 1.87% — 4,103 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,246) tetapi CTR hanya 1.86% — 4,167 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -26980,7 +27025,7 @@
  },
  "11082": {
   "masalah": [
-   "Impresi tinggi (3,702) tetapi CTR hanya 1.43% — 3,649 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,824) tetapi CTR hanya 1.41% — 3,770 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -27009,8 +27054,8 @@
  },
  "11083": {
   "masalah": [
-   "Impresi tinggi (2,007) tetapi CTR hanya 1.4% — 1,979 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #16 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Impresi tinggi (2,061) tetapi CTR hanya 1.41% — 2,032 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #13 (rata-rata periode #11) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -27041,7 +27086,7 @@
  },
  "11084": {
   "masalah": [
-   "Impresi tinggi (6,218) tetapi CTR hanya 0.96% — 6,158 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,317) tetapi CTR hanya 0.95% — 6,257 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -27070,7 +27115,7 @@
  },
  "11085": {
   "masalah": [
-   "Impresi tinggi (1,489) tetapi CTR hanya 1.21% — 1,471 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,542) tetapi CTR hanya 1.3% — 1,522 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
