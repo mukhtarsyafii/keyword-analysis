@@ -7086,5 +7086,69 @@
   "live_desc": "Rancang struktur organisasi yang ramping dan efektif. Solusi Desain Organisasi (Organization Design) dari Proxsis HR hilangkan tumpang tindih peran kerja.",
   "has_faq": false,
   "h2_count": 4
+ },
+ "10023": {
+  "url": "https://sustainability.proxsisgroup.com/carbon-data-readiness-assessment/",
+  "http_ok": true,
+  "live_title": "Carbon Data Readiness Assessment - Sustainability Proxsis Group",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 9
+ },
+ "10024": {
+  "url": "https://sustainability.proxsisgroup.com/esg-self-assessment-review/",
+  "http_ok": true,
+  "live_title": "ESG Self Assessment Review — Evaluasi Mandiri ESG | Proxsis",
+  "live_desc": "Lakukan review mandiri kesiapan ESG perusahaan Anda dengan panduan terstruktur. Gratis, cepat, dan langsung dapat rekomendasi.",
+  "has_faq": false,
+  "h2_count": 6
+ },
+ "10025": {
+  "url": "https://sustainability.proxsisgroup.com/executive-sustainability-assessment/",
+  "http_ok": true,
+  "live_title": "Executive Sustainability Assessment - Sustainability Proxsis Group",
+  "live_desc": null,
+  "has_faq": false,
+  "h2_count": 14
+ },
+ "10026": {
+  "url": "https://sustainability.proxsisgroup.com/asesmen-dokumen-lingkungan/",
+  "http_ok": true,
+  "live_title": "Asesmen Dokumen Lingkungan & ESG | Proxsis Sustainability",
+  "live_desc": "Cek kelengkapan dokumen lingkungan dan prasyarat ESG perusahaan. Dapatkan ringkasan hasil, roadmap, dan laporan PDF dari Proxsis Sustainability dan IEC.",
+  "has_faq": false,
+  "h2_count": 5
+ },
+ "14033": {
+  "url": "https://hr.proxsisgroup.com/hr-supervisor-bnsp-ads/",
+  "http_ok": true,
+  "live_title": "HR Supervisor BNSP - Proxsis HR",
+  "live_desc": "HR Manager BNSP adalah Sertifikasi Profesi bagi para Manager SDM Professional yang dikeluarkan oleh BNSP dan Proxsis Leadership Centre",
+  "has_faq": false,
+  "h2_count": 14
+ },
+ "14034": {
+  "url": "https://hr.proxsisgroup.com/hr-manager-bnsp-ads/",
+  "http_ok": true,
+  "live_title": "HR Manager BNSP - Proxsis HR",
+  "live_desc": "HR Manager BNSP adalah Sertifikasi Profesi bagi para Manager SDM Professional yang dikeluarkan oleh BNSP dan Proxsis Leadership Centre",
+  "has_faq": false,
+  "h2_count": 16
+ },
+ "14035": {
+  "url": "https://hr.proxsisgroup.com/sertifikasi-tot-bnsp-ads/",
+  "http_ok": true,
+  "live_title": "Sertifikasi TOT BNSP - Proxsis HR",
+  "live_desc": "Sertifikasi TOT BNSP ini merupakan program pelatihan yang dilakukan secara Online atapun Offline. untuk mendapatkan sertifikasi..",
+  "has_faq": false,
+  "h2_count": 10
+ },
+ "14036": {
+  "url": "https://hr.proxsisgroup.com/hr-skill/tna-tne/",
+  "http_ok": true,
+  "live_title": "Training Need Analysis (TNA) & Training Evaluation (TE) - Proxsis HR",
+  "live_desc": "Pelajari cara menyusun Training Need Analysis (TNA) dan evaluasi efektivitasnya (TNE) untuk memastikan investasi L&D berdampak nyata pada bisnis.",
+  "has_faq": false,
+  "h2_count": 5
  }
 }
