@@ -174,3 +174,47 @@ wrote /home/ubuntu/git/keyword-analysis/dashboard.html (9,932,004 bytes)
 products=996 recs=996 competitors=145 brands=15
 wrote /home/ubuntu/git/keyword-analysis/dashboard-standalone.html (10,339,251 bytes) — kirim file ini ke klien
 wrote index.html (GitHub Pages entry point)
+klik WA: 16100 | halaman unik: 961 | per brand: {'GRC Indonesia': 364, 'IPQI': 102, 'FS Institute': 35, 'Proxsis Academy': 55, 'Synergy Solusi': 7717, 'Synergy Solusi (arsip)': 98, 'IT Proxsis GRC': 582, 'Proxsis Sustainability': 202, 'Proxsis HR': 6945}
+join ke dashboard: 153/996 LP punya klik WA
+  2781  hr.proxsisgroup.com/hr-supervisor-bnsp
+   692  hr.proxsisgroup.com/sertifikasi-tot-bnsp
+   648  synergysolusi.com/training-sertifikasi-kemnaker-surabaya
+   583  synergysolusi.com
+   499  hr.proxsisgroup.com/hr-supervisor-bnsp-ads
+   492  synergysolusi.com/training-sertifikasi-kemnaker-balikpapan
+   476  synergysolusi.com/pendaftaran-she-meet-up
+   472  hr.proxsisgroup.com/product/communication-skill-ads
+wrote data/wa.json (961 halaman)
+kode WA funnel: 15499 | baris Need: 5207 | lead ter-atribusi LP: 1125
+lead ketemu crm.lead Odoo: 342
+halaman dgn lead: 219 | total lead: 973 | SO: 52 (Rp 489,950,000)
+join ke dashboard: 59/996 LP punya lead tercatat
+  lead 134  SO   1  Rp     5,250,000  hr.proxsisgroup.com/hr-supervisor-bnsp
+  lead  44  SO   4  Rp    20,250,000  synergysolusi.com/training-sertifikasi-kemnaker-surabaya
+  lead  41  SO   3  Rp    37,500,000  synergysolusi.com/layanan/isc-safety-school/pelatihan-ahli-k
+  lead  39  SO   2  Rp    23,750,000  synergysolusi.com
+  lead  38  SO   6  Rp    50,200,000  synergysolusi.com/layanan/isc-safety-school/ahli-k3-kimia-3
+  lead  36  SO   1  Rp    14,400,000  hr.proxsisgroup.com/hr-supervisor-bnsp-ads
+  lead  35  SO   1  Rp     7,200,000  hr.proxsisgroup.com/hr-manager-bnsp-ads
+  lead  31  SO   3  Rp    19,800,000  synergysolusi.com/training-sertifikasi-kemnaker-balikpapan
+wrote data/leads.json (219 halaman)
+GRC Indonesia: 2475 rows -> 987 pages
+IPQI: 8053 rows -> 5591 pages
+FS Institute: 0 rows -> 0 pages
+ITGID: 12660 rows -> 8282 pages
+Biztech Academy: 1 rows -> 1 pages
+IT Proxsis GRC: 2602 rows -> 1463 pages
+ICICERT: 3225 rows -> 2411 pages
+Synergy Solusi: 15890 rows -> 8457 pages
+IEC Group: 9298 rows -> 4606 pages
+Petrotraining OMC: 2981 rows -> 1442 pages
+Proxsis Sustainability: skip (no ga4_property_id)
+Proxsis Strategy: 1264 rows -> 532 pages
+ISO Center: 22678 rows -> 19160 pages
+Proxsis HR: 4149 rows -> 2039 pages
+ISC Safety School: 5447 rows -> 2812 pages
+ga4_users.json: 57783 pages
+wrote /home/ubuntu/git/keyword-analysis/dashboard.html (9,972,125 bytes)
+products=996 recs=996 competitors=180 brands=15
+wrote /home/ubuntu/git/keyword-analysis/dashboard-standalone.html (10,379,372 bytes) — kirim file ini ke klien
+wrote index.html (GitHub Pages entry point)
