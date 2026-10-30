@@ -82,23 +82,29 @@ def iso_week(d):
     return f"{y}W{w:02d}"
 
 
-def parse_date(s):
-    """'9/14/2026 7:27:15' | '2026-09-14' | '14/09/2026' | '01 Jan 2026' -> date."""
+def parse_date(s, dayfirst=False):
+    """'9/14/2026 7:27:15' | '2026-09-14' | '14/09/2026' | '01 Jan 2026' -> date.
+    dayfirst=True utk sheet format DD/MM/YYYY (SSG); default MM/DD/YYYY (Academy)."""
     s = str(s or "").strip()
     if not s:
         return None
     d = s.split(" ")[0].split("T")[0] if "/" in s or "-" in s else s
     p = re.split(r"[/.\-]", d)
     if len(p) == 3:
-        try:
-            if len(p[2]) == 4:          # MM/DD/YYYY (format Academy)
-                return datetime(int(p[2]), int(p[0]), int(p[1])).date()
-            if len(p[0]) == 4:          # YYYY-MM-DD
+        if len(p[0]) == 4:              # YYYY-MM-DD
+            try:
                 return datetime(int(p[0]), int(p[1]), int(p[2])).date()
-            if len(p[2]) == 4:          # DD/MM/YYYY
-                return datetime(int(p[2]), int(p[1]), int(p[0])).date()
-        except ValueError:
-            pass
+            except ValueError:
+                return None
+        if len(p[2]) == 4 and p[0].isdigit() and p[1].isdigit():
+            a, b = (int(p[1]), int(p[0])) if dayfirst else (int(p[0]), int(p[1]))
+            try:
+                return datetime(int(p[2]), a, b).date()
+            except ValueError:
+                try:                    # fallback terbalik utk tanggal ambigu/salah kolom
+                    return datetime(int(p[2]), b, a).date()
+                except ValueError:
+                    pass
     for fmt in ("%d %b %Y", "%d %B %Y", "%d-%b-%Y", "%d-%B-%Y"):   # sheet PHR
         try:
             return datetime.strptime(s, fmt).date()
@@ -187,7 +193,7 @@ def load_need_rows():
                 return (str(row[i]).strip() if i is not None and len(row) > i else "")
             m = CODE_RE.search(g("kode"))
             rows.append({
-                "date": parse_date(g("date")),
+                "date": parse_date(g("date"), dayfirst=True),
                 "company": g("company"), "brand": g("brand"),
                 "status": g("status"), "name": g("name"),
                 "phone": norm_phone(g("phone")), "email": g("email").lower().strip(),
@@ -235,7 +241,9 @@ def _parse_need(vals):
 
 
 def odoo_crm_index():
-    """crm.lead tim GRC/IPQI -> index 9-digit phone & email -> (so, rp)."""
+    """crm.lead tim GRC/IPQI -> index 9-digit phone & email -> [(tgl_order, rp)]
+    per SO (state sale/done). SO difilter per lead: hanya date_order >= tanggal
+    lead yang dihitung (lihat main) — histori SO lama customer tidak ikut."""
     try:
         import xmlrpc.client
         env = {}
@@ -255,22 +263,39 @@ def odoo_crm_index():
                           {"fields": ["company_ids"]})
         ctx = {"allowed_company_ids": me[0]["company_ids"]}
         rows = m.execute_kw(db, uid, key, "crm.lead", "search_read",
-                            [[["team_id", "in", CRM_TEAMS]]],
+                            [[("team_id", "in", CRM_TEAMS)]],
                             {"fields": ["id", "phone", "mobile", "email_from",
-                                        "sale_order_count", "sale_amount_total"],
+                                        "order_ids"],
                              "context": ctx, "limit": 5000})
+        oids = [oid for c in rows for oid in (c.get("order_ids") or [])]
+        so_by_id = {}
+        if oids:
+            sos = m.execute_kw(db, uid, key, "sale.order", "search_read",
+                               [[("id", "in", list(set(oids))),
+                                 ("state", "in", ["sale", "done"])]],
+                               {"fields": ["id", "date_order", "amount_untaxed"],
+                                "context": ctx})
+            so_by_id = {s["id"]: (s["date_order"][:10],
+                                  float(s.get("amount_untaxed") or 0)) for s in sos}
         idx = {}
         for c in rows:
-            so = int(c.get("sale_order_count") or 0)
-            rp = float(c.get("sale_amount_total") or 0)
+            ords = {oid: so_by_id[oid] for oid in (c.get("order_ids") or [])
+                    if oid in so_by_id}
+            if not ords:
+                continue
+            keys = []
             for f in ("mobile", "phone"):
                 p = norm_phone(c.get(f) or "")
                 if len(p) >= 9:
-                    idx.setdefault(("p", p[-9:]), (so, rp))
+                    keys.append(("p", p[-9:]))
             e = (c.get("email_from") or "").lower().strip()
             if e:
-                idx.setdefault(("e", e), (so, rp))
-        return idx
+                keys.append(("e", e))
+            for k in keys:
+                # merge per kontak; dedupe by order id biar order gak dobel
+                bucket = idx.setdefault(k, {})
+                bucket.update(ords)
+        return {k: list(v.values()) for k, v in idx.items()}
     except Exception as ex:
         print(f"WARN: langkah Odoo gagal ({str(ex)[:100]}); SO = 0")
         return {}
@@ -334,18 +359,25 @@ def main():
         wk = iso_week(n["date"]) if n["date"] else None
         if wk:
             e["weeks"][wk] = e["weeks"].get(wk, 0) + 1
-        so = None
+        # SO hanya dihitung kalau order_date >= tanggal lead (lead date kosong
+        # tidak boleh mengklaim SO lama customer).
+        ords = None
         if n["phone"] and len(n["phone"]) >= 9:
-            so = crm.get(("p", n["phone"][-9:]))
-        if so is None and n["email"]:
-            so = crm.get(("e", n["email"]))
-        if so:
-            matched += 1
-            e["so"] += so[0]
-            e["so_value"] += so[1]
-            if wk:
-                e["so_weeks"][wk] = e["so_weeks"].get(wk, 0) + so[1]
-                e["so_cnt_weeks"][wk] = e["so_cnt_weeks"].get(wk, 0) + so[0]
+            ords = crm.get(("p", n["phone"][-9:]))
+        if ords is None and n["email"]:
+            ords = crm.get(("e", n["email"]))
+        if ords and n["date"]:
+            ld_str = n["date"].isoformat()
+            valid = [o for o in ords if o[0] >= ld_str]
+            if valid:
+                matched += 1
+                cnt = len(valid)
+                rp = sum(o[1] for o in valid)
+                e["so"] += cnt
+                e["so_value"] += rp
+                if wk:
+                    e["so_weeks"][wk] = e["so_weeks"].get(wk, 0) + rp
+                    e["so_cnt_weeks"][wk] = e["so_cnt_weeks"].get(wk, 0) + cnt
     if not args.no_odoo:
         print(f"lead ketemu crm.lead Odoo: {matched}")
 
