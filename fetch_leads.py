@@ -187,6 +187,8 @@ def load_need_rows():
         idx = dict(date=ci("Date"), company=ci("Company Name"), brand=ci("Need Category"),
                    status=ci("Status Need"), name=ci("Contact Name"), phone=ci("Phone"),
                    email=ci("Email"), kode=ci("Ket"))
+        if idx["date"] is None:
+            idx["date"] = 0   # ponytail: header kolom A sheet SSG = ',..' bukan 'Date'
         for row in main[1:]:
             def g(key):
                 i = idx.get(key)
@@ -240,6 +242,15 @@ def _parse_need(vals):
     return rows
 
 
+def _valid_email(e):
+    if not e or len(e) < 6: return False
+    e = e.strip().lower()
+    if e in ("-", "none", "null", "tidak ada", "no@email.com"): return False
+    if "@" not in e or "." not in e.split("@")[-1]: return False
+    if e.endswith(("@proxsisgroup.com", "@digitalfinger.id", "@proxsis.com")): return False
+    return True
+
+
 def odoo_crm_index():
     """crm.lead tim GRC/IPQI -> index 9-digit phone & email -> [(tgl_order, rp)]
     per SO (state sale/done). SO difilter per lead: hanya date_order >= tanggal
@@ -273,10 +284,11 @@ def odoo_crm_index():
             sos = m.execute_kw(db, uid, key, "sale.order", "search_read",
                                [[("id", "in", list(set(oids))),
                                  ("state", "in", ["sale", "done"])]],
-                               {"fields": ["id", "date_order", "amount_untaxed"],
+                               {"fields": ["id", "name", "date_order", "amount_untaxed"],
                                 "context": ctx})
             so_by_id = {s["id"]: (s["date_order"][:10],
-                                  float(s.get("amount_untaxed") or 0)) for s in sos}
+                                  float(s.get("amount_untaxed") or 0),
+                                  s.get("name") or "") for s in sos}
         idx = {}
         for c in rows:
             ords = {oid: so_by_id[oid] for oid in (c.get("order_ids") or [])
@@ -286,10 +298,10 @@ def odoo_crm_index():
             keys = []
             for f in ("mobile", "phone"):
                 p = norm_phone(c.get(f) or "")
-                if len(p) >= 9:
+                if len(p) >= 9 and p[-9:].isdigit() and len(set(p[-9:])) > 2:
                     keys.append(("p", p[-9:]))
             e = (c.get("email_from") or "").lower().strip()
-            if e:
+            if _valid_email(e):
                 keys.append(("e", e))
             for k in keys:
                 # merge per kontak; dedupe by order id biar order gak dobel
@@ -319,7 +331,8 @@ def main():
     pages = defaultdict(lambda: {"leads": 0, "qualified": 0, "so": 0,
                                  "so_value": 0.0, "weeks": {}, "so_weeks": {},
                                  "so_cnt_weeks": {}, "from": {},
-                                 "credited": 0, "credit_weeks": {}, "via": {}})
+                                 "credited": 0, "credit_weeks": {}, "via": {},
+                                 "items": []})
     seen = set()
     for n in hits:
         e = pages[codes[n["kode"]]["page"]]
@@ -366,6 +379,7 @@ def main():
             ords = crm.get(("p", n["phone"][-9:]))
         if ords is None and n["email"]:
             ords = crm.get(("e", n["email"]))
+        valid = []
         if ords and n["date"]:
             ld_str = n["date"].isoformat()
             valid = [o for o in ords if o[0] >= ld_str]
@@ -378,6 +392,13 @@ def main():
                 if wk:
                     e["so_weeks"][wk] = e["so_weeks"].get(wk, 0) + rp
                     e["so_cnt_weeks"][wk] = e["so_cnt_weeks"].get(wk, 0) + cnt
+        # rincian lead per baris utk detail dialog
+        e["items"].append({
+            "kode": n["kode"], "date": n["date"].isoformat() if n["date"] else "",
+            "name": n["name"], "company": n["company"], "status": n["status"],
+            "phone": n["phone"], "email": n["email"],
+            "so_orders": [{"no": o[2], "date": o[0], "amount": o[1]} for o in valid],
+        })
     if not args.no_odoo:
         print(f"lead ketemu crm.lead Odoo: {matched}")
 
