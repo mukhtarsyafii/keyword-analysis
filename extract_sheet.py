@@ -190,6 +190,16 @@ CAT_RULES = {
         ("Sertifikasi & Dasar K3", ("bnsp", "sertifikasi", "sertifikat", "kompetensi", "smk3",
                                     "umum", "dasar", "awareness")),
     ],
+    "Proxsis Academy": [
+        ("Sertifikasi BNSP / Profesi", ("bnsp", "qrmo", "sertifikasi", "kompetensi")),
+        ("Supply Chain & Operasional", ("supply chain", "scm", "logistik", "procurement", "inventory")),
+        ("Project Management & BPM", ("project management", "pmp", "business process", "bpm")),
+        ("Keuangan & Manajemen Aset", ("asset liability", "cashflow", "keuangan", "finance", "accounting")),
+        ("Tata Kelola, Risiko & ISO", ("iso", "22301", "37001", "continuity", "penyuapan", "anti bribery")),
+        ("TI & Cyber Security", ("damabok", "it masterplan", "cyber", "security", "data governance")),
+        ("HR & Komunikasi Bisnis", ("hr", "human resource", "communication", "komunikasi", "leads")),
+        ("K3 & Lingkungan", ("amdal", "k3", "safety", "first aid", "csms", "migas")),
+    ],
 }
 DEFAULT_CATS = [
     ("Sertifikasi BNSP / Profesi", ("bnsp", "qrmo", "qrma", "qcro", "qrgp", "cgp", "qrmp", "ccgo", "sertifikasi")),

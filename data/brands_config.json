@@ -148,5 +148,15 @@
   "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)",
   "audience": "Calon Ahli K3, HRD, dan perusahaan yang mengurus sertifikasi kompetensi K3 pekerja.",
   "ga4_property_id": "256448112"
+ },
+ {
+  "brand": "Proxsis Academy",
+  "gid": "2106577747",
+  "domain": "academy.proxsisgroup.com",
+  "property": "https://academy.proxsisgroup.com/",
+  "id_base": 15000,
+  "focus": "Pelatihan & sertifikasi profesional: supply chain, project management, ISO, risk, HR, finance",
+  "audience": "Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.",
+  "ga4_property_id": "549041515"
  }
 ]
