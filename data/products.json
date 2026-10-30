@@ -3301,8 +3301,8 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/training-pemalsuan-dokumen/",
   "status": "Aktif",
-  "total_impr": 248.0,
-  "total_clicks": 12.0,
+  "total_impr": 248,
+  "total_clicks": 12,
   "ctr": 4.84,
   "avg_rank": 5.3,
   "latest_rank": 7.0,
@@ -3950,7 +3950,7 @@
   "vol_info": "1,500",
   "url": "https://grc-indonesia.com/training-high-impact-report-audit-writing/",
   "status": "Aktif",
-  "total_impr": 122.0,
+  "total_impr": 122,
   "total_clicks": 3,
   "ctr": 2.46,
   "avg_rank": 7.7,
@@ -4539,8 +4539,8 @@
   "vol_info": "450",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 1082.0,
-  "total_clicks": 31.0,
+  "total_impr": 1082,
+  "total_clicks": 31,
   "ctr": 2.87,
   "avg_rank": 8.4,
   "latest_rank": 5.7,
@@ -9594,8 +9594,8 @@
   "vol_info": "900",
   "url": "https://grc-indonesia.com/pelatihan-integrasi-es-grc-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 206.0,
-  "total_clicks": 11.0,
+  "total_impr": 206,
+  "total_clicks": 11,
   "ctr": 5.34,
   "avg_rank": 10.1,
   "latest_rank": 11.3,
@@ -11821,7 +11821,7 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 5682.0,
+  "total_impr": 5682,
   "total_clicks": 20,
   "ctr": 0.35,
   "avg_rank": 5.3,
@@ -16065,10 +16065,10 @@
   "vol_info": "1,800",
   "url": "https://grc-indonesia.com/pelatihan-key-risk-indicator-kri/",
   "status": "Aktif",
-  "total_impr": 1785.0,
-  "total_clicks": 14.0,
+  "total_impr": 1785,
+  "total_clicks": 14,
   "ctr": 0.78,
-  "avg_rank": 12.8,
+  "avg_rank": 12.7,
   "latest_rank": 7.3,
   "weeks": [
    {
@@ -16690,8 +16690,8 @@
   "vol_info": "2,200",
   "url": "https://grc-indonesia.com/pelatihan-legal-and-compliance-management/",
   "status": "Aktif",
-  "total_impr": 2589.0,
-  "total_clicks": 56.0,
+  "total_impr": 2589,
+  "total_clicks": 56,
   "ctr": 2.16,
   "avg_rank": 32.9,
   "latest_rank": 16.9,
@@ -17309,8 +17309,8 @@
   "vol_info": "450",
   "url": "https://grc-indonesia.com/sertifikasi/qrmo-qualified-risk-management-officer/",
   "status": "Aktif",
-  "total_impr": 5124.0,
-  "total_clicks": 38.0,
+  "total_impr": 5124,
+  "total_clicks": 38,
   "ctr": 0.74,
   "avg_rank": 9.1,
   "latest_rank": 7.0,
@@ -17795,8 +17795,8 @@
   "vol_info": "600",
   "url": "https://grc-indonesia.com/sertifikasi/pelatihan-sertifikasi-qrma-bnsp/",
   "status": "Aktif",
-  "total_impr": 3445.0,
-  "total_clicks": 59.0,
+  "total_impr": 3445,
+  "total_clicks": 59,
   "ctr": 1.71,
   "avg_rank": 7.3,
   "latest_rank": 3.8,
@@ -18366,8 +18366,8 @@
   "vol_info": "500",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-qcro-bnsp/",
   "status": "Aktif",
-  "total_impr": 4176.0,
-  "total_clicks": 24.0,
+  "total_impr": 4176,
+  "total_clicks": 24,
   "ctr": 0.57,
   "avg_rank": 8.5,
   "latest_rank": 4.4,
@@ -18925,8 +18925,8 @@
   "vol_info": "350",
   "url": "https://grc-indonesia.com/pelatihan-qrgp-bersertifikat-bnsp/",
   "status": "Aktif",
-  "total_impr": 4281.0,
-  "total_clicks": 26.0,
+  "total_impr": 4281,
+  "total_clicks": 26,
   "ctr": 0.61,
   "avg_rank": 8.3,
   "latest_rank": 5.5,
@@ -19502,7 +19502,7 @@
   "vol_info": "-",
   "url": "https://grc-indonesia.com/pelatihan-sertifikasi-iso-37301-compliance/",
   "status": "Aktif",
-  "total_impr": 5682.0,
+  "total_impr": 5682,
   "total_clicks": 20,
   "ctr": 0.35,
   "avg_rank": 5.3,
@@ -20169,8 +20169,8 @@
   "vol_info": "3,500",
   "url": "https://grc-indonesia.com/pelatihan-sistem-manajemen-anti-penyuapan-iso-37001/",
   "status": "Aktif",
-  "total_impr": 1043.0,
-  "total_clicks": 28.0,
+  "total_impr": 1043,
+  "total_clicks": 28,
   "ctr": 2.68,
   "avg_rank": 8.2,
   "latest_rank": 3.8,
@@ -20809,7 +20809,7 @@
   "total_impr": 355,
   "total_clicks": 3,
   "ctr": 0.85,
-  "avg_rank": 8.4,
+  "avg_rank": 8.3,
   "latest_rank": 4.5,
   "weeks": [
    {
@@ -22018,8 +22018,8 @@
   "vol_info": "1,200",
   "url": "https://grc-indonesia.com/pelatihan/pelatihan-business-continuity-management-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 480.0,
-  "total_clicks": 9.0,
+  "total_impr": 480,
+  "total_clicks": 9,
   "ctr": 1.88,
   "avg_rank": 7.9,
   "latest_rank": 2.9,
@@ -22408,8 +22408,8 @@
   "vol_info": "800",
   "url": "https://grc-indonesia.com/training-teknik-investigasi-dan-interogasi-untuk-corporate/",
   "status": "Aktif",
-  "total_impr": 1082.0,
-  "total_clicks": 31.0,
+  "total_impr": 1082,
+  "total_clicks": 31,
   "ctr": 2.87,
   "avg_rank": 8.4,
   "latest_rank": 5.7,
@@ -23549,8 +23549,8 @@
   "vol_info": "50 - 200",
   "url": "https://grc-indonesia.com/pelatihan-managing-legal-risk-based-on-iso-31022/",
   "status": "Aktif",
-  "total_impr": 228.0,
-  "total_clicks": 13.0,
+  "total_impr": 228,
+  "total_clicks": 13,
   "ctr": 5.7,
   "avg_rank": 7.2,
   "latest_rank": 13.2,
@@ -35846,8 +35846,8 @@
   "vol_info": "2400",
   "url": "https://ipqi.org/pelatihan-fmea-failure-mode-and-effects-analysis-control-plan/",
   "status": "Aktif",
-  "total_impr": 813.0,
-  "total_clicks": 9.0,
+  "total_impr": 813,
+  "total_clicks": 9,
   "ctr": 1.11,
   "avg_rank": 43.1,
   "latest_rank": 8.1,
@@ -36357,7 +36357,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iso/",
   "status": "Aktif",
-  "total_impr": 232.0,
+  "total_impr": 232,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.9,
@@ -37396,8 +37396,8 @@
   "vol_info": "320 - 720",
   "url": "https://ipqi.org/pelatihan-5s-workplace-organization-audit-system/",
   "status": "Aktif",
-  "total_impr": 6408.0,
-  "total_clicks": 23.0,
+  "total_impr": 6408,
+  "total_clicks": 23,
   "ctr": 0.36,
   "avg_rank": 8.4,
   "latest_rank": 4.8,
@@ -37901,8 +37901,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-5r/",
   "status": "Aktif",
-  "total_impr": 8979.0,
-  "total_clicks": 190.0,
+  "total_impr": 8979,
+  "total_clicks": 190,
   "ctr": 2.12,
   "avg_rank": 4.6,
   "latest_rank": 1.0,
@@ -39773,7 +39773,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-leadership/",
   "status": "Aktif",
-  "total_impr": 717.0,
+  "total_impr": 717,
   "total_clicks": 5,
   "ctr": 0.7,
   "avg_rank": 10.1,
@@ -41393,8 +41393,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/pelatihan-teknisi-kalibrasi-alat-ukur-iso-17025/",
   "status": "Aktif",
-  "total_impr": 990.0,
-  "total_clicks": 54.0,
+  "total_impr": 990,
+  "total_clicks": 54,
   "ctr": 5.45,
   "avg_rank": 13.3,
   "latest_rank": 3.7,
@@ -41898,8 +41898,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-project-management-bersertifikat/",
   "status": "Aktif",
-  "total_impr": 737.0,
-  "total_clicks": 4.0,
+  "total_impr": 737,
+  "total_clicks": 4,
   "ctr": 0.54,
   "avg_rank": 33.5,
   "latest_rank": 25.4,
@@ -42361,8 +42361,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-lean-management/",
   "status": "Aktif",
-  "total_impr": 599.0,
-  "total_clicks": 19.0,
+  "total_impr": 599,
+  "total_clicks": 19,
   "ctr": 3.17,
   "avg_rank": 10.7,
   "latest_rank": 16.0,
@@ -43910,7 +43910,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iatf-16949/",
   "status": "Aktif",
-  "total_impr": 177.0,
+  "total_impr": 177,
   "total_clicks": 3,
   "ctr": 1.69,
   "avg_rank": 14.9,
@@ -44739,7 +44739,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-need-analysis/",
   "status": "Aktif",
-  "total_impr": 486.0,
+  "total_impr": 486,
   "total_clicks": 1,
   "ctr": 0.21,
   "avg_rank": 22.7,
@@ -46078,7 +46078,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-iso-90012015/",
   "status": "Aktif",
-  "total_impr": 458.0,
+  "total_impr": 458,
   "total_clicks": 2,
   "ctr": 0.44,
   "avg_rank": 14.1,
@@ -47735,7 +47735,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-balanced-scorecard/",
   "status": "Aktif",
-  "total_impr": 293.0,
+  "total_impr": 293,
   "total_clicks": 22,
   "ctr": 7.51,
   "avg_rank": 12.6,
@@ -48504,8 +48504,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-warehouse-management/",
   "status": "Aktif",
-  "total_impr": 204.0,
-  "total_clicks": 7.0,
+  "total_impr": 204,
+  "total_clicks": 7,
   "ctr": 3.43,
   "avg_rank": 20.5,
   "latest_rank": 33.0,
@@ -49543,7 +49543,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process/",
   "status": "Aktif",
-  "total_impr": 828.0,
+  "total_impr": 828,
   "total_clicks": 13,
   "ctr": 1.57,
   "avg_rank": 8.4,
@@ -51619,7 +51619,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-masa-persiapan-pensiun/",
   "status": "Aktif",
-  "total_impr": 1937.0,
+  "total_impr": 1937,
   "total_clicks": 26,
   "ctr": 1.34,
   "avg_rank": 21.7,
@@ -53462,7 +53462,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-creative-problem-solving/",
   "status": "Aktif",
-  "total_impr": 162.0,
+  "total_impr": 162,
   "total_clicks": 2,
   "ctr": 1.23,
   "avg_rank": 19.1,
@@ -54326,7 +54326,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-social-accountability-8000/",
   "status": "Aktif",
-  "total_impr": 166.0,
+  "total_impr": 166,
   "total_clicks": 2,
   "ctr": 1.2,
   "avg_rank": 11.2,
@@ -55220,7 +55220,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process-mapping/",
   "status": "Aktif",
-  "total_impr": 88.0,
+  "total_impr": 88,
   "total_clicks": 2,
   "ctr": 2.27,
   "avg_rank": 6.1,
@@ -55838,7 +55838,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process-improvement/",
   "status": "Aktif",
-  "total_impr": 160.0,
+  "total_impr": 160,
   "total_clicks": 2,
   "ctr": 1.25,
   "avg_rank": 20.8,
@@ -56804,7 +56804,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-effective-communication-skill/",
   "status": "Aktif",
-  "total_impr": 256.0,
+  "total_impr": 256,
   "total_clicks": 2,
   "ctr": 0.78,
   "avg_rank": 32.4,
@@ -57801,7 +57801,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-awareness-quality-management/",
   "status": "Aktif",
-  "total_impr": 462.0,
+  "total_impr": 462,
   "total_clicks": 6,
   "ctr": 1.3,
   "avg_rank": 11.7,
@@ -59236,8 +59236,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-business-process-management/",
   "status": "Aktif",
-  "total_impr": 179.0,
-  "total_clicks": 3.0,
+  "total_impr": 179,
+  "total_clicks": 3,
   "ctr": 1.68,
   "avg_rank": 24.2,
   "latest_rank": 4.0,
@@ -60622,7 +60622,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-quality-function-deployment/",
   "status": "Aktif",
-  "total_impr": 207.0,
+  "total_impr": 207,
   "total_clicks": 2,
   "ctr": 0.97,
   "avg_rank": 12.2,
@@ -61822,7 +61822,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-lobbying-and-negotiation-skill/",
   "status": "Aktif",
-  "total_impr": 58.0,
+  "total_impr": 58,
   "total_clicks": 1,
   "ctr": 1.72,
   "avg_rank": 15.1,
@@ -62410,7 +62410,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-awareness-environmental-management-system/",
   "status": "Aktif",
-  "total_impr": 77.0,
+  "total_impr": 77,
   "total_clicks": 2,
   "ctr": 2.6,
   "avg_rank": 27.5,
@@ -63076,7 +63076,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-root-cause-analysis-technique/",
   "status": "Aktif",
-  "total_impr": 111.0,
+  "total_impr": 111,
   "total_clicks": 4,
   "ctr": 3.6,
   "avg_rank": 7.3,
@@ -63887,7 +63887,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-green-belt-six-sigma/",
   "status": "Aktif",
-  "total_impr": 392.0,
+  "total_impr": 392,
   "total_clicks": 1,
   "ctr": 0.26,
   "avg_rank": 22.1,
@@ -65304,7 +65304,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-spc-statistical-process-control/",
   "status": "Aktif",
-  "total_impr": 7.0,
+  "total_impr": 7,
   "total_clicks": 1,
   "ctr": 14.29,
   "avg_rank": 26.3,
@@ -65658,7 +65658,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-total-productive-maintenance-tpm/",
   "status": "Aktif",
-  "total_impr": 150.0,
+  "total_impr": 150,
   "total_clicks": 1,
   "ctr": 0.67,
   "avg_rank": 10.2,
@@ -66583,7 +66583,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-kalibrasi-massa-suhu-dan-tekanan/",
   "status": "Aktif",
-  "total_impr": 457.0,
+  "total_impr": 457,
   "total_clicks": 3,
   "ctr": 0.66,
   "avg_rank": 9.9,
@@ -67688,7 +67688,7 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-kblm-kaizen-based-lean-manufacturing/",
   "status": "Aktif",
-  "total_impr": 59.0,
+  "total_impr": 59,
   "total_clicks": 1,
   "ctr": 1.69,
   "avg_rank": 10.9,
@@ -68240,8 +68240,8 @@
   "vol_info": "-",
   "url": "https://ipqi.org/training-advanced-product-quality-planning-apqp/",
   "status": "Aktif",
-  "total_impr": 1114.0,
-  "total_clicks": 4.0,
+  "total_impr": 1114,
+  "total_clicks": 4,
   "ctr": 0.36,
   "avg_rank": 9.4,
   "latest_rank": 5.5,
@@ -73020,8 +73020,8 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training-sertifikasi-perbankan/",
   "status": "Mati",
-  "total_impr": 186.0,
-  "total_clicks": 5.0,
+  "total_impr": 186,
+  "total_clicks": 5,
   "ctr": 2.69,
   "avg_rank": 28.7,
   "latest_rank": 20.0,
@@ -73824,7 +73824,7 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training-effective-budgeting-cost-control/",
   "status": "Aktif",
-  "total_impr": 185.0,
+  "total_impr": 185,
   "total_clicks": 3,
   "ctr": 1.62,
   "avg_rank": 38.6,
@@ -74736,7 +74736,7 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/training-treasury-for-non-dealers/",
   "status": "Aktif",
-  "total_impr": 100.0,
+  "total_impr": 100,
   "total_clicks": 3,
   "ctr": 3.0,
   "avg_rank": 7.1,
@@ -76358,7 +76358,7 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/pelatihan-iso-37001-anti-bribery-management-system/",
   "status": "Aktif",
-  "total_impr": 90.0,
+  "total_impr": 90,
   "total_clicks": 3,
   "ctr": 3.33,
   "avg_rank": 33.7,
@@ -77716,7 +77716,7 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/strategic-cost-reduction-training/",
   "status": "Aktif",
-  "total_impr": 469.0,
+  "total_impr": 469,
   "total_clicks": 4,
   "ctr": 0.85,
   "avg_rank": 24.5,
@@ -107922,7 +107922,7 @@
   "total_impr": 223,
   "total_clicks": 1,
   "ctr": 0.45,
-  "avg_rank": 16.1,
+  "avg_rank": 16.0,
   "latest_rank": 8.5,
   "weeks": [
    {
@@ -110419,7 +110419,7 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/grafonomi-for-banking/",
   "status": "Aktif",
-  "total_impr": 3343.0,
+  "total_impr": 3343,
   "total_clicks": 30,
   "ctr": 0.9,
   "avg_rank": 5.1,
@@ -113787,7 +113787,7 @@
   "vol_info": "-",
   "url": "https://fs-institute.org/manajemen-risiko-terpadu-dengan-iso-310002009-dan-iso-90012015/",
   "status": "Aktif",
-  "total_impr": 123.0,
+  "total_impr": 123,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 17.9,
@@ -128598,7 +128598,7 @@
   "total_impr": 2326,
   "total_clicks": 14,
   "ctr": 0.6,
-  "avg_rank": 39.0,
+  "avg_rank": 38.9,
   "latest_rank": 15.1,
   "weeks": [
    {
@@ -237823,7 +237823,6 @@
     "rank": 3.0
    }
   ],
-  "id": 4075,
   "daily": [
    {
     "d": "2026-10-24",
@@ -237831,7 +237830,8 @@
     "clicks": 0,
     "rank": 3
    }
-  ]
+  ],
+  "id": 4075
  },
  {
   "brand": "Biztech Academy",
@@ -249283,7 +249283,7 @@
   "total_impr": 310,
   "total_clicks": 6,
   "ctr": 1.94,
-  "avg_rank": 11.5,
+  "avg_rank": 11.4,
   "latest_rank": 6.2,
   "weeks": [
    {
@@ -313531,8 +313531,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/material-safety-data-sheet",
   "status": "Aktif",
-  "total_impr": 16267.0,
-  "total_clicks": 119.0,
+  "total_impr": 16267,
+  "total_clicks": 119,
   "ctr": 0.73,
   "avg_rank": 9.3,
   "latest_rank": 6.4,
@@ -315470,8 +315470,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/training-sertifikasi-kemnaker-surabaya",
   "status": "Aktif",
-  "total_impr": 13616.0,
-  "total_clicks": 729.0,
+  "total_impr": 13616,
+  "total_clicks": 729,
   "ctr": 5.35,
   "avg_rank": 7.5,
   "latest_rank": 5.9,
@@ -317433,8 +317433,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/training-bosiet-basic-offshore-safety-induction-an-emergency-training",
   "status": "Aktif",
-  "total_impr": 13605.0,
-  "total_clicks": 107.0,
+  "total_impr": 13605,
+  "total_clicks": 107,
   "ctr": 0.79,
   "avg_rank": 8.9,
   "latest_rank": 7.7,
@@ -319396,8 +319396,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/pengawas-k3-migas",
   "status": "Aktif",
-  "total_impr": 8354.0,
-  "total_clicks": 113.0,
+  "total_impr": 8354,
+  "total_clicks": 113,
   "ctr": 1.35,
   "avg_rank": 9.0,
   "latest_rank": 9.1,
@@ -321359,8 +321359,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/training-sertifikasi-kemnaker-balikpapan",
   "status": "Aktif",
-  "total_impr": 13193.0,
-  "total_clicks": 758.0,
+  "total_impr": 13193,
+  "total_clicks": 758,
   "ctr": 5.75,
   "avg_rank": 6.4,
   "latest_rank": 5.2,
@@ -323322,8 +323322,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/food-defense/sistem-manajemen-keamanan-pangan-berdasarkan-iso-22000-2018",
   "status": "Aktif",
-  "total_impr": 11494.0,
-  "total_clicks": 145.0,
+  "total_impr": 11494,
+  "total_clicks": 145,
   "ctr": 1.26,
   "avg_rank": 7.7,
   "latest_rank": 6.2,
@@ -325285,8 +325285,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/sertifikasi-welding-inspector-bnsp",
   "status": "Aktif",
-  "total_impr": 7745.0,
-  "total_clicks": 87.0,
+  "total_impr": 7745,
+  "total_clicks": 87,
   "ctr": 1.12,
   "avg_rank": 6.0,
   "latest_rank": 7.3,
@@ -327248,8 +327248,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/pelatihan-pipe-fitter-sertifikasi-bnsp",
   "status": "Aktif",
-  "total_impr": 7353.0,
-  "total_clicks": 265.0,
+  "total_impr": 7353,
+  "total_clicks": 265,
   "ctr": 3.6,
   "avg_rank": 4.5,
   "latest_rank": 4.7,
@@ -329211,8 +329211,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/petugas-penanganan-bahaya-gas-h2s",
   "status": "Aktif",
-  "total_impr": 5301.0,
-  "total_clicks": 128.0,
+  "total_impr": 5301,
+  "total_clicks": 128,
   "ctr": 2.41,
   "avg_rank": 6.6,
   "latest_rank": 6.2,
@@ -331174,7 +331174,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/operator-k3-migas",
   "status": "Aktif",
-  "total_impr": 2681.0,
+  "total_impr": 2681,
   "total_clicks": 21,
   "ctr": 0.78,
   "avg_rank": 9.2,
@@ -332987,8 +332987,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/auditor-smk3-2",
   "status": "Aktif",
-  "total_impr": 6759.0,
-  "total_clicks": 131.0,
+  "total_impr": 6759,
+  "total_clicks": 131,
   "ctr": 1.94,
   "avg_rank": 9.4,
   "latest_rank": 11.9,
@@ -334950,8 +334950,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/training-petugas-p3k-2",
   "status": "Aktif",
-  "total_impr": 1623.0,
-  "total_clicks": 23.0,
+  "total_impr": 1623,
+  "total_clicks": 23,
   "ctr": 1.42,
   "avg_rank": 8.1,
   "latest_rank": 5.9,
@@ -336667,8 +336667,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-produksi-migas",
   "status": "Aktif",
-  "total_impr": 4215.0,
-  "total_clicks": 59.0,
+  "total_impr": 4215,
+  "total_clicks": 59,
   "ctr": 1.4,
   "avg_rank": 6.4,
   "latest_rank": 5.4,
@@ -338630,8 +338630,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-material-safety-data-sheet-msds-2",
   "status": "Aktif",
-  "total_impr": 17624.0,
-  "total_clicks": 72.0,
+  "total_impr": 17624,
+  "total_clicks": 72,
   "ctr": 0.41,
   "avg_rank": 9.8,
   "latest_rank": 8.8,
@@ -340509,8 +340509,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/sertifikasi-synergy-solusi",
   "status": "Aktif",
-  "total_impr": 3728.0,
-  "total_clicks": 52.0,
+  "total_impr": 3728,
+  "total_clicks": 52,
   "ctr": 1.39,
   "avg_rank": 10.0,
   "latest_rank": 5.0,
@@ -342454,8 +342454,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/training-process-safety-management",
   "status": "Aktif",
-  "total_impr": 1776.0,
-  "total_clicks": 84.0,
+  "total_impr": 1776,
+  "total_clicks": 84,
   "ctr": 4.73,
   "avg_rank": 12.5,
   "latest_rank": 9.3,
@@ -344381,8 +344381,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/hazops",
   "status": "Aktif",
-  "total_impr": 2359.0,
-  "total_clicks": 31.0,
+  "total_impr": 2359,
+  "total_clicks": 31,
   "ctr": 1.31,
   "avg_rank": 9.1,
   "latest_rank": 2.8,
@@ -346314,8 +346314,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-lift-barang",
   "status": "Aktif",
-  "total_impr": 1235.0,
-  "total_clicks": 17.0,
+  "total_impr": 1235,
+  "total_clicks": 17,
   "ctr": 1.38,
   "avg_rank": 4.9,
   "latest_rank": 3.2,
@@ -348151,8 +348151,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/pengawas-operator-produksi-bnsp",
   "status": "Aktif",
-  "total_impr": 1079.0,
-  "total_clicks": 21.0,
+  "total_impr": 1079,
+  "total_clicks": 21,
   "ctr": 1.95,
   "avg_rank": 8.0,
   "latest_rank": 8.5,
@@ -349922,8 +349922,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/operator-pengendalian-pencemaran-udara",
   "status": "Aktif",
-  "total_impr": 1030.0,
-  "total_clicks": 33.0,
+  "total_impr": 1030,
+  "total_clicks": 33,
   "ctr": 3.2,
   "avg_rank": 5.9,
   "latest_rank": 4.0,
@@ -351693,8 +351693,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/teknisi-perawatan-peralatan-instrumentasi",
   "status": "Aktif",
-  "total_impr": 1076.0,
-  "total_clicks": 18.0,
+  "total_impr": 1076,
+  "total_clicks": 18,
   "ctr": 1.67,
   "avg_rank": 8.0,
   "latest_rank": 11.0,
@@ -353416,7 +353416,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/training-basic-first-aid",
   "status": "Aktif",
-  "total_impr": 565.0,
+  "total_impr": 565,
   "total_clicks": 31,
   "ctr": 5.49,
   "avg_rank": 11.4,
@@ -354767,8 +354767,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-teknik-sampling-untuk-pengujian-sample-2",
   "status": "Aktif",
-  "total_impr": 937.0,
-  "total_clicks": 36.0,
+  "total_impr": 937,
+  "total_clicks": 36,
   "ctr": 3.84,
   "avg_rank": 7.3,
   "latest_rank": 7.4,
@@ -356526,8 +356526,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-implementasi-dan-pembuatan-laporan-amdal-dan-ukl-upl-2",
   "status": "Aktif",
-  "total_impr": 644.0,
-  "total_clicks": 11.0,
+  "total_impr": 644,
+  "total_clicks": 11,
   "ctr": 1.71,
   "avg_rank": 9.0,
   "latest_rank": 7.0,
@@ -358063,7 +358063,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/training-sil-lopa",
   "status": "Aktif",
-  "total_impr": 674.0,
+  "total_impr": 674,
   "total_clicks": 47,
   "ctr": 6.97,
   "avg_rank": 9.9,
@@ -359654,8 +359654,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-mesin-produksi-dan-perkakas-kelas-1-dp-30",
   "status": "Aktif",
-  "total_impr": 834.0,
-  "total_clicks": 9.0,
+  "total_impr": 834,
+  "total_clicks": 9,
   "ctr": 1.08,
   "avg_rank": 8.3,
   "latest_rank": 5.0,
@@ -361215,7 +361215,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/training-psm",
   "status": "Aktif",
-  "total_impr": 425.0,
+  "total_impr": 425,
   "total_clicks": 9,
   "ctr": 2.12,
   "avg_rank": 9.9,
@@ -362524,7 +362524,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-green-building-2",
   "status": "Aktif",
-  "total_impr": 485.0,
+  "total_impr": 485,
   "total_clicks": 15,
   "ctr": 3.09,
   "avg_rank": 8.4,
@@ -363875,8 +363875,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/training-rams",
   "status": "Aktif",
-  "total_impr": 527.0,
-  "total_clicks": 27.0,
+  "total_impr": 527,
+  "total_clicks": 27,
   "ctr": 5.12,
   "avg_rank": 6.8,
   "latest_rank": 1.0,
@@ -365208,8 +365208,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/awareness-smk3-pp-50-2012-sertifikasi-synergy-solusi",
   "status": "Aktif",
-  "total_impr": 644.0,
-  "total_clicks": 13.0,
+  "total_impr": 644,
+  "total_clicks": 13,
   "ctr": 2.02,
   "avg_rank": 7.6,
   "latest_rank": 9.0,
@@ -366787,7 +366787,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/teknisi-bejana-tekan-dan-tangki-timbun-dp-30",
   "status": "Aktif",
-  "total_impr": 351.0,
+  "total_impr": 351,
   "total_clicks": 11,
   "ctr": 3.13,
   "avg_rank": 14.1,
@@ -367928,7 +367928,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-wheel-loader",
   "status": "Aktif",
-  "total_impr": 1455.0,
+  "total_impr": 1455,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.2,
@@ -369645,7 +369645,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-forklift-dp-30",
   "status": "Aktif",
-  "total_impr": 422.0,
+  "total_impr": 422,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 6.5,
@@ -371098,7 +371098,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/operator-forklift",
   "status": "Aktif",
-  "total_impr": 425.0,
+  "total_impr": 425,
   "total_clicks": 6,
   "ctr": 1.41,
   "avg_rank": 13.5,
@@ -372431,8 +372431,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/basic-safety-training",
   "status": "Aktif",
-  "total_impr": 507.0,
-  "total_clicks": 5.0,
+  "total_impr": 507,
+  "total_clicks": 5,
   "ctr": 0.99,
   "avg_rank": 16.2,
   "latest_rank": 8.0,
@@ -373860,7 +373860,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/training-ahli-k3-umum",
   "status": "Aktif",
-  "total_impr": 771.0,
+  "total_impr": 771,
   "total_clicks": 2,
   "ctr": 0.26,
   "avg_rank": 11.0,
@@ -375571,8 +375571,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/ahli-k3-kimia-2",
   "status": "Aktif",
-  "total_impr": 1145.0,
-  "total_clicks": 38.0,
+  "total_impr": 1145,
+  "total_clicks": 38,
   "ctr": 3.32,
   "avg_rank": 8.4,
   "latest_rank": 4.0,
@@ -377234,7 +377234,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/hazop",
   "status": "Aktif",
-  "total_impr": 434.0,
+  "total_impr": 434,
   "total_clicks": 7,
   "ctr": 1.61,
   "avg_rank": 14.9,
@@ -378561,7 +378561,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/training-petugas-peran-kebakaran-tingkat-d-sertifikasi-kemenaker-ri",
   "status": "Aktif",
-  "total_impr": 493.0,
+  "total_impr": 493,
   "total_clicks": 6,
   "ctr": 1.22,
   "avg_rank": 7.2,
@@ -379984,7 +379984,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/pelatihan-defensive-driving",
   "status": "Aktif",
-  "total_impr": 370.0,
+  "total_impr": 370,
   "total_clicks": 5,
   "ctr": 1.35,
   "avg_rank": 32.9,
@@ -381293,7 +381293,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-pengendalian-pencemaran-udara-bnsp",
   "status": "Aktif",
-  "total_impr": 415.0,
+  "total_impr": 415,
   "total_clicks": 4,
   "ctr": 0.96,
   "avg_rank": 8.5,
@@ -382758,8 +382758,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/operator-scaffolding",
   "status": "Aktif",
-  "total_impr": 888.0,
-  "total_clicks": 18.0,
+  "total_impr": 888,
+  "total_clicks": 18,
   "ctr": 2.03,
   "avg_rank": 7.9,
   "latest_rank": 10.0,
@@ -384391,7 +384391,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/uncategorised/pjk3-kesehatan-kerja",
   "status": "Aktif",
-  "total_impr": 303.0,
+  "total_impr": 303,
   "total_clicks": 1,
   "ctr": 0.33,
   "avg_rank": 11.2,
@@ -385567,7 +385567,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/basic-mechanical-electrical-safety",
   "status": "Aktif",
-  "total_impr": 256.0,
+  "total_impr": 256,
   "total_clicks": 2,
   "ctr": 0.78,
   "avg_rank": 7.5,
@@ -386702,8 +386702,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-pengelolaan-limbah-b3-3",
   "status": "Aktif",
-  "total_impr": 354.0,
-  "total_clicks": 8.0,
+  "total_impr": 354,
+  "total_clicks": 8,
   "ctr": 2.26,
   "avg_rank": 8.4,
   "latest_rank": 7.2,
@@ -387932,8 +387932,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-gondola-dp-30",
   "status": "Aktif",
-  "total_impr": 132.0,
-  "total_clicks": 4.0,
+  "total_impr": 132,
+  "total_clicks": 4,
   "ctr": 3.03,
   "avg_rank": 8.7,
   "latest_rank": 7.7,
@@ -388719,10 +388719,10 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/training-teknisi-k3-listrik-02-2",
   "status": "Aktif",
-  "total_impr": 1245.0,
-  "total_clicks": 22.0,
+  "total_impr": 1245,
+  "total_clicks": 22,
   "ctr": 1.77,
-  "avg_rank": 12.7,
+  "avg_rank": 12.6,
   "latest_rank": 115.0,
   "weeks": [
    {
@@ -390298,7 +390298,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-gondola",
   "status": "Aktif",
-  "total_impr": 94.0,
+  "total_impr": 94,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 10.8,
@@ -390862,7 +390862,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-audit-energi-dan-penyusunan-program-hemat-energi-2",
   "status": "Aktif",
-  "total_impr": 253.0,
+  "total_impr": 253,
   "total_clicks": 9,
   "ctr": 3.56,
   "avg_rank": 9.4,
@@ -391991,7 +391991,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-crane",
   "status": "Aktif",
-  "total_impr": 169.0,
+  "total_impr": 169,
   "total_clicks": 1,
   "ctr": 0.59,
   "avg_rank": 9.8,
@@ -392856,8 +392856,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/training-ahli-k3-listrik",
   "status": "Aktif",
-  "total_impr": 547.0,
-  "total_clicks": 14.0,
+  "total_impr": 547,
+  "total_clicks": 14,
   "ctr": 2.56,
   "avg_rank": 8.2,
   "latest_rank": 3.0,
@@ -394111,8 +394111,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-boiler-kelas-2-5",
   "status": "Aktif",
-  "total_impr": 152.0,
-  "total_clicks": 8.0,
+  "total_impr": 152,
+  "total_clicks": 8,
   "ctr": 5.26,
   "avg_rank": 8.1,
   "latest_rank": 4.8,
@@ -394957,8 +394957,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-boiler-kelas-1-5",
   "status": "Aktif",
-  "total_impr": 112.0,
-  "total_clicks": 1.0,
+  "total_impr": 112,
+  "total_clicks": 1,
   "ctr": 0.89,
   "avg_rank": 25.2,
   "latest_rank": 16.0,
@@ -395756,7 +395756,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/pengawas-k3-migas-533",
   "status": "Aktif",
-  "total_impr": 609.0,
+  "total_impr": 609,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 11.7,
@@ -397125,8 +397125,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/basic-scaffolding-2",
   "status": "Aktif",
-  "total_impr": 609.0,
-  "total_clicks": 6.0,
+  "total_impr": 609,
+  "total_clicks": 6,
   "ctr": 0.99,
   "avg_rank": 9.2,
   "latest_rank": 3.0,
@@ -399040,8 +399040,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/jadwal-dan-pendaftaran-pelatihan-2023",
   "status": "Aktif",
-  "total_impr": 82.0,
-  "total_clicks": 2.0,
+  "total_impr": 82,
+  "total_clicks": 2,
   "ctr": 2.44,
   "avg_rank": 21.3,
   "latest_rank": 9.0,
@@ -399623,8 +399623,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/ahli-k3-kimia-dp-30",
   "status": "Aktif",
-  "total_impr": 66.0,
-  "total_clicks": 2.0,
+  "total_impr": 66,
+  "total_clicks": 2,
   "ctr": 3.03,
   "avg_rank": 6.5,
   "latest_rank": 4.0,
@@ -400206,8 +400206,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/kebakaran-kelas-dcba-dp-30",
   "status": "Aktif",
-  "total_impr": 207.0,
-  "total_clicks": 8.0,
+  "total_impr": 207,
+  "total_clicks": 8,
   "ctr": 3.86,
   "avg_rank": 11.0,
   "latest_rank": 7.0,
@@ -401197,7 +401197,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-pengendalian-pencemaran-air-bnsp",
   "status": "Aktif",
-  "total_impr": 98.0,
+  "total_impr": 98,
   "total_clicks": 1,
   "ctr": 1.02,
   "avg_rank": 8.1,
@@ -401887,7 +401887,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/auditor-smk3-dp-30",
   "status": "Aktif",
-  "total_impr": 65.0,
+  "total_impr": 65,
   "total_clicks": 1,
   "ctr": 1.54,
   "avg_rank": 11.1,
@@ -402524,7 +402524,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/isc-safety-school/sertifikasi-migas",
   "status": "Aktif",
-  "total_impr": 74.0,
+  "total_impr": 74,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 8.6,
@@ -403137,7 +403137,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-alat-berat-dp-30",
   "status": "Aktif",
-  "total_impr": 173.0,
+  "total_impr": 173,
   "total_clicks": 1,
   "ctr": 0.58,
   "avg_rank": 7.6,
@@ -404074,7 +404074,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-penggerak-mula",
   "status": "Aktif",
-  "total_impr": 45.0,
+  "total_impr": 45,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 11.6,
@@ -404579,7 +404579,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/teknisi-pesawat-angkat-angkut",
   "status": "Aktif",
-  "total_impr": 45.0,
+  "total_impr": 45,
   "total_clicks": 1,
   "ctr": 2.22,
   "avg_rank": 41.8,
@@ -405089,7 +405089,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/petugas-k3-kimia-8",
   "status": "Aktif",
-  "total_impr": 45.0,
+  "total_impr": 45,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 44.3,
@@ -405557,7 +405557,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/training-wastewater-treatment-plant-wwtp",
   "status": "Aktif",
-  "total_impr": 84.0,
+  "total_impr": 84,
   "total_clicks": 2,
   "ctr": 2.38,
   "avg_rank": 6.0,
@@ -406224,7 +406224,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/training-qra",
   "status": "Aktif",
-  "total_impr": 82.0,
+  "total_impr": 82,
   "total_clicks": 2,
   "ctr": 2.44,
   "avg_rank": 5.4,
@@ -407221,7 +407221,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/ahli-k3-listrik-dp-30",
   "status": "Aktif",
-  "total_impr": 41.0,
+  "total_impr": 41,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 5.7,
@@ -407749,7 +407749,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/instalasi-pengolahan-air-limbah",
   "status": "Aktif",
-  "total_impr": 56.0,
+  "total_impr": 56,
   "total_clicks": 1,
   "ctr": 1.79,
   "avg_rank": 17.8,
@@ -408278,7 +408278,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-bulldozer",
   "status": "Aktif",
-  "total_impr": 26.0,
+  "total_impr": 26,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 10.9,
@@ -408710,7 +408710,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-conveyor",
   "status": "Aktif",
-  "total_impr": 38.0,
+  "total_impr": 38,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 8.8,
@@ -409185,7 +409185,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/confined-space-madya-3",
   "status": "Aktif",
-  "total_impr": 23.0,
+  "total_impr": 23,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 21.3,
@@ -410955,7 +410955,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/kebakaran-kelas-d",
   "status": "Aktif",
-  "total_impr": 20.0,
+  "total_impr": 20,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.7,
@@ -411351,7 +411351,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-penggerak-mula-kelas-1-dp-30",
   "status": "Aktif",
-  "total_impr": 66.0,
+  "total_impr": 66,
   "total_clicks": 1,
   "ctr": 1.52,
   "avg_rank": 9.9,
@@ -412313,7 +412313,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/kebakaran-c",
   "status": "Aktif",
-  "total_impr": 16.0,
+  "total_impr": 16,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 4.9,
@@ -412697,7 +412697,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-konservasi-energi-pemahaman-dan-langkah-pemenuhannya-berdasarkan-pp-70-tahun-2009-2",
   "status": "Aktif",
-  "total_impr": 26.0,
+  "total_impr": 26,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.0,
@@ -413130,7 +413130,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/pelatihan/konsultan-safety-leadership-2",
   "status": "Aktif",
-  "total_impr": 66.0,
+  "total_impr": 66,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 27.7,
@@ -413622,7 +413622,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-forklift",
   "status": "Aktif",
-  "total_impr": 21.0,
+  "total_impr": 21,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.3,
@@ -414030,7 +414030,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-k3-kimia-15",
   "status": "Aktif",
-  "total_impr": 28.0,
+  "total_impr": 28,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 11.3,
@@ -414474,7 +414474,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-k3-listrik-9",
   "status": "Aktif",
-  "total_impr": 25.0,
+  "total_impr": 25,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 15.5,
@@ -415266,7 +415266,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-pita-transport-conveyor-dp-30",
   "status": "Aktif",
-  "total_impr": 78.0,
+  "total_impr": 78,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 10.8,
@@ -415908,7 +415908,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/teknisi-deteksi-gas",
   "status": "Aktif",
-  "total_impr": 39.0,
+  "total_impr": 39,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 14.2,
@@ -416358,8 +416358,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-k3-pesawat-uap-bejana-tekan-2",
   "status": "Aktif",
-  "total_impr": 41.0,
-  "total_clicks": 3.0,
+  "total_impr": 41,
+  "total_clicks": 3,
   "ctr": 7.32,
   "avg_rank": 25.3,
   "latest_rank": 2.0,
@@ -416862,7 +416862,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-muda-k3-konstruksi-10",
   "status": "Aktif",
-  "total_impr": 27.0,
+  "total_impr": 27,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 15.1,
@@ -417288,7 +417288,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-crane-kelas-3-2",
   "status": "Aktif",
-  "total_impr": 22.0,
+  "total_impr": 22,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 35.4,
@@ -417708,8 +417708,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-internal-auditor-iso-14001-2015-2",
   "status": "Aktif",
-  "total_impr": 95.0,
-  "total_clicks": 7.0,
+  "total_impr": 95,
+  "total_clicks": 7,
   "ctr": 7.37,
   "avg_rank": 13.0,
   "latest_rank": 6.3,
@@ -418369,8 +418369,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-amdal-enviromental-impact-assesment-2",
   "status": "Aktif",
-  "total_impr": 90.0,
-  "total_clicks": 6.0,
+  "total_impr": 90,
+  "total_clicks": 6,
   "ctr": 6.67,
   "avg_rank": 9.4,
   "latest_rank": 4.0,
@@ -419047,7 +419047,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/bnsp-certificate",
   "status": "Aktif",
-  "total_impr": 13.0,
+  "total_impr": 13,
   "total_clicks": 2,
   "ctr": 15.38,
   "avg_rank": 6.1,
@@ -419425,7 +419425,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-muda-k3-konstruksi",
   "status": "Aktif",
-  "total_impr": 13.0,
+  "total_impr": 13,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 13.9,
@@ -419803,7 +419803,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/kebakaran-kelas-d-dp-30",
   "status": "Aktif",
-  "total_impr": 23.0,
+  "total_impr": 23,
   "total_clicks": 1,
   "ctr": 4.35,
   "avg_rank": 7.7,
@@ -420241,7 +420241,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/oil-and-gas-petrotraining-layanan/oil-and-gas-consulting-x",
   "status": "Aktif",
-  "total_impr": 49.0,
+  "total_impr": 49,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 22.7,
@@ -420637,7 +420637,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-konversi-energi-pemahaman-dan-langkah-pemenuhannya-untuk-batubara-2",
   "status": "Aktif",
-  "total_impr": 49.0,
+  "total_impr": 49,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 6.2,
@@ -421166,7 +421166,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/ahli-k3-umum-dp-30",
   "status": "Aktif",
-  "total_impr": 20.0,
+  "total_impr": 20,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 6.0,
@@ -421562,7 +421562,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/kebakaran-kelas-b-dp-30",
   "status": "Aktif",
-  "total_impr": 24.0,
+  "total_impr": 24,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 6.2,
@@ -422782,10 +422782,10 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/teknisi-k3-listrik-dp-30",
   "status": "Aktif",
-  "total_impr": 31.0,
+  "total_impr": 31,
   "total_clicks": 1,
   "ctr": 3.23,
-  "avg_rank": 9.1,
+  "avg_rank": 9.0,
   "latest_rank": 4.0,
   "weeks": [
    {
@@ -423196,7 +423196,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/k3-supervisi-perancah-dp-30-2",
   "status": "Aktif",
-  "total_impr": 19.0,
+  "total_impr": 19,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 6.5,
@@ -423623,7 +423623,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/ahli-muda-k3-lingkungan-kerja",
   "status": "Aktif",
-  "total_impr": 18.0,
+  "total_impr": 18,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.1,
@@ -424031,7 +424031,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/petugas-p3k-dp-30",
   "status": "Aktif",
-  "total_impr": 21.0,
+  "total_impr": 21,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 8.9,
@@ -424476,7 +424476,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/operator-boiler-dp-30",
   "status": "Aktif",
-  "total_impr": 25.0,
+  "total_impr": 25,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 6.7,
@@ -424908,8 +424908,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/iso-26000-mrt",
   "status": "Aktif",
-  "total_impr": 55.0,
-  "total_clicks": 1.0,
+  "total_impr": 55,
+  "total_clicks": 1,
   "ctr": 1.82,
   "avg_rank": 9.7,
   "latest_rank": 11.0,
@@ -425485,7 +425485,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/shop/uncategorized/confined-space-utama-madya-dan-rescue-dp-30",
   "status": "Aktif",
-  "total_impr": 30.0,
+  "total_impr": 30,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 11.4,
@@ -426789,7 +426789,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/operator-mesin-produksi-dan-perkakas-kls-1-2",
   "status": "Aktif",
-  "total_impr": 9.0,
+  "total_impr": 9,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 13.5,
@@ -427161,7 +427161,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/she-mastery-session-eps-4-maksimalkan-implementasi-k3-pada-pesawat-tenaga-dan-produksi-berdasarkan-permenaker-38-tahun-2016",
   "status": "Aktif",
-  "total_impr": 11.0,
+  "total_impr": 11,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 9.5,
@@ -427875,7 +427875,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/confined-space",
   "status": "Aktif",
-  "total_impr": 9.0,
+  "total_impr": 9,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 4.6,
@@ -428241,7 +428241,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-konversi-energi-pemahaman-dan-pemenuhannya-untuk-sinar-surya-2",
   "status": "Aktif",
-  "total_impr": 8.0,
+  "total_impr": 8,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 8.3,
@@ -428595,7 +428595,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-muda-k3-lingkungan-kerja-9",
   "status": "Aktif",
-  "total_impr": 18.0,
+  "total_impr": 18,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 18.4,
@@ -428997,7 +428997,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/teknisi-bejana-dan-tangki-timbun",
   "status": "Aktif",
-  "total_impr": 5.0,
+  "total_impr": 5,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 9.0,
@@ -430089,7 +430089,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-pengolahan-air-2",
   "status": "Aktif",
-  "total_impr": 8.0,
+  "total_impr": 8,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 8.2,
@@ -430443,7 +430443,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-clean-development-mechanism-cdm-2",
   "status": "Aktif",
-  "total_impr": 42.0,
+  "total_impr": 42,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 7.7,
@@ -430887,7 +430887,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-iso-14031-2",
   "status": "Aktif",
-  "total_impr": 25.0,
+  "total_impr": 25,
   "total_clicks": 1,
   "ctr": 4.0,
   "avg_rank": 5.6,
@@ -431307,7 +431307,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/ahli-k3-umum-2",
   "status": "Aktif",
-  "total_impr": 6.0,
+  "total_impr": 6,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 20.7,
@@ -432021,8 +432021,8 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-environmental-sustainability-2",
   "status": "Aktif",
-  "total_impr": 15.0,
-  "total_clicks": 2.0,
+  "total_impr": 15,
+  "total_clicks": 2,
   "ctr": 13.33,
   "avg_rank": 9.5,
   "latest_rank": 7.0,
@@ -433045,7 +433045,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/layanan/environment-and-energy-services-consulting-layanan/training-penerapan-ekolabel-standart-2",
   "status": "Aktif",
-  "total_impr": 4.0,
+  "total_impr": 4,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 9.3,
@@ -435743,7 +435743,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/https-synergysolusi-com-layanan-isc-safety-school-auditor-smk3-3-auditor-smk3",
   "status": "Aktif",
-  "total_impr": 2.0,
+  "total_impr": 2,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 9.5,
@@ -436395,7 +436395,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/confined-space-rescue",
   "status": "Aktif",
-  "total_impr": 5.0,
+  "total_impr": 5,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 8.4,
@@ -436743,7 +436743,7 @@
   "vol_info": "-",
   "url": "https://synergysolusi.com/events/confined-space-utama-7",
   "status": "Aktif",
-  "total_impr": 17.0,
+  "total_impr": 17,
   "total_clicks": 0,
   "ctr": 0.0,
   "avg_rank": 46.0,
@@ -549331,7 +549331,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/pelatihan-awareness-iso-140012015/",
   "status": "Aktif",
-  "total_impr": 356.0,
+  "total_impr": 356,
   "total_clicks": 9,
   "ctr": 2.53,
   "avg_rank": 22.1,
@@ -550538,8 +550538,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/pelatihan-iso-55001-2014/",
   "status": "Aktif",
-  "total_impr": 1793.0,
-  "total_clicks": 136.0,
+  "total_impr": 1793,
+  "total_clicks": 136,
   "ctr": 7.59,
   "avg_rank": 8.0,
   "latest_rank": 6.8,
@@ -552405,8 +552405,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-it-governance/",
   "status": "Aktif",
-  "total_impr": 437.0,
-  "total_clicks": 5.0,
+  "total_impr": 437,
+  "total_clicks": 5,
   "ctr": 1.14,
   "avg_rank": 18.1,
   "latest_rank": 8.7,
@@ -553774,7 +553774,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-awareness-iso-90012015/",
   "status": "Aktif",
-  "total_impr": 3362.0,
+  "total_impr": 3362,
   "total_clicks": 53,
   "ctr": 1.58,
   "avg_rank": 12.5,
@@ -555707,8 +555707,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-awareness-ohsas-180012007/",
   "status": "Aktif",
-  "total_impr": 394.0,
-  "total_clicks": 8.0,
+  "total_impr": 394,
+  "total_clicks": 8,
   "ctr": 2.03,
   "avg_rank": 11.6,
   "latest_rank": 7.0,
@@ -557112,8 +557112,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-isots-169492009-2/",
   "status": "Aktif",
-  "total_impr": 135.0,
-  "total_clicks": 6.0,
+  "total_impr": 135,
+  "total_clicks": 6,
   "ctr": 4.44,
   "avg_rank": 17.6,
   "latest_rank": 6.0,
@@ -557947,8 +557947,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-awareness-iso-270012013/",
   "status": "Aktif",
-  "total_impr": 915.0,
-  "total_clicks": 18.0,
+  "total_impr": 915,
+  "total_clicks": 18,
   "ctr": 1.97,
   "avg_rank": 12.4,
   "latest_rank": 111.0,
@@ -559550,7 +559550,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-creative-problem-solving/",
   "status": "Aktif",
-  "total_impr": 270.0,
+  "total_impr": 270,
   "total_clicks": 3,
   "ctr": 1.11,
   "avg_rank": 10.4,
@@ -560655,8 +560655,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-root-cause-analysis-technique/",
   "status": "Aktif",
-  "total_impr": 915.0,
-  "total_clicks": 12.0,
+  "total_impr": 915,
+  "total_clicks": 12,
   "ctr": 1.31,
   "avg_rank": 9.4,
   "latest_rank": 13.7,
@@ -562366,7 +562366,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-statistical-process-control-spc/",
   "status": "Aktif",
-  "total_impr": 1114.0,
+  "total_impr": 1114,
   "total_clicks": 6,
   "ctr": 0.54,
   "avg_rank": 18.3,
@@ -564125,7 +564125,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-integrated-qhse-management-system/",
   "status": "Aktif",
-  "total_impr": 899.0,
+  "total_impr": 899,
   "total_clicks": 12,
   "ctr": 1.33,
   "avg_rank": 18.9,
@@ -565931,8 +565931,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-production-planning-inventory-control/",
   "status": "Aktif",
-  "total_impr": 2986.0,
-  "total_clicks": 61.0,
+  "total_impr": 2986,
+  "total_clicks": 61,
   "ctr": 2.04,
   "avg_rank": 16.5,
   "latest_rank": 4.8,
@@ -567816,8 +567816,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-warehouse-management-distribution-system/",
   "status": "Aktif",
-  "total_impr": 2346.0,
-  "total_clicks": 21.0,
+  "total_impr": 2346,
+  "total_clicks": 21,
   "ctr": 0.9,
   "avg_rank": 20.2,
   "latest_rank": 19.6,
@@ -569695,8 +569695,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-kalibrasi-massa-suhu-dan-tekanan/",
   "status": "Aktif",
-  "total_impr": 759.0,
-  "total_clicks": 20.0,
+  "total_impr": 759,
+  "total_clicks": 20,
   "ctr": 2.64,
   "avg_rank": 10.9,
   "latest_rank": 2.0,
@@ -571298,8 +571298,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-understanding-core-tools-isots-16949/",
   "status": "Aktif",
-  "total_impr": 444.0,
-  "total_clicks": 12.0,
+  "total_impr": 444,
+  "total_clicks": 12,
   "ctr": 2.7,
   "avg_rank": 12.0,
   "latest_rank": 8.8,
@@ -572733,8 +572733,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-internal-quality-audit-qms-iso-90012015/",
   "status": "Aktif",
-  "total_impr": 429.0,
-  "total_clicks": 9.0,
+  "total_impr": 429,
+  "total_clicks": 9,
   "ctr": 2.1,
   "avg_rank": 23.8,
   "latest_rank": 67.5,
@@ -574150,7 +574150,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-lead-auditor-iso-9001-2015-irca/",
   "status": "Aktif",
-  "total_impr": 459.0,
+  "total_impr": 459,
   "total_clicks": 2,
   "ctr": 0.44,
   "avg_rank": 53.7,
@@ -575134,8 +575134,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-iso-9001-2015-awareness-internal-audit/",
   "status": "Aktif",
-  "total_impr": 9513.0,
-  "total_clicks": 283.0,
+  "total_impr": 9513,
+  "total_clicks": 283,
   "ctr": 2.97,
   "avg_rank": 12.2,
   "latest_rank": 12.0,
@@ -577067,8 +577067,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-bcm-awareness-based-on-iso-22301/",
   "status": "Aktif",
-  "total_impr": 1658.0,
-  "total_clicks": 40.0,
+  "total_impr": 1658,
+  "total_clicks": 40,
   "ctr": 2.41,
   "avg_rank": 12.9,
   "latest_rank": 9.8,
@@ -578922,7 +578922,7 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-iso-9001-2015-awareness-internal-audit-2/",
   "status": "Aktif",
-  "total_impr": 80.0,
+  "total_impr": 80,
   "total_clicks": 5,
   "ctr": 6.25,
   "avg_rank": 26.8,
@@ -579841,8 +579841,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/training-menjadi-qmr-iso-9001-yang-efektif-certified-qmr-iso-9001/",
   "status": "Aktif",
-  "total_impr": 1228.0,
-  "total_clicks": 14.0,
+  "total_impr": 1228,
+  "total_clicks": 14,
   "ctr": 1.14,
   "avg_rank": 9.9,
   "latest_rank": 6.2,
@@ -583401,8 +583401,8 @@
   "vol_info": "-",
   "url": "https://isoindonesiacenter.com/iso-27001-information-security/",
   "status": "Aktif",
-  "total_impr": 110412.0,
-  "total_clicks": 3443.0,
+  "total_impr": 110412,
+  "total_clicks": 3443,
   "ctr": 3.12,
   "avg_rank": 3.1,
   "latest_rank": 2.5,
@@ -616803,8 +616803,8 @@
   "vol_info": "-",
   "url": "https://hr.proxsisgroup.com/hr-skill/tna-tne/",
   "status": "Aktif",
-  "total_impr": 7207.0,
-  "total_clicks": 103.0,
+  "total_impr": 7207,
+  "total_clicks": 103,
   "ctr": 1.43,
   "avg_rank": 24.9,
   "latest_rank": 31.7,
@@ -709521,5 +709521,6816 @@
    }
   ],
   "id": 11085
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Supply Chain Management (SCM)",
+  "category": "Supply Chain & Operasional",
+  "kw_utama": "supply chain management classes near me",
+  "vol_utama": "-",
+  "kw_target": "training supply chain management",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/supply-chain-management/",
+  "status": "Aktif",
+  "total_impr": 11189,
+  "total_clicks": 167,
+  "ctr": 1.49,
+  "avg_rank": 11.2,
+  "latest_rank": 6.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 85.0,
+    "clicks": 1.0,
+    "ctr": 1.18,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 140.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 230.0,
+    "clicks": 2.0,
+    "ctr": 0.87,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 390.0,
+    "clicks": 6.0,
+    "ctr": 1.54,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 237.0,
+    "clicks": 2.0,
+    "ctr": 0.84,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 180.0,
+    "clicks": 4.0,
+    "ctr": 2.22,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 234.0,
+    "clicks": 3.0,
+    "ctr": 1.28,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 213.0,
+    "clicks": 2.0,
+    "ctr": 0.94,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 261.0,
+    "clicks": 5.0,
+    "ctr": 1.92,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 342.0,
+    "clicks": 2.0,
+    "ctr": 0.58,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 411.0,
+    "clicks": 5.0,
+    "ctr": 1.22,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 172.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 256.0,
+    "clicks": 1.0,
+    "ctr": 0.39,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 336.0,
+    "clicks": 3.0,
+    "ctr": 0.89,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 350.0,
+    "clicks": 2.0,
+    "ctr": 0.57,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 366.0,
+    "clicks": 2.0,
+    "ctr": 0.55,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 519.0,
+    "clicks": 5.0,
+    "ctr": 0.96,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 357.0,
+    "clicks": 8.0,
+    "ctr": 2.24,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 495.0,
+    "clicks": 5.0,
+    "ctr": 1.01,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 441.0,
+    "clicks": 5.0,
+    "ctr": 1.13,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 308.0,
+    "clicks": 1.0,
+    "ctr": 0.32,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 184.0,
+    "clicks": 5.0,
+    "ctr": 2.72,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 215.0,
+    "clicks": 5.0,
+    "ctr": 2.33,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 244.0,
+    "clicks": 7.0,
+    "ctr": 2.87,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 251.0,
+    "clicks": 12.0,
+    "ctr": 4.78,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 245.0,
+    "clicks": 6.0,
+    "ctr": 2.45,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 241.0,
+    "clicks": 2.0,
+    "ctr": 0.83,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 212.0,
+    "clicks": 6.0,
+    "ctr": 2.83,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 219.0,
+    "clicks": 6.0,
+    "ctr": 2.74,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 267.0,
+    "clicks": 5.0,
+    "ctr": 1.87,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 227.0,
+    "clicks": 2.0,
+    "ctr": 0.88,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 229.0,
+    "clicks": 3.0,
+    "ctr": 1.31,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 166.0,
+    "clicks": 6.0,
+    "ctr": 3.61,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 136.0,
+    "clicks": 2.0,
+    "ctr": 1.47,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 204.0,
+    "clicks": 6.0,
+    "ctr": 2.94,
+    "rank": 26.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 178.0,
+    "clicks": 2.0,
+    "ctr": 1.12,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 160.0,
+    "clicks": 2.0,
+    "ctr": 1.25,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 232.0,
+    "clicks": 8.0,
+    "ctr": 3.45,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 162.0,
+    "clicks": 5.0,
+    "ctr": 3.09,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 146.0,
+    "clicks": 4.0,
+    "ctr": 2.74,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 126.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 460.0,
+    "clicks": 6.0,
+    "ctr": 1.3,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 362.0,
+    "clicks": 3.0,
+    "ctr": 0.83,
+    "rank": 6.0
+   }
+  ],
+  "id": 15001
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Project Management Fundamental",
+  "category": "Project Management & BPM",
+  "kw_utama": "training project management",
+  "vol_utama": "-",
+  "kw_target": "project management training",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/project-management-fundamental/",
+  "status": "Aktif",
+  "total_impr": 11958,
+  "total_clicks": 221,
+  "ctr": 1.85,
+  "avg_rank": 10.8,
+  "latest_rank": 17.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 168.0,
+    "clicks": 1.0,
+    "ctr": 0.6,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 220.0,
+    "clicks": 3.0,
+    "ctr": 1.36,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 219.0,
+    "clicks": 9.0,
+    "ctr": 4.11,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 224.0,
+    "clicks": 3.0,
+    "ctr": 1.34,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 215.0,
+    "clicks": 7.0,
+    "ctr": 3.26,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 166.0,
+    "clicks": 5.0,
+    "ctr": 3.01,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 161.0,
+    "clicks": 3.0,
+    "ctr": 1.86,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 281.0,
+    "clicks": 4.0,
+    "ctr": 1.42,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 169.0,
+    "clicks": 4.0,
+    "ctr": 2.37,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 198.0,
+    "clicks": 2.0,
+    "ctr": 1.01,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 280.0,
+    "clicks": 6.0,
+    "ctr": 2.14,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 160.0,
+    "clicks": 1.0,
+    "ctr": 0.62,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 234.0,
+    "clicks": 4.0,
+    "ctr": 1.71,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 297.0,
+    "clicks": 7.0,
+    "ctr": 2.36,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 445.0,
+    "clicks": 4.0,
+    "ctr": 0.9,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 372.0,
+    "clicks": 6.0,
+    "ctr": 1.61,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 280.0,
+    "clicks": 2.0,
+    "ctr": 0.71,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 274.0,
+    "clicks": 8.0,
+    "ctr": 2.92,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 328.0,
+    "clicks": 4.0,
+    "ctr": 1.22,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 320.0,
+    "clicks": 9.0,
+    "ctr": 2.81,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 247.0,
+    "clicks": 7.0,
+    "ctr": 2.83,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 329.0,
+    "clicks": 3.0,
+    "ctr": 0.91,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 472.0,
+    "clicks": 10.0,
+    "ctr": 2.12,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 439.0,
+    "clicks": 13.0,
+    "ctr": 2.96,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 396.0,
+    "clicks": 9.0,
+    "ctr": 2.27,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 353.0,
+    "clicks": 4.0,
+    "ctr": 1.13,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 381.0,
+    "clicks": 15.0,
+    "ctr": 3.94,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 347.0,
+    "clicks": 8.0,
+    "ctr": 2.31,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 320.0,
+    "clicks": 9.0,
+    "ctr": 2.81,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 317.0,
+    "clicks": 5.0,
+    "ctr": 1.58,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 342.0,
+    "clicks": 5.0,
+    "ctr": 1.46,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 327.0,
+    "clicks": 5.0,
+    "ctr": 1.53,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 322.0,
+    "clicks": 5.0,
+    "ctr": 1.55,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 337.0,
+    "clicks": 8.0,
+    "ctr": 2.37,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 358.0,
+    "clicks": 1.0,
+    "ctr": 0.28,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 463.0,
+    "clicks": 4.0,
+    "ctr": 0.86,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 228.0,
+    "clicks": 4.0,
+    "ctr": 1.75,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 202.0,
+    "clicks": 1.0,
+    "ctr": 0.5,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 155.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 134.0,
+    "clicks": 3.0,
+    "ctr": 2.24,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 117.0,
+    "clicks": 2.0,
+    "ctr": 1.71,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 179.0,
+    "clicks": 3.0,
+    "ctr": 1.68,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 182.0,
+    "clicks": 5.0,
+    "ctr": 2.75,
+    "rank": 17.0
+   }
+  ],
+  "id": 15002
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Business Process Management",
+  "category": "Project Management & BPM",
+  "kw_utama": "business process management",
+  "vol_utama": "-",
+  "kw_target": "workshop business process adalah",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/business-process-management-2/",
+  "status": "Aktif",
+  "total_impr": 2818,
+  "total_clicks": 119,
+  "ctr": 4.22,
+  "avg_rank": 13.5,
+  "latest_rank": 5.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 47.0,
+    "clicks": 8.0,
+    "ctr": 17.02,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 55.0,
+    "clicks": 2.0,
+    "ctr": 3.64,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 72.0,
+    "clicks": 6.0,
+    "ctr": 8.33,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 103.0,
+    "clicks": 4.0,
+    "ctr": 3.88,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 130.0,
+    "clicks": 7.0,
+    "ctr": 5.38,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 99.0,
+    "clicks": 3.0,
+    "ctr": 3.03,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 84.0,
+    "clicks": 5.0,
+    "ctr": 5.95,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 82.0,
+    "clicks": 5.0,
+    "ctr": 6.1,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 109.0,
+    "clicks": 5.0,
+    "ctr": 4.59,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 139.0,
+    "clicks": 8.0,
+    "ctr": 5.76,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 75.0,
+    "clicks": 3.0,
+    "ctr": 4.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 63.0,
+    "clicks": 3.0,
+    "ctr": 4.76,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 66.0,
+    "clicks": 3.0,
+    "ctr": 4.55,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 86.0,
+    "clicks": 4.0,
+    "ctr": 4.65,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 58.0,
+    "clicks": 1.0,
+    "ctr": 1.72,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 58.0,
+    "clicks": 5.0,
+    "ctr": 8.62,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 57.0,
+    "clicks": 3.0,
+    "ctr": 5.26,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 44.0,
+    "clicks": 3.0,
+    "ctr": 6.82,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 56.0,
+    "clicks": 2.0,
+    "ctr": 3.57,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 36.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 59.0,
+    "clicks": 1.0,
+    "ctr": 1.69,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 49.0,
+    "clicks": 1.0,
+    "ctr": 2.04,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 91.0,
+    "clicks": 3.0,
+    "ctr": 3.3,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 63.0,
+    "clicks": 4.0,
+    "ctr": 6.35,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 47.0,
+    "clicks": 2.0,
+    "ctr": 4.26,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 60.0,
+    "clicks": 2.0,
+    "ctr": 3.33,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 65.0,
+    "clicks": 2.0,
+    "ctr": 3.08,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 67.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 57.0,
+    "clicks": 3.0,
+    "ctr": 5.26,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 80.0,
+    "clicks": 4.0,
+    "ctr": 5.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 106.0,
+    "clicks": 2.0,
+    "ctr": 1.89,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 130.0,
+    "clicks": 2.0,
+    "ctr": 1.54,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 100.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 48.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 29.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 64.0,
+    "clicks": 1.0,
+    "ctr": 1.56,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 56.0,
+    "clicks": 1.0,
+    "ctr": 1.79,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 29.0,
+    "clicks": 3.0,
+    "ctr": 10.34,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 19.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 23.0,
+    "clicks": 3.0,
+    "ctr": 13.04,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 20.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 20.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 22.0,
+    "clicks": 2.0,
+    "ctr": 9.09,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 24.0,
+    "clicks": 3.0,
+    "ctr": 12.5,
+    "rank": 5.0
+   }
+  ],
+  "id": 15003
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Business Continuity Management ISO 22301,",
+  "category": "Tata Kelola, Risiko & ISO",
+  "kw_utama": "business continuity management",
+  "vol_utama": "-",
+  "kw_target": "business continuity management system",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/new-course-7/",
+  "status": "Aktif",
+  "total_impr": 3012,
+  "total_clicks": 107,
+  "ctr": 3.55,
+  "avg_rank": 8.7,
+  "latest_rank": 10.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 70.0,
+    "clicks": 3.0,
+    "ctr": 4.29,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 73.0,
+    "clicks": 9.0,
+    "ctr": 12.33,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 73.0,
+    "clicks": 3.0,
+    "ctr": 4.11,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 144.0,
+    "clicks": 2.0,
+    "ctr": 1.39,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 103.0,
+    "clicks": 3.0,
+    "ctr": 2.91,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 113.0,
+    "clicks": 3.0,
+    "ctr": 2.65,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 71.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 93.0,
+    "clicks": 1.0,
+    "ctr": 1.08,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 150.0,
+    "clicks": 7.0,
+    "ctr": 4.67,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 107.0,
+    "clicks": 2.0,
+    "ctr": 1.87,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 121.0,
+    "clicks": 6.0,
+    "ctr": 4.96,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 43.0,
+    "clicks": 1.0,
+    "ctr": 2.33,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 45.0,
+    "clicks": 1.0,
+    "ctr": 2.22,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 48.0,
+    "clicks": 4.0,
+    "ctr": 8.33,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 142.0,
+    "clicks": 7.0,
+    "ctr": 4.93,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 83.0,
+    "clicks": 1.0,
+    "ctr": 1.2,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 82.0,
+    "clicks": 3.0,
+    "ctr": 3.66,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 65.0,
+    "clicks": 4.0,
+    "ctr": 6.15,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 71.0,
+    "clicks": 1.0,
+    "ctr": 1.41,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 52.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 77.0,
+    "clicks": 1.0,
+    "ctr": 1.3,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 51.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 74.0,
+    "clicks": 1.0,
+    "ctr": 1.35,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 98.0,
+    "clicks": 3.0,
+    "ctr": 3.06,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 62.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 84.0,
+    "clicks": 2.0,
+    "ctr": 2.38,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 70.0,
+    "clicks": 5.0,
+    "ctr": 7.14,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 56.0,
+    "clicks": 2.0,
+    "ctr": 3.57,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 59.0,
+    "clicks": 2.0,
+    "ctr": 3.39,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 42.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 45.0,
+    "clicks": 5.0,
+    "ctr": 11.11,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 63.0,
+    "clicks": 6.0,
+    "ctr": 9.52,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 40.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 33.0,
+    "clicks": 1.0,
+    "ctr": 3.03,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 28.0,
+    "clicks": 2.0,
+    "ctr": 7.14,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 41.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 52.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 60.0,
+    "clicks": 4.0,
+    "ctr": 6.67,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 38.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 40.0,
+    "clicks": 3.0,
+    "ctr": 7.5,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 43.0,
+    "clicks": 2.0,
+    "ctr": 4.65,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 55.0,
+    "clicks": 5.0,
+    "ctr": 9.09,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 52.0,
+    "clicks": 2.0,
+    "ctr": 3.85,
+    "rank": 10.0
+   }
+  ],
+  "id": 15004
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "QRMO",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "qrmo",
+  "vol_utama": "-",
+  "kw_target": "qrmo gelar apa",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/qualified-risk-management-officer-qrmo/",
+  "status": "Aktif",
+  "total_impr": 11381,
+  "total_clicks": 92,
+  "ctr": 0.81,
+  "avg_rank": 7.5,
+  "latest_rank": 8.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 220.0,
+    "clicks": 1.0,
+    "ctr": 0.45,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 341.0,
+    "clicks": 3.0,
+    "ctr": 0.88,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 319.0,
+    "clicks": 2.0,
+    "ctr": 0.63,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 322.0,
+    "clicks": 6.0,
+    "ctr": 1.86,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 354.0,
+    "clicks": 3.0,
+    "ctr": 0.85,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 468.0,
+    "clicks": 1.0,
+    "ctr": 0.21,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 359.0,
+    "clicks": 5.0,
+    "ctr": 1.39,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 460.0,
+    "clicks": 4.0,
+    "ctr": 0.87,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 397.0,
+    "clicks": 8.0,
+    "ctr": 2.02,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 328.0,
+    "clicks": 3.0,
+    "ctr": 0.91,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 217.0,
+    "clicks": 2.0,
+    "ctr": 0.92,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 134.0,
+    "clicks": 2.0,
+    "ctr": 1.49,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 210.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 248.0,
+    "clicks": 2.0,
+    "ctr": 0.81,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 223.0,
+    "clicks": 2.0,
+    "ctr": 0.9,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 258.0,
+    "clicks": 1.0,
+    "ctr": 0.39,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 279.0,
+    "clicks": 4.0,
+    "ctr": 1.43,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 253.0,
+    "clicks": 1.0,
+    "ctr": 0.4,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 270.0,
+    "clicks": 1.0,
+    "ctr": 0.37,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 164.0,
+    "clicks": 1.0,
+    "ctr": 0.61,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 229.0,
+    "clicks": 1.0,
+    "ctr": 0.44,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 159.0,
+    "clicks": 1.0,
+    "ctr": 0.63,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 233.0,
+    "clicks": 3.0,
+    "ctr": 1.29,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 258.0,
+    "clicks": 1.0,
+    "ctr": 0.39,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 183.0,
+    "clicks": 2.0,
+    "ctr": 1.09,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 205.0,
+    "clicks": 1.0,
+    "ctr": 0.49,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 266.0,
+    "clicks": 3.0,
+    "ctr": 1.13,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 217.0,
+    "clicks": 2.0,
+    "ctr": 0.92,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 276.0,
+    "clicks": 3.0,
+    "ctr": 1.09,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 315.0,
+    "clicks": 7.0,
+    "ctr": 2.22,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 321.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 226.0,
+    "clicks": 1.0,
+    "ctr": 0.44,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 205.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 224.0,
+    "clicks": 1.0,
+    "ctr": 0.45,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 275.0,
+    "clicks": 2.0,
+    "ctr": 0.73,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 240.0,
+    "clicks": 2.0,
+    "ctr": 0.83,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 252.0,
+    "clicks": 1.0,
+    "ctr": 0.4,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 234.0,
+    "clicks": 2.0,
+    "ctr": 0.85,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 237.0,
+    "clicks": 1.0,
+    "ctr": 0.42,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 235.0,
+    "clicks": 1.0,
+    "ctr": 0.43,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 220.0,
+    "clicks": 3.0,
+    "ctr": 1.36,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 309.0,
+    "clicks": 2.0,
+    "ctr": 0.65,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 238.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   }
+  ],
+  "id": 15005
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Sistem Manajemen Anti Penyuapan ISO 37001",
+  "category": "Tata Kelola, Risiko & ISO",
+  "kw_utama": "pelatihan iso 37001",
+  "vol_utama": "-",
+  "kw_target": "-",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/sistem-manajemen-anti-pernyuapan-iso-37001/",
+  "status": "Aktif",
+  "total_impr": 32,
+  "total_clicks": 2,
+  "ctr": 6.25,
+  "avg_rank": 8.6,
+  "latest_rank": 1.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 5.0,
+    "clicks": 1.0,
+    "ctr": 20.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 62.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 2.0,
+    "clicks": 1.0,
+    "ctr": 50.0,
+    "rank": 1.0
+   }
+  ],
+  "id": 15006
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Asset Liability Management",
+  "category": "Keuangan & Manajemen Aset",
+  "kw_utama": "asset liability management training",
+  "vol_utama": "-",
+  "kw_target": "asset liability management",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/asset-liability-managment/",
+  "status": "Aktif",
+  "total_impr": 125,
+  "total_clicks": 2,
+  "ctr": 1.6,
+  "avg_rank": 18.5,
+  "latest_rank": 8.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 4.0,
+    "clicks": 1.0,
+    "ctr": 25.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 6.0,
+    "clicks": 1.0,
+    "ctr": 16.67,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 72.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 75.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 55.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 37.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 61.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   }
+  ],
+  "id": 15007
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Cashflow Management",
+  "category": "Keuangan & Manajemen Aset",
+  "kw_utama": "cash flow management",
+  "vol_utama": "-",
+  "kw_target": "enterprise cash flow management",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/cashflow-management/",
+  "status": "Aktif",
+  "total_impr": 1236,
+  "total_clicks": 15,
+  "ctr": 1.21,
+  "avg_rank": 28.3,
+  "latest_rank": 22.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 21.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 10.0,
+    "clicks": 1.0,
+    "ctr": 10.0,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 47.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 48.0,
+    "clicks": 1.0,
+    "ctr": 2.08,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 64.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 54.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 40.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 37.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 23.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 34.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 21.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 53.0,
+    "clicks": 1.0,
+    "ctr": 1.89,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 58.0,
+    "clicks": 1.0,
+    "ctr": 1.72,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 32.0,
+    "clicks": 1.0,
+    "ctr": 3.12,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 37.0,
+    "clicks": 1.0,
+    "ctr": 2.7,
+    "rank": 27.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 34.0,
+    "clicks": 1.0,
+    "ctr": 2.94,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 43.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 26.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 31.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 32.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 36.0,
+    "clicks": 1.0,
+    "ctr": 2.78,
+    "rank": 29.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 29.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 31.0,
+    "clicks": 1.0,
+    "ctr": 3.23,
+    "rank": 26.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 47.0,
+    "clicks": 1.0,
+    "ctr": 2.13,
+    "rank": 41.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 45.0,
+    "clicks": 1.0,
+    "ctr": 2.22,
+    "rank": 40.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 30.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 37.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 36.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 32.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 52.0,
+    "clicks": 1.0,
+    "ctr": 1.92,
+    "rank": 44.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 39.0,
+    "clicks": 1.0,
+    "ctr": 2.56,
+    "rank": 37.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 33.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 37.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 18.0,
+    "clicks": 1.0,
+    "ctr": 5.56,
+    "rank": 50.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 29.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 50.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 40.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 34.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 29.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 16.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 69.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 22.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 55.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 5.0,
+    "clicks": 1.0,
+    "ctr": 20.0,
+    "rank": 22.0
+   }
+  ],
+  "id": 15008
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "The Way to Boost Leads",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "easily adalah",
+  "vol_utama": "-",
+  "kw_target": "boost leads",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/the-way-to-boost-leads-and-close-deals-easily/",
+  "status": "Aktif",
+  "total_impr": 35,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 8.4,
+  "latest_rank": 13.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
+   }
+  ],
+  "id": 15009
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Effective Communication Skills",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "communication training course",
+  "vol_utama": "-",
+  "kw_target": "effective communication courses",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/effective-communication-skills/",
+  "status": "Aktif",
+  "total_impr": 210,
+  "total_clicks": 6,
+  "ctr": 2.86,
+  "avg_rank": 23.0,
+  "latest_rank": 36.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 3.0,
+    "clicks": 1.0,
+    "ctr": 33.33,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 6.0,
+    "clicks": 1.0,
+    "ctr": 16.67,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 4.0,
+    "clicks": 1.0,
+    "ctr": 25.0,
+    "rank": 38.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 29.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 49.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 20.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 36.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 25.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 35.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 20.0,
+    "clicks": 1.0,
+    "ctr": 5.0,
+    "rank": 30.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 46.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 83.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 30.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 43.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 20.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 21.0,
+    "clicks": 2.0,
+    "ctr": 9.52,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 36.0
+   }
+  ],
+  "id": 15010
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Sertifikasi HR Staff BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "sertifikasi hr bnsp",
+  "vol_utama": "-",
+  "kw_target": "sertifikasi hr",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/new-course-6/",
+  "status": "Aktif",
+  "total_impr": 4698,
+  "total_clicks": 58,
+  "ctr": 1.23,
+  "avg_rank": 17.0,
+  "latest_rank": 26.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 185.0,
+    "clicks": 4.0,
+    "ctr": 2.16,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 316.0,
+    "clicks": 3.0,
+    "ctr": 0.95,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 288.0,
+    "clicks": 3.0,
+    "ctr": 1.04,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 171.0,
+    "clicks": 3.0,
+    "ctr": 1.75,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 309.0,
+    "clicks": 5.0,
+    "ctr": 1.62,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 359.0,
+    "clicks": 2.0,
+    "ctr": 0.56,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 168.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 579.0,
+    "clicks": 6.0,
+    "ctr": 1.04,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 531.0,
+    "clicks": 9.0,
+    "ctr": 1.69,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 194.0,
+    "clicks": 4.0,
+    "ctr": 2.06,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 251.0,
+    "clicks": 2.0,
+    "ctr": 0.8,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 196.0,
+    "clicks": 4.0,
+    "ctr": 2.04,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 127.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 66.0,
+    "clicks": 2.0,
+    "ctr": 3.03,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 28.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 45.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 113.0,
+    "clicks": 1.0,
+    "ctr": 0.88,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 167.0,
+    "clicks": 1.0,
+    "ctr": 0.6,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 93.0,
+    "clicks": 2.0,
+    "ctr": 2.15,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 85.0,
+    "clicks": 2.0,
+    "ctr": 2.35,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 60.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 66.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 26.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 24.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 25.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 35.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 19.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 35.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 10.0,
+    "clicks": 2.0,
+    "ctr": 20.0,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 18.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 26.0,
+    "clicks": 1.0,
+    "ctr": 3.85,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 14.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 56.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 8.0,
+    "clicks": 1.0,
+    "ctr": 12.5,
+    "rank": 48.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 38.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 19.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 37.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 30.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 34.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 21.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 6.0,
+    "clicks": 1.0,
+    "ctr": 16.67,
+    "rank": 26.0
+   }
+  ],
+  "id": 15011
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Sertifikasi HR Supervisor BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "hr supervisor",
+  "vol_utama": "-",
+  "kw_target": "bnsp hr supervisor",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/new-course-5/",
+  "status": "Aktif",
+  "total_impr": 589,
+  "total_clicks": 7,
+  "ctr": 1.19,
+  "avg_rank": 12.7,
+  "latest_rank": 49.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 2.0,
+    "clicks": 1.0,
+    "ctr": 50.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 3.0,
+    "clicks": 1.0,
+    "ctr": 33.33,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 3.0,
+    "clicks": 1.0,
+    "ctr": 33.33,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 28.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 44.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 47.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 25.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 39.0,
+    "clicks": 1.0,
+    "ctr": 2.56,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 50.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 34.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 38.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 40.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 50.0,
+    "clicks": 1.0,
+    "ctr": 2.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 41.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 26.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 30.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 18.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 39.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 9.0,
+    "clicks": 1.0,
+    "ctr": 11.11,
+    "rank": 34.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 16.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 5.0,
+    "clicks": 1.0,
+    "ctr": 20.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 49.0
+   }
+  ],
+  "id": 15012
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Sertifikasi HR Manager BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "sertifikasi hr",
+  "vol_utama": "-",
+  "kw_target": "sertifikasi bnsp hr manager",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/new-course-2/",
+  "status": "Aktif",
+  "total_impr": 544,
+  "total_clicks": 12,
+  "ctr": 2.21,
+  "avg_rank": 26.8,
+  "latest_rank": 97.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 15.0,
+    "clicks": 1.0,
+    "ctr": 6.67,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 20.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 12.0,
+    "clicks": 1.0,
+    "ctr": 8.33,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 19.0,
+    "clicks": 1.0,
+    "ctr": 5.26,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 19.0,
+    "clicks": 2.0,
+    "ctr": 10.53,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 17.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 65.0,
+    "clicks": 1.0,
+    "ctr": 1.54,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 90.0,
+    "clicks": 2.0,
+    "ctr": 2.22,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 46.0,
+    "clicks": 1.0,
+    "ctr": 2.17,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 36.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 17.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 6.0,
+    "clicks": 1.0,
+    "ctr": 16.67,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 14.0,
+    "clicks": 1.0,
+    "ctr": 7.14,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 18.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 21.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 5.0,
+    "clicks": 1.0,
+    "ctr": 20.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 151.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 75.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 45.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 57.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 76.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 55.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 58.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 52.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 97.0
+   }
+  ],
+  "id": 15013
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Data Governance DAMABOK",
+  "category": "TI & Cyber Security",
+  "kw_utama": "damabok",
+  "vol_utama": "-",
+  "kw_target": "dama-bok",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/data-governance-damabok/",
+  "status": "Aktif",
+  "total_impr": 271,
+  "total_clicks": 3,
+  "ctr": 1.11,
+  "avg_rank": 10.2,
+  "latest_rank": 7.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 17.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 12.0,
+    "clicks": 1.0,
+    "ctr": 8.33,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 17.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 7.0,
+    "clicks": 1.0,
+    "ctr": 14.29,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 23.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 16.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 47.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 7.0,
+    "clicks": 1.0,
+    "ctr": 14.29,
+    "rank": 42.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   }
+  ],
+  "id": 15014
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "IT Masterplan",
+  "category": "TI & Cyber Security",
+  "kw_utama": "it masterplan",
+  "vol_utama": "-",
+  "kw_target": "-",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/https-academy-proxsisgroup-com-post_typecoursesp3579/",
+  "status": "Aktif",
+  "total_impr": 36,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 17.7,
+  "latest_rank": 4.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 108.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 39.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   }
+  ],
+  "id": 15015
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "IT Project Management",
+  "category": "Project Management & BPM",
+  "kw_utama": "it project management",
+  "vol_utama": "-",
+  "kw_target": "it project",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/it-project-management-pmbok-7/",
+  "status": "Aktif",
+  "total_impr": 1490,
+  "total_clicks": 37,
+  "ctr": 2.48,
+  "avg_rank": 17.5,
+  "latest_rank": 22.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 9.0,
+    "clicks": 2.0,
+    "ctr": 22.22,
+    "rank": 37.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 10.0,
+    "clicks": 1.0,
+    "ctr": 10.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 19.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 27.0,
+    "clicks": 1.0,
+    "ctr": 3.7,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 27.0,
+    "clicks": 3.0,
+    "ctr": 11.11,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 50.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 30.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 28.0,
+    "clicks": 2.0,
+    "ctr": 7.14,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 32.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 36.0,
+    "clicks": 1.0,
+    "ctr": 2.78,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 43.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 21.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 45.0,
+    "clicks": 2.0,
+    "ctr": 4.44,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 38.0,
+    "clicks": 2.0,
+    "ctr": 5.26,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 46.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 47.0,
+    "clicks": 2.0,
+    "ctr": 4.26,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 41.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 43.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 46.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 50.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 40.0,
+    "clicks": 2.0,
+    "ctr": 5.0,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 30.0,
+    "clicks": 1.0,
+    "ctr": 3.33,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 44.0,
+    "clicks": 4.0,
+    "ctr": 9.09,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 53.0,
+    "clicks": 1.0,
+    "ctr": 1.89,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 36.0,
+    "clicks": 2.0,
+    "ctr": 5.56,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 46.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 53.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 59.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 45.0,
+    "clicks": 1.0,
+    "ctr": 2.22,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 69.0,
+    "clicks": 4.0,
+    "ctr": 5.8,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 46.0,
+    "clicks": 2.0,
+    "ctr": 4.35,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 42.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 40.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 38.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 53.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 42.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 47.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 34.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 29.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 15.0,
+    "clicks": 2.0,
+    "ctr": 13.33,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 33.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 21.0,
+    "clicks": 1.0,
+    "ctr": 4.76,
+    "rank": 29.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 17.0,
+    "clicks": 1.0,
+    "ctr": 5.88,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 23.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 27.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   }
+  ],
+  "id": 15016
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Cyber Security",
+  "category": "TI & Cyber Security",
+  "kw_utama": "cyber security training services",
+  "vol_utama": "-",
+  "kw_target": "cyber",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/cyber-security-foundation/",
+  "status": "Aktif",
+  "total_impr": 85,
+  "total_clicks": 2,
+  "ctr": 2.35,
+  "avg_rank": 18.8,
+  "latest_rank": 1.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 5.0,
+    "clicks": 1.0,
+    "ctr": 20.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 3.0,
+    "clicks": 1.0,
+    "ctr": 33.33,
+    "rank": 46.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 69.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 43.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 81.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 78.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 3.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 33.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 72.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 1.0
+   }
+  ],
+  "id": 15017
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Dasar-Dasar Amdal",
+  "category": "K3 & Lingkungan",
+  "kw_utama": "dasar dasar amdal",
+  "vol_utama": "-",
+  "kw_target": "training amdal",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/dasar-dasar-amdal-analisis-mengenai-dampak-lingkungan/",
+  "status": "Aktif",
+  "total_impr": 966,
+  "total_clicks": 20,
+  "ctr": 2.07,
+  "avg_rank": 10.7,
+  "latest_rank": 28.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 16.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 26.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 28.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 56.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 39.0,
+    "clicks": 2.0,
+    "ctr": 5.13,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 25.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 32.0,
+    "clicks": 3.0,
+    "ctr": 9.38,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 43.0,
+    "clicks": 1.0,
+    "ctr": 2.33,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 34.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 26.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 39.0,
+    "clicks": 1.0,
+    "ctr": 2.56,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 10.0,
+    "clicks": 1.0,
+    "ctr": 10.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 22.0,
+    "clicks": 1.0,
+    "ctr": 4.55,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 8.0,
+    "clicks": 1.0,
+    "ctr": 12.5,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 14.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 20.0,
+    "clicks": 1.0,
+    "ctr": 5.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 11.0,
+    "clicks": 1.0,
+    "ctr": 9.09,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 35.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 41.0,
+    "clicks": 1.0,
+    "ctr": 2.44,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 14.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 21.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 29.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 23.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 44.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 46.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 36.0,
+    "clicks": 2.0,
+    "ctr": 5.56,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 15.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 8.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 36.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 24.0,
+    "clicks": 1.0,
+    "ctr": 4.17,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 5.0,
+    "clicks": 1.0,
+    "ctr": 20.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 12.0,
+    "clicks": 1.0,
+    "ctr": 8.33,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 23.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 23.0,
+    "clicks": 2.0,
+    "ctr": 8.7,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 10.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 28.0
+   }
+  ],
+  "id": 15018
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Contractor Safety Management System BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "contractor academy",
+  "vol_utama": "-",
+  "kw_target": "contractor management program",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/contractor-safety-management-system-bnsp/",
+  "status": "Aktif",
+  "total_impr": 91,
+  "total_clicks": 2,
+  "ctr": 2.2,
+  "avg_rank": 9.5,
+  "latest_rank": 6.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 6.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 11.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 4.0,
+    "clicks": 1.0,
+    "ctr": 25.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 8.0,
+    "clicks": 1.0,
+    "ctr": 12.5,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 2.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 1.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 2.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 39.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 4.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 5.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 6.0
+   }
+  ],
+  "id": 15019
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pengawas K3 Migas BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "k3 migas",
+  "vol_utama": "-",
+  "kw_target": "pengawas k3 migas",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/pengawas-k3-migas-bnsp/",
+  "status": "Aktif",
+  "total_impr": 4921,
+  "total_clicks": 38,
+  "ctr": 0.77,
+  "avg_rank": 12.7,
+  "latest_rank": 20.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 66.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 85.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 77.0,
+    "clicks": 1.0,
+    "ctr": 1.3,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 122.0,
+    "clicks": 2.0,
+    "ctr": 1.64,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 109.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 127.0,
+    "clicks": 1.0,
+    "ctr": 0.79,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 103.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 110.0,
+    "clicks": 2.0,
+    "ctr": 1.82,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 114.0,
+    "clicks": 1.0,
+    "ctr": 0.88,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 143.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 105.0,
+    "clicks": 1.0,
+    "ctr": 0.95,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 96.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 130.0,
+    "clicks": 2.0,
+    "ctr": 1.54,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 110.0,
+    "clicks": 1.0,
+    "ctr": 0.91,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 136.0,
+    "clicks": 1.0,
+    "ctr": 0.74,
+    "rank": 8.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 153.0,
+    "clicks": 1.0,
+    "ctr": 0.65,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 134.0,
+    "clicks": 2.0,
+    "ctr": 1.49,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 94.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 105.0,
+    "clicks": 2.0,
+    "ctr": 1.9,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 108.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 83.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 149.0,
+    "clicks": 1.0,
+    "ctr": 0.67,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 194.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 206.0,
+    "clicks": 1.0,
+    "ctr": 0.49,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 121.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 110.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 164.0,
+    "clicks": 1.0,
+    "ctr": 0.61,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 200.0,
+    "clicks": 1.0,
+    "ctr": 0.5,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 252.0,
+    "clicks": 4.0,
+    "ctr": 1.59,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 269.0,
+    "clicks": 1.0,
+    "ctr": 0.37,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 269.0,
+    "clicks": 3.0,
+    "ctr": 1.12,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 228.0,
+    "clicks": 2.0,
+    "ctr": 0.88,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 126.0,
+    "clicks": 1.0,
+    "ctr": 0.79,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 89.0,
+    "clicks": 2.0,
+    "ctr": 2.25,
+    "rank": 13.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 56.0,
+    "clicks": 2.0,
+    "ctr": 3.57,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 32.0,
+    "clicks": 1.0,
+    "ctr": 3.12,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 9.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 44.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 31.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 26.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 22.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 19.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 21.0,
+    "clicks": 1.0,
+    "ctr": 4.76,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 18.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   }
+  ],
+  "id": 15020
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "First Aid BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "first aid classes near me",
+  "vol_utama": "-",
+  "kw_target": "first aid training",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/courses/first-aid-bnsp/",
+  "status": "Aktif",
+  "total_impr": 1501,
+  "total_clicks": 25,
+  "ctr": 1.67,
+  "avg_rank": 25.6,
+  "latest_rank": 22.0,
+  "weeks": [
+   {
+    "w": "2026W01",
+    "impr": 30.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   },
+   {
+    "w": "2026W02",
+    "impr": 42.0,
+    "clicks": 1.0,
+    "ctr": 2.38,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W03",
+    "impr": 33.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W04",
+    "impr": 28.0,
+    "clicks": 1.0,
+    "ctr": 3.57,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W05",
+    "impr": 45.0,
+    "clicks": 1.0,
+    "ctr": 2.22,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W06",
+    "impr": 41.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W07",
+    "impr": 59.0,
+    "clicks": 4.0,
+    "ctr": 6.78,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W08",
+    "impr": 34.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 12.0
+   },
+   {
+    "w": "2026W09",
+    "impr": 17.0,
+    "clicks": 3.0,
+    "ctr": 17.65,
+    "rank": 4.0
+   },
+   {
+    "w": "2026W10",
+    "impr": 22.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W11",
+    "impr": 25.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W12",
+    "impr": 7.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 15.0
+   },
+   {
+    "w": "2026W13",
+    "impr": 21.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.0
+   },
+   {
+    "w": "2026W14",
+    "impr": 57.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.0
+   },
+   {
+    "w": "2026W15",
+    "impr": 38.0,
+    "clicks": 1.0,
+    "ctr": 2.63,
+    "rank": 11.0
+   },
+   {
+    "w": "2026W16",
+    "impr": 29.0,
+    "clicks": 1.0,
+    "ctr": 3.45,
+    "rank": 7.0
+   },
+   {
+    "w": "2026W17",
+    "impr": 22.0,
+    "clicks": 1.0,
+    "ctr": 4.55,
+    "rank": 18.0
+   },
+   {
+    "w": "2026W18",
+    "impr": 20.0,
+    "clicks": 2.0,
+    "ctr": 10.0,
+    "rank": 19.0
+   },
+   {
+    "w": "2026W19",
+    "impr": 18.0,
+    "clicks": 1.0,
+    "ctr": 5.56,
+    "rank": 20.0
+   },
+   {
+    "w": "2026W20",
+    "impr": 23.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 32.0
+   },
+   {
+    "w": "2026W21",
+    "impr": 22.0,
+    "clicks": 1.0,
+    "ctr": 4.55,
+    "rank": 27.0
+   },
+   {
+    "w": "2026W22",
+    "impr": 53.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 17.0
+   },
+   {
+    "w": "2026W23",
+    "impr": 84.0,
+    "clicks": 1.0,
+    "ctr": 1.19,
+    "rank": 16.0
+   },
+   {
+    "w": "2026W24",
+    "impr": 49.0,
+    "clicks": 1.0,
+    "ctr": 2.04,
+    "rank": 21.0
+   },
+   {
+    "w": "2026W25",
+    "impr": 30.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 25.0
+   },
+   {
+    "w": "2026W26",
+    "impr": 19.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 45.0
+   },
+   {
+    "w": "2026W27",
+    "impr": 17.0,
+    "clicks": 1.0,
+    "ctr": 5.88,
+    "rank": 33.0
+   },
+   {
+    "w": "2026W28",
+    "impr": 23.0,
+    "clicks": 1.0,
+    "ctr": 4.35,
+    "rank": 29.0
+   },
+   {
+    "w": "2026W29",
+    "impr": 29.0,
+    "clicks": 1.0,
+    "ctr": 3.45,
+    "rank": 31.0
+   },
+   {
+    "w": "2026W30",
+    "impr": 101.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 10.0
+   },
+   {
+    "w": "2026W31",
+    "impr": 21.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 24.0
+   },
+   {
+    "w": "2026W32",
+    "impr": 27.0,
+    "clicks": 1.0,
+    "ctr": 3.7,
+    "rank": 40.0
+   },
+   {
+    "w": "2026W33",
+    "impr": 61.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 60.0
+   },
+   {
+    "w": "2026W34",
+    "impr": 72.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 67.0
+   },
+   {
+    "w": "2026W35",
+    "impr": 105.0,
+    "clicks": 1.0,
+    "ctr": 0.95,
+    "rank": 67.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 36.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 40.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 34.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 48.0
+   },
+   {
+    "w": "2026W38",
+    "impr": 20.0,
+    "clicks": 1.0,
+    "ctr": 5.0,
+    "rank": 32.0
+   },
+   {
+    "w": "2026W39",
+    "impr": 12.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 53.0
+   },
+   {
+    "w": "2026W40",
+    "impr": 24.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 40.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 13.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 30.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 24.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 21.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 14.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 22.0
+   }
+  ],
+  "id": 15021
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan Komunikasi Efektif Karyawan & Corporate Communication Skills",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "pelatihan komunikasi efektif karyawan",
+  "vol_utama": "-",
+  "kw_target": "training corporate communication indonesia",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-komunikasi-efektif-karyawan/",
+  "status": "Aktif",
+  "total_impr": 92,
+  "total_clicks": 7,
+  "ctr": 7.61,
+  "avg_rank": 5.5,
+  "latest_rank": 6.0,
+  "weeks": [
+   {
+    "w": "2026W40",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 89.0,
+    "clicks": 7.0,
+    "ctr": 7.87,
+    "rank": 6.0
+   }
+  ],
+  "id": 15022
  }
 ]

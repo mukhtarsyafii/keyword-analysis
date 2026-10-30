@@ -2,95 +2,95 @@
  {
   "brand": "GRC Indonesia",
   "active_lp": 55,
-  "impr": 64391,
-  "clicks": 1217,
-  "ctr": "1.89%",
+  "impr": 71470,
+  "clicks": 1380,
+  "ctr": "1.93%",
   "focus": "Governance, Risk, Compliance, Fraud & ISO"
  },
  {
   "brand": "IPQI",
   "active_lp": 48,
-  "impr": 26508,
-  "clicks": 368,
-  "ctr": "1.39%",
+  "impr": 29784,
+  "clicks": 485,
+  "ctr": "1.63%",
   "focus": "Continuous Improvement, Lean, 5S/5R, Kalibrasi"
  },
  {
   "brand": "FS Institute",
   "active_lp": 64,
-  "impr": 11833,
-  "clicks": 134,
-  "ctr": "1.13%",
+  "impr": 14351,
+  "clicks": 153,
+  "ctr": "1.07%",
   "focus": "Finance, Treasury, Accounting & Food Safety"
  },
  {
   "brand": "ITGID",
   "active_lp": 58,
-  "impr": 131413,
-  "clicks": 2227,
-  "ctr": "1.69%",
+  "impr": 133266,
+  "clicks": 2315,
+  "ctr": "1.74%",
   "focus": "IT Governance, sertifikasi internasional (CISA/CISSP/COBIT/ITIL/TOGAF), cyber security"
  },
  {
   "brand": "Biztech Academy",
   "active_lp": 83,
-  "impr": 11070,
-  "clicks": 124,
+  "impr": 11220,
+  "clicks": 126,
   "ctr": "1.12%",
   "focus": "Karier IT: programming, data, Odoo/ERP, cyber security, sertifikasi internasional"
  },
  {
   "brand": "IT Proxsis GRC",
   "active_lp": 67,
-  "impr": 12010,
-  "clicks": 142,
-  "ctr": "1.18%",
+  "impr": 12570,
+  "clicks": 151,
+  "ctr": "1.20%",
   "focus": "IT governance & GRC, sertifikasi internasional (COBIT/ISO/CISA/CISSP/TOGAF), audit TI, cyber security"
  },
  {
   "brand": "ICICERT",
   "active_lp": 134,
-  "impr": 26537,
-  "clicks": 539,
-  "ctr": "2.03%",
+  "impr": 27575,
+  "clicks": 555,
+  "ctr": "2.01%",
   "focus": "Sertifikasi & training ISO (PECB/IRCA): 9001, 14001, 27001, 45001, 37001, 22301, 22000"
  },
  {
   "brand": "Synergy Solusi",
   "active_lp": 145,
-  "impr": 144335,
-  "clicks": 2995,
-  "ctr": "2.08%",
+  "impr": 163173,
+  "clicks": 3440,
+  "ctr": "2.11%",
   "focus": "HSE/K3: pelatihan & sertifikasi BNSP/Kemnaker, migas, lingkungan, ISO 45001/22000"
  },
  {
   "brand": "IEC Group",
   "active_lp": 61,
-  "impr": 10744,
-  "clicks": 91,
-  "ctr": "0.85%",
+  "impr": 123576,
+  "clicks": 1504,
+  "ctr": "1.22%",
   "focus": "Lingkungan & K3: amdal, UKL-UPL, persetujuan lingkungan, pelatihan ISO 14001/45001, sertifikasi BNSP"
  },
  {
   "brand": "Petrotraining OMC",
   "active_lp": 27,
-  "impr": 50734,
-  "clicks": 449,
+  "impr": 51615,
+  "clicks": 457,
   "ctr": "0.89%",
   "focus": "Migas: pelatihan & sertifikasi ahli pengendali pengeboran/perawatan sumur, K3 migas, BNSP"
  },
  {
   "brand": "Proxsis Sustainability",
-  "active_lp": 6,
-  "impr": 17278,
-  "clicks": 284,
-  "ctr": "1.64%",
+  "active_lp": 10,
+  "impr": 146096,
+  "clicks": 695,
+  "ctr": "0.48%",
   "focus": "ESG & keberlanjutan: pelatihan ESG, carbon management, sustainability report, ESG assurance"
  },
  {
   "brand": "Proxsis Strategy",
   "active_lp": 19,
-  "impr": 0,
+  "impr": 41,
   "clicks": 0,
   "ctr": "0.00%",
   "focus": "Konsultan manajemen: business strategy, productivity & quality, GRC, business resilience"
@@ -98,25 +98,33 @@
  {
   "brand": "ISO Center",
   "active_lp": 24,
-  "impr": 142429,
-  "clicks": 4243,
-  "ctr": "2.98%",
+  "impr": 143457,
+  "clicks": 4228,
+  "ctr": "2.95%",
   "focus": "Training & awareness ISO: 9001, 14001, 45001, 55001, IT governance (ISO 38500)"
  },
  {
   "brand": "Proxsis HR",
-  "active_lp": 1,
-  "impr": 35004,
-  "clicks": 744,
-  "ctr": "2.13%",
+  "active_lp": 36,
+  "impr": 43468,
+  "clicks": 885,
+  "ctr": "2.04%",
   "focus": "Soft skill & HR training: leadership, komunikasi, problem solving, selling, behavioral interview"
  },
  {
   "brand": "ISC Safety School",
   "active_lp": 63,
-  "impr": 244910,
-  "clicks": 3168,
-  "ctr": "1.29%",
+  "impr": 291723,
+  "clicks": 3971,
+  "ctr": "1.36%",
   "focus": "K3: pelatihan & sertifikasi BNSP (Ahli Madya/Muda K3, Higiene Industri, Accident Investigation)"
+ },
+ {
+  "brand": "Proxsis Academy",
+  "active_lp": 22,
+  "impr": 57280,
+  "clicks": 942,
+  "ctr": "1.64%",
+  "focus": "Pelatihan & sertifikasi profesional: supply chain, project management, ISO, risk, HR, finance"
  }
 ]

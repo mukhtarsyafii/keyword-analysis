@@ -107,7 +107,7 @@
   },
   "prioritas": 1
  },
- "24": {
+ "39": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -117,7 +117,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk t",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi corporate dan Mengapa Penting bagi Perusahaan",
@@ -273,7 +273,7 @@
   },
   "prioritas": 1
  },
- "20": {
+ "11": {
   "masalah": [
    "Impresi tinggi (5,682) tetapi CTR hanya 0.35% — 5,662 tayangan tidak menghasilkan klik."
   ],
@@ -286,7 +286,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
+   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan ISO 37301 adalah program pelatihan Standar ISO & Kepatuhan dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan ISO 37301 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Pelatihan ISO 37301 dan Mengapa Penting bagi Perusahaan",
@@ -534,7 +534,7 @@
   },
   "prioritas": 5
  },
- "11": {
+ "20": {
   "masalah": [
    "Impresi tinggi (5,682) tetapi CTR hanya 0.35% — 5,662 tayangan tidak menghasilkan klik."
   ],
@@ -547,7 +547,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training sistem manajemen kepatuhan adalah program pelatihan AI & Data Governance dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training sistem manajemen kepatuhan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training sistem manajemen kepatuhan dan Mengapa Penting bagi Perusahaan",
@@ -641,7 +641,7 @@
   },
   "prioritas": 5
  },
- "39": {
+ "24": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -651,7 +651,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat unt",
+   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi fraud corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi fraud corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi fraud corporate dan Mengapa Penting bagi Perusahaan",
@@ -1038,7 +1038,7 @@
   },
   "prioritas": 5
  },
- "40": {
+ "43": {
   "masalah": [
    "Posisi terkini #24 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
@@ -1050,7 +1050,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan boardrooms governance bumn dan Mengapa Penting bagi Perusahaan",
@@ -1066,7 +1066,7 @@
   },
   "prioritas": 3
  },
- "43": {
+ "40": {
   "masalah": [
    "Posisi terkini #24 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
@@ -1078,7 +1078,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan direksi dan komisaris dan Mengapa Penting bagi Perusahaan",
@@ -1146,7 +1146,7 @@
   },
   "prioritas": 1
  },
- "44": {
+ "56": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1172,7 +1172,7 @@
   },
   "prioritas": 1
  },
- "56": {
+ "44": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -27154,5 +27154,625 @@
    ]
   },
   "prioritas": 5
+ },
+ "15001": {
+  "masalah": [
+   "Impresi tinggi (11,189) tetapi CTR hanya 1.49% — 11,022 tayangan tidak menghasilkan klik."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Supply Chain Management (SCM) - Proxsis Academy",
+   "meta_description": "training supply chain management di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi ti",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu supply chain management classes near me?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"supply chain management classes near me adalah program pelatihan AI & Data Governance dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti supply chain management classes near me?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah supply chain management classes near me bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu supply chain management classes near me dan Mengapa Penting bagi Perusahaan",
+    "Manfaat supply chain management classes near me untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus supply chain management classes near me",
+    "Siapa yang Wajib Mengikuti supply chain management classes near me",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan supply chain management classes near me",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu supply chain management classes near me",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15002": {
+  "masalah": [
+   "Impresi tinggi (11,958) tetapi CTR hanya 1.85% — 11,737 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #17 (rata-rata periode #11) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Project Management Fundamental - Proxsis Academy",
+   "meta_description": "project management training di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu training project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"training project management adalah program pelatihan AI & Data Governance dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti training project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah training project management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu training project management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat training project management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus training project management",
+    "Siapa yang Wajib Mengikuti training project management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan training project management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu training project management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15003": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Business Process Management - Proxsis Academy",
+   "meta_description": "workshop business process adalah di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu business process management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"business process management adalah program pelatihan Tata Kelola & BUMN dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti business process management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah business process management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu business process management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat business process management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus business process management",
+    "Siapa yang Wajib Mengikuti business process management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan business process management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu business process management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15004": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Business Continuity Management System Based On ISO 22301 - Proxsis Academy",
+   "meta_description": "business continuity management system di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu business continuity management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"business continuity management adalah program pelatihan Standar ISO & Kepatuhan dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti business continuity management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah business continuity management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu business continuity management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat business continuity management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus business continuity management",
+    "Siapa yang Wajib Mengikuti business continuity management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan business continuity management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu business continuity management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15005": {
+  "masalah": [
+   "Impresi tinggi (11,381) tetapi CTR hanya 0.81% — 11,289 tayangan tidak menghasilkan klik."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
+  "perbaikan": {
+   "meta_title": "Qualified Risk Management Officer (QRMO) - Proxsis Academy",
+   "meta_description": "qrmo gelar apa di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu qrmo?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"qrmo adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti qrmo?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah qrmo bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu qrmo dan Mengapa Penting bagi Perusahaan",
+    "Manfaat qrmo untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus qrmo",
+    "Siapa yang Wajib Mengikuti qrmo",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan qrmo",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu qrmo",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15006": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sistem Manajemen Anti Penyuapan ISO 37001 - Proxsis Academy",
+   "meta_description": "pelatihan iso 37001 di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu pelatihan iso 37001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"pelatihan iso 37001 adalah program pelatihan Standar ISO & Kepatuhan dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti pelatihan iso 37001?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah pelatihan iso 37001 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu pelatihan iso 37001 dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan iso 37001 untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan iso 37001",
+    "Siapa yang Wajib Mengikuti pelatihan iso 37001",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan iso 37001",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan iso 37001",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15007": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Asset Liability Management - Proxsis Academy",
+   "meta_description": "asset liability management di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu asset liability management training?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"asset liability management training adalah program pelatihan AI & Data Governance dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti asset liability management training?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah asset liability management training bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu asset liability management training dan Mengapa Penting bagi Perusahaan",
+    "Manfaat asset liability management training untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus asset liability management training",
+    "Siapa yang Wajib Mengikuti asset liability management training",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan asset liability management training",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu asset liability management training",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15008": {
+  "masalah": [
+   "Impresi tinggi (1,236) tetapi CTR hanya 1.21% — 1,221 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #22 (rata-rata periode #28) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Cashflow Management 2026 - Proxsis Academy",
+   "meta_description": "enterprise cash flow management di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu cash flow management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"cash flow management adalah program pelatihan Tata Kelola & BUMN dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti cash flow management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah cash flow management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu cash flow management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat cash flow management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus cash flow management",
+    "Siapa yang Wajib Mengikuti cash flow management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan cash flow management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu cash flow management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15009": {
+  "masalah": [
+   "Posisi terkini #13 (rata-rata periode #8) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "The Way to Boost Leads and Close Deals Easily - Proxsis Academy",
+   "meta_description": "boost leads di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu easily adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"easily adalah adalah program pelatihan Tata Kelola & BUMN dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti easily adalah?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah easily adalah bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu easily adalah dan Mengapa Penting bagi Perusahaan",
+    "Manfaat easily adalah untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus easily adalah",
+    "Siapa yang Wajib Mengikuti easily adalah",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan easily adalah",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu easily adalah",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "15010": {
+  "masalah": [
+   "Posisi terkini #36 (rata-rata periode #23) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Effective Communication Skills - Proxsis Academy",
+   "meta_description": "effective communication courses di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu communication training course?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"communication training course adalah program pelatihan AI & Data Governance dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti communication training course?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah communication training course bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu communication training course dan Mengapa Penting bagi Perusahaan",
+    "Manfaat communication training course untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus communication training course",
+    "Siapa yang Wajib Mengikuti communication training course",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan communication training course",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu communication training course",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "15011": {
+  "masalah": [
+   "Impresi tinggi (4,698) tetapi CTR hanya 1.23% — 4,640 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #26 (rata-rata periode #17) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi HR Staff BNSP 2026 - Proxsis Academy",
+   "meta_description": "sertifikasi hr di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu sertifikasi hr bnsp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"sertifikasi hr bnsp adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti sertifikasi hr bnsp?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah sertifikasi hr bnsp bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu sertifikasi hr bnsp dan Mengapa Penting bagi Perusahaan",
+    "Manfaat sertifikasi hr bnsp untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus sertifikasi hr bnsp",
+    "Siapa yang Wajib Mengikuti sertifikasi hr bnsp",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan sertifikasi hr bnsp",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu sertifikasi hr bnsp",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15012": {
+  "masalah": [
+   "Posisi terkini #49 (rata-rata periode #13) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi HR Supervisor BNSP 2026 - Proxsis Academy",
+   "meta_description": "bnsp hr supervisor di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu hr supervisor?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"hr supervisor adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti hr supervisor?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah hr supervisor bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu hr supervisor dan Mengapa Penting bagi Perusahaan",
+    "Manfaat hr supervisor untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus hr supervisor",
+    "Siapa yang Wajib Mengikuti hr supervisor",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan hr supervisor",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu hr supervisor",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "15013": {
+  "masalah": [
+   "Posisi terkini #97 (rata-rata periode #27) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi HR Manager BNSP 2026 - Proxsis Academy",
+   "meta_description": "sertifikasi bnsp hr manager di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kam",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu sertifikasi hr?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"sertifikasi hr adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti sertifikasi hr?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah sertifikasi hr bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu sertifikasi hr dan Mengapa Penting bagi Perusahaan",
+    "Manfaat sertifikasi hr untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus sertifikasi hr",
+    "Siapa yang Wajib Mengikuti sertifikasi hr",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan sertifikasi hr",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu sertifikasi hr",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "15014": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Data Governance DAMABOK 2026 - Proxsis Academy",
+   "meta_description": "dama-bok di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu damabok?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"damabok adalah program pelatihan AI & Data Governance dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti damabok?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah damabok bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu damabok dan Mengapa Penting bagi Perusahaan",
+    "Manfaat damabok untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus damabok",
+    "Siapa yang Wajib Mengikuti damabok",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan damabok",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu damabok",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15015": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi IT Masterplan 2026 - Proxsis Academy",
+   "meta_description": "it masterplan di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu it masterplan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"it masterplan adalah program pelatihan Tata Kelola & BUMN dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti it masterplan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah it masterplan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu it masterplan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat it masterplan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus it masterplan",
+    "Siapa yang Wajib Mengikuti it masterplan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan it masterplan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu it masterplan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15016": {
+  "masalah": [
+   "Posisi terkini #22 (rata-rata periode #18) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Sertifikasi IT Project Management 2026 - Proxsis Academy",
+   "meta_description": "it project di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu it project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"it project management adalah program pelatihan Tata Kelola & BUMN dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti it project management?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah it project management bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu it project management dan Mengapa Penting bagi Perusahaan",
+    "Manfaat it project management untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus it project management",
+    "Siapa yang Wajib Mengikuti it project management",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan it project management",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu it project management",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "15017": {
+  "masalah": [
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.35% — posisi bagus terbuang karena snippet lemah."
+  ],
+  "solusi": [
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Sertifikasi Cyber Security 2026 - Proxsis Academy",
+   "meta_description": "cyber di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu cyber security training services?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"cyber security training services adalah program pelatihan AI & Data Governance dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti cyber security training services?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah cyber security training services bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu cyber security training services dan Mengapa Penting bagi Perusahaan",
+    "Manfaat cyber security training services untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus cyber security training services",
+    "Siapa yang Wajib Mengikuti cyber security training services",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan cyber security training services",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu cyber security training services",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15018": {
+  "masalah": [
+   "Posisi terkini #28 (rata-rata periode #11) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Dasar-Dasar Amdal (Analisis Mengenai Dampak Lingkungan) - Proxsis Academy",
+   "meta_description": "training amdal di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu dasar dasar amdal?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"dasar dasar amdal adalah program pelatihan Tata Kelola & BUMN dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti dasar dasar amdal?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah dasar dasar amdal bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu dasar dasar amdal dan Mengapa Penting bagi Perusahaan",
+    "Manfaat dasar dasar amdal untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus dasar dasar amdal",
+    "Siapa yang Wajib Mengikuti dasar dasar amdal",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan dasar dasar amdal",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu dasar dasar amdal",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 3
+ },
+ "15019": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Contractor Safety Management System BNSP - Proxsis Academy",
+   "meta_description": "contractor management program di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu contractor academy?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"contractor academy adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti contractor academy?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah contractor academy bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu contractor academy dan Mengapa Penting bagi Perusahaan",
+    "Manfaat contractor academy untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus contractor academy",
+    "Siapa yang Wajib Mengikuti contractor academy",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan contractor academy",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu contractor academy",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
+ },
+ "15020": {
+  "masalah": [
+   "Impresi tinggi (4,921) tetapi CTR hanya 0.77% — 4,883 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #20 (rata-rata periode #13) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "Pengawas K3 Migas BNSP 2026 - Proxsis Academy",
+   "meta_description": "pengawas k3 migas di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu k3 migas?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"k3 migas adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti k3 migas?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah k3 migas bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu k3 migas dan Mengapa Penting bagi Perusahaan",
+    "Manfaat k3 migas untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus k3 migas",
+    "Siapa yang Wajib Mengikuti k3 migas",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan k3 migas",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu k3 migas",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15021": {
+  "masalah": [
+   "Impresi tinggi (1,501) tetapi CTR hanya 1.67% — 1,476 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #22 (rata-rata periode #26) — masih di halaman 2+ Google."
+  ],
+  "solusi": [
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+  ],
+  "rekomendasi": [
+   "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
+  "perbaikan": {
+   "meta_title": "First Aid BNSP 2026 - Proxsis Academy",
+   "meta_description": "first aid training di Proxsis Academy. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
+   "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu first aid classes near me?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"first aid classes near me adalah program pelatihan Sertifikasi BNSP / Profesi dari Proxsis Academy yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti first aid classes near me?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Profesional & staf perusahaan yang butuh pelatihan dan sertifikasi kompetensi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah first aid classes near me bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim Proxsis Academy melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
+   "h2_outline": [
+    "Apa Itu first aid classes near me dan Mengapa Penting bagi Perusahaan",
+    "Manfaat first aid classes near me untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus first aid classes near me",
+    "Siapa yang Wajib Mengikuti first aid classes near me",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan first aid classes near me",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu first aid classes near me",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 5
+ },
+ "15022": {
+  "masalah": [
+   "Belum ada anomali signifikan pada data periode ini."
+  ],
+  "solusi": [
+   "Lanjutkan pemantauan mingguan."
+  ],
+  "rekomendasi": [],
+  "perbaikan": {
+   "meta_title": "Pelatihan Komunikasi Efektif Karyawan & Corporate Communication Skills - Proxsis Academy",
+   "meta_description": "Pelatihan komunikasi efektif karyawan 2 hari: workshop dan role play, online atau offline. Training corporate communication Indonesia. Daftar via WhatsApp.",
+   "faq_schema": "",
+   "h2_outline": [
+    "Apa Itu pelatihan komunikasi efektif karyawan dan Mengapa Penting bagi Perusahaan",
+    "Manfaat pelatihan komunikasi efektif karyawan untuk Kepatuhan dan Tata Kelola",
+    "Materi dan Silabus pelatihan komunikasi efektif karyawan",
+    "Siapa yang Wajib Mengikuti pelatihan komunikasi efektif karyawan",
+    "Jadwal, Durasi, dan Metode Pelatihan",
+    "Sertifikasi dan Pengakuan pelatihan komunikasi efektif karyawan",
+    "Studi Kasus Penerapan di Perusahaan",
+    "FAQ: Apa itu pelatihan komunikasi efektif karyawan",
+    "Daftar dan Konsultasi In-House Training"
+   ]
+  },
+  "prioritas": 1
  }
 }
