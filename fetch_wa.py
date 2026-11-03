@@ -108,7 +108,7 @@ def main():
     # credited = atribusi default ke halaman ASAL (referrer). Klik WA yang
     # terjadi di hub (referrer = LP lain) dicreditkan ke LP pengirim + dicatat
     # hub mana CTA-nya. Klik tanpa referrer / eksternal tetap milik tujuan.
-    credited = defaultdict(lambda: {"total": 0, "weeks": {}, "via": {}})
+    credited = defaultdict(lambda: {"total": 0, "weeks": {}, "via": {}, "days": {}})
     bad_ts = 0
     total_rows = 0
     per_brand = {}
@@ -147,6 +147,8 @@ def main():
             if ts:
                 wk_c = f"{ts.isocalendar()[0]}W{ts.isocalendar()[1]:02d}"
                 credited[tgt]["weeks"][wk_c] = credited[tgt]["weeks"].get(wk_c, 0) + 1
+                _day = ts.strftime("%Y-%m-%d")
+                credited[tgt]["days"][_day] = credited[tgt]["days"].get(_day, 0) + 1
             if not ref_raw:
                 e["from"]["(langsung)"] = e["from"].get("(langsung)", 0) + 1
             elif ref == key:
@@ -170,7 +172,7 @@ def main():
 
     def entry(k):
         v = pages.get(k)
-        cr = credited.get(k, {"total": 0, "weeks": {}, "via": {}})
+        cr = credited.get(k, {"total": 0, "weeks": {}, "via": {}, "days": {}})
         return {
             "total": v["total"] if v else 0,
             "organic": v["organic"] if v else 0,
@@ -181,6 +183,9 @@ def main():
             # "via" = halaman mana CTA-nya berada.
             "credited": cr["total"] if cr["total"] else (v["total"] if v else 0),
             "credit_weeks": cr["weeks"] if cr["weeks"] else (v["weeks"] if v else {}),
+            # counter harian utk filter rentang tanggal custom di dashboard
+            "credit_dates": cr["days"] if cr["days"] else (
+                __import__("collections").Counter(v["dates"]) if v and v["dates"] else {}),
             "via": cr["via"],
             "first": (min(v["dates"]) if v["dates"] else None) if v else None,
             "last": (max(v["dates"]) if v["dates"] else None) if v else None,
