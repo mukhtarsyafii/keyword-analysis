@@ -5666,7 +5666,7 @@
     "rank": 6.6
    }
   ],
-  "id": 24
+  "id": 39
  },
  {
   "brand": "GRC Indonesia",
@@ -7675,6 +7675,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -10483,6 +10490,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -12474,7 +12488,7 @@
     "rank": 5
    }
   ],
-  "id": 20
+  "id": 11
  },
  {
   "brand": "GRC Indonesia",
@@ -12790,6 +12804,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -16068,7 +16089,7 @@
   "total_impr": 1785,
   "total_clicks": 14,
   "ctr": 0.78,
-  "avg_rank": 12.7,
+  "avg_rank": 12.8,
   "latest_rank": 7.3,
   "weeks": [
    {
@@ -17611,6 +17632,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -20155,7 +20183,7 @@
     "rank": 5
    }
   ],
-  "id": 11
+  "id": 20
  },
  {
   "brand": "GRC Indonesia",
@@ -20809,7 +20837,7 @@
   "total_impr": 355,
   "total_clicks": 3,
   "ctr": 0.85,
-  "avg_rank": 8.3,
+  "avg_rank": 8.4,
   "latest_rank": 4.5,
   "weeks": [
    {
@@ -21108,6 +21136,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -22324,6 +22359,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -23535,7 +23577,7 @@
     "rank": 6.6
    }
   ],
-  "id": 39
+  "id": 24
  },
  {
   "brand": "GRC Indonesia",
@@ -23855,6 +23897,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.2
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -26974,6 +27023,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -28059,248 +28115,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 23.8
-   }
-  ],
-  "daily": [
-   {
-    "d": "2026-09-12",
-    "impr": 4,
-    "clicks": 0,
-    "rank": 3
    },
    {
-    "d": "2026-09-13",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 5.5
-   },
-   {
-    "d": "2026-09-14",
-    "impr": 5,
-    "clicks": 0,
-    "rank": 11.8
-   },
-   {
-    "d": "2026-09-15",
-    "impr": 1,
-    "clicks": 0,
-    "rank": 8
-   },
-   {
-    "d": "2026-09-16",
-    "impr": 4,
-    "clicks": 0,
-    "rank": 7.2
-   },
-   {
-    "d": "2026-09-17",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 23
-   },
-   {
-    "d": "2026-09-18",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 6.5
-   },
-   {
-    "d": "2026-09-20",
-    "impr": 4,
-    "clicks": 0,
-    "rank": 1.2
-   },
-   {
-    "d": "2026-09-21",
-    "impr": 1,
-    "clicks": 0,
-    "rank": 8
-   },
-   {
-    "d": "2026-09-22",
-    "impr": 27,
-    "clicks": 0,
-    "rank": 11
-   },
-   {
-    "d": "2026-09-23",
-    "impr": 6,
-    "clicks": 0,
-    "rank": 6.5
-   },
-   {
-    "d": "2026-09-24",
-    "impr": 5,
-    "clicks": 0,
-    "rank": 10.8
-   },
-   {
-    "d": "2026-09-26",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 1.5
-   },
-   {
-    "d": "2026-09-28",
-    "impr": 1,
-    "clicks": 0,
-    "rank": 9
-   },
-   {
-    "d": "2026-10-01",
-    "impr": 3,
-    "clicks": 0,
-    "rank": 30.3
-   },
-   {
-    "d": "2026-10-06",
-    "impr": 1,
-    "clicks": 0,
-    "rank": 11
-   },
-   {
-    "d": "2026-10-07",
-    "impr": 4,
-    "clicks": 0,
-    "rank": 5.5
-   },
-   {
-    "d": "2026-10-08",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 90.5
-   },
-   {
-    "d": "2026-10-12",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 7.5
-   },
-   {
-    "d": "2026-10-14",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 1
-   },
-   {
-    "d": "2026-10-15",
-    "impr": 7,
-    "clicks": 0,
-    "rank": 42.7
-   },
-   {
-    "d": "2026-10-17",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 5
-   },
-   {
-    "d": "2026-10-19",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 9
-   },
-   {
-    "d": "2026-10-20",
-    "impr": 1,
-    "clicks": 0,
-    "rank": 37
-   },
-   {
-    "d": "2026-10-21",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 9
-   },
-   {
-    "d": "2026-10-22",
-    "impr": 2,
-    "clicks": 0,
-    "rank": 40
-   }
-  ],
-  "id": 40
- },
- {
-  "brand": "GRC Indonesia",
-  "name": "Executive Masterclass: Future-Ready Leadership and Boardroom Governance",
-  "category": "Tata Kelola & BUMN",
-  "kw_utama": "pelatihan direksi dan komisaris",
-  "vol_utama": "590",
-  "kw_target": "pelatihan boardrooms governance bumn",
-  "vol_target": "260",
-  "kw_info": "peran dewan komisaris dalam tata kelola perusahaan",
-  "vol_info": "1,000",
-  "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
-  "status": "Aktif",
-  "total_impr": 96,
-  "total_clicks": 0,
-  "ctr": 0.0,
-  "avg_rank": 16.4,
-  "latest_rank": 23.8,
-  "weeks": [
-   {
-    "w": "2026W35",
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
-   },
-   {
-    "w": "2026W36",
-    "impr": 0,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 0.0
-   },
-   {
-    "w": "2026W37",
-    "impr": 6,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 4.2
-   },
-   {
-    "w": "2026W38",
-    "impr": 18,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 9.6
-   },
-   {
-    "w": "2026W39",
-    "impr": 41,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 7.6
-   },
-   {
-    "w": "2026W40",
-    "impr": 4,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 19.7
-   },
-   {
-    "w": "2026W41",
-    "impr": 7,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 35.7
-   },
-   {
-    "w": "2026W42",
-    "impr": 13,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 14.1
-   },
-   {
-    "w": "2026W43",
-    "impr": 7,
-    "clicks": 0,
-    "ctr": 0.0,
-    "rank": 23.8
    }
   ],
   "daily": [
@@ -28462,6 +28283,255 @@
    }
   ],
   "id": 43
+ },
+ {
+  "brand": "GRC Indonesia",
+  "name": "Executive Masterclass: Future-Ready Leadership and Boardroom Governance",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan direksi dan komisaris",
+  "vol_utama": "590",
+  "kw_target": "pelatihan boardrooms governance bumn",
+  "vol_target": "260",
+  "kw_info": "peran dewan komisaris dalam tata kelola perusahaan",
+  "vol_info": "1,000",
+  "url": "https://grc-indonesia.com/pelatihan-boardrooms-governance-bumn/",
+  "status": "Aktif",
+  "total_impr": 96,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 16.4,
+  "latest_rank": 23.8,
+  "weeks": [
+   {
+    "w": "2026W35",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W36",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W37",
+    "impr": 6,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 4.2
+   },
+   {
+    "w": "2026W38",
+    "impr": 18,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 9.6
+   },
+   {
+    "w": "2026W39",
+    "impr": 41,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 7.6
+   },
+   {
+    "w": "2026W40",
+    "impr": 4,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 19.7
+   },
+   {
+    "w": "2026W41",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 35.7
+   },
+   {
+    "w": "2026W42",
+    "impr": 13,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 14.1
+   },
+   {
+    "w": "2026W43",
+    "impr": 7,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 23.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   }
+  ],
+  "daily": [
+   {
+    "d": "2026-09-12",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 3
+   },
+   {
+    "d": "2026-09-13",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 5.5
+   },
+   {
+    "d": "2026-09-14",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 11.8
+   },
+   {
+    "d": "2026-09-15",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 8
+   },
+   {
+    "d": "2026-09-16",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 7.2
+   },
+   {
+    "d": "2026-09-17",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 23
+   },
+   {
+    "d": "2026-09-18",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 6.5
+   },
+   {
+    "d": "2026-09-20",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 1.2
+   },
+   {
+    "d": "2026-09-21",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 8
+   },
+   {
+    "d": "2026-09-22",
+    "impr": 27,
+    "clicks": 0,
+    "rank": 11
+   },
+   {
+    "d": "2026-09-23",
+    "impr": 6,
+    "clicks": 0,
+    "rank": 6.5
+   },
+   {
+    "d": "2026-09-24",
+    "impr": 5,
+    "clicks": 0,
+    "rank": 10.8
+   },
+   {
+    "d": "2026-09-26",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 1.5
+   },
+   {
+    "d": "2026-09-28",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 9
+   },
+   {
+    "d": "2026-10-01",
+    "impr": 3,
+    "clicks": 0,
+    "rank": 30.3
+   },
+   {
+    "d": "2026-10-06",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 11
+   },
+   {
+    "d": "2026-10-07",
+    "impr": 4,
+    "clicks": 0,
+    "rank": 5.5
+   },
+   {
+    "d": "2026-10-08",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 90.5
+   },
+   {
+    "d": "2026-10-12",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 7.5
+   },
+   {
+    "d": "2026-10-14",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 1
+   },
+   {
+    "d": "2026-10-15",
+    "impr": 7,
+    "clicks": 0,
+    "rank": 42.7
+   },
+   {
+    "d": "2026-10-17",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 5
+   },
+   {
+    "d": "2026-10-19",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9
+   },
+   {
+    "d": "2026-10-20",
+    "impr": 1,
+    "clicks": 0,
+    "rank": 37
+   },
+   {
+    "d": "2026-10-21",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 9
+   },
+   {
+    "d": "2026-10-22",
+    "impr": 2,
+    "clicks": 0,
+    "rank": 40
+   }
+  ],
+  "id": 40
  },
  {
   "brand": "GRC Indonesia",
@@ -28846,6 +28916,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -29363,7 +29440,7 @@
     "rank": 9.8
    }
   ],
-  "id": 44
+  "id": 56
  },
  {
   "brand": "GRC Indonesia",
@@ -29720,7 +29797,7 @@
     "rank": 9.8
    }
   ],
-  "id": 56
+  "id": 44
  },
  {
   "brand": "GRC Indonesia",
@@ -30360,6 +30437,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -30598,6 +30682,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -31030,6 +31121,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -35835,6 +35933,46 @@
   "id": 5
  },
  {
+  "brand": "GRC Indonesia",
+  "name": "Pelatihan PECB ISO 37001 Lead Auditor dan Sertifikasi Audit Anti-Penyuapan",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "-",
+  "vol_utama": "-",
+  "kw_target": "-",
+  "vol_target": "-",
+  "kw_info": "https://grc-indonesia.com/pelatihan-pecb-iso-37001-lead-auditor/",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 57
+ },
+ {
+  "brand": "GRC Indonesia",
+  "name": "\"Pelatihan ISO 27001 Lead Auditor: Sertifikasi PECB untuk Audit ISMS \"",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "-",
+  "vol_utama": "-",
+  "kw_target": "-",
+  "vol_target": "-",
+  "kw_info": "https://grc-indonesia.com/pelatihan-iso-27001-lead-auditor/",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 58
+ },
+ {
   "brand": "IPQI",
   "name": "Practical Workshop: FMEA (Failure Mode and Effects Analysis) & Control Plan Implementation",
   "category": "Lean & Continuous Improvement",
@@ -38207,6 +38345,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -40075,6 +40220,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -49849,6 +50001,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -51585,6 +51744,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -53768,6 +53934,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 24.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -54632,6 +54805,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.3
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -55526,6 +55706,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -56144,6 +56331,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -59542,6 +59736,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -60472,6 +60673,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -60928,6 +61136,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 18.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -62128,6 +62343,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 18.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -62712,6 +62934,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -65610,6 +65839,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -67994,6 +68230,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -68546,6 +68789,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -73326,6 +73576,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -74130,6 +74387,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 16.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -75735,6 +75999,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -78022,6 +78293,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 18.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -80640,6 +80918,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -81170,6 +81455,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -83036,6 +83328,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.3
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -85403,6 +85702,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -85747,6 +86053,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -87295,6 +87608,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -88292,6 +88612,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.4
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -91957,6 +92284,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -93717,6 +94051,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -98813,6 +99154,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 44.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -99379,6 +99727,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -100436,6 +100791,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -102256,6 +102618,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -104164,6 +104533,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -107922,7 +108298,7 @@
   "total_impr": 223,
   "total_clicks": 1,
   "ctr": 0.45,
-  "avg_rank": 16.0,
+  "avg_rank": 16.1,
   "latest_rank": 8.5,
   "weeks": [
    {
@@ -113751,6 +114127,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -114603,6 +114986,446 @@
    }
   ],
   "id": 2065
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Analisis Kredit Korporasi",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan analisis kredit korporasi",
+  "vol_utama": "-",
+  "kw_target": "analisis kredit korporasi bank",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/finance/pelatihan-analisis-kredit-korporasi/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2066
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Analisis Kredit: Monitoring & Problem Solving",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan monitoring kredit",
+  "vol_utama": "-",
+  "kw_target": "penyelesaian kredit bermasalah",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/monitoring-kredit-early-warning-system/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2067
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Credit Analysis, Credit Limit & Collection Negotiation",
+  "category": "AI & Data Governance",
+  "kw_utama": "training credit analysis",
+  "vol_utama": "-",
+  "kw_target": "negosiasi penagihan dan credit limit",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/pelatihan-credit-control-perusahaan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2068
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Credit Process Management",
+  "category": "AI & Data Governance",
+  "kw_utama": "training credit process management",
+  "vol_utama": "-",
+  "kw_target": "proses kredit perbankan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-credit-process-management-bank/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2069
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Credit Rating Development: Commercial & Corporate Banking",
+  "category": "AI & Data Governance",
+  "kw_utama": "training credit rating development",
+  "vol_utama": "-",
+  "kw_target": "credit rating perbankan komersial",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-credit-rating-development-perbankan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2070
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Early Warning System & Problem Loan Management",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan early warning system kredit",
+  "vol_utama": "-",
+  "kw_target": "penanganan problem loan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-early-warning-system-kredit-problem-loan-management/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2071
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Essential Credit Risk Analysis: Commercial Financing",
+  "category": "AI & Data Governance",
+  "kw_utama": "training credit risk analysis",
+  "vol_utama": "-",
+  "kw_target": "analisis risiko kredit pembiayaan komersial",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/finance/pelatihan-analisis-kredit-komersial/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2072
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Monitoring Kredit & EWS Pasca Restrukturisasi",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan monitoring kredit pasca restrukturisasi",
+  "vol_utama": "-",
+  "kw_target": "early warning system pasca restrukturisasi",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-monitoring-kredit-ews-pasca-restrukturisasi/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2073
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Non-Performing Loan (NPL)",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan non performing loan",
+  "vol_utama": "-",
+  "kw_target": "penanganan npl perbankan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-pengendalian-non-performing-loan-perbankan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2074
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Out of the Box Thinking: Credit Analyst",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan credit analyst",
+  "vol_utama": "-",
+  "kw_target": "out of the box thinking untuk analis kredit",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-credit-analyst-perbankan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2075
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Pemantauan Fasilitas Kredit Pasca Restrukturisasi",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan pemantauan kredit pasca restrukturisasi",
+  "vol_utama": "-",
+  "kw_target": "pemantauan fasilitas kredit",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-pemantauan-kredit-restrukturisasi-pojk-40/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2076
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Pemantauan NPL & Pengendalian Portofolio Kredit",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan pemantauan npl",
+  "vol_utama": "-",
+  "kw_target": "pengendalian portofolio kredit",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-pengendalian-portofolio-kredit-npl/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2077
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Restructuring Analysis",
+  "category": "AI & Data Governance",
+  "kw_utama": "training restructuring analysis",
+  "vol_utama": "-",
+  "kw_target": "analisis restrukturisasi kredit",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/training/banking/pelatihan-restrukturisasi-kredit-komersial/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2078
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Perpajakan untuk Perbankan",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan perpajakan perbankan",
+  "vol_utama": "-",
+  "kw_target": "pajak untuk bank",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-perpajakan-perbankan-coretax/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2079
+ },
+ {
+  "brand": "FS Institute",
+  "name": "PSAK 118 Penyajian dan Pengungkapan",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan psak 118",
+  "vol_utama": "-",
+  "kw_target": "psak 118 penyajian dan pengungkapan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-psak-118-penyajian-pengungkapan-laporan-keuangan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2080
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Financial Modeling for Financial Institution",
+  "category": "AI & Data Governance",
+  "kw_utama": "training financial modeling perbankan",
+  "vol_utama": "-",
+  "kw_target": "financial modeling lembaga keuangan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-financial-modeling-for-financial-institution/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2081
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Financial Modeling for Feasibility Study",
+  "category": "AI & Data Governance",
+  "kw_utama": "training financial modeling feasibility study",
+  "vol_utama": "-",
+  "kw_target": "pemodelan keuangan studi kelayakan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-financial-modeling-for-feasibility-study/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2082
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Treasury Management Perbankan",
+  "category": "AI & Data Governance",
+  "kw_utama": "training treasury management perbankan",
+  "vol_utama": "-",
+  "kw_target": "manajemen treasury bank",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-treasury-management-perbankan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2083
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Audit Intern BPR Berbasis Risiko",
+  "category": "Audit, Fraud & Forensik",
+  "kw_utama": "pelatihan audit intern bpr",
+  "vol_utama": "-",
+  "kw_target": "risk based audit bpr",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-audit-intern-bpr-berbasis-risiko/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2084
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Basic Banking Knowledge",
+  "category": "Tata Kelola & BUMN",
+  "kw_utama": "pelatihan basic banking knowledge",
+  "vol_utama": "-",
+  "kw_target": "pengetahuan dasar perbankan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-basic-banking-knowledge/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2085
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Persiapan Sertifikasi Manajemen Risiko Perbankan",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "sertifikasi manajemen risiko perbankan",
+  "vol_utama": "-",
+  "kw_target": "persiapan sertifikasi manajemen risiko",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://fs-institute.org/pelatihan-sertifikasi-manajemen-risiko-perbankan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2086
+ },
+ {
+  "brand": "FS Institute",
+  "name": "Persiapan Sertifikasi PSAK (CPSAK / US PSAK)",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "sertifikasi cpsak",
+  "vol_utama": "-",
+  "kw_target": "persiapan ujian sertifikasi psak",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 2087
  },
  {
   "brand": "ITGID",
@@ -128598,7 +129421,7 @@
   "total_impr": 2326,
   "total_clicks": 14,
   "ctr": 0.6,
-  "avg_rank": 38.9,
+  "avg_rank": 39.0,
   "latest_rank": 15.1,
   "weeks": [
    {
@@ -132179,6 +133002,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 57.7
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -140704,6 +141534,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 39.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -141912,6 +142749,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 38.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -143414,6 +144258,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -143729,6 +144580,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 17.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -144144,6 +145002,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -144526,6 +145391,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 73.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -157134,6 +158006,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 26.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -166040,6 +166919,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 22.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -166558,6 +167444,13 @@
     "clicks": 1,
     "ctr": 14.29,
     "rank": 4.3
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -167796,6 +168689,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.1
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -183081,6 +183981,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -201646,6 +202553,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 36.9
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -207410,6 +208324,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 20.2
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -208570,6 +209491,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -211914,6 +212842,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 44.9
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -213036,6 +213971,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -213968,6 +214910,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 24.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -214835,6 +215784,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -215357,6 +216313,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -219573,6 +220536,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -220445,6 +221415,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -220909,6 +221886,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 15.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -222753,6 +223737,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 27.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -223690,6 +224681,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 34.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -224466,6 +225464,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -226589,6 +227594,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -227240,6 +228252,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 36.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -227943,6 +228962,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -228632,6 +229658,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -229436,6 +230469,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -229893,6 +230933,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -230202,6 +231249,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -230656,6 +231710,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -230928,6 +231989,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -231354,6 +232422,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -231786,6 +232861,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -232177,6 +233259,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -232331,6 +233420,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -232491,6 +233587,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -232770,6 +233873,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -233286,6 +234396,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -233694,6 +234811,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -233956,6 +235080,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -234036,6 +235167,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -234226,6 +235364,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -234405,6 +235550,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -234485,6 +235637,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -234666,6 +235825,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -234966,6 +236132,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -235198,6 +236371,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -235400,6 +236580,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -235531,6 +236718,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -235680,6 +236874,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -235903,6 +237104,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -236132,6 +237340,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -236247,6 +237462,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -236434,6 +237656,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -236563,6 +237792,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -236668,6 +237904,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4060
@@ -236713,6 +237956,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -236832,6 +238082,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -236995,6 +238252,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4063
@@ -237089,6 +238353,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -237228,6 +238499,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4065
@@ -237308,6 +238586,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -237399,6 +238684,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4067
@@ -237451,6 +238743,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -237512,6 +238811,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4069
@@ -237564,6 +238870,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -237625,6 +238938,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4071
@@ -237670,6 +238990,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -237723,6 +239050,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4073
@@ -237768,6 +239102,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -237821,6 +239162,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -237878,6 +239226,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4076
@@ -237927,6 +239282,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4077
@@ -237972,6 +239334,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -238053,6 +239422,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -238134,6 +239510,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4080
@@ -238179,6 +239562,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -238232,6 +239622,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4082
@@ -238281,6 +239678,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 4083
@@ -238304,6 +239708,186 @@
   "latest_rank": 0,
   "weeks": [],
   "id": 4084
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Workshop Internal Audit ISO/IEC 42001:2023 (AI Management System)",
+  "category": "Data & AI",
+  "kw_utama": "ai governance framework",
+  "vol_utama": "210",
+  "kw_target": "training ai governance",
+  "vol_target": "90",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4085
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Awareness Training ISO/IEC 42001:2023 – AI Management System",
+  "category": "Data & AI",
+  "kw_utama": "ai risk management",
+  "vol_utama": "260",
+  "kw_target": "ai governance risk",
+  "vol_target": "110",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4086
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Governing Agentic AI",
+  "category": "Data & AI",
+  "kw_utama": "responsible ai",
+  "vol_utama": "480",
+  "kw_target": "responsible ai framework",
+  "vol_target": "170",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4087
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Tata Kelola AI Perbankan Indonesia (Panduan OJK)",
+  "category": "Data & AI",
+  "kw_utama": "ai in finance",
+  "vol_utama": "590",
+  "kw_target": "ai finance transformation",
+  "vol_target": "90",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4088
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "AI Policy for Public Sector & Government",
+  "category": "Data & AI",
+  "kw_utama": "ai in accounting",
+  "vol_utama": "720",
+  "kw_target": "ai for accounting",
+  "vol_target": "140",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4089
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Building an AI Governance Program for Organizations",
+  "category": "Data & AI",
+  "kw_utama": "ai fraud detection",
+  "vol_utama": "880",
+  "kw_target": "fraud detection ai",
+  "vol_target": "320",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4090
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Data Privacy & AI (UU PDP / GDPR Alignment)",
+  "category": "Cyber Security",
+  "kw_utama": "ai in recruitment",
+  "vol_utama": "880",
+  "kw_target": "ai talent acquisition",
+  "vol_target": "210",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4091
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Responsible AI & Ethics in Practice",
+  "category": "Data & AI",
+  "kw_utama": "ai performance management",
+  "vol_utama": "190",
+  "kw_target": "ai in performance management",
+  "vol_target": "140",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4092
+ },
+ {
+  "brand": "Biztech Academy",
+  "name": "Global AI Regulatory Landscape",
+  "category": "Data & AI",
+  "kw_utama": "ai in learning and development",
+  "vol_utama": "320",
+  "kw_target": "ai for l&d",
+  "vol_target": "160",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 4093
  },
  {
   "brand": "IT Proxsis GRC",
@@ -249283,7 +250867,7 @@
   "total_impr": 310,
   "total_clicks": 6,
   "ctr": 1.94,
-  "avg_rank": 11.4,
+  "avg_rank": 11.5,
   "latest_rank": 6.2,
   "weeks": [
    {
@@ -253752,6 +255336,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -254188,6 +255779,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -257692,6 +259290,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.7
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -261116,6 +262721,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -261918,6 +263530,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -262261,6 +263880,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -262572,6 +264198,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -262971,6 +264604,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -263131,6 +264771,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 56.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -263380,6 +265027,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -263496,6 +265150,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -263638,6 +265299,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -263776,6 +265444,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -263900,6 +265575,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 2.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -263963,6 +265645,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5033
@@ -264008,6 +265697,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -264061,6 +265757,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5035
@@ -264106,6 +265809,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -264173,6 +265883,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -264236,6 +265953,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5038
@@ -264281,6 +266005,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -264463,6 +266194,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -264740,6 +266478,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5041
@@ -264785,6 +266530,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -264838,6 +266590,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5043
@@ -264883,6 +266642,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -264936,6 +266702,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5045
@@ -264981,6 +266754,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265034,6 +266814,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5047
@@ -265079,6 +266866,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265132,6 +266926,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5049
@@ -265177,6 +266978,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265230,6 +267038,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5051
@@ -265275,6 +267090,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265328,6 +267150,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5053
@@ -265373,6 +267202,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265426,6 +267262,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5055
@@ -265471,6 +267314,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265524,6 +267374,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5057
@@ -265573,6 +267430,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5058
@@ -265618,6 +267482,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265686,6 +267557,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -265739,6 +267617,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265865,6 +267750,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -265998,6 +267890,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5063
@@ -266047,6 +267946,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 5064
@@ -266092,6 +267998,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -266155,6 +268068,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -266224,6 +268144,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -266396,6 +268323,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -267382,6 +269316,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -269129,6 +271070,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -270822,6 +272770,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -272349,6 +274304,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -273311,6 +275273,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 23.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -274183,6 +276152,13 @@
     "clicks": 4.0,
     "ctr": 6.56,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -275061,6 +277037,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 16.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -275861,6 +277844,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -276865,6 +278855,13 @@
     "clicks": 1.0,
     "ctr": 3.57,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -278426,6 +280423,13 @@
     "clicks": 1.0,
     "ctr": 2.7,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -279382,6 +281386,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -281010,6 +283021,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -281864,6 +283882,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -282652,6 +284677,13 @@
     "clicks": 1.0,
     "ctr": 3.33,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -283440,6 +285472,13 @@
     "clicks": 1.0,
     "ctr": 3.57,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -284269,6 +286308,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 14.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -285033,6 +287079,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 11.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -285911,6 +287964,13 @@
     "clicks": 2.0,
     "ctr": 4.88,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -286849,6 +288909,13 @@
     "clicks": 1.0,
     "ctr": 3.12,
     "rank": 14.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -288308,6 +290375,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -288945,6 +291019,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -289481,6 +291562,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 12.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -290191,6 +292279,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -290925,6 +293020,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -291611,6 +293713,13 @@
     "clicks": 1.0,
     "ctr": 4.76,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -292261,6 +294370,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 21.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -293103,6 +295219,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -294419,6 +296542,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 49.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -295086,6 +297216,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -295651,6 +297788,13 @@
     "clicks": 1.0,
     "ctr": 33.33,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -296175,6 +298319,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -296615,6 +298766,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 35.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -297187,6 +299345,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 17.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -297787,6 +299952,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -298293,6 +300465,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 15.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -298881,6 +301060,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 44.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -299254,6 +301440,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -299619,6 +301812,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -299925,6 +302125,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 30.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -300265,6 +302472,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -300662,6 +302876,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -301050,6 +303271,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -301263,6 +303491,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -301457,6 +303692,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -301802,6 +304044,13 @@
     "clicks": 1.0,
     "ctr": 100.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -302118,6 +304367,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -302350,6 +304606,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -302674,6 +304937,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -303029,6 +305299,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -303271,6 +305548,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -303450,6 +305734,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.7
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -303641,6 +305932,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -303850,6 +306148,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -304102,6 +306407,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -304312,6 +306624,13 @@
     "clicks": 1.0,
     "ctr": 100.0,
     "rank": 2.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -304471,6 +306790,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -304690,6 +307016,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -304930,6 +307263,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -305126,6 +307466,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -305291,6 +307638,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.7
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -305483,6 +307837,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -305648,6 +308009,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -305846,6 +308214,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -306090,6 +308465,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -306270,6 +308652,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -306382,6 +308771,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -306504,6 +308900,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -306651,6 +309054,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -306821,6 +309231,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -306966,6 +309383,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -307081,6 +309505,13 @@
     "clicks": 1.0,
     "ctr": 50.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -307230,6 +309661,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -307405,6 +309843,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -307623,6 +310068,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -307774,6 +310226,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -307905,6 +310364,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -308078,6 +310544,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.2
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -308239,6 +310712,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 14.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -308416,6 +310896,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -308557,6 +311044,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -308716,6 +311210,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -308864,6 +311365,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -308990,6 +311498,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309100,6 +311615,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309236,6 +311758,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309399,6 +311928,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309500,6 +312036,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309592,6 +312135,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -309704,6 +312254,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309799,6 +312356,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -309928,6 +312492,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -310049,6 +312620,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -310152,6 +312730,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -310237,6 +312822,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -310332,6 +312924,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -310432,6 +313031,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -310527,6 +313133,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -310613,6 +313226,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -310716,6 +313336,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -310836,6 +313463,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -310938,6 +313572,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311024,6 +313665,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -311120,6 +313768,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -311227,6 +313882,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311321,6 +313983,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311407,6 +314076,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -311507,6 +314183,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311624,6 +314307,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 89.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311799,6 +314489,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311902,6 +314599,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -311990,6 +314694,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -312063,6 +314774,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312150,6 +314868,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -312222,6 +314947,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312306,6 +315038,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312405,6 +315144,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -312482,6 +315228,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -312548,6 +315301,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312619,6 +315379,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312703,6 +315470,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312801,6 +315575,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -312881,6 +315662,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -312968,6 +315756,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -313045,6 +315840,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -313115,6 +315917,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -313172,6 +315981,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 6127
@@ -313217,6 +316033,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -313270,6 +316093,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 6129
@@ -313315,6 +316145,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -313368,6 +316205,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 6131
@@ -313413,6 +316257,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -313466,6 +316317,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.3
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 6133
@@ -313511,6 +316369,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -384697,6 +387562,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -387008,6 +389880,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.2
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -388722,7 +391601,7 @@
   "total_impr": 1245,
   "total_clicks": 22,
   "ctr": 1.77,
-  "avg_rank": 12.6,
+  "avg_rank": 12.7,
   "latest_rank": 115.0,
   "weeks": [
    {
@@ -390600,6 +393479,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -394417,6 +397303,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -398764,6 +401657,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -401499,6 +404399,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -404885,6 +407792,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -405391,6 +408305,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -407101,6 +410022,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -407527,6 +410455,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -408584,6 +411519,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -409491,6 +412433,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -409905,6 +412854,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -410421,6 +413377,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -410819,6 +413782,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -411257,6 +414227,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -412619,6 +415596,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -413436,6 +416420,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -413928,6 +416919,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 9.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -414332,6 +417330,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -414780,6 +417785,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -415200,6 +418212,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -415572,6 +418591,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -416214,6 +419240,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 26.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -416664,6 +419697,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 2.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -417168,6 +420208,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -417590,6 +420637,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -418675,6 +421729,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -419353,6 +422414,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -419727,6 +422795,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -420109,6 +423184,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -420543,6 +423625,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -421472,6 +424561,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -422283,6 +425379,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -422785,7 +425888,7 @@
   "total_impr": 31,
   "total_clicks": 1,
   "ctr": 3.23,
-  "avg_rank": 9.0,
+  "avg_rank": 9.1,
   "latest_rank": 4.0,
   "weeks": [
    {
@@ -423088,6 +426191,13 @@
     "clicks": 1,
     "ctr": 100.0,
     "rank": 4.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -423929,6 +427039,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -424778,6 +427895,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -426723,6 +429847,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -427091,6 +430222,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -427467,6 +430605,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -427839,6 +430984,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -428177,6 +431329,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -428547,6 +431706,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -428897,6 +432063,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -429303,6 +432476,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -429651,6 +432831,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -430019,6 +433206,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -430395,6 +433589,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -430745,6 +433946,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -431193,6 +434401,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -431613,6 +434828,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -431963,6 +435185,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -432323,6 +435552,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -432699,6 +435935,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -433029,6 +436272,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7129
@@ -433347,6 +436597,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -433677,6 +436934,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -434041,6 +437305,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7132
@@ -434359,6 +437630,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -434741,6 +438019,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -435083,6 +438368,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7135
@@ -435401,6 +438693,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -435727,6 +439026,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7137
@@ -436045,6 +439351,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -436379,6 +439692,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7139
@@ -436697,6 +440017,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -437045,6 +440372,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -437463,6 +440797,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7142
@@ -437781,6 +441122,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -438145,6 +441493,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7144
@@ -438467,6 +441822,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 7145
@@ -438714,6 +442076,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -439861,6 +443230,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -440950,6 +444326,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -442338,6 +445721,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -443779,6 +447169,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -445186,6 +448583,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -446455,6 +449859,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -447678,6 +451089,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -448090,6 +451508,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -449384,6 +452809,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -450674,6 +454106,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -451469,6 +454908,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -452889,6 +456335,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.5
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -453822,6 +457275,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -454994,6 +458454,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -456331,6 +459798,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -457613,6 +461087,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -458007,6 +461488,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -459430,6 +462918,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -460841,6 +464336,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -462232,6 +465734,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -463628,6 +467137,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -465403,6 +468919,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -465973,6 +469496,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -466122,6 +469652,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -467856,6 +471393,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -469195,6 +472739,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -470010,6 +473561,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -471400,6 +474958,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -472526,6 +476091,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -473125,6 +476697,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -475116,6 +478695,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -476515,6 +480101,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -477520,6 +481113,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 8075
@@ -477754,6 +481354,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -478963,6 +482570,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -480019,6 +483633,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -480670,6 +484291,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 8079
@@ -480719,6 +484347,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 8080
@@ -480764,6 +484399,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -480981,6 +484623,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -481759,6 +485408,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -482606,6 +486262,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -483525,6 +487188,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 8085
@@ -483710,6 +487380,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -484279,6 +487956,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -485384,6 +489068,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 8088
@@ -485625,6 +489316,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -486690,6 +490388,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -487131,6 +490836,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -488379,6 +492091,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -491520,6 +495239,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -492813,6 +496539,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -503476,6 +507209,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 45.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -512291,6 +516031,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -512958,6 +516705,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -517608,6 +521362,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 9025
@@ -517821,6 +521582,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -520001,6 +523769,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -520650,6 +524425,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 10.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -523311,6 +527093,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -524925,6 +528714,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -529424,6 +533220,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -547926,6 +551729,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -548559,6 +552369,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12001
@@ -548597,6 +552414,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -548643,6 +552467,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12003
@@ -548681,6 +552512,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -548727,6 +552565,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12005
@@ -548765,6 +552610,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -548811,6 +552663,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12007
@@ -548849,6 +552708,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -548895,6 +552761,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12009
@@ -548933,6 +552806,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -548979,6 +552859,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12011
@@ -549017,6 +552904,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -549063,6 +552957,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12013
@@ -549101,6 +553002,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -549147,6 +553055,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12015
@@ -549189,6 +553104,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12016
@@ -549227,6 +553149,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -549273,6 +553202,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 12018
@@ -549311,6 +553247,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -564431,6 +568374,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 24.1
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -574456,6 +578406,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -579783,6 +583740,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -585471,6 +589435,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -587444,6 +591415,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 50.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -608966,6 +612944,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.2
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -610404,6 +614389,13 @@
     "clicks": 1,
     "ctr": 14.29,
     "rank": 7.9
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -610654,6 +614646,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 4.8
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -610949,6 +614948,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.7
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -615309,6 +619315,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 3.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -635561,6 +639574,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 11018
@@ -644919,6 +648939,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 11025
@@ -646820,6 +650847,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -652303,6 +656337,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 11034
@@ -652348,6 +656389,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -690421,6 +694469,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -691014,6 +695069,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -692044,6 +696106,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -692745,6 +696814,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -695398,6 +699474,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 11073
@@ -695443,6 +699526,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -699635,6 +703725,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 0.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "daily": [
@@ -700570,6 +704667,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -709840,6 +713944,13 @@
     "clicks": 3.0,
     "ctr": 0.83,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15001
@@ -710162,6 +714273,13 @@
     "clicks": 5.0,
     "ctr": 2.75,
     "rank": 17.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15002
@@ -710484,6 +714602,13 @@
     "clicks": 3.0,
     "ctr": 12.5,
     "rank": 5.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15003
@@ -710806,6 +714931,13 @@
     "clicks": 2.0,
     "ctr": 3.85,
     "rank": 10.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15004
@@ -711128,6 +715260,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15005
@@ -711138,7 +715277,7 @@
   "category": "Tata Kelola, Risiko & ISO",
   "kw_utama": "pelatihan iso 37001",
   "vol_utama": "-",
-  "kw_target": "-",
+  "kw_target": "sistem manajemen anti penyuapan",
   "vol_target": "-",
   "kw_info": "-",
   "vol_info": "-",
@@ -711450,6 +715589,13 @@
     "clicks": 1.0,
     "ctr": 50.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15006
@@ -711772,6 +715918,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 8.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15007
@@ -712094,6 +716247,13 @@
     "clicks": 1.0,
     "ctr": 20.0,
     "rank": 22.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15008
@@ -712416,6 +716576,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 13.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15009
@@ -712738,6 +716905,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 36.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15010
@@ -713060,6 +717234,13 @@
     "clicks": 1.0,
     "ctr": 16.67,
     "rank": 26.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15011
@@ -713382,6 +717563,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 49.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15012
@@ -713704,6 +717892,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 97.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15013
@@ -714026,6 +718221,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 7.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15014
@@ -714036,7 +718238,7 @@
   "category": "TI & Cyber Security",
   "kw_utama": "it masterplan",
   "vol_utama": "-",
-  "kw_target": "-",
+  "kw_target": "it master plan",
   "vol_target": "-",
   "kw_info": "-",
   "vol_info": "-",
@@ -714344,6 +718546,13 @@
    },
    {
     "w": "2026W43",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W44",
     "impr": 0,
     "clicks": 0,
     "ctr": 0.0,
@@ -714670,6 +718879,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 22.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15016
@@ -714992,6 +719208,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 1.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15017
@@ -715314,6 +719537,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 28.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15018
@@ -715636,6 +719866,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15019
@@ -715958,6 +720195,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 20.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15020
@@ -716280,6 +720524,13 @@
     "clicks": 0,
     "ctr": 0.0,
     "rank": 22.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15021
@@ -716329,8 +720580,884 @@
     "clicks": 7.0,
     "ctr": 7.87,
     "rank": 6.0
+   },
+   {
+    "w": "2026W44",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
    }
   ],
   "id": 15022
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI Governance Framework for Organizations",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai governance framework",
+  "vol_utama": "-",
+  "kw_target": "pelatihan ai governance",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-governance-indonesia-iso-42001/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15023
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI Governance and Risk Management",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai risk management",
+  "vol_utama": "-",
+  "kw_target": "training ai governance",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-risk-management-indonesia-iso-42001/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15024
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Responsible AI Implementation for Corporations",
+  "category": "Pelatihan Umum",
+  "kw_utama": "responsible ai",
+  "vol_utama": "-",
+  "kw_target": "pelatihan responsible ai",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-responsible-ai-indonesia/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15025
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI for Finance Transformation",
+  "category": "Keuangan & Manajemen Aset",
+  "kw_utama": "ai for finance",
+  "vol_utama": "-",
+  "kw_target": "pelatihan ai untuk keuangan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-finance-transformation/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15026
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI for Accounting and Reporting Efficiency",
+  "category": "Keuangan & Manajemen Aset",
+  "kw_utama": "ai for accounting",
+  "vol_utama": "-",
+  "kw_target": "pelatihan ai untuk akuntansi",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-accounting-indonesia-psak-118/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15027
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI Enabled Fraud Detection and Prevention",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai fraud detection",
+  "vol_utama": "-",
+  "kw_target": "pelatihan deteksi fraud ai",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-fraud-detection-indonesia/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15028
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI in Recruitment and Talent Acquisition",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai in recruitment",
+  "vol_utama": "-",
+  "kw_target": "pelatihan ai rekrutmen",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-recruitment-indonesia-uu-pdp/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15029
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI for Performance Management Optimization",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai performance management",
+  "vol_utama": "-",
+  "kw_target": "pelatihan ai manajemen kinerja",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-performance-management-indonesia/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15030
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI for Learning and Development Innovation",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai for learning and development",
+  "vol_utama": "-",
+  "kw_target": "pelatihan ai learning development",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-learning-development-corporate-university/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15031
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI Enabled Workforce Analytics",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai workforce analytics",
+  "vol_utama": "-",
+  "kw_target": "training workforce analytics",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-ai-workforce-analytics-indonesia/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15032
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan PECB ISO 37001 Lead Auditor dan Sertifikasi Audit Anti-Penyuapan",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "iso 37001 lead auditor",
+  "vol_utama": "-",
+  "kw_target": "sertifikasi pecb iso 37001",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-iso-37001-lead-auditor-pecb-smap/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15033
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan ISO 27001 Lead Auditor: Sertifikasi PECB untuk Audit ISMS",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "iso 27001 lead auditor",
+  "vol_utama": "-",
+  "kw_target": "sertifikasi pecb iso 27001",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-iso-27001-lead-auditor-pecb-isms/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15034
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Training Certified PECB ISO/IEC 17025 Lead Assessor – Sistem Manajemen Laboratorium",
+  "category": "Tata Kelola, Risiko & ISO",
+  "kw_utama": "iso 17025 lead assessor",
+  "vol_utama": "-",
+  "kw_target": "sertifikasi pecb iso 17025",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-iso-17025-lead-assessor-pecb/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15035
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "HR Business Partner",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "hr business partner",
+  "vol_utama": "-",
+  "kw_target": "pelatihan hrbp",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-hr-business-partner/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15036
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Impactful Learning and Development Strategy",
+  "category": "Pelatihan Umum",
+  "kw_utama": "learning and development strategy",
+  "vol_utama": "-",
+  "kw_target": "pelatihan learning and development",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-learning-development-strategy-roi/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15037
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Strategic HR Management",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "strategic hr management",
+  "vol_utama": "-",
+  "kw_target": "pelatihan manajemen sdm strategis",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15038
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Effective Communication Skills",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "effective communication skills",
+  "vol_utama": "-",
+  "kw_target": "communication skills training",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-komunikasi-efektif-karyawan/",
+  "status": "Draft",
+  "total_impr": 92,
+  "total_clicks": 7,
+  "ctr": 7.61,
+  "avg_rank": 5.5,
+  "latest_rank": 6.0,
+  "weeks": [
+   {
+    "w": "2026W40",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W41",
+    "impr": 0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 0.0
+   },
+   {
+    "w": "2026W42",
+    "impr": 3.0,
+    "clicks": 0,
+    "ctr": 0.0,
+    "rank": 5.0
+   },
+   {
+    "w": "2026W43",
+    "impr": 89.0,
+    "clicks": 7.0,
+    "ctr": 7.87,
+    "rank": 6.0
+   }
+  ],
+  "id": 15039
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan Creative Problem Solving Bersertifikat Indonesia",
+  "category": "Pelatihan Umum",
+  "kw_utama": "pelatihan creative problem solving",
+  "vol_utama": "-",
+  "kw_target": "training creative problem solving",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-creative-problem-solving-bersertifikat-indonesia/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15040
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan Impactful Powerless Leadership & Collaborative Teamwork",
+  "category": "Pelatihan Umum",
+  "kw_utama": "pelatihan leadership",
+  "vol_utama": "-",
+  "kw_target": "collaborative leadership training",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-leadership-perusahaan-powerless-teamwork/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15041
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan Enterprise Selling & Consultative B2B Sales Training",
+  "category": "Pelatihan Umum",
+  "kw_utama": "consultative b2b sales training",
+  "vol_utama": "-",
+  "kw_target": "pelatihan enterprise selling",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-enterprise-selling-b2b-sales/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15042
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Pelatihan Design Thinking Perusahaan & Customer Experience Innovation",
+  "category": "Pelatihan Umum",
+  "kw_utama": "pelatihan design thinking",
+  "vol_utama": "-",
+  "kw_target": "design thinking training",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-design-thinking-perusahaan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15043
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Practical Workshop: Behavioral Event Interview (BEI) & Competency-Based Recruitment",
+  "category": "Pelatihan Umum",
+  "kw_utama": "behavioral event interview",
+  "vol_utama": "-",
+  "kw_target": "pelatihan interview berbasis kompetensi",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-behavioral-event-interview-bei/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15044
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Manajemen SDM / HR Generalist",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "hr generalist",
+  "vol_utama": "-",
+  "kw_target": "pelatihan manajemen sdm",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-training-sertifikasi-hr-generalist-jakarta/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15045
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Recruitment & Selection Berbasis Kompetensi",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "rekrutmen dan seleksi berbasis kompetensi",
+  "vol_utama": "-",
+  "kw_target": "pelatihan rekrutmen seleksi",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-recruitment-selection-berbasis-kompetensi/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15046
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "HR / People Analytics",
+  "category": "HR & Komunikasi Bisnis",
+  "kw_utama": "people analytics",
+  "vol_utama": "-",
+  "kw_target": "pelatihan hr analytics",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-hr-analytics-people-analytics/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15047
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Hubungan Industrial & Hukum Ketenagakerjaan",
+  "category": "Pelatihan Umum",
+  "kw_utama": "hukum ketenagakerjaan",
+  "vol_utama": "-",
+  "kw_target": "pelatihan hubungan industrial",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-hubungan-industrial-disiplin-kerja-sp/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15048
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Penyusunan KPI & Balanced Scorecard",
+  "category": "Pelatihan Umum",
+  "kw_utama": "penyusunan kpi",
+  "vol_utama": "-",
+  "kw_target": "pelatihan balanced scorecard",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-penyusunan-kpi-balanced-scorecard/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15049
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Payroll, PPh 21 & Coretax",
+  "category": "Pelatihan Umum",
+  "kw_utama": "pelatihan payroll",
+  "vol_utama": "-",
+  "kw_target": "pph 21 coretax",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-payroll-pph21-coretax-per-11-per-12/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15050
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Compensation & Benefit",
+  "category": "Pelatihan Umum",
+  "kw_utama": "compensation and benefit",
+  "vol_utama": "-",
+  "kw_target": "pelatihan kompensasi dan benefit",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/pelatihan-compensation-benefit/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15051
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Persiapan Sertifikasi HR BNSP",
+  "category": "Sertifikasi BNSP / Profesi",
+  "kw_utama": "persiapan sertifikasi hr bnsp",
+  "vol_utama": "-",
+  "kw_target": "pelatihan sertifikasi hr bnsp",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-persiapan-sertifikasi-hr-bnsp/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15052
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "TNA & Evaluasi Pelatihan",
+  "category": "Pelatihan Umum",
+  "kw_utama": "training need analysis",
+  "vol_utama": "-",
+  "kw_target": "evaluasi pelatihan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-need-analysis-evaluasi-pelatihan/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15053
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Talent Management & Career System",
+  "category": "Pelatihan Umum",
+  "kw_utama": "talent management",
+  "vol_utama": "-",
+  "kw_target": "training career system",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "https://academy.proxsisgroup.com/training-talent-management-career-path-jakarta/",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15054
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Training Data Visualization: Dashboard Excel & Power BI",
+  "category": "Pelatihan Umum",
+  "kw_utama": "training data visualization",
+  "vol_utama": "-",
+  "kw_target": "dashboard excel power bi",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "[link removed]",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15055
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Workshop Internal Audit ISO/IEC 42001:2023 (AI Management System)",
+  "category": "Tata Kelola, Risiko & ISO",
+  "kw_utama": "internal audit iso 42001",
+  "vol_utama": "-",
+  "kw_target": "training internal audit iso 42001 aimms",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15056
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Awareness Training ISO/IEC 42001:2023 – AI Management System",
+  "category": "Tata Kelola, Risiko & ISO",
+  "kw_utama": "training iso 42001",
+  "vol_utama": "-",
+  "kw_target": "awareness iso 42001 ai management system",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15057
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Governing Agentic AI",
+  "category": "Pelatihan Umum",
+  "kw_utama": "governing agentic ai",
+  "vol_utama": "-",
+  "kw_target": "tata kelola agentic ai",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15058
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Tata Kelola AI Perbankan Indonesia (Panduan OJK)",
+  "category": "Pelatihan Umum",
+  "kw_utama": "tata kelola ai perbankan",
+  "vol_utama": "-",
+  "kw_target": "panduan ojk ai perbankan",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15059
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "AI Policy for Public Sector & Government",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai policy public sector",
+  "vol_utama": "-",
+  "kw_target": "kebijakan ai sektor publik pemerintah",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15060
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Building an AI Governance Program for Organizations",
+  "category": "Pelatihan Umum",
+  "kw_utama": "ai governance program",
+  "vol_utama": "-",
+  "kw_target": "program tata kelola ai organisasi",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15061
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Data Privacy & AI (UU PDP / GDPR Alignment)",
+  "category": "Pelatihan Umum",
+  "kw_utama": "data privacy ai uu pdp",
+  "vol_utama": "-",
+  "kw_target": "privasi data dan ai gdpr",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15062
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Responsible AI & Ethics in Practice",
+  "category": "Pelatihan Umum",
+  "kw_utama": "responsible ai training",
+  "vol_utama": "-",
+  "kw_target": "etika ai dalam praktik",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15063
+ },
+ {
+  "brand": "Proxsis Academy",
+  "name": "Global AI Regulatory Landscape",
+  "category": "Pelatihan Umum",
+  "kw_utama": "global ai regulation training",
+  "vol_utama": "-",
+  "kw_target": "regulasi ai global eu ai act",
+  "vol_target": "-",
+  "kw_info": "-",
+  "vol_info": "-",
+  "url": "",
+  "status": "Draft",
+  "total_impr": 0,
+  "total_clicks": 0,
+  "ctr": 0.0,
+  "avg_rank": 0,
+  "latest_rank": 0,
+  "weeks": [],
+  "id": 15064
  }
 ]
