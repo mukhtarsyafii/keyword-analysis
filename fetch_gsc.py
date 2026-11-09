@@ -13,7 +13,7 @@ Usage:
 Writes data/gsc_raw.json (per page per week) and optionally merges into
 products.json so build_dashboard.py picks it up.
 """
-import argparse, json, os, re, sys, datetime, time, urllib.request, urllib.error, urllib.parse
+import argparse, gzip, json, os, re, sys, datetime, time, urllib.request, urllib.error, urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
@@ -186,12 +186,15 @@ def main():
         # client-side into day / week / month in the dashboard.
 
     os.makedirs(DATA, exist_ok=True)
-    with open(os.path.join(DATA, "gsc_raw.json"), "w") as f:
-        json.dump(out, f, indent=1, ensure_ascii=False)
-    print(f"wrote data/gsc_raw.json ({len(out)} pages)")
-    with open(os.path.join(DATA, "gsc_daily.json"), "w") as f:
-        json.dump(per_day, f, indent=1, ensure_ascii=False)
-    print(f"wrote data/gsc_daily.json ({len(per_day)} pages, daily rows)")
+    # gzip: file ini hanya ditulis, tidak pernah dibaca runtime; 186M -> ~16M
+    for name, payload in (("gsc_raw.json", out), ("gsc_daily.json", per_day)):
+        path = os.path.join(DATA, name + ".gz")
+        with gzip.open(path, "wt", encoding="utf-8") as f:
+            json.dump(payload, f, indent=1, ensure_ascii=False)
+        plain = os.path.join(DATA, name)
+        if os.path.exists(plain):
+            os.remove(plain)
+        print(f"wrote data/{name}.gz ({os.path.getsize(path) / 2**20:.0f} MB)")
 
     if args.merge:
         ppath = os.path.join(DATA, "products.json")

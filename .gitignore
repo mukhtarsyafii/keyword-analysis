@@ -3,6 +3,8 @@ __pycache__/
 .DS_Store
 data/wp_config.json
 data/gsc_raw.json
+data/gsc_raw.json.gz
 data/vendor-tailwind.js
 data/gsc_daily.json
+data/gsc_daily.json.gz
 kwvol*.log
