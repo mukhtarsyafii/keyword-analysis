@@ -1,7 +1,7 @@
 {
  "1": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Posisi terkini #14 (rata-rata periode #12) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Apa itu fraud management\" ke halaman transaksional ini."
@@ -29,15 +29,12 @@
  },
  "2": {
   "masalah": [
-   "Posisi terkini #12 (rata-rata periode #11) — masih di halaman 2+ Google.",
    "Tidak ada masalah kritis — halaman ini top performer."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Panduan implementasi AI governance\" ke halaman transaksional ini.",
    "Pertahankan: perbarui jadwal kelas, tambah testimoni alumni korporat, dan pastikan CTA WhatsApp/form berfungsi."
   ],
   "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait.",
    "Jadikan halaman ini contoh template untuk 177 halaman draft."
   ],
   "perbaikan": {
@@ -110,7 +107,7 @@
   },
   "prioritas": 1
  },
- "24": {
+ "39": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -120,7 +117,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
+   "meta_description": "Pelatihan teknik interogasi fraud perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk t",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi corporate dan Mengapa Penting bagi Perusahaan",
@@ -164,7 +161,7 @@
  },
  "7": {
   "masalah": [
-   "Impresi tinggi (2,992) tetapi CTR hanya 0.84% — 2,967 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (2,853) tetapi CTR hanya 0.84% — 2,829 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -193,12 +190,14 @@
  },
  "8": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"Langkah-langkah risk based audit\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Risk Based Audit 2026 - GRC Indonesia",
    "meta_description": "Pelatihan Risk Based Audit: susun program audit berbasis hasil penilaian risiko sesuai praktik IPPF. Instruktur berpengalaman, metode online dan offline.",
@@ -215,18 +214,16 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "9": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Framework GRC (Governance Risk Compliance)\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Integrasi ES-GRC Bersertifikat - GRC Indonesia",
    "meta_description": "Training enterprise security GRC terintegrasi di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house:",
@@ -243,7 +240,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "10": {
   "masalah": [
@@ -276,9 +273,9 @@
   },
   "prioritas": 1
  },
- "20": {
+ "11": {
   "masalah": [
-   "Impresi tinggi (6,020) tetapi CTR hanya 0.45% — 5,993 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,125) tetapi CTR hanya 0.44% — 6,098 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -289,7 +286,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house seka",
+   "meta_description": "Training compliance management system ISO 37301 di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untu",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Pelatihan ISO 37301 adalah program pelatihan Standar ISO & Kepatuhan dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Pelatihan ISO 37301?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Pelatihan ISO 37301 bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Pelatihan ISO 37301 dan Mengapa Penting bagi Perusahaan",
@@ -363,7 +360,7 @@
  },
  "14": {
   "masalah": [
-   "Impresi tinggi (1,881) tetapi CTR hanya 0.85% — 1,865 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,904) tetapi CTR hanya 0.89% — 1,887 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -392,7 +389,7 @@
  },
  "15": {
   "masalah": [
-   "Posisi terkini #20 (rata-rata periode #33) — masih di halaman 2+ Google."
+   "Posisi terkini #11 (rata-rata periode #32) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"Tugas compliance officer di perusahaan\" ke halaman transaksional ini."
@@ -449,7 +446,7 @@
  },
  "17": {
   "masalah": [
-   "Impresi tinggi (3,674) tetapi CTR hanya 1.77% — 3,609 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,771) tetapi CTR hanya 1.8% — 3,703 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -478,7 +475,7 @@
  },
  "18": {
   "masalah": [
-   "Impresi tinggi (4,380) tetapi CTR hanya 0.59% — 4,354 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,447) tetapi CTR hanya 0.61% — 4,420 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -507,7 +504,7 @@
  },
  "19": {
   "masalah": [
-   "Impresi tinggi (4,533) tetapi CTR hanya 0.68% — 4,502 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (4,608) tetapi CTR hanya 0.67% — 4,577 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -534,9 +531,9 @@
   },
   "prioritas": 5
  },
- "11": {
+ "20": {
   "masalah": [
-   "Impresi tinggi (6,020) tetapi CTR hanya 0.45% — 5,993 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,125) tetapi CTR hanya 0.44% — 6,098 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -547,7 +544,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Compliance Management System Based on ISO 37301:2021 - GRC Indonesia",
-   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "Pelatihan kepatuhan hukum perusahaan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training sistem manajemen kepatuhan adalah program pelatihan AI & Data Governance dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training sistem manajemen kepatuhan?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training sistem manajemen kepatuhan bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training sistem manajemen kepatuhan dan Mengapa Penting bagi Perusahaan",
@@ -641,7 +638,7 @@
   },
   "prioritas": 5
  },
- "39": {
+ "24": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -651,7 +648,7 @@
   "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Training Teknik Investigasi dan Interogasi untuk Corporate - GRC Indonesia",
-   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat unt",
+   "meta_description": "Pelatihan teknik interogasi untuk internal audit di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sek",
    "faq_schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apa itu Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Training investigasi fraud corporate adalah program pelatihan Audit, Fraud & Forensik dari GRC Indonesia yang membahas praktik dan penerapan di perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Siapa yang perlu mengikuti Training investigasi fraud corporate?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Manajer risiko, auditor internal, compliance officer, dan tim tata kelola yang bertanggung jawab atas kepatuhan organisasi.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Apakah Training investigasi fraud corporate bersertifikat?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Ya. Program tersedia dalam skema bersertifikat BNSP maupun in-house training sesuai kebutuhan perusahaan.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Bagaimana cara mendaftar?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Hubungi tim GRC Indonesia melalui formulir di halaman ini atau WhatsApp untuk jadwal kelas terdekat dan penawaran in-house.\"\n      }\n    }\n  ]\n}",
    "h2_outline": [
     "Apa Itu Training investigasi fraud corporate dan Mengapa Penting bagi Perusahaan",
@@ -669,14 +666,12 @@
  },
  "25": {
   "masalah": [
-   "Posisi terkini #16 (rata-rata periode #7) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"Apa itu ISO 31022?\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Managing Legal Risk Based On ISO 31022 - GRC Indonesia",
    "meta_description": "Manajemen Risiko Hukum di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -693,7 +688,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "26": {
   "masalah": [
@@ -879,12 +874,15 @@
  },
  "33": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (829) tetapi CTR hanya 0.36% — 826 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Risk Control Self Assessment 2026 - GRC Indonesia",
    "meta_description": "pelatihan RCSA Jakarta di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -901,16 +899,19 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "34": {
   "masalah": [
+   "Posisi terkini #12 (rata-rata periode #7) — masih di halaman 2+ Google.",
    "Tidak ada masalah kritis — halaman ini top performer."
   ],
   "solusi": [
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini.",
    "Pertahankan: perbarui jadwal kelas, tambah testimoni alumni korporat, dan pastikan CTA WhatsApp/form berfungsi."
   ],
   "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait.",
    "Jadikan halaman ini contoh template untuk 177 halaman draft."
   ],
   "perbaikan": {
@@ -933,14 +934,12 @@
  },
  "35": {
   "masalah": [
-   "Posisi terkini #19 (rata-rata periode #16) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "pelatihan Manajemen Risiko Berbasis Data - GRC Indonesia",
    "meta_description": "manajemen risiko berbasis data di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -957,14 +956,14 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "36": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Peringkat #3 (halaman 1 teratas) tetapi CTR 1.57% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -983,16 +982,18 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "37": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #13 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"contoh manajemen risiko proyek konstruksi\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan Risiko Proyek Konstruksi 2026 - GRC Indonesia",
    "meta_description": "training project risk management indonesia di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hu",
@@ -1009,11 +1010,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "38": {
   "masalah": [
-   "Impresi tinggi (6,749) tetapi CTR hanya 0.86% — 6,691 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (7,141) tetapi CTR hanya 0.91% — 7,076 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -1040,7 +1041,7 @@
   },
   "prioritas": 5
  },
- "40": {
+ "43": {
   "masalah": [
    "Posisi terkini #24 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
@@ -1052,7 +1053,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
+   "meta_description": "pelatihan dewan komisaris dan direksi bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan boardrooms governance bumn dan Mengapa Penting bagi Perusahaan",
@@ -1068,7 +1069,7 @@
   },
   "prioritas": 3
  },
- "43": {
+ "40": {
   "masalah": [
    "Posisi terkini #24 (rata-rata periode #16) — masih di halaman 2+ Google."
   ],
@@ -1080,7 +1081,7 @@
   ],
   "perbaikan": {
    "meta_title": "Pelatihan Boardrooms Governance BUMN | Future-Ready Leadership GRC - GRC Indonesia",
-   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
+   "meta_description": "pelatihan boardrooms governance bumn di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
    "faq_schema": "",
    "h2_outline": [
     "Apa Itu pelatihan direksi dan komisaris dan Mengapa Penting bagi Perusahaan",
@@ -1148,7 +1149,7 @@
   },
   "prioritas": 1
  },
- "44": {
+ "56": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1174,7 +1175,7 @@
   },
   "prioritas": 1
  },
- "56": {
+ "44": {
   "masalah": [
    "Belum ada anomali signifikan pada data periode ini."
   ],
@@ -1228,14 +1229,12 @@
  },
  "46": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #6) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"sumber risiko hukum dalam organisasi\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan dan Sertifikasi Managing Legal Risk (ISO 31022) Legal & Compliance Officer - GRC Indonesia",
    "meta_description": "sertifikasi legal risk management di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -1252,7 +1251,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "47": {
   "masalah": [
@@ -1282,14 +1281,12 @@
  },
  "48": {
   "masalah": [
-   "Posisi terkini #15 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Masterclass Direksi & Eksekutif: Pelatihan Pengambilan Keputusan Direksi dan Debiasing Risiko Strategis - GRC Indonesia",
    "meta_description": "masterclass direksi & eksekutif: pelatihan pengambilan keputusan direksi dan debiasing risiko strategis di GRC Indonesia. Bersertifikat, trainer praktisi, ",
@@ -1306,12 +1303,12 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "49": {
   "masalah": [
-   "Impresi tinggi (6,949) tetapi CTR hanya 0.81% — 6,893 tayangan tidak menghasilkan klik.",
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.81% — posisi bagus terbuang karena snippet lemah."
+   "Impresi tinggi (6,776) tetapi CTR hanya 0.74% — 6,726 tayangan tidak menghasilkan klik.",
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.74% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -1341,12 +1338,18 @@
  },
  "50": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Impresi tinggi (844) tetapi CTR hanya 1.07% — 835 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #12 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
+   "Perkuat internal linking dari artikel informasional \"8 jenis risiko perbankan\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "FAQ Schema sudah terpasang — jangan dipasang ulang; perbarui isi jawabannya agar sesuai jadwal terbaru.",
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Program Persiapan Sertifikasi Manajemen Risiko Perbankan (BSMR & LSPP) - GRC Indonesia",
    "meta_description": "pelatihan sertifikasi manajemen risiko perbankan di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di ",
@@ -1363,7 +1366,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "51": {
   "masalah": [
@@ -1393,14 +1396,12 @@
  },
  "52": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #9) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"apa itu iso 31010 risk assessment techniques\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Asesmen Risiko ISO 31010 dan Business Impact Analysis (BIA) - GRC Indonesia",
    "meta_description": "training risk assessment iso 31010 indonesia di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekaran",
@@ -1417,7 +1418,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "53": {
   "masalah": [
@@ -1447,14 +1448,12 @@
  },
  "54": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #8) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"template maturity assessment tool manajemen risiko\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Risk Management Maturity Assessment for BUMN dan Non-BUMN - GRC Indonesia",
    "meta_description": "pelatihan risk management maturity assessment di GRC Indonesia. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di hal",
@@ -1471,7 +1470,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "55": {
   "masalah": [
@@ -1585,7 +1584,7 @@
  },
  "1001": {
   "masalah": [
-   "Impresi tinggi (968) tetapi CTR hanya 1.45% — 954 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,006) tetapi CTR hanya 1.49% — 991 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -1614,10 +1613,10 @@
  },
  "1002": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Lanjutkan pemantauan mingguan."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -1636,11 +1635,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "1003": {
   "masalah": [
-   "Impresi tinggi (6,660) tetapi CTR hanya 0.39% — 6,634 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (6,727) tetapi CTR hanya 0.39% — 6,701 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -1669,7 +1668,7 @@
  },
  "1004": {
   "masalah": [
-   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.12% — posisi bagus terbuang karena snippet lemah."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 2.16% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
    "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
@@ -1751,8 +1750,8 @@
  },
  "1007": {
   "masalah": [
-   "Impresi tinggi (854) tetapi CTR hanya 0.59% — 849 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #26 (rata-rata periode #33) — masih di halaman 2+ Google."
+   "Impresi tinggi (881) tetapi CTR hanya 0.57% — 876 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #19 (rata-rata periode #33) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -1861,7 +1860,7 @@
  },
  "1011": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #14) — masih di halaman 2+ Google."
+   "Posisi terkini #18 (rata-rata periode #14) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -1915,14 +1914,12 @@
  },
  "1013": {
   "masalah": [
-   "Posisi terkini #56 (rata-rata periode #21) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Warehouse Management 2026 - IPQI",
    "meta_description": "warehouse management di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -1939,11 +1936,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1014": {
   "masalah": [
-   "Impresi tinggi (828) tetapi CTR hanya 1.57% — 815 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (802) tetapi CTR hanya 1.62% — 789 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -2000,8 +1997,8 @@
  },
  "1016": {
   "masalah": [
-   "Impresi tinggi (1,982) tetapi CTR hanya 1.36% — 1,955 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #28 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,997) tetapi CTR hanya 1.35% — 1,970 tayangan tidak menghasilkan klik.",
+   "Posisi terkini #42 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
@@ -2032,7 +2029,7 @@
  },
  "1017": {
   "masalah": [
-   "Posisi terkini #16 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Posisi terkini #18 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -2060,10 +2057,10 @@
  },
  "1018": {
   "masalah": [
-   "Peringkat #2 (halaman 1 teratas) tetapi CTR 1.18% — posisi bagus terbuang karena snippet lemah."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
+   "Lanjutkan pemantauan mingguan."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -2082,7 +2079,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 5
+  "prioritas": 1
  },
  "1019": {
   "masalah": [
@@ -2112,7 +2109,7 @@
  },
  "1020": {
   "masalah": [
-   "Posisi terkini #32 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #42 (rata-rata periode #22) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -2140,7 +2137,7 @@
  },
  "1021": {
   "masalah": [
-   "Posisi terkini #26 (rata-rata periode #32) — masih di halaman 2+ Google."
+   "Posisi terkini #45 (rata-rata periode #32) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -2168,14 +2165,12 @@
  },
  "1022": {
   "masalah": [
-   "Posisi terkini #23 (rata-rata periode #12) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Awareness Quality Management - IPQI",
    "meta_description": "quality awareness adalah di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -2192,18 +2187,16 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1023": {
   "masalah": [
-   "Posisi terkini #36 (rata-rata periode #25) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Business Process Management 2026 - IPQI",
    "meta_description": "arti improvement adalah di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -2220,7 +2213,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1024": {
   "masalah": [
@@ -2336,14 +2329,12 @@
  },
  "1028": {
   "masalah": [
-   "Posisi terkini #22 (rata-rata periode #8) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Root Cause Analysis Technique - IPQI",
    "meta_description": "indonesia quality institution di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Konsultasi kebutuhan in-house sekarang.",
@@ -2360,18 +2351,16 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1029": {
   "masalah": [
-   "Posisi terkini #32 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Training Green Belt Six Sigma 2026 - IPQI",
    "meta_description": "dmaic green belt di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -2388,7 +2377,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1030": {
   "masalah": [
@@ -2496,17 +2485,14 @@
  },
  "1034": {
   "masalah": [
-   "Impresi tinggi (1,128) tetapi CTR hanya 0.35% — 1,124 tayangan tidak menghasilkan klik.",
-   "Posisi terkini #14 (rata-rata periode #10) — masih di halaman 2+ Google."
+   "Impresi tinggi (1,103) tetapi CTR hanya 0.36% — 1,099 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
-   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA.",
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
   ],
   "rekomendasi": [
    "Pasang FAQ Schema agar muncul rich result dan memakan lebih banyak ruang SERP.",
-   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B.",
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+   "Cantumkan jadwal kelas terdekat di meta description — pemicu klik terkuat untuk pelatihan B2B."
   ],
   "perbaikan": {
    "meta_title": "Training Advanced Product Quality Planning (APQP) - IPQI",
@@ -2528,7 +2514,7 @@
  },
  "1035": {
   "masalah": [
-   "Posisi terkini #10 (rata-rata periode #8) — masih di halaman 2+ Google."
+   "Posisi terkini #12 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"prinsip audit internal berdasarkan iso 19011 2018\" ke halaman transaksional ini."
@@ -2712,7 +2698,7 @@
  },
  "1042": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #11) — masih di halaman 2+ Google."
+   "Posisi terkini #38 (rata-rata periode #15) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"cara menghitung safety stock dan reorder point excel\" ke halaman transaksional ini."
@@ -2792,12 +2778,14 @@
  },
  "1045": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #11 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"tugas dan peran fasilitator qcc\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Pelatihan QCC Facilitator: Gugus Kendali Mutu dan 7 QC Tools - IPQI",
    "meta_description": "training gugus kendali mutu indonesia di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami",
@@ -2814,7 +2802,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "1046": {
   "masalah": [
@@ -2844,14 +2832,12 @@
  },
  "1047": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #8) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"cara audit internal laboratorium iso 17025\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Pelatihan Internal Auditor ISO/IEC 17025:2017 - IPQI",
    "meta_description": "training auditor laboratorium iso 17025 di IPQI. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -2868,7 +2854,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "1048": {
   "masalah": [
@@ -2926,12 +2912,14 @@
  },
  "2002": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #12 (rata-rata periode #37) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Training Effective Budgeting and Cost Control - FS Institute",
    "meta_description": "kick off budget adalah di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -2948,11 +2936,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "2003": {
   "masalah": [
-   "Posisi terkini #28 (rata-rata periode #8) — masih di halaman 2+ Google."
+   "Posisi terkini #14 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3006,10 +2994,10 @@
  },
  "2005": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -3028,11 +3016,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "2006": {
   "masalah": [
-   "Posisi terkini #42 (rata-rata periode #34) — masih di halaman 2+ Google."
+   "Posisi terkini #44 (rata-rata periode #34) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3060,12 +3048,14 @@
  },
  "2007": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #19 (rata-rata periode #20) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi CASHFLOW MANAGEMENT TRAINING 2026 - FS Institute",
    "meta_description": "cashflow management di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -3082,11 +3072,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "2008": {
   "masalah": [
-   "Posisi terkini #32 (rata-rata periode #24) — masih di halaman 2+ Google."
+   "Posisi terkini #14 (rata-rata periode #24) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3220,7 +3210,7 @@
  },
  "2013": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Posisi terkini #41 (rata-rata periode #23) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3328,7 +3318,7 @@
  },
  "2017": {
   "masalah": [
-   "Posisi terkini #26 (rata-rata periode #28) — masih di halaman 2+ Google."
+   "Posisi terkini #19 (rata-rata periode #27) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3356,7 +3346,7 @@
  },
  "2018": {
   "masalah": [
-   "Posisi terkini #23 (rata-rata periode #39) — masih di halaman 2+ Google."
+   "Posisi terkini #49 (rata-rata periode #40) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3462,7 +3452,7 @@
  },
  "2022": {
   "masalah": [
-   "Posisi terkini #31 (rata-rata periode #23) — masih di halaman 2+ Google."
+   "Posisi terkini #22 (rata-rata periode #23) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3596,14 +3586,12 @@
  },
  "2027": {
   "masalah": [
-   "Posisi terkini #25 (rata-rata periode #22) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Accounting for Non Accountants - FS Institute",
    "meta_description": "accounting for non accountants di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -3620,11 +3608,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "2028": {
   "masalah": [
-   "Posisi terkini #38 (rata-rata periode #50) — masih di halaman 2+ Google."
+   "Posisi terkini #82 (rata-rata periode #52) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -3758,14 +3746,12 @@
  },
  "2033": {
   "masalah": [
-   "Posisi terkini #11 (rata-rata periode #16) — masih di halaman 2+ Google."
+   "Belum ada anomali signifikan pada data periode ini."
   ],
   "solusi": [
-   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
+   "Lanjutkan pemantauan mingguan."
   ],
-  "rekomendasi": [
-   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
-  ],
+  "rekomendasi": [],
   "perbaikan": {
    "meta_title": "Sertifikasi Basic Audit Finance 2026 - FS Institute",
    "meta_description": "dasar audit keuangan di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Jadwal kelas dan penawaran in-house: hubungi tim kami.",
@@ -3782,7 +3768,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 3
+  "prioritas": 1
  },
  "2034": {
   "masalah": [
@@ -3840,7 +3826,7 @@
  },
  "2036": {
   "masalah": [
-   "Posisi terkini #28 (rata-rata periode #30) — masih di halaman 2+ Google."
+   "Posisi terkini #21 (rata-rata periode #30) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4000,10 +3986,10 @@
  },
  "2042": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Peringkat #1 (halaman 1 teratas) tetapi CTR 0.0% — posisi bagus terbuang karena snippet lemah."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Optimasi snippet saja sudah cukup; tidak perlu backlink baru."
   ],
   "rekomendasi": [],
   "perbaikan": {
@@ -4022,7 +4008,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 5
  },
  "2043": {
   "masalah": [
@@ -4078,7 +4064,7 @@
  },
  "2045": {
   "masalah": [
-   "Posisi terkini #17 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Posisi terkini #25 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4214,12 +4200,14 @@
  },
  "2050": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #26 (rata-rata periode #11) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi Strategic Planning & Execution - FS Institute",
    "meta_description": "penyusunan dan eksekusi strategi di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -4236,11 +4224,11 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "2051": {
   "masalah": [
-   "Impresi tinggi (1,210) tetapi CTR hanya 0.83% — 1,200 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (1,228) tetapi CTR hanya 0.81% — 1,218 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -4321,12 +4309,14 @@
  },
  "2054": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #10 (rata-rata periode #10) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi PSAK 2 2026 - FS Institute",
    "meta_description": "psak 2 arus kas di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Daftar via WhatsApp atau form di halaman ini.",
@@ -4343,16 +4333,18 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "2055": {
   "masalah": [
-   "Belum ada anomali signifikan pada data periode ini."
+   "Posisi terkini #10 (rata-rata periode #8) — masih di halaman 2+ Google."
   ],
   "solusi": [
-   "Lanjutkan pemantauan mingguan."
+   "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
   ],
-  "rekomendasi": [],
+  "rekomendasi": [
+   "Tambahkan 1 artikel pendukung per bulan yang menargetkan keyword informasional terkait."
+  ],
   "perbaikan": {
    "meta_title": "Sertifikasi PSAK 57 2026 - FS Institute",
    "meta_description": "kewajiban kontinjensi psak 57 di FS Institute. Bersertifikat, trainer praktisi, jadwal 2026 tersedia. Minta penawaran jadwal privat untuk tim Anda.",
@@ -4369,7 +4361,7 @@
     "Daftar dan Konsultasi In-House Training"
    ]
   },
-  "prioritas": 1
+  "prioritas": 3
  },
  "2056": {
   "masalah": [
@@ -4505,7 +4497,7 @@
  },
  "2061": {
   "masalah": [
-   "Posisi terkini #13 (rata-rata periode #19) — masih di halaman 2+ Google."
+   "Posisi terkini #10 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
@@ -4533,7 +4525,7 @@
  },
  "2062": {
   "masalah": [
-   "Impresi tinggi (3,448) tetapi CTR hanya 0.87% — 3,418 tayangan tidak menghasilkan klik."
+   "Impresi tinggi (3,454) tetapi CTR hanya 0.87% — 3,424 tayangan tidak menghasilkan klik."
   ],
   "solusi": [
    "Perbaiki Meta Title & Meta Description: pertahankan penanda sertifikasi dan nomor standar yang sudah ada di judul live, tambahkan yang belum, akhiri dengan CTA."
@@ -4562,7 +4554,7 @@
  },
  "2063": {
   "masalah": [
-   "Impresi tinggi (1,093) tetapi CTR hanya 1.28% — 1,079 tayangan tidak menghasilkan klik.",
+   "Impresi tinggi (1,111) tetapi CTR hanya 1.35% — 1,096 tayangan tidak menghasilkan klik.",
    "Posisi terkini #13 (rata-rata periode #11) — masih di halaman 2+ Google."
   ],
   "solusi": [
@@ -4620,7 +4612,7 @@
  },
  "2065": {
   "masalah": [
-   "Posisi terkini #21 (rata-rata periode #18) — masih di halaman 2+ Google."
+   "Posisi terkini #48 (rata-rata periode #19) — masih di halaman 2+ Google."
   ],
   "solusi": [
    "Perkuat internal linking dari artikel informasional \"-\" ke halaman transaksional ini."
