@@ -99,9 +99,18 @@ def main():
     ap.add_argument("--start", help="YYYY-MM-DD (overrides --weeks)")
     ap.add_argument("--end", help="YYYY-MM-DD (default: today)")
     ap.add_argument("--merge", action="store_true")
+    ap.add_argument("--merge-only", action="store_true",
+                    help="merge existing data/gsc_raw.json.gz into products.json without re-fetching")
     args = ap.parse_args()
 
     token = access_token()
+    if args.merge_only:
+        with gzip.open(os.path.join(DATA, "gsc_raw.json.gz"), "rt", encoding="utf-8") as f:
+            out = json.load(f)
+        with gzip.open(os.path.join(DATA, "gsc_daily.json.gz"), "rt", encoding="utf-8") as f:
+            per_day = json.load(f)
+        merge_products(out, per_day)
+        return
 
     if args.check:
         sites = api("webmasters/v3/sites", token)
@@ -197,6 +206,11 @@ def main():
         print(f"wrote data/{name}.gz ({os.path.getsize(path) / 2**20:.0f} MB)")
 
     if args.merge:
+        merge_products(out, per_day)
+
+
+def merge_products(out, per_day):
+    if True:
         ppath = os.path.join(DATA, "products.json")
         products = json.load(open(ppath))
         # A URL can be shared by several catalog rows (draft vs live duplicates).
